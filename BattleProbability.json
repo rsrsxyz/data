@@ -1,0 +1,70 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -8455172975367713436
+    },
+    "m_Name": "BattleProbability",
+    "objectArray": [
+        {
+            "id": 1,
+            "rush_invocation": 0.10000000149011612
+        },
+        {
+            "id": 3,
+            "rush_invocation": 0.0
+        },
+        {
+            "id": 4,
+            "rush_invocation": 0.10000000149011612
+        },
+        {
+            "id": 5,
+            "rush_invocation": 100.0
+        },
+        {
+            "id": 6,
+            "rush_invocation": 100.0
+        },
+        {
+            "id": 7,
+            "rush_invocation": 100.0
+        },
+        {
+            "id": 8,
+            "rush_invocation": 100.0
+        },
+        {
+            "id": 9,
+            "rush_invocation": 0.10000000149011612
+        },
+        {
+            "id": 10,
+            "rush_invocation": 100.0
+        },
+        {
+            "id": 11,
+            "rush_invocation": 100.0
+        },
+        {
+            "id": 12,
+            "rush_invocation": 100.0
+        },
+        {
+            "id": 13,
+            "rush_invocation": 0.10000000149011612
+        },
+        {
+            "id": 14,
+            "rush_invocation": 0.0
+        },
+        {
+            "id": 15,
+            "rush_invocation": 100.0
+        }
+    ]
+}

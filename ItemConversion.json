@@ -1,0 +1,164 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1348440802426079735
+    },
+    "m_Name": "ItemConversion",
+    "objectArray": [
+        {
+            "id": 1,
+            "original_item_type": 5,
+            "original_item_id": 606001,
+            "original_item_quantity": 1,
+            "convert_item_type": 5,
+            "convert_item_id": 690024,
+            "convert_item_quantity": 1,
+            "start_at": 1696467600
+        },
+        {
+            "id": 2,
+            "original_item_type": 5,
+            "original_item_id": 616001,
+            "original_item_quantity": 1,
+            "convert_item_type": 5,
+            "convert_item_id": 690024,
+            "convert_item_quantity": 1,
+            "start_at": 1696467600
+        },
+        {
+            "id": 3,
+            "original_item_type": 5,
+            "original_item_id": 626001,
+            "original_item_quantity": 1,
+            "convert_item_type": 5,
+            "convert_item_id": 690024,
+            "convert_item_quantity": 1,
+            "start_at": 1696467600
+        },
+        {
+            "id": 4,
+            "original_item_type": 5,
+            "original_item_id": 636001,
+            "original_item_quantity": 1,
+            "convert_item_type": 5,
+            "convert_item_id": 690024,
+            "convert_item_quantity": 1,
+            "start_at": 1696467600
+        },
+        {
+            "id": 5,
+            "original_item_type": 7,
+            "original_item_id": 1100447,
+            "original_item_quantity": 280,
+            "convert_item_type": 5,
+            "convert_item_id": 690024,
+            "convert_item_quantity": 30,
+            "start_at": 1696467600
+        },
+        {
+            "id": 7,
+            "original_item_type": 20,
+            "original_item_id": 880001,
+            "original_item_quantity": 1,
+            "convert_item_type": 20,
+            "convert_item_id": 880009,
+            "convert_item_quantity": 1,
+            "start_at": 1693530000
+        },
+        {
+            "id": 8,
+            "original_item_type": 20,
+            "original_item_id": 880002,
+            "original_item_quantity": 1,
+            "convert_item_type": 20,
+            "convert_item_id": 880009,
+            "convert_item_quantity": 1,
+            "start_at": 1693530000
+        },
+        {
+            "id": 9,
+            "original_item_type": 20,
+            "original_item_id": 880003,
+            "original_item_quantity": 1,
+            "convert_item_type": 20,
+            "convert_item_id": 880009,
+            "convert_item_quantity": 1,
+            "start_at": 1693530000
+        },
+        {
+            "id": 10,
+            "original_item_type": 20,
+            "original_item_id": 880004,
+            "original_item_quantity": 1,
+            "convert_item_type": 20,
+            "convert_item_id": 880009,
+            "convert_item_quantity": 1,
+            "start_at": 1693530000
+        },
+        {
+            "id": 11,
+            "original_item_type": 20,
+            "original_item_id": 880005,
+            "original_item_quantity": 1,
+            "convert_item_type": 20,
+            "convert_item_id": 880009,
+            "convert_item_quantity": 1,
+            "start_at": 1693530000
+        },
+        {
+            "id": 12,
+            "original_item_type": 20,
+            "original_item_id": 880006,
+            "original_item_quantity": 1,
+            "convert_item_type": 20,
+            "convert_item_id": 880009,
+            "convert_item_quantity": 1,
+            "start_at": 1693530000
+        },
+        {
+            "id": 13,
+            "original_item_type": 20,
+            "original_item_id": 880007,
+            "original_item_quantity": 1,
+            "convert_item_type": 20,
+            "convert_item_id": 880009,
+            "convert_item_quantity": 1,
+            "start_at": 1693530000
+        },
+        {
+            "id": 14,
+            "original_item_type": 20,
+            "original_item_id": 880008,
+            "original_item_quantity": 1,
+            "convert_item_type": 20,
+            "convert_item_id": 880009,
+            "convert_item_quantity": 1,
+            "start_at": 1693530000
+        },
+        {
+            "id": 15,
+            "original_item_type": 7,
+            "original_item_id": 1100252,
+            "original_item_quantity": 2,
+            "convert_item_type": 20,
+            "convert_item_id": 880009,
+            "convert_item_quantity": 1,
+            "start_at": 1693530000
+        },
+        {
+            "id": 1000000001,
+            "original_item_type": 11,
+            "original_item_id": 1000830013,
+            "original_item_quantity": 1,
+            "convert_item_type": 11,
+            "convert_item_id": 1000830015,
+            "convert_item_quantity": 1,
+            "start_at": 1693530000
+        }
+    ]
+}

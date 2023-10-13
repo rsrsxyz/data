@@ -1,0 +1,28 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4060238661652889497
+    },
+    "m_Name": "MultiMissionGroup",
+    "objectArray": [
+        {
+            "id": 2,
+            "banner_id": 10002,
+            "start_at": 1691715600,
+            "end_at": 1692925199,
+            "priority": 2
+        },
+        {
+            "id": 1000000001,
+            "banner_id": 1000000001,
+            "start_at": 1693011600,
+            "end_at": 1694480399,
+            "priority": 3
+        }
+    ]
+}

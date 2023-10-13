@@ -1,0 +1,35 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -258631126974627485
+    },
+    "m_Name": "EquipmentMaterialSynthesis",
+    "objectArray": [
+        {
+            "id": 1,
+            "rarity": 3,
+            "quantity": 1,
+            "required_quantity": 10,
+            "required_aurum": 1000
+        },
+        {
+            "id": 2,
+            "rarity": 4,
+            "quantity": 1,
+            "required_quantity": 10,
+            "required_aurum": 1000
+        },
+        {
+            "id": 3,
+            "rarity": 5,
+            "quantity": 1,
+            "required_quantity": 10,
+            "required_aurum": 5000
+        }
+    ]
+}

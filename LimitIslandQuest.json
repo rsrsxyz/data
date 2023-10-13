@@ -1,0 +1,6188 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7583506855934896300
+    },
+    "m_Name": "LimitIslandQuest",
+    "objectArray": [
+        {
+            "id": 1001,
+            "limit_island_well_id": 1001,
+            "grade": 1,
+            "battle_id": 530000001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1002,
+            "limit_island_well_id": 1002,
+            "grade": 1,
+            "battle_id": 530000004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1003,
+            "limit_island_well_id": 1003,
+            "grade": 1,
+            "battle_id": 530000013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1004,
+            "limit_island_well_id": 1001,
+            "grade": 2,
+            "battle_id": 530000002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1005,
+            "limit_island_well_id": 1002,
+            "grade": 2,
+            "battle_id": 530000005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1006,
+            "limit_island_well_id": 1003,
+            "grade": 2,
+            "battle_id": 530000014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1007,
+            "limit_island_well_id": 1004,
+            "grade": 1,
+            "battle_id": 530010001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1008,
+            "limit_island_well_id": 1005,
+            "grade": 1,
+            "battle_id": 530010002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1009,
+            "limit_island_well_id": 1006,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1010,
+            "limit_island_well_id": 1004,
+            "grade": 2,
+            "battle_id": 530010004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1011,
+            "limit_island_well_id": 1005,
+            "grade": 2,
+            "battle_id": 530010005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1012,
+            "limit_island_well_id": 1006,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1013,
+            "limit_island_well_id": 1007,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1014,
+            "limit_island_well_id": 1007,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1015,
+            "limit_island_well_id": 1008,
+            "grade": 1,
+            "battle_id": 530020004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1016,
+            "limit_island_well_id": 1008,
+            "grade": 2,
+            "battle_id": 530020005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1017,
+            "limit_island_well_id": 1009,
+            "grade": 1,
+            "battle_id": 530020007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1018,
+            "limit_island_well_id": 1009,
+            "grade": 2,
+            "battle_id": 530020008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1019,
+            "limit_island_well_id": 1011,
+            "grade": 1,
+            "battle_id": 530030001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1020,
+            "limit_island_well_id": 1011,
+            "grade": 2,
+            "battle_id": 530030004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1021,
+            "limit_island_well_id": 1010,
+            "grade": 1,
+            "battle_id": 530030002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1022,
+            "limit_island_well_id": 1010,
+            "grade": 2,
+            "battle_id": 530030005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1023,
+            "limit_island_well_id": 1012,
+            "grade": 1,
+            "battle_id": 530030003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1024,
+            "limit_island_well_id": 1012,
+            "grade": 2,
+            "battle_id": 530030006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1025,
+            "limit_island_well_id": 1011,
+            "grade": 3,
+            "battle_id": 530030007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1026,
+            "limit_island_well_id": 1010,
+            "grade": 3,
+            "battle_id": 530030008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1027,
+            "limit_island_well_id": 1012,
+            "grade": 3,
+            "battle_id": 530030009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1028,
+            "limit_island_well_id": 1013,
+            "grade": 1,
+            "battle_id": 530040001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1029,
+            "limit_island_well_id": 1013,
+            "grade": 2,
+            "battle_id": 530040002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1030,
+            "limit_island_well_id": 1013,
+            "grade": 3,
+            "battle_id": 530040003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1031,
+            "limit_island_well_id": 1014,
+            "grade": 1,
+            "battle_id": 530040004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1032,
+            "limit_island_well_id": 1014,
+            "grade": 2,
+            "battle_id": 530040005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1033,
+            "limit_island_well_id": 1014,
+            "grade": 3,
+            "battle_id": 530040006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1034,
+            "limit_island_well_id": 1015,
+            "grade": 1,
+            "battle_id": 530040007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1035,
+            "limit_island_well_id": 1015,
+            "grade": 2,
+            "battle_id": 530040008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1036,
+            "limit_island_well_id": 1015,
+            "grade": 3,
+            "battle_id": 530040009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1037,
+            "limit_island_well_id": 1016,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1038,
+            "limit_island_well_id": 1016,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1039,
+            "limit_island_well_id": 1016,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1040,
+            "limit_island_well_id": 1017,
+            "grade": 1,
+            "battle_id": 530050002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1041,
+            "limit_island_well_id": 1017,
+            "grade": 2,
+            "battle_id": 530050005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1042,
+            "limit_island_well_id": 1017,
+            "grade": 3,
+            "battle_id": 530050008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1043,
+            "limit_island_well_id": 1018,
+            "grade": 1,
+            "battle_id": 530000001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1044,
+            "limit_island_well_id": 1018,
+            "grade": 2,
+            "battle_id": 530000002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1045,
+            "limit_island_well_id": 1018,
+            "grade": 3,
+            "battle_id": 530000003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1046,
+            "limit_island_well_id": 1019,
+            "grade": 1,
+            "battle_id": 530010001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1047,
+            "limit_island_well_id": 1019,
+            "grade": 2,
+            "battle_id": 530010004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1048,
+            "limit_island_well_id": 1019,
+            "grade": 3,
+            "battle_id": 530010007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1049,
+            "limit_island_well_id": 1020,
+            "grade": 1,
+            "battle_id": 530010002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1050,
+            "limit_island_well_id": 1020,
+            "grade": 2,
+            "battle_id": 530010005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1051,
+            "limit_island_well_id": 1020,
+            "grade": 3,
+            "battle_id": 530010008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1052,
+            "limit_island_well_id": 1021,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1053,
+            "limit_island_well_id": 1021,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1054,
+            "limit_island_well_id": 1021,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1055,
+            "limit_island_well_id": 1022,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1056,
+            "limit_island_well_id": 1022,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1057,
+            "limit_island_well_id": 1022,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1058,
+            "limit_island_well_id": 1023,
+            "grade": 1,
+            "battle_id": 530020004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1059,
+            "limit_island_well_id": 1023,
+            "grade": 2,
+            "battle_id": 530020005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1060,
+            "limit_island_well_id": 1023,
+            "grade": 3,
+            "battle_id": 530020006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1061,
+            "limit_island_well_id": 1024,
+            "grade": 1,
+            "battle_id": 530020007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1062,
+            "limit_island_well_id": 1024,
+            "grade": 2,
+            "battle_id": 530020008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1063,
+            "limit_island_well_id": 1024,
+            "grade": 3,
+            "battle_id": 530020009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1067,
+            "limit_island_well_id": 1025,
+            "grade": 1,
+            "battle_id": 530060001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1068,
+            "limit_island_well_id": 1025,
+            "grade": 2,
+            "battle_id": 530060002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1069,
+            "limit_island_well_id": 1025,
+            "grade": 3,
+            "battle_id": 530060003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1070,
+            "limit_island_well_id": 1026,
+            "grade": 1,
+            "battle_id": 530000001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1071,
+            "limit_island_well_id": 1026,
+            "grade": 2,
+            "battle_id": 530000002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1072,
+            "limit_island_well_id": 1026,
+            "grade": 3,
+            "battle_id": 530000003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1073,
+            "limit_island_well_id": 1027,
+            "grade": 1,
+            "battle_id": 530000004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1074,
+            "limit_island_well_id": 1027,
+            "grade": 2,
+            "battle_id": 530000005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1075,
+            "limit_island_well_id": 1027,
+            "grade": 3,
+            "battle_id": 530000006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1076,
+            "limit_island_well_id": 1028,
+            "grade": 1,
+            "battle_id": 530060004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1077,
+            "limit_island_well_id": 1028,
+            "grade": 2,
+            "battle_id": 530060005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1078,
+            "limit_island_well_id": 1028,
+            "grade": 3,
+            "battle_id": 530060006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1079,
+            "limit_island_well_id": 1029,
+            "grade": 1,
+            "battle_id": 530010001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1080,
+            "limit_island_well_id": 1029,
+            "grade": 2,
+            "battle_id": 530010004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1081,
+            "limit_island_well_id": 1029,
+            "grade": 3,
+            "battle_id": 530010007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1082,
+            "limit_island_well_id": 1030,
+            "grade": 1,
+            "battle_id": 530010002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1083,
+            "limit_island_well_id": 1030,
+            "grade": 2,
+            "battle_id": 530010005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1084,
+            "limit_island_well_id": 1030,
+            "grade": 3,
+            "battle_id": 530010008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1085,
+            "limit_island_well_id": 1031,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1086,
+            "limit_island_well_id": 1031,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1087,
+            "limit_island_well_id": 1031,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1088,
+            "limit_island_well_id": 1032,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1089,
+            "limit_island_well_id": 1032,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1090,
+            "limit_island_well_id": 1032,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1091,
+            "limit_island_well_id": 1033,
+            "grade": 1,
+            "battle_id": 530020004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1092,
+            "limit_island_well_id": 1033,
+            "grade": 2,
+            "battle_id": 530020005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1093,
+            "limit_island_well_id": 1033,
+            "grade": 3,
+            "battle_id": 530020006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1103,
+            "limit_island_well_id": 1037,
+            "grade": 1,
+            "battle_id": 530010001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1104,
+            "limit_island_well_id": 1037,
+            "grade": 2,
+            "battle_id": 530010004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1105,
+            "limit_island_well_id": 1037,
+            "grade": 3,
+            "battle_id": 530010007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1106,
+            "limit_island_well_id": 1038,
+            "grade": 1,
+            "battle_id": 530010002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1107,
+            "limit_island_well_id": 1038,
+            "grade": 2,
+            "battle_id": 530010005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1108,
+            "limit_island_well_id": 1038,
+            "grade": 3,
+            "battle_id": 530010008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1109,
+            "limit_island_well_id": 1039,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1110,
+            "limit_island_well_id": 1039,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1111,
+            "limit_island_well_id": 1039,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1112,
+            "limit_island_well_id": 1040,
+            "grade": 1,
+            "battle_id": 530030003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1113,
+            "limit_island_well_id": 1040,
+            "grade": 2,
+            "battle_id": 530030006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1114,
+            "limit_island_well_id": 1040,
+            "grade": 3,
+            "battle_id": 530030009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1115,
+            "limit_island_well_id": 1041,
+            "grade": 1,
+            "battle_id": 530000004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1116,
+            "limit_island_well_id": 1041,
+            "grade": 2,
+            "battle_id": 530000005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1117,
+            "limit_island_well_id": 1041,
+            "grade": 3,
+            "battle_id": 530000006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1118,
+            "limit_island_well_id": 1042,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1119,
+            "limit_island_well_id": 1042,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1120,
+            "limit_island_well_id": 1042,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1130,
+            "limit_island_well_id": 1046,
+            "grade": 1,
+            "battle_id": 530000001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1131,
+            "limit_island_well_id": 1046,
+            "grade": 2,
+            "battle_id": 530000002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1132,
+            "limit_island_well_id": 1046,
+            "grade": 3,
+            "battle_id": 530000003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1133,
+            "limit_island_well_id": 1047,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1134,
+            "limit_island_well_id": 1047,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1135,
+            "limit_island_well_id": 1047,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1136,
+            "limit_island_well_id": 1048,
+            "grade": 1,
+            "battle_id": 530030003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1137,
+            "limit_island_well_id": 1048,
+            "grade": 2,
+            "battle_id": 530030006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1138,
+            "limit_island_well_id": 1048,
+            "grade": 3,
+            "battle_id": 530030009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1148,
+            "limit_island_well_id": 1052,
+            "grade": 1,
+            "battle_id": 530050002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1149,
+            "limit_island_well_id": 1052,
+            "grade": 2,
+            "battle_id": 530050005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1150,
+            "limit_island_well_id": 1052,
+            "grade": 3,
+            "battle_id": 530050008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1151,
+            "limit_island_well_id": 1053,
+            "grade": 1,
+            "battle_id": 530000001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1152,
+            "limit_island_well_id": 1053,
+            "grade": 2,
+            "battle_id": 530000002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1153,
+            "limit_island_well_id": 1053,
+            "grade": 3,
+            "battle_id": 530000003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1154,
+            "limit_island_well_id": 1054,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1155,
+            "limit_island_well_id": 1054,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1156,
+            "limit_island_well_id": 1054,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1157,
+            "limit_island_well_id": 1055,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1158,
+            "limit_island_well_id": 1055,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1159,
+            "limit_island_well_id": 1055,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1160,
+            "limit_island_well_id": 1056,
+            "grade": 1,
+            "battle_id": 530050002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1161,
+            "limit_island_well_id": 1056,
+            "grade": 2,
+            "battle_id": 530050005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1162,
+            "limit_island_well_id": 1056,
+            "grade": 3,
+            "battle_id": 530050008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1163,
+            "limit_island_well_id": 1057,
+            "grade": 1,
+            "battle_id": 530010001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1164,
+            "limit_island_well_id": 1057,
+            "grade": 2,
+            "battle_id": 530010004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1165,
+            "limit_island_well_id": 1057,
+            "grade": 3,
+            "battle_id": 530010007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1166,
+            "limit_island_well_id": 1058,
+            "grade": 1,
+            "battle_id": 530000004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1167,
+            "limit_island_well_id": 1058,
+            "grade": 2,
+            "battle_id": 530000005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1168,
+            "limit_island_well_id": 1058,
+            "grade": 3,
+            "battle_id": 530000006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1169,
+            "limit_island_well_id": 1059,
+            "grade": 1,
+            "battle_id": 530000001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1170,
+            "limit_island_well_id": 1059,
+            "grade": 2,
+            "battle_id": 530000002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1171,
+            "limit_island_well_id": 1059,
+            "grade": 3,
+            "battle_id": 530000003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1172,
+            "limit_island_well_id": 1060,
+            "grade": 1,
+            "battle_id": 530030003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1173,
+            "limit_island_well_id": 1060,
+            "grade": 2,
+            "battle_id": 530030006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1174,
+            "limit_island_well_id": 1060,
+            "grade": 3,
+            "battle_id": 530030009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1175,
+            "limit_island_well_id": 1061,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1176,
+            "limit_island_well_id": 1061,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1177,
+            "limit_island_well_id": 1061,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1178,
+            "limit_island_well_id": 1062,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1179,
+            "limit_island_well_id": 1062,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1180,
+            "limit_island_well_id": 1062,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1181,
+            "limit_island_well_id": 1063,
+            "grade": 1,
+            "battle_id": 530020004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1182,
+            "limit_island_well_id": 1063,
+            "grade": 2,
+            "battle_id": 530020005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1183,
+            "limit_island_well_id": 1063,
+            "grade": 3,
+            "battle_id": 530020006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1202,
+            "limit_island_well_id": 1070,
+            "grade": 1,
+            "battle_id": 530040001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1203,
+            "limit_island_well_id": 1070,
+            "grade": 2,
+            "battle_id": 530040002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1204,
+            "limit_island_well_id": 1070,
+            "grade": 3,
+            "battle_id": 530040003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1205,
+            "limit_island_well_id": 1071,
+            "grade": 1,
+            "battle_id": 530040004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1206,
+            "limit_island_well_id": 1071,
+            "grade": 2,
+            "battle_id": 530040005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1207,
+            "limit_island_well_id": 1071,
+            "grade": 3,
+            "battle_id": 530040006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1208,
+            "limit_island_well_id": 1072,
+            "grade": 1,
+            "battle_id": 530040007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1209,
+            "limit_island_well_id": 1072,
+            "grade": 2,
+            "battle_id": 530040008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1210,
+            "limit_island_well_id": 1072,
+            "grade": 3,
+            "battle_id": 530040009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1238,
+            "limit_island_well_id": 1082,
+            "grade": 1,
+            "battle_id": 530020007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1239,
+            "limit_island_well_id": 1082,
+            "grade": 2,
+            "battle_id": 530020008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1240,
+            "limit_island_well_id": 1082,
+            "grade": 3,
+            "battle_id": 530020009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1241,
+            "limit_island_well_id": 1083,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1242,
+            "limit_island_well_id": 1083,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1243,
+            "limit_island_well_id": 1083,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1244,
+            "limit_island_well_id": 1084,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1245,
+            "limit_island_well_id": 1084,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1246,
+            "limit_island_well_id": 1084,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1265,
+            "limit_island_well_id": 1091,
+            "grade": 1,
+            "battle_id": 530040007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1266,
+            "limit_island_well_id": 1091,
+            "grade": 2,
+            "battle_id": 530040008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1267,
+            "limit_island_well_id": 1091,
+            "grade": 3,
+            "battle_id": 530040009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1268,
+            "limit_island_well_id": 1092,
+            "grade": 1,
+            "battle_id": 530040001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1269,
+            "limit_island_well_id": 1092,
+            "grade": 2,
+            "battle_id": 530040002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1270,
+            "limit_island_well_id": 1092,
+            "grade": 3,
+            "battle_id": 530040003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1271,
+            "limit_island_well_id": 1093,
+            "grade": 1,
+            "battle_id": 530040004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1272,
+            "limit_island_well_id": 1093,
+            "grade": 2,
+            "battle_id": 530040005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1273,
+            "limit_island_well_id": 1093,
+            "grade": 3,
+            "battle_id": 530040006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1283,
+            "limit_island_well_id": 1097,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1284,
+            "limit_island_well_id": 1097,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1285,
+            "limit_island_well_id": 1097,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1286,
+            "limit_island_well_id": 1098,
+            "grade": 1,
+            "battle_id": 530010002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1287,
+            "limit_island_well_id": 1098,
+            "grade": 2,
+            "battle_id": 530010005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1288,
+            "limit_island_well_id": 1098,
+            "grade": 3,
+            "battle_id": 530010008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1289,
+            "limit_island_well_id": 1099,
+            "grade": 1,
+            "battle_id": 530010001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1290,
+            "limit_island_well_id": 1099,
+            "grade": 2,
+            "battle_id": 530010004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1291,
+            "limit_island_well_id": 1099,
+            "grade": 3,
+            "battle_id": 530010007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1373,
+            "limit_island_well_id": 1127,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1374,
+            "limit_island_well_id": 1127,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1375,
+            "limit_island_well_id": 1127,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1376,
+            "limit_island_well_id": 1127,
+            "grade": 4,
+            "battle_id": 530020010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1377,
+            "limit_island_well_id": 1127,
+            "grade": 5,
+            "battle_id": 530020011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1378,
+            "limit_island_well_id": 1127,
+            "grade": 6,
+            "battle_id": 530020012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1379,
+            "limit_island_well_id": 1127,
+            "grade": 7,
+            "battle_id": 530020013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1380,
+            "limit_island_well_id": 1128,
+            "grade": 1,
+            "battle_id": 530020004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1381,
+            "limit_island_well_id": 1128,
+            "grade": 2,
+            "battle_id": 530020005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1382,
+            "limit_island_well_id": 1128,
+            "grade": 3,
+            "battle_id": 530020006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1383,
+            "limit_island_well_id": 1128,
+            "grade": 4,
+            "battle_id": 530020014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1384,
+            "limit_island_well_id": 1128,
+            "grade": 5,
+            "battle_id": 530020015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1385,
+            "limit_island_well_id": 1128,
+            "grade": 6,
+            "battle_id": 530020016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1386,
+            "limit_island_well_id": 1128,
+            "grade": 7,
+            "battle_id": 530020017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1387,
+            "limit_island_well_id": 1129,
+            "grade": 1,
+            "battle_id": 530020007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1388,
+            "limit_island_well_id": 1129,
+            "grade": 2,
+            "battle_id": 530020008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1389,
+            "limit_island_well_id": 1129,
+            "grade": 3,
+            "battle_id": 530020009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1390,
+            "limit_island_well_id": 1129,
+            "grade": 4,
+            "battle_id": 530020018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1391,
+            "limit_island_well_id": 1129,
+            "grade": 5,
+            "battle_id": 530020019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1392,
+            "limit_island_well_id": 1129,
+            "grade": 6,
+            "battle_id": 530020020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1393,
+            "limit_island_well_id": 1129,
+            "grade": 7,
+            "battle_id": 530020021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1457,
+            "limit_island_well_id": 1139,
+            "grade": 1,
+            "battle_id": 530020007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1458,
+            "limit_island_well_id": 1139,
+            "grade": 2,
+            "battle_id": 530020008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1459,
+            "limit_island_well_id": 1139,
+            "grade": 3,
+            "battle_id": 530020009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1460,
+            "limit_island_well_id": 1139,
+            "grade": 4,
+            "battle_id": 530020018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1461,
+            "limit_island_well_id": 1139,
+            "grade": 5,
+            "battle_id": 530020019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1462,
+            "limit_island_well_id": 1139,
+            "grade": 6,
+            "battle_id": 530020020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1463,
+            "limit_island_well_id": 1139,
+            "grade": 7,
+            "battle_id": 530020021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1464,
+            "limit_island_well_id": 1140,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1465,
+            "limit_island_well_id": 1140,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1466,
+            "limit_island_well_id": 1140,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1467,
+            "limit_island_well_id": 1140,
+            "grade": 4,
+            "battle_id": 530020010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1468,
+            "limit_island_well_id": 1140,
+            "grade": 5,
+            "battle_id": 530020011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1469,
+            "limit_island_well_id": 1140,
+            "grade": 6,
+            "battle_id": 530020012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1470,
+            "limit_island_well_id": 1140,
+            "grade": 7,
+            "battle_id": 530020013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1471,
+            "limit_island_well_id": 1141,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1472,
+            "limit_island_well_id": 1141,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1473,
+            "limit_island_well_id": 1141,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1474,
+            "limit_island_well_id": 1141,
+            "grade": 4,
+            "battle_id": 530010018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1475,
+            "limit_island_well_id": 1141,
+            "grade": 5,
+            "battle_id": 530010019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1476,
+            "limit_island_well_id": 1141,
+            "grade": 6,
+            "battle_id": 530010020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1477,
+            "limit_island_well_id": 1141,
+            "grade": 7,
+            "battle_id": 530010021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001001,
+            "limit_island_well_id": 1000001001,
+            "grade": 1,
+            "battle_id": 530030002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001002,
+            "limit_island_well_id": 1000001001,
+            "grade": 2,
+            "battle_id": 530030005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001003,
+            "limit_island_well_id": 1000001001,
+            "grade": 3,
+            "battle_id": 530030008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001004,
+            "limit_island_well_id": 1000001002,
+            "grade": 1,
+            "battle_id": 530000004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001005,
+            "limit_island_well_id": 1000001002,
+            "grade": 2,
+            "battle_id": 530000005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001006,
+            "limit_island_well_id": 1000001002,
+            "grade": 3,
+            "battle_id": 530000006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001007,
+            "limit_island_well_id": 1000001003,
+            "grade": 1,
+            "battle_id": 530030003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001008,
+            "limit_island_well_id": 1000001003,
+            "grade": 2,
+            "battle_id": 530030006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001009,
+            "limit_island_well_id": 1000001003,
+            "grade": 3,
+            "battle_id": 530030009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001010,
+            "limit_island_well_id": 1000001004,
+            "grade": 1,
+            "battle_id": 530020007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001011,
+            "limit_island_well_id": 1000001004,
+            "grade": 2,
+            "battle_id": 530020008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001012,
+            "limit_island_well_id": 1000001004,
+            "grade": 3,
+            "battle_id": 530020009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001013,
+            "limit_island_well_id": 1000001005,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001014,
+            "limit_island_well_id": 1000001005,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001015,
+            "limit_island_well_id": 1000001005,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001016,
+            "limit_island_well_id": 1000001006,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001017,
+            "limit_island_well_id": 1000001006,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001018,
+            "limit_island_well_id": 1000001006,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001019,
+            "limit_island_well_id": 1000001007,
+            "grade": 1,
+            "battle_id": 530040001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001020,
+            "limit_island_well_id": 1000001007,
+            "grade": 2,
+            "battle_id": 530040002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001021,
+            "limit_island_well_id": 1000001007,
+            "grade": 3,
+            "battle_id": 530040003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001022,
+            "limit_island_well_id": 1000001008,
+            "grade": 1,
+            "battle_id": 530040004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001023,
+            "limit_island_well_id": 1000001008,
+            "grade": 2,
+            "battle_id": 530040005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001024,
+            "limit_island_well_id": 1000001008,
+            "grade": 3,
+            "battle_id": 530040006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001025,
+            "limit_island_well_id": 1000001009,
+            "grade": 1,
+            "battle_id": 530040007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001026,
+            "limit_island_well_id": 1000001009,
+            "grade": 2,
+            "battle_id": 530040008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001027,
+            "limit_island_well_id": 1000001009,
+            "grade": 3,
+            "battle_id": 530040009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001028,
+            "limit_island_well_id": 1000001010,
+            "grade": 1,
+            "battle_id": 530030003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001029,
+            "limit_island_well_id": 1000001010,
+            "grade": 2,
+            "battle_id": 530030006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001030,
+            "limit_island_well_id": 1000001010,
+            "grade": 3,
+            "battle_id": 530030009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001031,
+            "limit_island_well_id": 1000001011,
+            "grade": 1,
+            "battle_id": 530000001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001032,
+            "limit_island_well_id": 1000001011,
+            "grade": 2,
+            "battle_id": 530000002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001033,
+            "limit_island_well_id": 1000001011,
+            "grade": 3,
+            "battle_id": 530000003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001034,
+            "limit_island_well_id": 1000001012,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001035,
+            "limit_island_well_id": 1000001012,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001036,
+            "limit_island_well_id": 1000001012,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001037,
+            "limit_island_well_id": 1000001013,
+            "grade": 1,
+            "battle_id": 530000004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001038,
+            "limit_island_well_id": 1000001013,
+            "grade": 2,
+            "battle_id": 530000005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001039,
+            "limit_island_well_id": 1000001013,
+            "grade": 3,
+            "battle_id": 530000006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001040,
+            "limit_island_well_id": 1000001014,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001041,
+            "limit_island_well_id": 1000001014,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001042,
+            "limit_island_well_id": 1000001014,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001043,
+            "limit_island_well_id": 1000001015,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001044,
+            "limit_island_well_id": 1000001015,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001045,
+            "limit_island_well_id": 1000001015,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001046,
+            "limit_island_well_id": 1000001016,
+            "grade": 1,
+            "battle_id": 530030003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001047,
+            "limit_island_well_id": 1000001016,
+            "grade": 2,
+            "battle_id": 530030006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001048,
+            "limit_island_well_id": 1000001016,
+            "grade": 3,
+            "battle_id": 530030009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001049,
+            "limit_island_well_id": 1000001017,
+            "grade": 1,
+            "battle_id": 530040007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001050,
+            "limit_island_well_id": 1000001017,
+            "grade": 2,
+            "battle_id": 530040008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001051,
+            "limit_island_well_id": 1000001017,
+            "grade": 3,
+            "battle_id": 530040009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001052,
+            "limit_island_well_id": 1000001018,
+            "grade": 1,
+            "battle_id": 530010001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001053,
+            "limit_island_well_id": 1000001018,
+            "grade": 2,
+            "battle_id": 530010004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001054,
+            "limit_island_well_id": 1000001018,
+            "grade": 3,
+            "battle_id": 530010007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001055,
+            "limit_island_well_id": 1000001019,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001056,
+            "limit_island_well_id": 1000001019,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001057,
+            "limit_island_well_id": 1000001019,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001058,
+            "limit_island_well_id": 1000001020,
+            "grade": 1,
+            "battle_id": 530050002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001059,
+            "limit_island_well_id": 1000001020,
+            "grade": 2,
+            "battle_id": 530050005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001060,
+            "limit_island_well_id": 1000001020,
+            "grade": 3,
+            "battle_id": 530050008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001061,
+            "limit_island_well_id": 1000001021,
+            "grade": 1,
+            "battle_id": 530000013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001062,
+            "limit_island_well_id": 1000001021,
+            "grade": 2,
+            "battle_id": 530000014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001063,
+            "limit_island_well_id": 1000001021,
+            "grade": 3,
+            "battle_id": 530000015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001064,
+            "limit_island_well_id": 1000001022,
+            "grade": 1,
+            "battle_id": 530020004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001065,
+            "limit_island_well_id": 1000001022,
+            "grade": 2,
+            "battle_id": 530020005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001066,
+            "limit_island_well_id": 1000001022,
+            "grade": 3,
+            "battle_id": 530020006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001067,
+            "limit_island_well_id": 1000001023,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001068,
+            "limit_island_well_id": 1000001023,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001069,
+            "limit_island_well_id": 1000001023,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001070,
+            "limit_island_well_id": 1000001024,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001071,
+            "limit_island_well_id": 1000001024,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001072,
+            "limit_island_well_id": 1000001024,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001073,
+            "limit_island_well_id": 1000001025,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001074,
+            "limit_island_well_id": 1000001025,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001075,
+            "limit_island_well_id": 1000001025,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001076,
+            "limit_island_well_id": 1000001026,
+            "grade": 1,
+            "battle_id": 530010002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001077,
+            "limit_island_well_id": 1000001026,
+            "grade": 2,
+            "battle_id": 530010005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001078,
+            "limit_island_well_id": 1000001026,
+            "grade": 3,
+            "battle_id": 530010008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001079,
+            "limit_island_well_id": 1000001027,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001080,
+            "limit_island_well_id": 1000001027,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001081,
+            "limit_island_well_id": 1000001027,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001082,
+            "limit_island_well_id": 1000001028,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001083,
+            "limit_island_well_id": 1000001028,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001084,
+            "limit_island_well_id": 1000001028,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001085,
+            "limit_island_well_id": 1000001029,
+            "grade": 1,
+            "battle_id": 530030003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001086,
+            "limit_island_well_id": 1000001029,
+            "grade": 2,
+            "battle_id": 530030006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001087,
+            "limit_island_well_id": 1000001029,
+            "grade": 3,
+            "battle_id": 530030009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001088,
+            "limit_island_well_id": 1000001030,
+            "grade": 1,
+            "battle_id": 530020007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001089,
+            "limit_island_well_id": 1000001030,
+            "grade": 2,
+            "battle_id": 530020008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001090,
+            "limit_island_well_id": 1000001030,
+            "grade": 3,
+            "battle_id": 530020009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001091,
+            "limit_island_well_id": 1000001031,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001092,
+            "limit_island_well_id": 1000001031,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001093,
+            "limit_island_well_id": 1000001031,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001094,
+            "limit_island_well_id": 1000001032,
+            "grade": 1,
+            "battle_id": 530030003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001095,
+            "limit_island_well_id": 1000001032,
+            "grade": 2,
+            "battle_id": 530030006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001096,
+            "limit_island_well_id": 1000001032,
+            "grade": 3,
+            "battle_id": 530030009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001097,
+            "limit_island_well_id": 1000001033,
+            "grade": 1,
+            "battle_id": 530060004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001098,
+            "limit_island_well_id": 1000001033,
+            "grade": 2,
+            "battle_id": 530060005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001099,
+            "limit_island_well_id": 1000001033,
+            "grade": 3,
+            "battle_id": 530060006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001100,
+            "limit_island_well_id": 1000001034,
+            "grade": 1,
+            "battle_id": 530010002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001101,
+            "limit_island_well_id": 1000001034,
+            "grade": 2,
+            "battle_id": 530010005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001102,
+            "limit_island_well_id": 1000001034,
+            "grade": 3,
+            "battle_id": 530010008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001103,
+            "limit_island_well_id": 1000001035,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001104,
+            "limit_island_well_id": 1000001035,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001105,
+            "limit_island_well_id": 1000001035,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001106,
+            "limit_island_well_id": 1000001036,
+            "grade": 1,
+            "battle_id": 530020004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001107,
+            "limit_island_well_id": 1000001036,
+            "grade": 2,
+            "battle_id": 530020005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001108,
+            "limit_island_well_id": 1000001036,
+            "grade": 3,
+            "battle_id": 530020006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001109,
+            "limit_island_well_id": 1000001037,
+            "grade": 1,
+            "battle_id": 530020007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001110,
+            "limit_island_well_id": 1000001037,
+            "grade": 2,
+            "battle_id": 530020008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001111,
+            "limit_island_well_id": 1000001037,
+            "grade": 3,
+            "battle_id": 530020009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001112,
+            "limit_island_well_id": 1000001038,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001113,
+            "limit_island_well_id": 1000001038,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001114,
+            "limit_island_well_id": 1000001038,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001115,
+            "limit_island_well_id": 1000001039,
+            "grade": 1,
+            "battle_id": 530010001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001116,
+            "limit_island_well_id": 1000001039,
+            "grade": 2,
+            "battle_id": 530010004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001117,
+            "limit_island_well_id": 1000001039,
+            "grade": 3,
+            "battle_id": 530010007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001118,
+            "limit_island_well_id": 1000001040,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001119,
+            "limit_island_well_id": 1000001040,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001120,
+            "limit_island_well_id": 1000001040,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001121,
+            "limit_island_well_id": 1000001041,
+            "grade": 1,
+            "battle_id": 530020007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001122,
+            "limit_island_well_id": 1000001041,
+            "grade": 2,
+            "battle_id": 530020008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001123,
+            "limit_island_well_id": 1000001041,
+            "grade": 3,
+            "battle_id": 530020009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001124,
+            "limit_island_well_id": 1000001042,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001125,
+            "limit_island_well_id": 1000001042,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001126,
+            "limit_island_well_id": 1000001042,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001127,
+            "limit_island_well_id": 1000001043,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001128,
+            "limit_island_well_id": 1000001043,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001129,
+            "limit_island_well_id": 1000001043,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001130,
+            "limit_island_well_id": 1000001043,
+            "grade": 4,
+            "battle_id": 530050009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001131,
+            "limit_island_well_id": 1000001043,
+            "grade": 5,
+            "battle_id": 530050010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001132,
+            "limit_island_well_id": 1000001043,
+            "grade": 6,
+            "battle_id": 530050011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001133,
+            "limit_island_well_id": 1000001043,
+            "grade": 7,
+            "battle_id": 530050012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001134,
+            "limit_island_well_id": 1000001044,
+            "grade": 1,
+            "battle_id": 530050002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001135,
+            "limit_island_well_id": 1000001044,
+            "grade": 2,
+            "battle_id": 530050005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001136,
+            "limit_island_well_id": 1000001044,
+            "grade": 3,
+            "battle_id": 530050008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001137,
+            "limit_island_well_id": 1000001044,
+            "grade": 4,
+            "battle_id": 530050013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001138,
+            "limit_island_well_id": 1000001044,
+            "grade": 5,
+            "battle_id": 530050014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001139,
+            "limit_island_well_id": 1000001044,
+            "grade": 6,
+            "battle_id": 530050015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001140,
+            "limit_island_well_id": 1000001044,
+            "grade": 7,
+            "battle_id": 530050016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001141,
+            "limit_island_well_id": 1000001045,
+            "grade": 1,
+            "battle_id": 530000001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001142,
+            "limit_island_well_id": 1000001045,
+            "grade": 2,
+            "battle_id": 530000002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001143,
+            "limit_island_well_id": 1000001045,
+            "grade": 3,
+            "battle_id": 530000003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001144,
+            "limit_island_well_id": 1000001045,
+            "grade": 4,
+            "battle_id": 530000016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001145,
+            "limit_island_well_id": 1000001045,
+            "grade": 5,
+            "battle_id": 530000017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001146,
+            "limit_island_well_id": 1000001045,
+            "grade": 6,
+            "battle_id": 530000018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001147,
+            "limit_island_well_id": 1000001045,
+            "grade": 7,
+            "battle_id": 530000019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001148,
+            "limit_island_well_id": 1000001046,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001149,
+            "limit_island_well_id": 1000001046,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001150,
+            "limit_island_well_id": 1000001046,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001151,
+            "limit_island_well_id": 1000001046,
+            "grade": 4,
+            "battle_id": 530020010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001152,
+            "limit_island_well_id": 1000001046,
+            "grade": 5,
+            "battle_id": 530020011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001153,
+            "limit_island_well_id": 1000001046,
+            "grade": 6,
+            "battle_id": 530020012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001154,
+            "limit_island_well_id": 1000001046,
+            "grade": 7,
+            "battle_id": 530020013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001155,
+            "limit_island_well_id": 1000001047,
+            "grade": 1,
+            "battle_id": 530010002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001156,
+            "limit_island_well_id": 1000001047,
+            "grade": 2,
+            "battle_id": 530010005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001157,
+            "limit_island_well_id": 1000001047,
+            "grade": 3,
+            "battle_id": 530010008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001158,
+            "limit_island_well_id": 1000001047,
+            "grade": 4,
+            "battle_id": 530010014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001159,
+            "limit_island_well_id": 1000001047,
+            "grade": 5,
+            "battle_id": 530010015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001160,
+            "limit_island_well_id": 1000001047,
+            "grade": 6,
+            "battle_id": 530010016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001161,
+            "limit_island_well_id": 1000001047,
+            "grade": 7,
+            "battle_id": 530010017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001162,
+            "limit_island_well_id": 1000001048,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001163,
+            "limit_island_well_id": 1000001048,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001164,
+            "limit_island_well_id": 1000001048,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001165,
+            "limit_island_well_id": 1000001048,
+            "grade": 4,
+            "battle_id": 530010018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001166,
+            "limit_island_well_id": 1000001048,
+            "grade": 5,
+            "battle_id": 530010019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001167,
+            "limit_island_well_id": 1000001048,
+            "grade": 6,
+            "battle_id": 530010020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001168,
+            "limit_island_well_id": 1000001048,
+            "grade": 7,
+            "battle_id": 530010021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001169,
+            "limit_island_well_id": 1000001049,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001170,
+            "limit_island_well_id": 1000001049,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001171,
+            "limit_island_well_id": 1000001049,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001172,
+            "limit_island_well_id": 1000001049,
+            "grade": 4,
+            "battle_id": 530010018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001173,
+            "limit_island_well_id": 1000001049,
+            "grade": 5,
+            "battle_id": 530010019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001174,
+            "limit_island_well_id": 1000001049,
+            "grade": 6,
+            "battle_id": 530010020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001175,
+            "limit_island_well_id": 1000001049,
+            "grade": 7,
+            "battle_id": 530010021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001176,
+            "limit_island_well_id": 1000001050,
+            "grade": 1,
+            "battle_id": 530000001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001177,
+            "limit_island_well_id": 1000001050,
+            "grade": 2,
+            "battle_id": 530000002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001178,
+            "limit_island_well_id": 1000001050,
+            "grade": 3,
+            "battle_id": 530000003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001179,
+            "limit_island_well_id": 1000001050,
+            "grade": 4,
+            "battle_id": 530000016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001180,
+            "limit_island_well_id": 1000001050,
+            "grade": 5,
+            "battle_id": 530000017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001181,
+            "limit_island_well_id": 1000001050,
+            "grade": 6,
+            "battle_id": 530000018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001182,
+            "limit_island_well_id": 1000001050,
+            "grade": 7,
+            "battle_id": 530000019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001183,
+            "limit_island_well_id": 1000001051,
+            "grade": 1,
+            "battle_id": 530040007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001184,
+            "limit_island_well_id": 1000001051,
+            "grade": 2,
+            "battle_id": 530040008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001185,
+            "limit_island_well_id": 1000001051,
+            "grade": 3,
+            "battle_id": 530040009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001186,
+            "limit_island_well_id": 1000001051,
+            "grade": 4,
+            "battle_id": 530040018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001187,
+            "limit_island_well_id": 1000001051,
+            "grade": 5,
+            "battle_id": 530040019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001188,
+            "limit_island_well_id": 1000001051,
+            "grade": 6,
+            "battle_id": 530040020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001189,
+            "limit_island_well_id": 1000001051,
+            "grade": 7,
+            "battle_id": 530040021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001190,
+            "limit_island_well_id": 1000001052,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001191,
+            "limit_island_well_id": 1000001052,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001192,
+            "limit_island_well_id": 1000001052,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001193,
+            "limit_island_well_id": 1000001052,
+            "grade": 4,
+            "battle_id": 530050009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001194,
+            "limit_island_well_id": 1000001052,
+            "grade": 5,
+            "battle_id": 530050010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001195,
+            "limit_island_well_id": 1000001052,
+            "grade": 6,
+            "battle_id": 530050011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001196,
+            "limit_island_well_id": 1000001052,
+            "grade": 7,
+            "battle_id": 530050012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001197,
+            "limit_island_well_id": 1000001053,
+            "grade": 1,
+            "battle_id": 530020007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001198,
+            "limit_island_well_id": 1000001053,
+            "grade": 2,
+            "battle_id": 530020008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001199,
+            "limit_island_well_id": 1000001053,
+            "grade": 3,
+            "battle_id": 530020009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001200,
+            "limit_island_well_id": 1000001053,
+            "grade": 4,
+            "battle_id": 530020018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001201,
+            "limit_island_well_id": 1000001053,
+            "grade": 5,
+            "battle_id": 530020019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001202,
+            "limit_island_well_id": 1000001053,
+            "grade": 6,
+            "battle_id": 530020020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001203,
+            "limit_island_well_id": 1000001053,
+            "grade": 7,
+            "battle_id": 530020021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001204,
+            "limit_island_well_id": 1000001054,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001205,
+            "limit_island_well_id": 1000001054,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001206,
+            "limit_island_well_id": 1000001054,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001207,
+            "limit_island_well_id": 1000001054,
+            "grade": 4,
+            "battle_id": 530010018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001208,
+            "limit_island_well_id": 1000001054,
+            "grade": 5,
+            "battle_id": 530010019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001209,
+            "limit_island_well_id": 1000001054,
+            "grade": 6,
+            "battle_id": 530010020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001210,
+            "limit_island_well_id": 1000001054,
+            "grade": 7,
+            "battle_id": 530010021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001211,
+            "limit_island_well_id": 1000001055,
+            "grade": 1,
+            "battle_id": 530030003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001212,
+            "limit_island_well_id": 1000001055,
+            "grade": 2,
+            "battle_id": 530030006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001213,
+            "limit_island_well_id": 1000001055,
+            "grade": 3,
+            "battle_id": 530030009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001214,
+            "limit_island_well_id": 1000001055,
+            "grade": 4,
+            "battle_id": 530030018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001215,
+            "limit_island_well_id": 1000001055,
+            "grade": 5,
+            "battle_id": 530030019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001216,
+            "limit_island_well_id": 1000001055,
+            "grade": 6,
+            "battle_id": 530030020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001217,
+            "limit_island_well_id": 1000001055,
+            "grade": 7,
+            "battle_id": 530030021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001218,
+            "limit_island_well_id": 1000001056,
+            "grade": 1,
+            "battle_id": 530050002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001219,
+            "limit_island_well_id": 1000001056,
+            "grade": 2,
+            "battle_id": 530050005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001220,
+            "limit_island_well_id": 1000001056,
+            "grade": 3,
+            "battle_id": 530050008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001221,
+            "limit_island_well_id": 1000001056,
+            "grade": 4,
+            "battle_id": 530050013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001222,
+            "limit_island_well_id": 1000001056,
+            "grade": 5,
+            "battle_id": 530050014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001223,
+            "limit_island_well_id": 1000001056,
+            "grade": 6,
+            "battle_id": 530050015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001224,
+            "limit_island_well_id": 1000001056,
+            "grade": 7,
+            "battle_id": 530050016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001225,
+            "limit_island_well_id": 1000001057,
+            "grade": 1,
+            "battle_id": 530020007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001226,
+            "limit_island_well_id": 1000001057,
+            "grade": 2,
+            "battle_id": 530020008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001227,
+            "limit_island_well_id": 1000001057,
+            "grade": 3,
+            "battle_id": 530020009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001228,
+            "limit_island_well_id": 1000001057,
+            "grade": 4,
+            "battle_id": 530020018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001229,
+            "limit_island_well_id": 1000001057,
+            "grade": 5,
+            "battle_id": 530020019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001230,
+            "limit_island_well_id": 1000001057,
+            "grade": 6,
+            "battle_id": 530020020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001231,
+            "limit_island_well_id": 1000001057,
+            "grade": 7,
+            "battle_id": 530020021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001232,
+            "limit_island_well_id": 1000001058,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001233,
+            "limit_island_well_id": 1000001058,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001234,
+            "limit_island_well_id": 1000001058,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001235,
+            "limit_island_well_id": 1000001058,
+            "grade": 4,
+            "battle_id": 530050009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001236,
+            "limit_island_well_id": 1000001058,
+            "grade": 5,
+            "battle_id": 530050010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001237,
+            "limit_island_well_id": 1000001058,
+            "grade": 6,
+            "battle_id": 530050011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001238,
+            "limit_island_well_id": 1000001058,
+            "grade": 7,
+            "battle_id": 530050012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001239,
+            "limit_island_well_id": 1000001059,
+            "grade": 1,
+            "battle_id": 530050002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001240,
+            "limit_island_well_id": 1000001059,
+            "grade": 2,
+            "battle_id": 530050005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001241,
+            "limit_island_well_id": 1000001059,
+            "grade": 3,
+            "battle_id": 530050008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001242,
+            "limit_island_well_id": 1000001059,
+            "grade": 4,
+            "battle_id": 530050013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001243,
+            "limit_island_well_id": 1000001059,
+            "grade": 5,
+            "battle_id": 530050014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001244,
+            "limit_island_well_id": 1000001059,
+            "grade": 6,
+            "battle_id": 530050015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001245,
+            "limit_island_well_id": 1000001059,
+            "grade": 7,
+            "battle_id": 530050016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001246,
+            "limit_island_well_id": 1000001060,
+            "grade": 1,
+            "battle_id": 530040001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001247,
+            "limit_island_well_id": 1000001060,
+            "grade": 2,
+            "battle_id": 530040002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001248,
+            "limit_island_well_id": 1000001060,
+            "grade": 3,
+            "battle_id": 530040003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001249,
+            "limit_island_well_id": 1000001060,
+            "grade": 4,
+            "battle_id": 530040010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001250,
+            "limit_island_well_id": 1000001060,
+            "grade": 5,
+            "battle_id": 530040011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001251,
+            "limit_island_well_id": 1000001060,
+            "grade": 6,
+            "battle_id": 530040012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001252,
+            "limit_island_well_id": 1000001060,
+            "grade": 7,
+            "battle_id": 530040013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001253,
+            "limit_island_well_id": 1000001061,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001254,
+            "limit_island_well_id": 1000001061,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001255,
+            "limit_island_well_id": 1000001061,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001256,
+            "limit_island_well_id": 1000001061,
+            "grade": 4,
+            "battle_id": 530010018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001257,
+            "limit_island_well_id": 1000001061,
+            "grade": 5,
+            "battle_id": 530010019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001258,
+            "limit_island_well_id": 1000001061,
+            "grade": 6,
+            "battle_id": 530010020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001259,
+            "limit_island_well_id": 1000001061,
+            "grade": 7,
+            "battle_id": 530010021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001260,
+            "limit_island_well_id": 1000001062,
+            "grade": 1,
+            "battle_id": 530000001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001261,
+            "limit_island_well_id": 1000001062,
+            "grade": 2,
+            "battle_id": 530000002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001262,
+            "limit_island_well_id": 1000001062,
+            "grade": 3,
+            "battle_id": 530000003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001263,
+            "limit_island_well_id": 1000001062,
+            "grade": 4,
+            "battle_id": 530000016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001264,
+            "limit_island_well_id": 1000001062,
+            "grade": 5,
+            "battle_id": 530000017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001265,
+            "limit_island_well_id": 1000001062,
+            "grade": 6,
+            "battle_id": 530000018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001266,
+            "limit_island_well_id": 1000001062,
+            "grade": 7,
+            "battle_id": 530000019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001267,
+            "limit_island_well_id": 1000001063,
+            "grade": 1,
+            "battle_id": 530020007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001268,
+            "limit_island_well_id": 1000001063,
+            "grade": 2,
+            "battle_id": 530020008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001269,
+            "limit_island_well_id": 1000001063,
+            "grade": 3,
+            "battle_id": 530020009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001270,
+            "limit_island_well_id": 1000001063,
+            "grade": 4,
+            "battle_id": 530020018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001271,
+            "limit_island_well_id": 1000001063,
+            "grade": 5,
+            "battle_id": 530020019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001272,
+            "limit_island_well_id": 1000001063,
+            "grade": 6,
+            "battle_id": 530020020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001273,
+            "limit_island_well_id": 1000001063,
+            "grade": 7,
+            "battle_id": 530020021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001274,
+            "limit_island_well_id": 1000001064,
+            "grade": 1,
+            "battle_id": 530000004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001275,
+            "limit_island_well_id": 1000001064,
+            "grade": 2,
+            "battle_id": 530000005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001276,
+            "limit_island_well_id": 1000001064,
+            "grade": 3,
+            "battle_id": 530000006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001277,
+            "limit_island_well_id": 1000001064,
+            "grade": 4,
+            "battle_id": 530000020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001278,
+            "limit_island_well_id": 1000001064,
+            "grade": 5,
+            "battle_id": 530000021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001279,
+            "limit_island_well_id": 1000001064,
+            "grade": 6,
+            "battle_id": 530000022,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001280,
+            "limit_island_well_id": 1000001064,
+            "grade": 7,
+            "battle_id": 530000023,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001281,
+            "limit_island_well_id": 1000001065,
+            "grade": 1,
+            "battle_id": 530010001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001282,
+            "limit_island_well_id": 1000001065,
+            "grade": 2,
+            "battle_id": 530010004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001283,
+            "limit_island_well_id": 1000001065,
+            "grade": 3,
+            "battle_id": 530010007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001284,
+            "limit_island_well_id": 1000001065,
+            "grade": 4,
+            "battle_id": 530010010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001285,
+            "limit_island_well_id": 1000001065,
+            "grade": 5,
+            "battle_id": 530010011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001286,
+            "limit_island_well_id": 1000001065,
+            "grade": 6,
+            "battle_id": 530010012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001287,
+            "limit_island_well_id": 1000001065,
+            "grade": 7,
+            "battle_id": 530010013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001288,
+            "limit_island_well_id": 1000001066,
+            "grade": 1,
+            "battle_id": 530020004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001289,
+            "limit_island_well_id": 1000001066,
+            "grade": 2,
+            "battle_id": 530020005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001290,
+            "limit_island_well_id": 1000001066,
+            "grade": 3,
+            "battle_id": 530020006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001291,
+            "limit_island_well_id": 1000001066,
+            "grade": 4,
+            "battle_id": 530020014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001292,
+            "limit_island_well_id": 1000001066,
+            "grade": 5,
+            "battle_id": 530020015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001293,
+            "limit_island_well_id": 1000001066,
+            "grade": 6,
+            "battle_id": 530020016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001294,
+            "limit_island_well_id": 1000001066,
+            "grade": 7,
+            "battle_id": 530020017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001295,
+            "limit_island_well_id": 1000001067,
+            "grade": 1,
+            "battle_id": 530050002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001296,
+            "limit_island_well_id": 1000001067,
+            "grade": 2,
+            "battle_id": 530050005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001297,
+            "limit_island_well_id": 1000001067,
+            "grade": 3,
+            "battle_id": 530050008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001298,
+            "limit_island_well_id": 1000001067,
+            "grade": 4,
+            "battle_id": 530050013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001299,
+            "limit_island_well_id": 1000001067,
+            "grade": 5,
+            "battle_id": 530050014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001300,
+            "limit_island_well_id": 1000001067,
+            "grade": 6,
+            "battle_id": 530050015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001301,
+            "limit_island_well_id": 1000001067,
+            "grade": 7,
+            "battle_id": 530050016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001302,
+            "limit_island_well_id": 1000001068,
+            "grade": 1,
+            "battle_id": 530020007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001303,
+            "limit_island_well_id": 1000001068,
+            "grade": 2,
+            "battle_id": 530020008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001304,
+            "limit_island_well_id": 1000001068,
+            "grade": 3,
+            "battle_id": 530020009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001305,
+            "limit_island_well_id": 1000001068,
+            "grade": 4,
+            "battle_id": 530020018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001306,
+            "limit_island_well_id": 1000001068,
+            "grade": 5,
+            "battle_id": 530020019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001307,
+            "limit_island_well_id": 1000001068,
+            "grade": 6,
+            "battle_id": 530020020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001308,
+            "limit_island_well_id": 1000001068,
+            "grade": 7,
+            "battle_id": 530020021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001309,
+            "limit_island_well_id": 1000001069,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001310,
+            "limit_island_well_id": 1000001069,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001311,
+            "limit_island_well_id": 1000001069,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001312,
+            "limit_island_well_id": 1000001069,
+            "grade": 4,
+            "battle_id": 530010018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001313,
+            "limit_island_well_id": 1000001069,
+            "grade": 5,
+            "battle_id": 530010019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001314,
+            "limit_island_well_id": 1000001069,
+            "grade": 6,
+            "battle_id": 530010020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001315,
+            "limit_island_well_id": 1000001069,
+            "grade": 7,
+            "battle_id": 530010021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001316,
+            "limit_island_well_id": 1000001070,
+            "grade": 1,
+            "battle_id": 530010002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001317,
+            "limit_island_well_id": 1000001070,
+            "grade": 2,
+            "battle_id": 530010005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001318,
+            "limit_island_well_id": 1000001070,
+            "grade": 3,
+            "battle_id": 530010008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001319,
+            "limit_island_well_id": 1000001070,
+            "grade": 4,
+            "battle_id": 530010014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001320,
+            "limit_island_well_id": 1000001070,
+            "grade": 5,
+            "battle_id": 530010015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001321,
+            "limit_island_well_id": 1000001070,
+            "grade": 6,
+            "battle_id": 530010016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001322,
+            "limit_island_well_id": 1000001070,
+            "grade": 7,
+            "battle_id": 530010017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001323,
+            "limit_island_well_id": 1000001071,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001324,
+            "limit_island_well_id": 1000001071,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001325,
+            "limit_island_well_id": 1000001071,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001326,
+            "limit_island_well_id": 1000001071,
+            "grade": 4,
+            "battle_id": 530050009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001327,
+            "limit_island_well_id": 1000001071,
+            "grade": 5,
+            "battle_id": 530050010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001328,
+            "limit_island_well_id": 1000001071,
+            "grade": 6,
+            "battle_id": 530050011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001329,
+            "limit_island_well_id": 1000001071,
+            "grade": 7,
+            "battle_id": 530050012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001330,
+            "limit_island_well_id": 1000001072,
+            "grade": 1,
+            "battle_id": 530010001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001331,
+            "limit_island_well_id": 1000001072,
+            "grade": 2,
+            "battle_id": 530010004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001332,
+            "limit_island_well_id": 1000001072,
+            "grade": 3,
+            "battle_id": 530010007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001333,
+            "limit_island_well_id": 1000001072,
+            "grade": 4,
+            "battle_id": 530010010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001334,
+            "limit_island_well_id": 1000001072,
+            "grade": 5,
+            "battle_id": 530010011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001335,
+            "limit_island_well_id": 1000001072,
+            "grade": 6,
+            "battle_id": 530010012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001336,
+            "limit_island_well_id": 1000001072,
+            "grade": 7,
+            "battle_id": 530010013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001337,
+            "limit_island_well_id": 1000001073,
+            "grade": 1,
+            "battle_id": 530020007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001338,
+            "limit_island_well_id": 1000001073,
+            "grade": 2,
+            "battle_id": 530020008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001339,
+            "limit_island_well_id": 1000001073,
+            "grade": 3,
+            "battle_id": 530020009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001340,
+            "limit_island_well_id": 1000001073,
+            "grade": 4,
+            "battle_id": 530020018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001341,
+            "limit_island_well_id": 1000001073,
+            "grade": 5,
+            "battle_id": 530020019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001342,
+            "limit_island_well_id": 1000001073,
+            "grade": 6,
+            "battle_id": 530020020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001343,
+            "limit_island_well_id": 1000001073,
+            "grade": 7,
+            "battle_id": 530020021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001344,
+            "limit_island_well_id": 1000001074,
+            "grade": 1,
+            "battle_id": 530030001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001345,
+            "limit_island_well_id": 1000001074,
+            "grade": 2,
+            "battle_id": 530030004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001346,
+            "limit_island_well_id": 1000001074,
+            "grade": 3,
+            "battle_id": 530030007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001347,
+            "limit_island_well_id": 1000001074,
+            "grade": 4,
+            "battle_id": 530030014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001348,
+            "limit_island_well_id": 1000001074,
+            "grade": 5,
+            "battle_id": 530030015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001349,
+            "limit_island_well_id": 1000001074,
+            "grade": 6,
+            "battle_id": 530030016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001350,
+            "limit_island_well_id": 1000001074,
+            "grade": 7,
+            "battle_id": 530030017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001351,
+            "limit_island_well_id": 1000001075,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001352,
+            "limit_island_well_id": 1000001075,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001353,
+            "limit_island_well_id": 1000001075,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001354,
+            "limit_island_well_id": 1000001075,
+            "grade": 4,
+            "battle_id": 530010018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001355,
+            "limit_island_well_id": 1000001075,
+            "grade": 5,
+            "battle_id": 530010019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001356,
+            "limit_island_well_id": 1000001075,
+            "grade": 6,
+            "battle_id": 530010020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001357,
+            "limit_island_well_id": 1000001075,
+            "grade": 7,
+            "battle_id": 530010021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001358,
+            "limit_island_well_id": 1000001076,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001359,
+            "limit_island_well_id": 1000001076,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001360,
+            "limit_island_well_id": 1000001076,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001361,
+            "limit_island_well_id": 1000001076,
+            "grade": 4,
+            "battle_id": 530020010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001362,
+            "limit_island_well_id": 1000001076,
+            "grade": 5,
+            "battle_id": 530020011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001363,
+            "limit_island_well_id": 1000001076,
+            "grade": 6,
+            "battle_id": 530020012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001364,
+            "limit_island_well_id": 1000001076,
+            "grade": 7,
+            "battle_id": 530020013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001365,
+            "limit_island_well_id": 1000001077,
+            "grade": 1,
+            "battle_id": 530030003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001366,
+            "limit_island_well_id": 1000001077,
+            "grade": 2,
+            "battle_id": 530030006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001367,
+            "limit_island_well_id": 1000001077,
+            "grade": 3,
+            "battle_id": 530030009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001368,
+            "limit_island_well_id": 1000001077,
+            "grade": 4,
+            "battle_id": 530030018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001369,
+            "limit_island_well_id": 1000001077,
+            "grade": 5,
+            "battle_id": 530030019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001370,
+            "limit_island_well_id": 1000001077,
+            "grade": 6,
+            "battle_id": 530030020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001371,
+            "limit_island_well_id": 1000001077,
+            "grade": 7,
+            "battle_id": 530030021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001372,
+            "limit_island_well_id": 1000001078,
+            "grade": 1,
+            "battle_id": 530050002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001373,
+            "limit_island_well_id": 1000001078,
+            "grade": 2,
+            "battle_id": 530050005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001374,
+            "limit_island_well_id": 1000001078,
+            "grade": 3,
+            "battle_id": 530050008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001375,
+            "limit_island_well_id": 1000001078,
+            "grade": 4,
+            "battle_id": 530050013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001376,
+            "limit_island_well_id": 1000001078,
+            "grade": 5,
+            "battle_id": 530050014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001377,
+            "limit_island_well_id": 1000001078,
+            "grade": 6,
+            "battle_id": 530050015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001378,
+            "limit_island_well_id": 1000001078,
+            "grade": 7,
+            "battle_id": 530050016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001379,
+            "limit_island_well_id": 1000001079,
+            "grade": 1,
+            "battle_id": 530000013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001380,
+            "limit_island_well_id": 1000001079,
+            "grade": 2,
+            "battle_id": 530000014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001381,
+            "limit_island_well_id": 1000001079,
+            "grade": 3,
+            "battle_id": 530000015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001382,
+            "limit_island_well_id": 1000001079,
+            "grade": 4,
+            "battle_id": 530000024,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001383,
+            "limit_island_well_id": 1000001079,
+            "grade": 5,
+            "battle_id": 530000025,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001384,
+            "limit_island_well_id": 1000001079,
+            "grade": 6,
+            "battle_id": 530000026,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001385,
+            "limit_island_well_id": 1000001079,
+            "grade": 7,
+            "battle_id": 530000027,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001386,
+            "limit_island_well_id": 1000001080,
+            "grade": 1,
+            "battle_id": 530010001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001387,
+            "limit_island_well_id": 1000001080,
+            "grade": 2,
+            "battle_id": 530010004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001388,
+            "limit_island_well_id": 1000001080,
+            "grade": 3,
+            "battle_id": 530010007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001389,
+            "limit_island_well_id": 1000001080,
+            "grade": 4,
+            "battle_id": 530010010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001390,
+            "limit_island_well_id": 1000001080,
+            "grade": 5,
+            "battle_id": 530010011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001391,
+            "limit_island_well_id": 1000001080,
+            "grade": 6,
+            "battle_id": 530010012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001392,
+            "limit_island_well_id": 1000001080,
+            "grade": 7,
+            "battle_id": 530010013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001393,
+            "limit_island_well_id": 1000001081,
+            "grade": 1,
+            "battle_id": 530020004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001394,
+            "limit_island_well_id": 1000001081,
+            "grade": 2,
+            "battle_id": 530020005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001395,
+            "limit_island_well_id": 1000001081,
+            "grade": 3,
+            "battle_id": 530020006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001396,
+            "limit_island_well_id": 1000001081,
+            "grade": 4,
+            "battle_id": 530020014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001397,
+            "limit_island_well_id": 1000001081,
+            "grade": 5,
+            "battle_id": 530020015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001398,
+            "limit_island_well_id": 1000001081,
+            "grade": 6,
+            "battle_id": 530020016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001399,
+            "limit_island_well_id": 1000001081,
+            "grade": 7,
+            "battle_id": 530020017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001400,
+            "limit_island_well_id": 1000001082,
+            "grade": 1,
+            "battle_id": 530030002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001401,
+            "limit_island_well_id": 1000001082,
+            "grade": 2,
+            "battle_id": 530030005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001402,
+            "limit_island_well_id": 1000001082,
+            "grade": 3,
+            "battle_id": 530030008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001403,
+            "limit_island_well_id": 1000001082,
+            "grade": 4,
+            "battle_id": 530030010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001404,
+            "limit_island_well_id": 1000001082,
+            "grade": 5,
+            "battle_id": 530030011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001405,
+            "limit_island_well_id": 1000001082,
+            "grade": 6,
+            "battle_id": 530030012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001406,
+            "limit_island_well_id": 1000001082,
+            "grade": 7,
+            "battle_id": 530030013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001407,
+            "limit_island_well_id": 1000001083,
+            "grade": 1,
+            "battle_id": 530020004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001408,
+            "limit_island_well_id": 1000001083,
+            "grade": 2,
+            "battle_id": 530020005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001409,
+            "limit_island_well_id": 1000001083,
+            "grade": 3,
+            "battle_id": 530020006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001410,
+            "limit_island_well_id": 1000001083,
+            "grade": 4,
+            "battle_id": 530020014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001411,
+            "limit_island_well_id": 1000001083,
+            "grade": 5,
+            "battle_id": 530020015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001412,
+            "limit_island_well_id": 1000001083,
+            "grade": 6,
+            "battle_id": 530020016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001413,
+            "limit_island_well_id": 1000001083,
+            "grade": 7,
+            "battle_id": 530020017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001414,
+            "limit_island_well_id": 1000001084,
+            "grade": 1,
+            "battle_id": 530010002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001415,
+            "limit_island_well_id": 1000001084,
+            "grade": 2,
+            "battle_id": 530010005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001416,
+            "limit_island_well_id": 1000001084,
+            "grade": 3,
+            "battle_id": 530010008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001417,
+            "limit_island_well_id": 1000001084,
+            "grade": 4,
+            "battle_id": 530010014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001418,
+            "limit_island_well_id": 1000001084,
+            "grade": 5,
+            "battle_id": 530010015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001419,
+            "limit_island_well_id": 1000001084,
+            "grade": 6,
+            "battle_id": 530010016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001420,
+            "limit_island_well_id": 1000001084,
+            "grade": 7,
+            "battle_id": 530010017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001421,
+            "limit_island_well_id": 1000001085,
+            "grade": 1,
+            "battle_id": 530030003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001422,
+            "limit_island_well_id": 1000001085,
+            "grade": 2,
+            "battle_id": 530030006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001423,
+            "limit_island_well_id": 1000001085,
+            "grade": 3,
+            "battle_id": 530030009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001424,
+            "limit_island_well_id": 1000001085,
+            "grade": 4,
+            "battle_id": 530030018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001425,
+            "limit_island_well_id": 1000001085,
+            "grade": 5,
+            "battle_id": 530030019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001426,
+            "limit_island_well_id": 1000001085,
+            "grade": 6,
+            "battle_id": 530030020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001427,
+            "limit_island_well_id": 1000001085,
+            "grade": 7,
+            "battle_id": 530030021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001428,
+            "limit_island_well_id": 1000001086,
+            "grade": 1,
+            "battle_id": 530020004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001429,
+            "limit_island_well_id": 1000001086,
+            "grade": 2,
+            "battle_id": 530020005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001430,
+            "limit_island_well_id": 1000001086,
+            "grade": 3,
+            "battle_id": 530020006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001431,
+            "limit_island_well_id": 1000001086,
+            "grade": 4,
+            "battle_id": 530020014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001432,
+            "limit_island_well_id": 1000001086,
+            "grade": 5,
+            "battle_id": 530020015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001433,
+            "limit_island_well_id": 1000001086,
+            "grade": 6,
+            "battle_id": 530020016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001434,
+            "limit_island_well_id": 1000001086,
+            "grade": 7,
+            "battle_id": 530020017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001435,
+            "limit_island_well_id": 1000001087,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001436,
+            "limit_island_well_id": 1000001087,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001437,
+            "limit_island_well_id": 1000001087,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001438,
+            "limit_island_well_id": 1000001087,
+            "grade": 4,
+            "battle_id": 530010018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001439,
+            "limit_island_well_id": 1000001087,
+            "grade": 5,
+            "battle_id": 530010019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001440,
+            "limit_island_well_id": 1000001087,
+            "grade": 6,
+            "battle_id": 530010020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001441,
+            "limit_island_well_id": 1000001087,
+            "grade": 7,
+            "battle_id": 530010021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001442,
+            "limit_island_well_id": 1000001088,
+            "grade": 1,
+            "battle_id": 530030003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001443,
+            "limit_island_well_id": 1000001088,
+            "grade": 2,
+            "battle_id": 530030006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001444,
+            "limit_island_well_id": 1000001088,
+            "grade": 3,
+            "battle_id": 530030009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001445,
+            "limit_island_well_id": 1000001088,
+            "grade": 4,
+            "battle_id": 530030018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001446,
+            "limit_island_well_id": 1000001088,
+            "grade": 5,
+            "battle_id": 530030019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001447,
+            "limit_island_well_id": 1000001088,
+            "grade": 6,
+            "battle_id": 530030020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001448,
+            "limit_island_well_id": 1000001088,
+            "grade": 7,
+            "battle_id": 530030021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001449,
+            "limit_island_well_id": 1000001089,
+            "grade": 1,
+            "battle_id": 530030002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001450,
+            "limit_island_well_id": 1000001089,
+            "grade": 2,
+            "battle_id": 530030005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001451,
+            "limit_island_well_id": 1000001089,
+            "grade": 3,
+            "battle_id": 530030008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001452,
+            "limit_island_well_id": 1000001089,
+            "grade": 4,
+            "battle_id": 530030010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001453,
+            "limit_island_well_id": 1000001089,
+            "grade": 5,
+            "battle_id": 530030011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001454,
+            "limit_island_well_id": 1000001089,
+            "grade": 6,
+            "battle_id": 530030012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001455,
+            "limit_island_well_id": 1000001089,
+            "grade": 7,
+            "battle_id": 530030013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001456,
+            "limit_island_well_id": 1000001090,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001457,
+            "limit_island_well_id": 1000001090,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001458,
+            "limit_island_well_id": 1000001090,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001459,
+            "limit_island_well_id": 1000001090,
+            "grade": 4,
+            "battle_id": 530010018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001460,
+            "limit_island_well_id": 1000001090,
+            "grade": 5,
+            "battle_id": 530010019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001461,
+            "limit_island_well_id": 1000001090,
+            "grade": 6,
+            "battle_id": 530010020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001462,
+            "limit_island_well_id": 1000001090,
+            "grade": 7,
+            "battle_id": 530010021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001463,
+            "limit_island_well_id": 1000001091,
+            "grade": 1,
+            "battle_id": 530030002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001464,
+            "limit_island_well_id": 1000001091,
+            "grade": 2,
+            "battle_id": 530030005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001465,
+            "limit_island_well_id": 1000001091,
+            "grade": 3,
+            "battle_id": 530030008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001466,
+            "limit_island_well_id": 1000001091,
+            "grade": 4,
+            "battle_id": 530030010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001467,
+            "limit_island_well_id": 1000001091,
+            "grade": 5,
+            "battle_id": 530030011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001468,
+            "limit_island_well_id": 1000001091,
+            "grade": 6,
+            "battle_id": 530030012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001469,
+            "limit_island_well_id": 1000001091,
+            "grade": 7,
+            "battle_id": 530030013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001470,
+            "limit_island_well_id": 1000001092,
+            "grade": 1,
+            "battle_id": 530020004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001471,
+            "limit_island_well_id": 1000001092,
+            "grade": 2,
+            "battle_id": 530020005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001472,
+            "limit_island_well_id": 1000001092,
+            "grade": 3,
+            "battle_id": 530020006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001473,
+            "limit_island_well_id": 1000001092,
+            "grade": 4,
+            "battle_id": 530020014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001474,
+            "limit_island_well_id": 1000001092,
+            "grade": 5,
+            "battle_id": 530020015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001475,
+            "limit_island_well_id": 1000001092,
+            "grade": 6,
+            "battle_id": 530020016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001476,
+            "limit_island_well_id": 1000001092,
+            "grade": 7,
+            "battle_id": 530020017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001477,
+            "limit_island_well_id": 1000001093,
+            "grade": 1,
+            "battle_id": 530010002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001478,
+            "limit_island_well_id": 1000001093,
+            "grade": 2,
+            "battle_id": 530010005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001479,
+            "limit_island_well_id": 1000001093,
+            "grade": 3,
+            "battle_id": 530010008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001480,
+            "limit_island_well_id": 1000001093,
+            "grade": 4,
+            "battle_id": 530010014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001481,
+            "limit_island_well_id": 1000001093,
+            "grade": 5,
+            "battle_id": 530010015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001482,
+            "limit_island_well_id": 1000001093,
+            "grade": 6,
+            "battle_id": 530010016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001483,
+            "limit_island_well_id": 1000001093,
+            "grade": 7,
+            "battle_id": 530010017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001484,
+            "limit_island_well_id": 1000001094,
+            "grade": 1,
+            "battle_id": 530030001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001485,
+            "limit_island_well_id": 1000001094,
+            "grade": 2,
+            "battle_id": 530030004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001486,
+            "limit_island_well_id": 1000001094,
+            "grade": 3,
+            "battle_id": 530030007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001487,
+            "limit_island_well_id": 1000001094,
+            "grade": 4,
+            "battle_id": 530030014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001488,
+            "limit_island_well_id": 1000001094,
+            "grade": 5,
+            "battle_id": 530030015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001489,
+            "limit_island_well_id": 1000001094,
+            "grade": 6,
+            "battle_id": 530030016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001490,
+            "limit_island_well_id": 1000001094,
+            "grade": 7,
+            "battle_id": 530030017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001491,
+            "limit_island_well_id": 1000001095,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001492,
+            "limit_island_well_id": 1000001095,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001493,
+            "limit_island_well_id": 1000001095,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001494,
+            "limit_island_well_id": 1000001095,
+            "grade": 4,
+            "battle_id": 530050009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001495,
+            "limit_island_well_id": 1000001095,
+            "grade": 5,
+            "battle_id": 530050010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001496,
+            "limit_island_well_id": 1000001095,
+            "grade": 6,
+            "battle_id": 530050011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001497,
+            "limit_island_well_id": 1000001095,
+            "grade": 7,
+            "battle_id": 530050012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001498,
+            "limit_island_well_id": 1000001096,
+            "grade": 1,
+            "battle_id": 530010002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001499,
+            "limit_island_well_id": 1000001096,
+            "grade": 2,
+            "battle_id": 530010005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001500,
+            "limit_island_well_id": 1000001096,
+            "grade": 3,
+            "battle_id": 530010008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001501,
+            "limit_island_well_id": 1000001096,
+            "grade": 4,
+            "battle_id": 530010014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001502,
+            "limit_island_well_id": 1000001096,
+            "grade": 5,
+            "battle_id": 530010015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001503,
+            "limit_island_well_id": 1000001096,
+            "grade": 6,
+            "battle_id": 530010016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001504,
+            "limit_island_well_id": 1000001096,
+            "grade": 7,
+            "battle_id": 530010017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001505,
+            "limit_island_well_id": 1000001097,
+            "grade": 1,
+            "battle_id": 530020004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001506,
+            "limit_island_well_id": 1000001097,
+            "grade": 2,
+            "battle_id": 530020005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001507,
+            "limit_island_well_id": 1000001097,
+            "grade": 3,
+            "battle_id": 530020006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001508,
+            "limit_island_well_id": 1000001097,
+            "grade": 4,
+            "battle_id": 530020014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001509,
+            "limit_island_well_id": 1000001097,
+            "grade": 5,
+            "battle_id": 530020015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001510,
+            "limit_island_well_id": 1000001097,
+            "grade": 6,
+            "battle_id": 530020016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001511,
+            "limit_island_well_id": 1000001097,
+            "grade": 7,
+            "battle_id": 530020017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001512,
+            "limit_island_well_id": 1000001098,
+            "grade": 1,
+            "battle_id": 530000004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001513,
+            "limit_island_well_id": 1000001098,
+            "grade": 2,
+            "battle_id": 530000005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001514,
+            "limit_island_well_id": 1000001098,
+            "grade": 3,
+            "battle_id": 530000006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001515,
+            "limit_island_well_id": 1000001098,
+            "grade": 4,
+            "battle_id": 530000020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001516,
+            "limit_island_well_id": 1000001098,
+            "grade": 5,
+            "battle_id": 530000021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001517,
+            "limit_island_well_id": 1000001098,
+            "grade": 6,
+            "battle_id": 530000022,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001518,
+            "limit_island_well_id": 1000001098,
+            "grade": 7,
+            "battle_id": 530000023,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001519,
+            "limit_island_well_id": 1000001099,
+            "grade": 1,
+            "battle_id": 530000013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001520,
+            "limit_island_well_id": 1000001099,
+            "grade": 2,
+            "battle_id": 530000014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001521,
+            "limit_island_well_id": 1000001099,
+            "grade": 3,
+            "battle_id": 530000015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001522,
+            "limit_island_well_id": 1000001099,
+            "grade": 4,
+            "battle_id": 530000024,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001523,
+            "limit_island_well_id": 1000001099,
+            "grade": 5,
+            "battle_id": 530000025,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001524,
+            "limit_island_well_id": 1000001099,
+            "grade": 6,
+            "battle_id": 530000026,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001525,
+            "limit_island_well_id": 1000001099,
+            "grade": 7,
+            "battle_id": 530000027,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001526,
+            "limit_island_well_id": 1000001100,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001527,
+            "limit_island_well_id": 1000001100,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001528,
+            "limit_island_well_id": 1000001100,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001529,
+            "limit_island_well_id": 1000001100,
+            "grade": 4,
+            "battle_id": 530050009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001530,
+            "limit_island_well_id": 1000001100,
+            "grade": 5,
+            "battle_id": 530050010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001531,
+            "limit_island_well_id": 1000001100,
+            "grade": 6,
+            "battle_id": 530050011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001532,
+            "limit_island_well_id": 1000001100,
+            "grade": 7,
+            "battle_id": 530050012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001533,
+            "limit_island_well_id": 1000001101,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001534,
+            "limit_island_well_id": 1000001101,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001535,
+            "limit_island_well_id": 1000001101,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001536,
+            "limit_island_well_id": 1000001101,
+            "grade": 4,
+            "battle_id": 530020010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001537,
+            "limit_island_well_id": 1000001101,
+            "grade": 5,
+            "battle_id": 530020011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001538,
+            "limit_island_well_id": 1000001101,
+            "grade": 6,
+            "battle_id": 530020012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001539,
+            "limit_island_well_id": 1000001101,
+            "grade": 7,
+            "battle_id": 530020013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001540,
+            "limit_island_well_id": 1000001102,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001541,
+            "limit_island_well_id": 1000001102,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001542,
+            "limit_island_well_id": 1000001102,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001543,
+            "limit_island_well_id": 1000001102,
+            "grade": 4,
+            "battle_id": 530010018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001544,
+            "limit_island_well_id": 1000001102,
+            "grade": 5,
+            "battle_id": 530010019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001545,
+            "limit_island_well_id": 1000001102,
+            "grade": 6,
+            "battle_id": 530010020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001546,
+            "limit_island_well_id": 1000001102,
+            "grade": 7,
+            "battle_id": 530010021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001547,
+            "limit_island_well_id": 1000001103,
+            "grade": 1,
+            "battle_id": 530050002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001548,
+            "limit_island_well_id": 1000001103,
+            "grade": 2,
+            "battle_id": 530050005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001549,
+            "limit_island_well_id": 1000001103,
+            "grade": 3,
+            "battle_id": 530050008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001550,
+            "limit_island_well_id": 1000001103,
+            "grade": 4,
+            "battle_id": 530050013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001551,
+            "limit_island_well_id": 1000001103,
+            "grade": 5,
+            "battle_id": 530050014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001552,
+            "limit_island_well_id": 1000001103,
+            "grade": 6,
+            "battle_id": 530050015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001553,
+            "limit_island_well_id": 1000001103,
+            "grade": 7,
+            "battle_id": 530050016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001554,
+            "limit_island_well_id": 1000001104,
+            "grade": 1,
+            "battle_id": 530020001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001555,
+            "limit_island_well_id": 1000001104,
+            "grade": 2,
+            "battle_id": 530020002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001556,
+            "limit_island_well_id": 1000001104,
+            "grade": 3,
+            "battle_id": 530020003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001557,
+            "limit_island_well_id": 1000001104,
+            "grade": 4,
+            "battle_id": 530020010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001558,
+            "limit_island_well_id": 1000001104,
+            "grade": 5,
+            "battle_id": 530020011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001559,
+            "limit_island_well_id": 1000001104,
+            "grade": 6,
+            "battle_id": 530020012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001560,
+            "limit_island_well_id": 1000001104,
+            "grade": 7,
+            "battle_id": 530020013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001561,
+            "limit_island_well_id": 1000001105,
+            "grade": 1,
+            "battle_id": 530010002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001562,
+            "limit_island_well_id": 1000001105,
+            "grade": 2,
+            "battle_id": 530010005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001563,
+            "limit_island_well_id": 1000001105,
+            "grade": 3,
+            "battle_id": 530010008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001564,
+            "limit_island_well_id": 1000001105,
+            "grade": 4,
+            "battle_id": 530010014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001565,
+            "limit_island_well_id": 1000001105,
+            "grade": 5,
+            "battle_id": 530010015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001566,
+            "limit_island_well_id": 1000001105,
+            "grade": 6,
+            "battle_id": 530010016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001567,
+            "limit_island_well_id": 1000001105,
+            "grade": 7,
+            "battle_id": 530010017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001568,
+            "limit_island_well_id": 1000001106,
+            "grade": 1,
+            "battle_id": 530030003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001569,
+            "limit_island_well_id": 1000001106,
+            "grade": 2,
+            "battle_id": 530030006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001570,
+            "limit_island_well_id": 1000001106,
+            "grade": 3,
+            "battle_id": 530030009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001571,
+            "limit_island_well_id": 1000001106,
+            "grade": 4,
+            "battle_id": 530030018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001572,
+            "limit_island_well_id": 1000001106,
+            "grade": 5,
+            "battle_id": 530030019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001573,
+            "limit_island_well_id": 1000001106,
+            "grade": 6,
+            "battle_id": 530030020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001574,
+            "limit_island_well_id": 1000001106,
+            "grade": 7,
+            "battle_id": 530030021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001575,
+            "limit_island_well_id": 1000001107,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001576,
+            "limit_island_well_id": 1000001107,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001577,
+            "limit_island_well_id": 1000001107,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001578,
+            "limit_island_well_id": 1000001107,
+            "grade": 4,
+            "battle_id": 530050009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001579,
+            "limit_island_well_id": 1000001107,
+            "grade": 5,
+            "battle_id": 530050010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001580,
+            "limit_island_well_id": 1000001107,
+            "grade": 6,
+            "battle_id": 530050011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001581,
+            "limit_island_well_id": 1000001107,
+            "grade": 7,
+            "battle_id": 530050012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001582,
+            "limit_island_well_id": 1000001108,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001583,
+            "limit_island_well_id": 1000001108,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001584,
+            "limit_island_well_id": 1000001108,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001585,
+            "limit_island_well_id": 1000001108,
+            "grade": 4,
+            "battle_id": 530010018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001586,
+            "limit_island_well_id": 1000001108,
+            "grade": 5,
+            "battle_id": 530010019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001587,
+            "limit_island_well_id": 1000001108,
+            "grade": 6,
+            "battle_id": 530010020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001588,
+            "limit_island_well_id": 1000001108,
+            "grade": 7,
+            "battle_id": 530010021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001589,
+            "limit_island_well_id": 1000001109,
+            "grade": 1,
+            "battle_id": 530050002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001590,
+            "limit_island_well_id": 1000001109,
+            "grade": 2,
+            "battle_id": 530050005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001591,
+            "limit_island_well_id": 1000001109,
+            "grade": 3,
+            "battle_id": 530050008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001592,
+            "limit_island_well_id": 1000001109,
+            "grade": 4,
+            "battle_id": 530050013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001593,
+            "limit_island_well_id": 1000001109,
+            "grade": 5,
+            "battle_id": 530050014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001594,
+            "limit_island_well_id": 1000001109,
+            "grade": 6,
+            "battle_id": 530050015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001595,
+            "limit_island_well_id": 1000001109,
+            "grade": 7,
+            "battle_id": 530050016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001596,
+            "limit_island_well_id": 1000001110,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001597,
+            "limit_island_well_id": 1000001110,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001598,
+            "limit_island_well_id": 1000001110,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001599,
+            "limit_island_well_id": 1000001110,
+            "grade": 4,
+            "battle_id": 530050009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001600,
+            "limit_island_well_id": 1000001110,
+            "grade": 5,
+            "battle_id": 530050010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001601,
+            "limit_island_well_id": 1000001110,
+            "grade": 6,
+            "battle_id": 530050011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001602,
+            "limit_island_well_id": 1000001110,
+            "grade": 7,
+            "battle_id": 530050012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001603,
+            "limit_island_well_id": 1000001111,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001604,
+            "limit_island_well_id": 1000001111,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001605,
+            "limit_island_well_id": 1000001111,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001606,
+            "limit_island_well_id": 1000001111,
+            "grade": 4,
+            "battle_id": 530010018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001607,
+            "limit_island_well_id": 1000001111,
+            "grade": 5,
+            "battle_id": 530010019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001608,
+            "limit_island_well_id": 1000001111,
+            "grade": 6,
+            "battle_id": 530010020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001609,
+            "limit_island_well_id": 1000001111,
+            "grade": 7,
+            "battle_id": 530010021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001610,
+            "limit_island_well_id": 1000001112,
+            "grade": 1,
+            "battle_id": 530000001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001611,
+            "limit_island_well_id": 1000001112,
+            "grade": 2,
+            "battle_id": 530000002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001612,
+            "limit_island_well_id": 1000001112,
+            "grade": 3,
+            "battle_id": 530030002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001613,
+            "limit_island_well_id": 1000001112,
+            "grade": 4,
+            "battle_id": 530030005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001614,
+            "limit_island_well_id": 1000001112,
+            "grade": 5,
+            "battle_id": 530030008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001615,
+            "limit_island_well_id": 1000001112,
+            "grade": 6,
+            "battle_id": 530000016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001616,
+            "limit_island_well_id": 1000001112,
+            "grade": 7,
+            "battle_id": 530000017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001617,
+            "limit_island_well_id": 1000001113,
+            "grade": 1,
+            "battle_id": 530050002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001618,
+            "limit_island_well_id": 1000001113,
+            "grade": 2,
+            "battle_id": 530050005,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001619,
+            "limit_island_well_id": 1000001113,
+            "grade": 3,
+            "battle_id": 530050008,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001620,
+            "limit_island_well_id": 1000001113,
+            "grade": 4,
+            "battle_id": 530050013,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001621,
+            "limit_island_well_id": 1000001113,
+            "grade": 5,
+            "battle_id": 530050014,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001622,
+            "limit_island_well_id": 1000001113,
+            "grade": 6,
+            "battle_id": 530050015,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001623,
+            "limit_island_well_id": 1000001113,
+            "grade": 7,
+            "battle_id": 530050016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001624,
+            "limit_island_well_id": 1000001114,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001625,
+            "limit_island_well_id": 1000001114,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001626,
+            "limit_island_well_id": 1000001114,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001627,
+            "limit_island_well_id": 1000001114,
+            "grade": 4,
+            "battle_id": 530010018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001628,
+            "limit_island_well_id": 1000001114,
+            "grade": 5,
+            "battle_id": 530010019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001629,
+            "limit_island_well_id": 1000001114,
+            "grade": 6,
+            "battle_id": 530010020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001630,
+            "limit_island_well_id": 1000001114,
+            "grade": 7,
+            "battle_id": 530010021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001631,
+            "limit_island_well_id": 1000001115,
+            "grade": 1,
+            "battle_id": 530010003,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001632,
+            "limit_island_well_id": 1000001115,
+            "grade": 2,
+            "battle_id": 530010006,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001633,
+            "limit_island_well_id": 1000001115,
+            "grade": 3,
+            "battle_id": 530010009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001634,
+            "limit_island_well_id": 1000001115,
+            "grade": 4,
+            "battle_id": 530010018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001635,
+            "limit_island_well_id": 1000001115,
+            "grade": 5,
+            "battle_id": 530010019,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001636,
+            "limit_island_well_id": 1000001115,
+            "grade": 6,
+            "battle_id": 530010020,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001637,
+            "limit_island_well_id": 1000001115,
+            "grade": 7,
+            "battle_id": 530010021,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001638,
+            "limit_island_well_id": 1000001116,
+            "grade": 1,
+            "battle_id": 530050001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001639,
+            "limit_island_well_id": 1000001116,
+            "grade": 2,
+            "battle_id": 530050004,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001640,
+            "limit_island_well_id": 1000001116,
+            "grade": 3,
+            "battle_id": 530050007,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001641,
+            "limit_island_well_id": 1000001116,
+            "grade": 4,
+            "battle_id": 530050009,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001642,
+            "limit_island_well_id": 1000001116,
+            "grade": 5,
+            "battle_id": 530050010,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001643,
+            "limit_island_well_id": 1000001116,
+            "grade": 6,
+            "battle_id": 530050011,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001644,
+            "limit_island_well_id": 1000001116,
+            "grade": 7,
+            "battle_id": 530050012,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001645,
+            "limit_island_well_id": 1000001117,
+            "grade": 1,
+            "battle_id": 530000001,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001646,
+            "limit_island_well_id": 1000001117,
+            "grade": 2,
+            "battle_id": 530000002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001647,
+            "limit_island_well_id": 1000001117,
+            "grade": 3,
+            "battle_id": 530030002,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001648,
+            "limit_island_well_id": 1000001117,
+            "grade": 4,
+            "battle_id": 530000016,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001649,
+            "limit_island_well_id": 1000001117,
+            "grade": 5,
+            "battle_id": 530000017,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001650,
+            "limit_island_well_id": 1000001117,
+            "grade": 6,
+            "battle_id": 530000018,
+            "twitter_button_id": 0
+        },
+        {
+            "id": 1000001651,
+            "limit_island_well_id": 1000001117,
+            "grade": 7,
+            "battle_id": 530000019,
+            "twitter_button_id": 0
+        }
+    ]
+}

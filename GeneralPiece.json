@@ -1,0 +1,38 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -8506741551614647058
+    },
+    "m_Name": "GeneralPiece",
+    "objectArray": [
+        {
+            "id": 103001,
+            "name": "Bronze Piece",
+            "flavor_text": "A Style Piece that can be used to unlock the level cap for any A-Rank Style.",
+            "icon": 103001,
+            "selling_price": 0,
+            "sort_order": 49999990
+        },
+        {
+            "id": 104001,
+            "name": "Silver Piece",
+            "flavor_text": "A Style Piece that can be used to unlock the level cap for any S-Rank Style.",
+            "icon": 104001,
+            "selling_price": 0,
+            "sort_order": 49999995
+        },
+        {
+            "id": 105001,
+            "name": "Gold Piece",
+            "flavor_text": "A Style Piece that can be used to unlock the level cap for any SS-Rank Style.",
+            "icon": 105001,
+            "selling_price": 0,
+            "sort_order": 50000000
+        }
+    ]
+}

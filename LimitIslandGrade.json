@@ -1,0 +1,56 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -440606320047186576
+    },
+    "m_Name": "LimitIslandGrade",
+    "objectArray": [
+        {
+            "id": 1,
+            "name": "Stage 1",
+            "min_score": 10000,
+            "max_score": 40000
+        },
+        {
+            "id": 2,
+            "name": "Stage 2",
+            "min_score": 20000,
+            "max_score": 80000
+        },
+        {
+            "id": 3,
+            "name": "Stage 3",
+            "min_score": 40000,
+            "max_score": 160000
+        },
+        {
+            "id": 4,
+            "name": "Stage 4",
+            "min_score": 70000,
+            "max_score": 280000
+        },
+        {
+            "id": 5,
+            "name": "Stage 5",
+            "min_score": 110000,
+            "max_score": 440000
+        },
+        {
+            "id": 6,
+            "name": "Stage 6",
+            "min_score": 160000,
+            "max_score": 640000
+        },
+        {
+            "id": 7,
+            "name": "Stage 7",
+            "min_score": 220000,
+            "max_score": 880000
+        }
+    ]
+}

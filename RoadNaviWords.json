@@ -1,0 +1,34 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7859763423657158618
+    },
+    "m_Name": "RoadNaviWords",
+    "objectArray": [
+        {
+            "id": 1,
+            "text": "How are you feeling?"
+        },
+        {
+            "id": 2,
+            "text": "No need to hurry. Take your time."
+        },
+        {
+            "id": 3,
+            "text": "You need a break sometimes."
+        },
+        {
+            "id": 4,
+            "text": "Goal for today reached!"
+        },
+        {
+            "id": 5,
+            "text": "Met {0} people so far!"
+        }
+    ]
+}

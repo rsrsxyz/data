@@ -1,0 +1,21 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7354360770052272252
+    },
+    "m_Name": "RoadStrollEvent",
+    "objectArray": [
+        {
+            "id": 1,
+            "steps": 500,
+            "meet_rate": 20,
+            "bg_change_rate": 15,
+            "formation_change_rate": 10
+        }
+    ]
+}

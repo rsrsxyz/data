@@ -1,0 +1,161 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7256285137428589921
+    },
+    "m_Name": "ReunionTips",
+    "objectArray": [
+        {
+            "id": 900001,
+            "text": "[Objective of Battle Historia] The objective is to defeat the Boss at the end of your adventure. Check Map>BOSS for details.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900002,
+            "text": "[Battle Historia Special Rule 1] During your adventure, your party's HP and LP will carry over after battles. Try not to take too much damage.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900003,
+            "text": "[Battle Historia Special Rule 2] All skills are set to Rank 99, and all Styles are set to Lv 30. Your Styles will have all their abilities unlocked.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900004,
+            "text": "[Assigning Warriors] Each adventure begins with a new party. When you start Historia, you will have five random Styles assigned to your party.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900005,
+            "text": "[Types of Map Tiles] On the map, there are many types of tiles such as Style, Event, Party Ability, Normal Foe, Mighty Foe tiles, and more.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900006,
+            "text": "[Style Tiles] You can choose 1 out of 3 Styles to swap with an existing member in your party.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900007,
+            "text": "[Party Ability Tiles] You can choose 1 out of 3 party abilities.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900008,
+            "text": "[Normal Foe Tiles] A battle with the enemy awaits. The further you go, the stronger the enemies become.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900009,
+            "text": "[Mighty Foe Tiles] A battle with the mighty foe awaits. Party members will develop greatly and you will get better rewards.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900010,
+            "text": "[Surprise Attack] Right before a battle, there is a chance that a Normal Foe battle will turn into a Mighty Foe battle.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900011,
+            "text": "[Treasure Chest Tiles] If you succeed in opening the treasure chest, your party will be enhanced, but if you fail, there will be a penalty.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900012,
+            "text": "[Treasure Chests (Random)] Right before you move to the next tile, there is a chance that a treasure chest will appear. Decide carefully if you want to open it.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900013,
+            "text": "[Grasp/Learn When Recruiting Warriors] When a warrior joins, the new recruit will learn as many skills/spells as the Style that left your party had learned.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900014,
+            "text": "[Style Swap] On Style tiles, you can swap the Style you’ve selected with a Style in your party. Styles of the same character cannot be in the party at the same time.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900015,
+            "text": "[Dodge Skills] In Battle Historia, you can learn dodge skills. Once a dodge skill is learned, you will completely dodge the skill/spell when an enemy uses it.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900016,
+            "text": "[Grasp/Learn] In Battle Historia, depending on the weapon type/spell affinity, Styles can learn skills/spells that were originally unavailable to them.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900017,
+            "text": "[Items] Consume items in battle to help the party pre-action. The amount of effect is based on the average of the party members' attributes.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900018,
+            "text": "[Party Abilities] Available only in Battle Historia. The effect applies to the entire party.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900019,
+            "text": "[HP Recovery on Map] Styles with 2 or more LP can use 1 LP to fully restore HP.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900020,
+            "text": "[Give Up] Give up on the adventure and end the Historia. It is one way to quit gracefully if you feel you cannot go any further on the map.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        },
+        {
+            "id": 900021,
+            "text": "[Results] On the Results screen, you can view your adventure log. Look back on your one and only adventure.",
+            "weight": 100,
+            "start_at": 1670295600,
+            "end_at": 1893351600
+        }
+    ]
+}

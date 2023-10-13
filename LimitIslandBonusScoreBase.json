@@ -1,0 +1,29 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5955617245106786965
+    },
+    "m_Name": "LimitIslandBonusScoreBase",
+    "objectArray": [
+        {
+            "id": 1001,
+            "type": "kizetsu",
+            "score_weight": 1
+        },
+        {
+            "id": 1002,
+            "type": "damage",
+            "score_weight": 1
+        },
+        {
+            "id": 1003,
+            "type": "action_count",
+            "score_weight": 4
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 9089231119716034567
+    },
+    "m_Name": "RoadNaviCondition",
+    "objectArray": [
+        {
+            "id": 1,
+            "value": 10
+        },
+        {
+            "id": 2,
+            "value": 100
+        },
+        {
+            "id": 3,
+            "value": 1000
+        },
+        {
+            "id": 4,
+            "value": 10000
+        },
+        {
+            "id": 5,
+            "value": 100000
+        },
+        {
+            "id": 6,
+            "value": 1000000
+        }
+    ]
+}

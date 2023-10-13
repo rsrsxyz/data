@@ -1,0 +1,54 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7768198162335159651
+    },
+    "m_Name": "LimitIslandTotalScoreRank",
+    "objectArray": [
+        {
+            "id": 1001,
+            "rank": "E",
+            "score": 0
+        },
+        {
+            "id": 1002,
+            "rank": "D",
+            "score": 100000
+        },
+        {
+            "id": 1003,
+            "rank": "C",
+            "score": 250000
+        },
+        {
+            "id": 1004,
+            "rank": "B",
+            "score": 450000
+        },
+        {
+            "id": 1005,
+            "rank": "A",
+            "score": 700000
+        },
+        {
+            "id": 1006,
+            "rank": "S",
+            "score": 1050000
+        },
+        {
+            "id": 1007,
+            "rank": "SS",
+            "score": 1485000
+        },
+        {
+            "id": 1008,
+            "rank": "SSS",
+            "score": 2200000
+        }
+    ]
+}

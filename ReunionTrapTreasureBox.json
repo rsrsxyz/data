@@ -1,0 +1,30 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -782078168952532784
+    },
+    "m_Name": "ReunionTrapTreasureBox",
+    "objectArray": [
+        {
+            "id": 10100001,
+            "success_rate": 20
+        },
+        {
+            "id": 10100002,
+            "success_rate": 50
+        },
+        {
+            "id": 10100003,
+            "success_rate": 80
+        },
+        {
+            "id": 10300001,
+            "success_rate": 80
+        }
+    ]
+}

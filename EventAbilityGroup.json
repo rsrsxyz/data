@@ -1,0 +1,4104 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 2639549561571075706
+    },
+    "m_Name": "EventAbilityGroup",
+    "objectArray": [
+        {
+            "id": 110,
+            "event_ability_category_id": 1000000001,
+            "name": "[Limited Time] Ellen's Memories I",
+            "prefix": "",
+            "flavor_text": "2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 1
+        },
+        {
+            "id": 222,
+            "event_ability_category_id": 33,
+            "name": "Super Huge Mochi Tower! I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Super Huge Mochi Tower!<br>・Piping Hot Mochi drop +10%",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 33
+        },
+        {
+            "id": 223,
+            "event_ability_category_id": 33,
+            "name": "Super Huge Mochi Tower! II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Super Huge Mochi Tower!<br>・Piping Hot Mochi drop +20%",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 33
+        },
+        {
+            "id": 224,
+            "event_ability_category_id": 33,
+            "name": "Super Huge Mochi Tower! III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Super Huge Mochi Tower!<br>・Piping Hot Mochi drop +50%",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 33
+        },
+        {
+            "id": 225,
+            "event_ability_category_id": 28,
+            "name": "Monika's Christmas Operation I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Monika's Christmas Operation<br>・Christmas Present drop +10%",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 28
+        },
+        {
+            "id": 226,
+            "event_ability_category_id": 28,
+            "name": "Monika's Christmas Operation II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Monika's Christmas Operation<br>・Christmas Present drop +20%",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 28
+        },
+        {
+            "id": 227,
+            "event_ability_category_id": 28,
+            "name": "Monika's Christmas Operation III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Monika's Christmas Operation<br>・Christmas Present drop +50%",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 28
+        },
+        {
+            "id": 228,
+            "event_ability_category_id": 29,
+            "name": "Christmas Miracle I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Christmas Miracle<br>・Thoughtful Present drop +10%",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 29
+        },
+        {
+            "id": 229,
+            "event_ability_category_id": 29,
+            "name": "Christmas Miracle II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Christmas Miracle<br>・Thoughtful Present drop +20%",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 29
+        },
+        {
+            "id": 230,
+            "event_ability_category_id": 29,
+            "name": "Christmas Miracle III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Christmas Miracle<br>・Thoughtful Present drop +50%",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 29
+        },
+        {
+            "id": 344,
+            "event_ability_category_id": 106,
+            "name": "Fake Tower & The Mystic Lord I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・偽の塔と妖魔の君で能力値アップ時上昇量が3倍＆【青薔薇】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 450
+        },
+        {
+            "id": 345,
+            "event_ability_category_id": 106,
+            "name": "Fake Tower & The Mystic Lord I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 445
+        },
+        {
+            "id": 346,
+            "event_ability_category_id": 107,
+            "name": "Fake Tower & The Mystic Lord II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・偽の塔と妖魔の君で能力値アップ時上昇量が2倍＆【青薔薇】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 440
+        },
+        {
+            "id": 347,
+            "event_ability_category_id": 107,
+            "name": "Fake Tower & The Mystic Lord II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 435
+        },
+        {
+            "id": 355,
+            "event_ability_category_id": 109,
+            "name": "Battle with Blackworm",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・玄蟲との戦いで能力値アップ時の上昇量が3倍＆【水珠】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 485
+        },
+        {
+            "id": 356,
+            "event_ability_category_id": 109,
+            "name": "Battle with Blackworm",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・玄蟲との戦い（Hard~UltraHard）で【フライパン】が追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 480
+        },
+        {
+            "id": 357,
+            "event_ability_category_id": 110,
+            "name": "Battle with Blackworm (Club)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・玄蟲との戦いで能力値アップ時の上昇量が2倍＆【水珠】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 475
+        },
+        {
+            "id": 358,
+            "event_ability_category_id": 110,
+            "name": "Battle with Blackworm (Club)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・玄蟲との戦い（Hard~UltraHard）で【フライパン】が追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 474
+        },
+        {
+            "id": 359,
+            "event_ability_category_id": 111,
+            "name": "Sage of the Isle of Beginnings I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・始まりの島の賢者で能力値アップ時上昇量3倍＆【トマトジュース】が追加ドロップ＆【べちょべちょのアレ】ドロップ量50%UP<br>・メインで能力値アップ時上昇量2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 515
+        },
+        {
+            "id": 360,
+            "event_ability_category_id": 111,
+            "name": "Sage of the Isle of Beginnings I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 510
+        },
+        {
+            "id": 361,
+            "event_ability_category_id": 112,
+            "name": "Sage of the Isle of Beginnings II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・始まりの島の賢者で能力値アップ時上昇量3倍＆【トマトジュース】が追加ドロップ＆【べちょべちょのアレ】ドロップ量20%UP<br>・メインで能力値アップ時上昇量2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 505
+        },
+        {
+            "id": 362,
+            "event_ability_category_id": 112,
+            "name": "Sage of the Isle of Beginnings II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 500
+        },
+        {
+            "id": 363,
+            "event_ability_category_id": 113,
+            "name": "Sage of the Isle of Beginnings (M. Arts)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・始まりの島の賢者で能力値アップ時上昇量2倍＆【トマトジュース】が追加ドロップ＆【べちょべちょのアレ】ドロップ量20%UP<br>・メインで能力値アップ時上昇量2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 495
+        },
+        {
+            "id": 364,
+            "event_ability_category_id": 113,
+            "name": "Sage of the Isle of Beginnings (M. Arts)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 490
+        },
+        {
+            "id": 365,
+            "event_ability_category_id": 114,
+            "name": "Narwhal's Daughter & Mermaid Potion I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・海の主の娘と人魚薬で、能力値アップ時上昇量3倍＆【パール】ドロップ量50%UP＆【オーシャンパール】追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 530
+        },
+        {
+            "id": 366,
+            "event_ability_category_id": 115,
+            "name": "Narwhal's Daughter & Mermaid Potion II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・海の主の娘と人魚薬で、能力値アップ時上昇量3倍＆【パール】ドロップ量20%UP＆【オーシャンパール】追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 525
+        },
+        {
+            "id": 367,
+            "event_ability_category_id": 116,
+            "name": "Narwhal's Daughter & Mermaid Potion III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・海の主の娘と人魚薬で、能力値アップ時上昇量3倍＆【パール】ドロップ量10%UP＆【オーシャンパール】追加ドロップ<br>・メインで能力値アップ時上昇量2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 520
+        },
+        {
+            "id": 368,
+            "event_ability_category_id": 117,
+            "name": "Battle with Blackworm (Heat)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・玄蟲との戦いで能力値アップ時の上昇量が2倍＆【水珠】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 473
+        },
+        {
+            "id": 369,
+            "event_ability_category_id": 117,
+            "name": "Battle with Blackworm (Heat)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・玄蟲との戦い（Hard~UltraHard）で【フライパン】が追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 472
+        },
+        {
+            "id": 370,
+            "event_ability_category_id": 118,
+            "name": "Endless Training with Silver",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・シルバー親分との三番稽古で能力値アップ時上昇量が3倍＆【銀の鱗】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 545
+        },
+        {
+            "id": 371,
+            "event_ability_category_id": 119,
+            "name": "Endless Training with Silver (Club)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・シルバー親分との三番稽古で能力値アップ時上昇量が2倍＆【銀の鱗】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 540
+        },
+        {
+            "id": 372,
+            "event_ability_category_id": 120,
+            "name": "Endless Training with Silver (Sun)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・シルバー親分との三番稽古で能力値アップ時上昇量が2倍＆【銀の鱗】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 535
+        },
+        {
+            "id": 373,
+            "event_ability_category_id": 121,
+            "name": "Cave of Gear Holy Stones (M. Arts)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 550
+        },
+        {
+            "id": 374,
+            "event_ability_category_id": 122,
+            "name": "Main Ch. 2, Ep. 5 Opening (M. Arts)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "2x attribute gains in Main Story/all 7 Ruins Exploration areas",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 555
+        },
+        {
+            "id": 375,
+            "event_ability_category_id": 123,
+            "name": "Main Ch. 2, Ep. 5 Opening (Heat)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "2x attribute gains in Main Story/all 7 Ruins Exploration areas",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 560
+        },
+        {
+            "id": 376,
+            "event_ability_category_id": 124,
+            "name": "Main Ch. 2, Ep. 5 Opening (UDX Summon)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "メイン、遺跡潜り7種で能力値アップ時の上昇量が3倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 565
+        },
+        {
+            "id": 377,
+            "event_ability_category_id": 118,
+            "name": "Endless Training with Silver",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 543
+        },
+        {
+            "id": 378,
+            "event_ability_category_id": 119,
+            "name": "Endless Training with Silver (Club)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 537
+        },
+        {
+            "id": 379,
+            "event_ability_category_id": 120,
+            "name": "Endless Training with Silver (Sun)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 533
+        },
+        {
+            "id": 380,
+            "event_ability_category_id": 125,
+            "name": "SaGa 30th Anniversary - Human Male",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "•Right Door (Human Male): 5x attribute gains & bonus Laser Amplifier drops",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 665
+        },
+        {
+            "id": 381,
+            "event_ability_category_id": 125,
+            "name": "SaGa 30th Anniversary - Human Male",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・左手の扉（にんげんおんな）で能力値アップ時上昇量が3倍＆つめとぎ石が追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 660
+        },
+        {
+            "id": 382,
+            "event_ability_category_id": 125,
+            "name": "SaGa 30th Anniversary - Human Male",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・シルクハットの扉（エスパーギャル）で能力値アップ時上昇量が3倍＆魔力のもとが追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 655
+        },
+        {
+            "id": 383,
+            "event_ability_category_id": 125,
+            "name": "SaGa 30th Anniversary - Human Male",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 650
+        },
+        {
+            "id": 384,
+            "event_ability_category_id": 126,
+            "name": "SaGa 30th Anniversary - Human Female",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "•Left Door (Human Female): 5x attribute gains & bonus Claw Sharpener drops",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 645
+        },
+        {
+            "id": 385,
+            "event_ability_category_id": 126,
+            "name": "SaGa 30th Anniversary - Human Female",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・右手の扉（にんげんおとこ）で能力値アップ時上昇量が3倍＆レーザー増幅器が追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 640
+        },
+        {
+            "id": 386,
+            "event_ability_category_id": 126,
+            "name": "SaGa 30th Anniversary - Human Female",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・シルクハットの扉（エスパーギャル）で能力値アップ時上昇量が3倍＆魔力のもとが追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 635
+        },
+        {
+            "id": 387,
+            "event_ability_category_id": 126,
+            "name": "SaGa 30th Anniversary - Human Female",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 630
+        },
+        {
+            "id": 388,
+            "event_ability_category_id": 127,
+            "name": "SaGa 30th Anniversary - Esper Girl",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "•Silkhat Door (Esper Girl): 5x attribute gains & bonus Magic Essence drops",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 625
+        },
+        {
+            "id": 389,
+            "event_ability_category_id": 127,
+            "name": "SaGa 30th Anniversary - Esper Girl",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・右手の扉（にんげんおとこ）で能力値アップ時上昇量が3倍＆レーザー増幅器が追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 620
+        },
+        {
+            "id": 390,
+            "event_ability_category_id": 127,
+            "name": "SaGa 30th Anniversary - Esper Girl",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・左手の扉（にんげんおんな）で能力値アップ時上昇量が3倍＆つめとぎ石が追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 615
+        },
+        {
+            "id": 391,
+            "event_ability_category_id": 127,
+            "name": "SaGa 30th Anniversary - Esper Girl",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 610
+        },
+        {
+            "id": 392,
+            "event_ability_category_id": 128,
+            "name": "SaGa 30th Anniversary - Round 1",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・右手の扉（にんげんおとこ）で能力値アップ時上昇量が3倍＆レーザー増幅器が追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 605
+        },
+        {
+            "id": 393,
+            "event_ability_category_id": 128,
+            "name": "SaGa 30th Anniversary - Round 1",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・左手の扉（にんげんおんな）で能力値アップ時上昇量が3倍＆つめとぎ石が追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 600
+        },
+        {
+            "id": 394,
+            "event_ability_category_id": 128,
+            "name": "SaGa 30th Anniversary - Round 1",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・シルクハットの扉（エスパーギャル）で能力値アップ時上昇量が3倍＆魔力のもとが追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 595
+        },
+        {
+            "id": 395,
+            "event_ability_category_id": 128,
+            "name": "SaGa 30th Anniversary - Round 1",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 590
+        },
+        {
+            "id": 396,
+            "event_ability_category_id": 129,
+            "name": "SaGa 30th Anniversary RS1/2/3 Boot Camp",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・右手の扉（にんげんおとこ）で能力値アップ時上昇量が3倍＆レーザー増幅器が追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 585
+        },
+        {
+            "id": 397,
+            "event_ability_category_id": 129,
+            "name": "SaGa 30th Anniversary RS1/2/3 Boot Camp",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・左手の扉（にんげんおんな）で能力値アップ時上昇量が3倍＆つめとぎ石が追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 580
+        },
+        {
+            "id": 398,
+            "event_ability_category_id": 129,
+            "name": "SaGa 30th Anniversary RS1/2/3 Boot Camp",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・シルクハットの扉（エスパーギャル）で能力値アップ時上昇量が3倍＆魔力のもとが追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 575
+        },
+        {
+            "id": 399,
+            "event_ability_category_id": 129,
+            "name": "SaGa 30th Anniversary RS1/2/3 Boot Camp",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 570
+        },
+        {
+            "id": 400,
+            "event_ability_category_id": 130,
+            "name": "The Hero of Yarmouth! I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "Triples attribute gains for The Hero of Yarmouth! (double for Main Story), [Yellow Flower] drops +50% & bonus [Yellow Bouquet] drops",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 568
+        },
+        {
+            "id": 401,
+            "event_ability_category_id": 131,
+            "name": "The Hero of Yarmouth! II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "Triples attribute gains for The Hero of Yarmouth! (double for Main Story), [Yellow Flower] drops +20% & bonus [Yellow Bouquet] drops",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 567
+        },
+        {
+            "id": 402,
+            "event_ability_category_id": 132,
+            "name": "The Hero of Yarmouth! III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "Triples attribute gains for The Hero of Yarmouth! (double for Main Story), [Yellow Flower] drops +10% & bonus [Yellow Bouquet] drops",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 566
+        },
+        {
+            "id": 403,
+            "event_ability_category_id": 133,
+            "name": "SaGa 30th Anniversary Quest",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "Bonus Style Piece drops for SaGa 30th Anniversary Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 569
+        },
+        {
+            "id": 404,
+            "event_ability_category_id": 128,
+            "name": "SaGa 30th Anniversary - Round 1",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 587
+        },
+        {
+            "id": 405,
+            "event_ability_category_id": 129,
+            "name": "SaGa 30th Anniversary RS1/2/3 Boot Camp",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 556
+        },
+        {
+            "id": 406,
+            "event_ability_category_id": 134,
+            "name": "Cave of Gear Holy Stones (Gun)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 550
+        },
+        {
+            "id": 407,
+            "event_ability_category_id": 135,
+            "name": "SaGa 30th Anniversary - Round 2",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・総力戦！かみのゲームで能力値アップ時上昇量が3倍<br>・メインで能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 670
+        },
+        {
+            "id": 408,
+            "event_ability_category_id": 136,
+            "name": "SaGa 30th Anniversary SF1/2 Boot Camp",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・総力戦！かみのゲームで能力値アップ時上昇量が3倍<br>・メインで能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 675
+        },
+        {
+            "id": 409,
+            "event_ability_category_id": 137,
+            "name": "SaGa 30th Anniversary: Pierce",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・総力戦！かみのゲームで能力値アップ時上昇量が2倍<br>・メインで能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 680
+        },
+        {
+            "id": 410,
+            "event_ability_category_id": 138,
+            "name": "SaGa 30th Anniversary: Slash",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・総力戦！かみのゲームで能力値アップ時上昇量が2倍<br>・メインで能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 685
+        },
+        {
+            "id": 411,
+            "event_ability_category_id": 139,
+            "name": "SaGa 30th Anniversary: Blunt",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・総力戦！かみのゲームで能力値アップ時上昇量が2倍<br>・メインで能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 690
+        },
+        {
+            "id": 412,
+            "event_ability_category_id": 140,
+            "name": "SaGa 30th Anniversary: Cold",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・総力戦！かみのゲームで能力値アップ時上昇量が2倍<br>・メインで能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 695
+        },
+        {
+            "id": 413,
+            "event_ability_category_id": 141,
+            "name": "SaGa 30th Anniversary: Shadow",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・総力戦！かみのゲームで能力値アップ時上昇量が2倍<br>・メインで能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 700
+        },
+        {
+            "id": 414,
+            "event_ability_category_id": 142,
+            "name": "SaGa 30th Anniversary - Round 3",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・アポロンとの戦いで能力値アップ時上昇量が3倍＆【焔鳥のうろこ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 715
+        },
+        {
+            "id": 415,
+            "event_ability_category_id": 143,
+            "name": "SaGa 30th Anniversary - Round 3 (Blunt)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・アポロンとの戦いで能力値アップ時上昇量が2倍＆【焔鳥のうろこ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 710
+        },
+        {
+            "id": 416,
+            "event_ability_category_id": 144,
+            "name": "SaGa 30th Anniversary - Round 3 (Heat)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・アポロンとの戦いで能力値アップ時上昇量が2倍＆【焔鳥のうろこ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 705
+        },
+        {
+            "id": 417,
+            "event_ability_category_id": 145,
+            "name": "SaGa 30th Anniversary SaGaRS/SSG/ES/US",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・アポロンとの戦いで能力値アップ時上昇量が3倍＆【焔鳥のうろこ】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 720
+        },
+        {
+            "id": 418,
+            "event_ability_category_id": 135,
+            "name": "SaGa 30th Anniversary - Round 2",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 668
+        },
+        {
+            "id": 419,
+            "event_ability_category_id": 136,
+            "name": "SaGa 30th Anniversary SF1/2 Boot Camp",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 673
+        },
+        {
+            "id": 420,
+            "event_ability_category_id": 137,
+            "name": "SaGa 30th Anniversary: Pierce",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 678
+        },
+        {
+            "id": 421,
+            "event_ability_category_id": 138,
+            "name": "SaGa 30th Anniversary: Slash",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 683
+        },
+        {
+            "id": 422,
+            "event_ability_category_id": 139,
+            "name": "SaGa 30th Anniversary: Blunt",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 688
+        },
+        {
+            "id": 423,
+            "event_ability_category_id": 140,
+            "name": "SaGa 30th Anniversary: Cold",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 693
+        },
+        {
+            "id": 424,
+            "event_ability_category_id": 141,
+            "name": "SaGa 30th Anniversary: Shadow",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 698
+        },
+        {
+            "id": 425,
+            "event_ability_category_id": 146,
+            "name": "SaGa 30th Anniversary SaGa1/2 Boot Camp",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・メインで能力値アップ時上昇量が3倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 703
+        },
+        {
+            "id": 426,
+            "event_ability_category_id": 147,
+            "name": "SaGa 30th Anniversary SaGa Series",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・メインで能力値アップ時上昇量が3倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 708
+        },
+        {
+            "id": 427,
+            "event_ability_category_id": 148,
+            "name": "Cave of Holy Stones (Sun)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 702
+        },
+        {
+            "id": 428,
+            "event_ability_category_id": 149,
+            "name": "RS1/MS Boot Camp",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・メインで能力値アップ時上昇量が3倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 725
+        },
+        {
+            "id": 429,
+            "event_ability_category_id": 150,
+            "name": "Divine Tower: Darque",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "•Triples attribute gains for Divine Tower Darque, bonus [S Darque Piece] drops<br>•Doubles attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 790
+        },
+        {
+            "id": 430,
+            "event_ability_category_id": 150,
+            "name": "Divine Tower: Darque",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 785
+        },
+        {
+            "id": 431,
+            "event_ability_category_id": 151,
+            "name": "Shadow in the Cave of Holy Stones",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石洞窟に潜む影で能力値アップ時上昇量が3倍＆【きれいな石(黒)[期間限定]】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 770
+        },
+        {
+            "id": 433,
+            "event_ability_category_id": 151,
+            "name": "Shadow in the Cave of Holy Stones",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 760
+        },
+        {
+            "id": 434,
+            "event_ability_category_id": 152,
+            "name": "Shadow in the Cave of Holy Stones (Spear)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "•Triples attribute gains for Shadow in the Cave of Holy Stones, bonus [Precious Stone (Black) Ltd. Time] drops<br>•Doubles attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 740
+        },
+        {
+            "id": 436,
+            "event_ability_category_id": 152,
+            "name": "Shadow in the Cave of Holy Stones (Spear)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 730
+        },
+        {
+            "id": 437,
+            "event_ability_category_id": 153,
+            "name": "Shadow in the Cave of Holy Stones (RS1/MS)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石洞窟に潜む影で能力値アップ時上昇量が3倍＆【きれいな石(黒)[期間限定]】が追加ドロップ<br>・メインで能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 755
+        },
+        {
+            "id": 439,
+            "event_ability_category_id": 153,
+            "name": "Shadow in the Cave of Holy Stones (RS1/MS)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 745
+        },
+        {
+            "id": 440,
+            "event_ability_category_id": 154,
+            "name": "Divine Tower: Darque (S. Sword)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "•Doubles attribute gains for Divine Tower Darque, bonus [S Darque Piece] drops<br>•Doubles attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 780
+        },
+        {
+            "id": 441,
+            "event_ability_category_id": 154,
+            "name": "Divine Tower: Darque (S. Sword)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・聖石の洞窟で能力値アップ時の上昇量が2倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 775
+        },
+        {
+            "id": 442,
+            "event_ability_category_id": 155,
+            "name": "Castle Party & Final Trial I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "•Triples attribute gains for Castle Party & Final Trial, bonus [Pumpkin Cake] drops & [Ghost Plushie] drops +50%<br>•Doubles attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 820
+        },
+        {
+            "id": 443,
+            "event_ability_category_id": 155,
+            "name": "Castle Party & Final Trial I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・ラバーウォームとの戦いで能力値アップ時上昇量3倍＆【おばけのぬいぐるみ】が追加ドロップ＆【カボチャのケーキ】が追加ドロップ＆S体術武器【ニクキュウ】が追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 815
+        },
+        {
+            "id": 444,
+            "event_ability_category_id": 156,
+            "name": "Castle Party & Final Trial II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "•Triples attribute gains for Castle Party & Final Trial, bonus [Pumpkin Cake] drops & [Ghost Plushie] drops +20%<br>•Doubles attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 810
+        },
+        {
+            "id": 445,
+            "event_ability_category_id": 156,
+            "name": "Castle Party & Final Trial II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・ラバーウォームとの戦いで能力値アップ時上昇量3倍＆【おばけのぬいぐるみ】が追加ドロップ＆【カボチャのケーキ】が追加ドロップ＆S体術武器【ニクキュウ】が追加ドロップ",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 805
+        },
+        {
+            "id": 446,
+            "event_ability_category_id": 157,
+            "name": "Castle Party & Final Trial (M. Arts)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "•Doubles attribute gains for Castle Party & Final Trial, bonus [Pumpkin Cake] drops & [Ghost Plushie] drops +20%<br>•Doubles attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 800
+        },
+        {
+            "id": 447,
+            "event_ability_category_id": 157,
+            "name": "Castle Party & Final Trial (M. Arts)",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "•Doubles attribute gains for Battle with Slugger, bonus [Ghost Plushie] and [Pumpkin Cake] drops & bonus S M. Arts Weapon [Cat's Paw] drop",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 795
+        },
+        {
+            "id": 448,
+            "event_ability_category_id": 158,
+            "name": "Skins Release Commem.",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "•Triples attribute gains for Castle Party & Final Trial<br>•Triples attribute gains for Battle with Slugger",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 845
+        },
+        {
+            "id": 449,
+            "event_ability_category_id": 158,
+            "name": "Skins Release Commem.",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・メインで能力値アップ時上昇量が3倍",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 840
+        },
+        {
+            "id": 450,
+            "event_ability_category_id": 159,
+            "name": "A Pidona Night's Dream I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "•Triples attribute gains for A Pidona Night's Dream, [Peculiar Treat] drops +50% & bonus [Pop'n Pumpkin] drops<br>•Doubles attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 835
+        },
+        {
+            "id": 451,
+            "event_ability_category_id": 160,
+            "name": "A Pidona Night's Dream II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "•Triples attribute gains for A Pidona Night's Dream, [Peculiar Treat] drops +20% & bonus [Pop'n Pumpkin] drops<br>•Doubles attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 830
+        },
+        {
+            "id": 452,
+            "event_ability_category_id": 161,
+            "name": "A Pidona Night's Dream III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "•Triples attribute gains for A Pidona Night's Dream, [Peculiar Treat] drops +10% & bonus [Pop'n Pumpkin] drops<br>•Doubles attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 825
+        },
+        {
+            "id": 1000000101,
+            "event_ability_category_id": 1000000002,
+            "name": "[Limited Time] Seven Heroes Pickup Summon",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests, and All 7 Ruins Exploration areas",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 34
+        },
+        {
+            "id": 1000000102,
+            "event_ability_category_id": 28,
+            "name": "[Limited Time] Christmas Operation I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main Ep. 1 to 5, and Monika's Christmas Operation<br>・Christmas Present drop +10% in Monika's Christmas Operation",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 28
+        },
+        {
+            "id": 1000000103,
+            "event_ability_category_id": 28,
+            "name": "[Limited Time] Christmas Operation II",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main Ep. 1 to 5, and Monika's Christmas Operation<br>・Christmas Present drop +20% in Monika's Christmas Operation",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 28
+        },
+        {
+            "id": 1000000104,
+            "event_ability_category_id": 28,
+            "name": "[Limited Time] Christmas Operation III",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main Ep. 1 to 5, and Monika's Christmas Operation<br>・Christmas Present drop +50% in Monika's Christmas Operation",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 28
+        },
+        {
+            "id": 1000000105,
+            "event_ability_category_id": 29,
+            "name": "[Limited Time] Christmas Miracle I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main Ep. 1 to 5, and Christmas Miracle<br>・Thoughtful Present drop +10% in Christmas Miracle",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 29
+        },
+        {
+            "id": 1000000106,
+            "event_ability_category_id": 29,
+            "name": "[Limited Time] Christmas Miracle II",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main Ep. 1 to 5, and Christmas Miracle<br>・Thoughtful Present drop +20% in Christmas Miracle",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 29
+        },
+        {
+            "id": 1000000107,
+            "event_ability_category_id": 29,
+            "name": "[Limited Time] Christmas Miracle III",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main Ep. 1 to 5, and Christmas Miracle<br>・Thoughtful Present drop +50% in Christmas Miracle",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 29
+        },
+        {
+            "id": 1000000108,
+            "event_ability_category_id": 33,
+            "name": "[Limited Time] Super Huge Mochi Tower! I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main Ep. 1 to 6, and Super Huge Mochi Tower<br>・Piping Hot Mochi drop +10% in Super Huge Mochi Tower",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 33
+        },
+        {
+            "id": 1000000109,
+            "event_ability_category_id": 33,
+            "name": "[Limited Time] Super Huge Mochi Tower! II",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main Ep. 1 to 6, and Super Huge Mochi Tower<br>・Piping Hot Mochi drop +20% in Super Huge Mochi Tower",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 33
+        },
+        {
+            "id": 1000000110,
+            "event_ability_category_id": 33,
+            "name": "[Limited Time] Super Huge Mochi Tower! III",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main Ep. 1 to 6, and Super Huge Mochi Tower<br>・Piping Hot Mochi drop +50% in Super Huge Mochi Tower",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 33
+        },
+        {
+            "id": 1000000111,
+            "event_ability_category_id": 1000000007,
+            "name": "[Limited Time] Seven Heroes Pickup Summon",
+            "prefix": "",
+            "flavor_text": "2x attribute gains in Main quests, and Demon Tower: Rocbouquet",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 40
+        },
+        {
+            "id": 1000000112,
+            "event_ability_category_id": 1000000003,
+            "name": "[Limited Time] Julian's Memories I",
+            "prefix": "",
+            "flavor_text": "2x attribute gains in Main quests, and Lost Memories: Julian",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 30
+        },
+        {
+            "id": 1000000113,
+            "event_ability_category_id": 1000000004,
+            "name": "[Limited Time] Special Pickup Summon",
+            "prefix": "",
+            "flavor_text": "2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 35
+        },
+        {
+            "id": 1000000114,
+            "event_ability_category_id": 1000000005,
+            "name": "[Limited Time] Monika's Memories",
+            "prefix": "",
+            "flavor_text": "2x attribute gains in Main quests, and Lost Memories: Monika",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 50
+        },
+        {
+            "id": 1000000115,
+            "event_ability_category_id": 1000000006,
+            "name": "[Limited Time] Special Pickup Summon",
+            "prefix": "",
+            "flavor_text": "2x attribute gains in Main quests, and Divine Tower: Cordelia",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 51
+        },
+        {
+            "id": 1000000122,
+            "event_ability_category_id": 1000000010,
+            "name": "[Limited Time] Seven Heroes Pickup Summon",
+            "prefix": "",
+            "flavor_text": "2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 55
+        },
+        {
+            "id": 1000000123,
+            "event_ability_category_id": 1000000011,
+            "name": "[Limited Time] Mikhail's Memories",
+            "prefix": "",
+            "flavor_text": "2x attribute gains in Main quests, and Lost Memories: Mikhail",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 54
+        },
+        {
+            "id": 1000000130,
+            "event_ability_category_id": 1000000015,
+            "name": "[Limited Time] Thomas's Memories",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests, and Lost Memories: Thomas",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 62
+        },
+        {
+            "id": 1000000135,
+            "event_ability_category_id": 1000000017,
+            "name": "[Limited Time] Divine Tower: Asellus",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests, and Divine Tower: Asellus",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 63
+        },
+        {
+            "id": 1000000136,
+            "event_ability_category_id": 1000000018,
+            "name": "[Limited Time] Divine Tower: Khalid",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests, and Divine Tower: Khalid",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 64
+        },
+        {
+            "id": 1000000137,
+            "event_ability_category_id": 1000000019,
+            "name": "[Limited Time] Romancing Festival",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 65
+        },
+        {
+            "id": 1000000141,
+            "event_ability_category_id": 1000000021,
+            "name": "[Limited Time] Battle with Dream Eater",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Battle with Dream Eater (2x in Main)<br>・Bonus Lament drops in Battle with Dream Eater<br>・Bonus Wedding Bouquet/Mini Bouquet drops in Battle with Dream Eater",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 67
+        },
+        {
+            "id": 1000000142,
+            "event_ability_category_id": 1000000022,
+            "name": "[Limited Time] Operation: Bag a Pet!",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Operation: Bag a Pet! (2x in Main)<br>・Bonus Bunnie Medal drops in Operation: Bag a Pet!",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 68
+        },
+        {
+            "id": 1000000146,
+            "event_ability_category_id": 1000000024,
+            "name": "[Limited Time] Battle with Genryu",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Battle with Genryu (2x in Main)<br>・Bonus Gleaming Sea Bow drops in Battle with Genryu<br>・Bonus Tropical Coconut/Coconut drops in Battle with Genryu",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 70
+        },
+        {
+            "id": 1000000147,
+            "event_ability_category_id": 1000000025,
+            "name": "[Limited Time] The Seekers' Path -Slash-",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 72
+        },
+        {
+            "id": 1000000148,
+            "event_ability_category_id": 1000000026,
+            "name": "[Limited Time] The Seekers' Path -Blunt-",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 73
+        },
+        {
+            "id": 1000000149,
+            "event_ability_category_id": 1000000027,
+            "name": "[Limited Time] The Seekers' Path -Pierce-",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 74
+        },
+        {
+            "id": 1000000150,
+            "event_ability_category_id": 1000000028,
+            "name": "[Limited Time] The Seekers' Path -Spell-",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 75
+        },
+        {
+            "id": 1000000151,
+            "event_ability_category_id": 1000000029,
+            "name": "[Limited Time] Pre-Halloween Celebrations",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 71
+        },
+        {
+            "id": 1000000155,
+            "event_ability_category_id": 1000000031,
+            "name": "[Limited Time] Battle at Haunted Estate",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Battle at Haunted Estate (2x in Main)<br>・Bonus Halloween Night drops in Battle at Haunted Estate<br>・Bonus Pop'n Pumpkin/Peculiar Treat drops in Battle at Haunted Estate",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 77
+        },
+        {
+            "id": 1000000159,
+            "event_ability_category_id": 1000000033,
+            "name": "[Limited Time] Battle with Water Dragon",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Battle with Water Dragon (2x in Main)<br>・Bonus Blue Flower drops in Battle with Water Dragon<br>・Bonus Ocean Pearl/Pearl drops in Battle with Water Dragon",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 80
+        },
+        {
+            "id": 1000000160,
+            "event_ability_category_id": 1000000034,
+            "name": "[Limited Time] Divine Tower: Coppelia",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Divine Tower: Coppelia (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 78
+        },
+        {
+            "id": 1000000161,
+            "event_ability_category_id": 1000000035,
+            "name": "[Limited Time] Romancing Award Quests",
+            "prefix": "",
+            "flavor_text": "Bonus Style Piece drops for the Styles you use when clearing Romancing Award Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 100
+        },
+        {
+            "id": 1000000162,
+            "event_ability_category_id": 1000000036,
+            "name": "[Limited Time] Pandemonium of Memory",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Pandemonium of Memory (2x in Main)<br>・Flurry Medal drop +10% in Pandemonium of Memory",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 81
+        },
+        {
+            "id": 1000000166,
+            "event_ability_category_id": 1000000038,
+            "name": "[Limited Time] Battle with Lizardman Lord",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Battle with Lizardman Lord (2x in Main)<br>・Bonus Moonlite drops in Battle with Lizardman Lord<br>・Bonus Yellow Flower/Yellow Bouquet drops in Battle with Lizardman Lord",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 83
+        },
+        {
+            "id": 1000000167,
+            "event_ability_category_id": 1000000039,
+            "name": "[Limited Time] Divine Tower: Claudia",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests, and Divine Tower: Claudia",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 84
+        },
+        {
+            "id": 1000000168,
+            "event_ability_category_id": 1000000040,
+            "name": "[Limited Time] Romancing Festival SP",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 88
+        },
+        {
+            "id": 1000000169,
+            "event_ability_category_id": 1000000041,
+            "name": "[Limited Time] Blue/Red Trial - Staff",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 86
+        },
+        {
+            "id": 1000000170,
+            "event_ability_category_id": 1000000042,
+            "name": "[Limited Time] Blue/Red Trial",
+            "prefix": "",
+            "flavor_text": "・Bonus Trial Key [Ltd. Time] drops in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 85
+        },
+        {
+            "id": 1000000174,
+            "event_ability_category_id": 1000000044,
+            "name": "[Limited Time] Battle with Barbarian",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Battle with Barbarian (2x in Main)<br>・Bonus Fall Foliage drops in Battle with Barbarian<br>・Bonus Polka Dot Towel/Peg Toy drops in Battle with Barbarian",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 90
+        },
+        {
+            "id": 1000000175,
+            "event_ability_category_id": 1000000045,
+            "name": "[Limited Time] Romancing Fest. Polka/Liz",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 92
+        },
+        {
+            "id": 1000000176,
+            "event_ability_category_id": 1000000046,
+            "name": "[Limited Time] Cave of Weapon Holy Stones",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Cave of Weapon Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 91
+        },
+        {
+            "id": 1000000177,
+            "event_ability_category_id": 1000000047,
+            "name": "[Limited Time] Half Anniversary: Path to Victory",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Half Anniversary: Path to Victory Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 200
+        },
+        {
+            "id": 1000000178,
+            "event_ability_category_id": 1000000048,
+            "name": "[Ltd. Time] Half Anniversary: The Final Battle",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Half Anniversary: The Final Battle",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 200
+        },
+        {
+            "id": 1000000179,
+            "event_ability_category_id": 1000000049,
+            "name": "[Ltd. Time] Defeat Sealord Forneus!",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Defeat Sealord Forneus!",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 100
+        },
+        {
+            "id": 1000000180,
+            "event_ability_category_id": 1000000050,
+            "name": "[Ltd. Time] Romancing Fest. Fuse",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 94
+        },
+        {
+            "id": 1000000181,
+            "event_ability_category_id": 1000000051,
+            "name": "[Ltd. Time] Romancing Fest. Princess White Rose",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 93
+        },
+        {
+            "id": 1000000182,
+            "event_ability_category_id": 1000000052,
+            "name": "[Ltd. Time] Half Anniversary: Yuletide",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Half Anniversary: Yuletide Appreciation",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 200
+        },
+        {
+            "id": 1000000183,
+            "event_ability_category_id": 1000000053,
+            "name": "[Ltd. Time] Romancing Fest. Cordelia",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 96
+        },
+        {
+            "id": 1000000184,
+            "event_ability_category_id": 1000000054,
+            "name": "[Ltd. Time] Romancing Fest. Asellus",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 95
+        },
+        {
+            "id": 1000000185,
+            "event_ability_category_id": 1000000055,
+            "name": "[Ltd. Time] Santa Clash",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Merry Christmas! Santa Clash",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 97
+        },
+        {
+            "id": 1000000186,
+            "event_ability_category_id": 1000000056,
+            "name": "[Ltd. Time] Main Story Expansion",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 98
+        },
+        {
+            "id": 1000000187,
+            "event_ability_category_id": 1000000057,
+            "name": "[Ltd. Time] Lucky New Year's",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Lucky New Year's quests",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 201
+        },
+        {
+            "id": 1000000190,
+            "event_ability_category_id": 1000000059,
+            "name": "[Ltd. Time] Battle with Gold Dragon",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Battle with Gold Dragon (2x in Main)<br>・Bonus (Water) Cherry Blossom drops in Battle with Gold Dragon<br>・Bonus Divine Liquor/Eyeless Daruma drops in Battle with Gold Dragon",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 100
+        },
+        {
+            "id": 1000000191,
+            "event_ability_category_id": 1000000060,
+            "name": "[Ltd. Time] Divine Tower: Gustave",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Divine Tower: Gustave and Cave of Armor Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 101
+        },
+        {
+            "id": 1000000192,
+            "event_ability_category_id": 1000000061,
+            "name": "[Ltd. Time] 200 Days! Special Pickup Summon",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 102
+        },
+        {
+            "id": 1000000193,
+            "event_ability_category_id": 1000000062,
+            "name": "[Ltd. Time] Happy Valentine Carnival",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Happy Valentine Carnival",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 200
+        },
+        {
+            "id": 1000000196,
+            "event_ability_category_id": 1000000064,
+            "name": "[Ltd. Time] Battle with Dullahan",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Battle with Dullahan (2x in Main)<br>・Bonus Presto Vivo drops in Battle with Dullahan<br>・Bonus Handmade Chocolate/Special Chocolate drops in Battle with Dullahan",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 104
+        },
+        {
+            "id": 1000000197,
+            "event_ability_category_id": 1000000065,
+            "name": "[Ltd. Time] Battle with Death",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Battle with Death (2x in Main)<br>・Bonus Bone Shard drops in Battle with Death",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 105
+        },
+        {
+            "id": 1000000198,
+            "event_ability_category_id": 1000000066,
+            "name": "[Ltd. Time] Battle with Byunei",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests, all 7 Ruins Exploration areas, and Battle with Byunei",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 106
+        },
+        {
+            "id": 1000000199,
+            "event_ability_category_id": 1000000067,
+            "name": "[Ltd. Time] Rally Against the Termites!",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Rally Against the Termites!",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 150
+        },
+        {
+            "id": 1000000200,
+            "event_ability_category_id": 1000000068,
+            "name": "[Ltd. Time] Romancing Fest. Final Emperor",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests, and all 7 Ruins Exploration areas",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 108
+        },
+        {
+            "id": 1000000201,
+            "event_ability_category_id": 1000000069,
+            "name": "[Ltd. Time] Romancing Fest. Katarina",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests, and all 7 Ruins Exploration areas",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 107
+        },
+        {
+            "id": 1000000202,
+            "event_ability_category_id": 1000000070,
+            "name": "[Ltd. Time] Romancing Fest. SP Monika",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests, and all 7 Ruins Exploration areas",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 112
+        },
+        {
+            "id": 1000000203,
+            "event_ability_category_id": 1000000071,
+            "name": "[Ltd. Time] Romancing Fest. Vampire Lady",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests, and all 7 Ruins Exploration areas",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 111
+        },
+        {
+            "id": 1000000204,
+            "event_ability_category_id": 1000000072,
+            "name": "[Ltd. Time] Boot Camp (S. Sword)",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Rally Against the Termites! (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 113
+        },
+        {
+            "id": 1000000205,
+            "event_ability_category_id": 1000000073,
+            "name": "[Ltd. Time] Pyrix: Commander of Fire",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Pyrix: Commander of Fire (2x in Main)<br>・Bonus Burnt Shard drops in Pyrix: Commander of Fire",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 110
+        },
+        {
+            "id": 1000000206,
+            "event_ability_category_id": 1000000074,
+            "name": "[Ltd. Time] Cave of Gear Holy Stones",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Cave of Gear Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 114
+        },
+        {
+            "id": 1000000212,
+            "event_ability_category_id": 1000000077,
+            "name": "[Ltd. Time] Intensive Course - Advanced",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests, and Sensei's Intensive Course - Advanced",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 117
+        },
+        {
+            "id": 1000000213,
+            "event_ability_category_id": 1000000078,
+            "name": "[Ltd. Time] Battle with Tanzer",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests, and Battle with Tanzer<br>・Bonus Junk drops in Battle with Tanzer",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 118
+        },
+        {
+            "id": 1000000214,
+            "event_ability_category_id": 1000000079,
+            "name": "[Ltd. Time] Divine Tower: Mirsa",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests, and Divine Tower: Mirsa<br>・Bonus S Mirsa Piece drops in Divine Tower: Mirsa",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 120
+        },
+        {
+            "id": 1000000215,
+            "event_ability_category_id": 1000000080,
+            "name": "[Ltd. Time] Cave of Weapon Holy Stones",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests, and Cave of Weapon Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 119
+        },
+        {
+            "id": 1000000216,
+            "event_ability_category_id": 1000000081,
+            "name": "[Ltd. Time] Cave of Armor Holy Stones",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests, and Cave of Armor Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 121
+        },
+        {
+            "id": 1000000217,
+            "event_ability_category_id": 1000000082,
+            "name": "[Ltd. Time] Romancing Saga: Sun+Lightning",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Conquer Romancing Saga Prefecture (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 122
+        },
+        {
+            "id": 1000000218,
+            "event_ability_category_id": 1000000083,
+            "name": "[Ltd. Time] Romancing Saga: Heat",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Conquer Romancing Saga Prefecture (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 123
+        },
+        {
+            "id": 1000000219,
+            "event_ability_category_id": 1000000084,
+            "name": "[Ltd. Time] Romancing Saga: Blunt",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Conquer Romancing Saga Prefecture (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 124
+        },
+        {
+            "id": 1000000220,
+            "event_ability_category_id": 1000000085,
+            "name": "[Ltd. Time] Romancing Saga: Pierce",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Conquer Romancing Saga Prefecture (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 125
+        },
+        {
+            "id": 1000000221,
+            "event_ability_category_id": 1000000086,
+            "name": "[Ltd. Time] Romancing Saga: Slash",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Conquer Romancing Saga Prefecture (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 126
+        },
+        {
+            "id": 1000000222,
+            "event_ability_category_id": 1000000087,
+            "name": "[Ltd. Time] Romancing Saga: Cold+Shadow",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Conquer Romancing Saga Prefecture (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 127
+        },
+        {
+            "id": 1000000223,
+            "event_ability_category_id": 1000000088,
+            "name": "[Ltd. Time] Romancing Saga: Seven Heroes",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Conquer Romancing Saga Prefecture (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 128
+        },
+        {
+            "id": 1000000224,
+            "event_ability_category_id": 1000000089,
+            "name": "[Ltd. Time] Romancing Fest. Ginny",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Conquer Romancing Saga Prefecture (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 129
+        },
+        {
+            "id": 1000000225,
+            "event_ability_category_id": 1000000090,
+            "name": "[Ltd. Time] Romancing Fest. Rocbouquet",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Conquer Romancing Saga Prefecture (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 130
+        },
+        {
+            "id": 1000000226,
+            "event_ability_category_id": 1000000091,
+            "name": "[Ltd. Time] Romancing Saga Quest",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the Romancing Saga Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 200
+        },
+        {
+            "id": 1000000227,
+            "event_ability_category_id": 1000000092,
+            "name": "[Ltd. Time] Divine Tower: Silver Emperor",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Divine Tower: Silver Emperor (2x in Main)<br>・Bonus S Silver Emperor Piece drops in Divine Tower: Silver Emperor",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 131
+        },
+        {
+            "id": 1000000231,
+            "event_ability_category_id": 1000000094,
+            "name": "[Ltd. Time] Cave of Gear Holy Stones",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Cave of Gear Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 133
+        },
+        {
+            "id": 1000000234,
+            "event_ability_category_id": 1000000096,
+            "name": "[Ltd. Time] Cave of Weapon Holy Stones",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Cave of Weapon Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 136
+        },
+        {
+            "id": 1000000235,
+            "event_ability_category_id": 1000000097,
+            "name": "[Ltd. Time] Cave of Armor Holy Stones",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Cave of Armor Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 135
+        },
+        {
+            "id": 1000000240,
+            "event_ability_category_id": 1000000100,
+            "name": "[Ltd. Time] Joker's Advent Quest",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the Joker's Advent Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 200
+        },
+        {
+            "id": 1000000249,
+            "event_ability_category_id": 1000000105,
+            "name": "[Ltd. Time] Cave of Weapon Holy Stones",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Cave of Weapon Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 146
+        },
+        {
+            "id": 1000000250,
+            "event_ability_category_id": 1000000106,
+            "name": "[Ltd. Time] Cave of Armor Holy Stones",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Cave of Armor Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 145
+        },
+        {
+            "id": 1000000251,
+            "event_ability_category_id": 1000000107,
+            "name": "[Ltd. Time] Cave of Gear Holy Stones",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Cave of Gear Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 144
+        },
+        {
+            "id": 1000000254,
+            "event_ability_category_id": 1000000109,
+            "name": "[Ltd. Time] 1st Anniversary Quest",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the 1st Anniversary Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 200
+        },
+        {
+            "id": 1000000265,
+            "event_ability_category_id": 1000000115,
+            "name": "[Ltd. Time] Cave of Weapon Holy Stones",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Cave of Weapon Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 155
+        },
+        {
+            "id": 1000000266,
+            "event_ability_category_id": 1000000116,
+            "name": "[Ltd. Time] Cave of Armor Holy Stones",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Cave of Armor Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 154
+        },
+        {
+            "id": 1000000267,
+            "event_ability_category_id": 1000000117,
+            "name": "[Ltd. Time] Cave of Gear Holy Stones",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Cave of Gear Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 153
+        },
+        {
+            "id": 1000000268,
+            "event_ability_category_id": 1000000118,
+            "name": "[Ltd. Time] Romancing Fest. Emelia",
+            "prefix": "",
+            "flavor_text": "・4x attribute gains in Main quests<br>・Bonus Birthday Cake [Ltd. Time] drops in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 156
+        },
+        {
+            "id": 1000000277,
+            "event_ability_category_id": 1000000123,
+            "name": "[Ltd. Time] Summer! Beach With Genny",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Summer! Beach With Genny<br>・Bonus Sparkling Juice/Grilled Fish/Illuminate drops in Summer! Beach With Genny",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 161
+        },
+        {
+            "id": 1000000284,
+            "event_ability_category_id": 1000000127,
+            "name": "[Ltd. Time] Cave of Weapon Holy Stones",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Cave of Weapon Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 167
+        },
+        {
+            "id": 1000000285,
+            "event_ability_category_id": 1000000128,
+            "name": "[Ltd. Time] Cave of Armor Holy Stones",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Cave of Armor Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 166
+        },
+        {
+            "id": 1000000286,
+            "event_ability_category_id": 1000000129,
+            "name": "[Ltd. Time] Cave of Gear Holy Stones",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Cave of Gear Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 165
+        },
+        {
+            "id": 1000000289,
+            "event_ability_category_id": 1000000131,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 169
+        },
+        {
+            "id": 1000000292,
+            "event_ability_category_id": 1000000133,
+            "name": "[Ltd. Time] RS3 TC/KO Release",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests, all 7 Ruins Exploration areas, and Battle with Abyssal Naga",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 199
+        },
+        {
+            "id": 1000000293,
+            "event_ability_category_id": 1000000134,
+            "name": "[Ltd. Time] RS3 TC/KO Versions Release Quest",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the RS3 TC/KO Versions Release Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 200
+        },
+        {
+            "id": 1000000314,
+            "event_ability_category_id": 1000000141,
+            "name": "[Ltd. Time] Summer 2021 Sa・Ga Festival Quest",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the Summer 2021 Sa・Ga Festival Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 200
+        },
+        {
+            "id": 1000000315,
+            "event_ability_category_id": 1000000142,
+            "name": "[Ltd. Time] Summer 2021 Sa・Ga Festival R2",
+            "prefix": "",
+            "flavor_text": "・4x attribute gains in Rally for the Creator's Game! (3x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 182
+        },
+        {
+            "id": 1000000316,
+            "event_ability_category_id": 1000000143,
+            "name": "[Ltd. Time] Rally for Creator's Game! (Pierce)",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Rally for the Creator's Game! (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 177
+        },
+        {
+            "id": 1000000317,
+            "event_ability_category_id": 1000000144,
+            "name": "[Ltd. Time] Rally for Creator's Game! (Slash)",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Rally for the Creator's Game! (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 178
+        },
+        {
+            "id": 1000000318,
+            "event_ability_category_id": 1000000145,
+            "name": "[Ltd. Time] Rally for Creator's Game! (Blunt)",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Rally for the Creator's Game! (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 179
+        },
+        {
+            "id": 1000000319,
+            "event_ability_category_id": 1000000146,
+            "name": "[Ltd. Time] Rally for Creator's Game! (Cold)",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Rally for the Creator's Game! (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 180
+        },
+        {
+            "id": 1000000320,
+            "event_ability_category_id": 1000000147,
+            "name": "[Ltd. Time] Rally for Creator's Game! (Shadow)",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Rally for the Creator's Game! (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 181
+        },
+        {
+            "id": 1000000321,
+            "event_ability_category_id": 1000000148,
+            "name": "[Ltd. Time] Summer 2021 Sa・Ga Festival R3",
+            "prefix": "",
+            "flavor_text": "・4x attribute gains in Rally for the Creator's Game! (3x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 184
+        },
+        {
+            "id": 1000000324,
+            "event_ability_category_id": 1000000150,
+            "name": "[Ltd. Time] Cave of Weapon Holy Stones",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Cave of Weapon Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 189
+        },
+        {
+            "id": 1000000325,
+            "event_ability_category_id": 1000000151,
+            "name": "[Ltd. Time] Cave of Armor Holy Stones",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Cave of Armor Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 188
+        },
+        {
+            "id": 1000000326,
+            "event_ability_category_id": 1000000152,
+            "name": "[Ltd. Time] Cave of Gear Holy Stones",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Cave of Gear Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 187
+        },
+        {
+            "id": 1000000327,
+            "event_ability_category_id": 1000000153,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 190
+        },
+        {
+            "id": 1000000353,
+            "event_ability_category_id": 1000000166,
+            "name": "[Ltd. Time] Treasure Cave",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Treasure Cave (Gold)<br>・Bonus Style Piece drops (very rare chance) for the Styles you use when clearing Treasure Cave",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 200
+        },
+        {
+            "id": 1000000354,
+            "event_ability_category_id": 1000000167,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 204
+        },
+        {
+            "id": 1000000355,
+            "event_ability_category_id": 1000000168,
+            "name": "[Ltd. Time] 1.5 Anniv. Eve! Thank You Training I",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in 1.5 Anniv. Eve! Thank You Training (2x in Main)<br>・Bonus Training Badge drops in 1.5 Anniv. Eve! Thank You Training",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 202
+        },
+        {
+            "id": 1000000356,
+            "event_ability_category_id": 1000000169,
+            "name": "[Ltd. Time] 1.5 Anniv. Eve! Thank You Training II",
+            "prefix": "",
+            "flavor_text": "・4x attribute gains in 1.5 Anniv. Eve! Thank You Training (3x in Main)<br>・Bonus Training Badge drops in 1.5 Anniv. Eve! Thank You Training",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 203
+        },
+        {
+            "id": 1000000357,
+            "event_ability_category_id": 1000000170,
+            "name": "[Ltd. Time] Cave of Weapon Holy Stones",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Cave of Weapon Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 207
+        },
+        {
+            "id": 1000000358,
+            "event_ability_category_id": 1000000171,
+            "name": "[Ltd. Time] Cave of Armor Holy Stones",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Cave of Armor Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 206
+        },
+        {
+            "id": 1000000359,
+            "event_ability_category_id": 1000000172,
+            "name": "[Ltd. Time] Cave of Gear Holy Stones",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Cave of Gear Holy Stones",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 205
+        },
+        {
+            "id": 1000000360,
+            "event_ability_category_id": 1000000173,
+            "name": "[Ltd. Time] 1.5 Anniv.! Boot Camp",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 208
+        },
+        {
+            "id": 1000000361,
+            "event_ability_category_id": 1000000174,
+            "name": "[Ltd. Time] 1.5 Anniversary Quest",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the 1.5 Anniversary Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 209
+        },
+        {
+            "id": 1000000362,
+            "event_ability_category_id": 1000000175,
+            "name": "[Ltd. Time] 1.5 Anniv.! Treasure Den",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Treasure Den (Gold)<br>・Bonus Style Piece drops (very rare chance) for the Styles you use when clearing Treasure Den",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 210
+        },
+        {
+            "id": 1000000371,
+            "event_ability_category_id": 1000000178,
+            "name": "[Ltd. Time] Santa Clash",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Merry Christmas! Santa Clash",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 212
+        },
+        {
+            "id": 1000000372,
+            "event_ability_category_id": 1000000179,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 214
+        },
+        {
+            "id": 1000000381,
+            "event_ability_category_id": 1000000184,
+            "name": "[Ltd. Time] Lucky Fortune Slip Quest",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Lucky Fortune Slip Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 219
+        },
+        {
+            "id": 1000000382,
+            "event_ability_category_id": 1000000185,
+            "name": "[Ltd. Time] New Year's All-Star Conquest I",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in New Year's All-Star Conquest (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 220
+        },
+        {
+            "id": 1000000383,
+            "event_ability_category_id": 1000000186,
+            "name": "[Ltd. Time] New Year's All-Star Conquest II",
+            "prefix": "",
+            "flavor_text": "・4x attribute gains in New Year's All-Star Conquest (3x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 220
+        },
+        {
+            "id": 1000000384,
+            "event_ability_category_id": 1000000187,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 222
+        },
+        {
+            "id": 1000000391,
+            "event_ability_category_id": 1000000191,
+            "name": "[Ltd. Time] Dig! Great Treasure Excavation",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Dig! Great Treasure Excavation",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 225
+        },
+        {
+            "id": 1000000392,
+            "event_ability_category_id": 1000000192,
+            "name": "[Ltd. Time] Lunar New Year 2022! Quest",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the Lunar New Year 2022! Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 226
+        },
+        {
+            "id": 1000000395,
+            "event_ability_category_id": 1000000194,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 229
+        },
+        {
+            "id": 1000000396,
+            "event_ability_category_id": 1000000195,
+            "name": "[Ltd. Time] Dark Stars Grand Opening Quest",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the Dark Stars Grand Opening Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 1,
+            "priority": 230
+        },
+        {
+            "id": 1000000397,
+            "event_ability_category_id": 1000000196,
+            "name": "[Ltd. Time] Abyss Sinistrals Conquest I",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Abyss Sinistrals Conquest (2x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 231
+        },
+        {
+            "id": 1000000398,
+            "event_ability_category_id": 1000000197,
+            "name": "[Ltd. Time] Abyss Sinistrals Conquest II",
+            "prefix": "",
+            "flavor_text": "・4x attribute gains in Abyss Sinistrals Conquest (3x in Main)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 231
+        },
+        {
+            "id": 1000000399,
+            "event_ability_category_id": 1000000198,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 237
+        },
+        {
+            "id": 1000000408,
+            "event_ability_category_id": 1000000203,
+            "name": "[Ltd. Time] Beast Hunt",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the Beast Hunt Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 240
+        },
+        {
+            "id": 1000000409,
+            "event_ability_category_id": 1000000204,
+            "name": "[Ltd. Time] Beast Hunt I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 239
+        },
+        {
+            "id": 1000000410,
+            "event_ability_category_id": 1000000205,
+            "name": "[Ltd. Time] Beast Hunt II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 238
+        },
+        {
+            "id": 1000000411,
+            "event_ability_category_id": 1000000206,
+            "name": "[Ltd. Time] Battle Prep",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 241
+        },
+        {
+            "id": 1000000412,
+            "event_ability_category_id": 1000000207,
+            "name": "[Ltd. Time] Dig! Great Treasure Excavation",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Dig! Great Treasure Excavation/Digging Spree! Great Treasure Excavation",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 242
+        },
+        {
+            "id": 1000000431,
+            "event_ability_category_id": 1000000217,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 252
+        },
+        {
+            "id": 1000000441,
+            "event_ability_category_id": 1000000219,
+            "name": "[Ltd. Time] Valdor's Training Secrets",
+            "prefix": "",
+            "flavor_text": "・5x attribute gains in all battle quests!",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 9999
+        },
+        {
+            "id": 1000000442,
+            "event_ability_category_id": 1000000220,
+            "name": "[Ltd. Time] Deathmatch with Igomahl I",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Destined Battle: Deathmatch with Igomahl (2x in Main)<br>・Bonus Tower Fragment/Ghastly Plant drops in Destined Battle: Deathmatch with Igomahl",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 254
+        },
+        {
+            "id": 1000000443,
+            "event_ability_category_id": 1000000221,
+            "name": "[Ltd. Time] Deathmatch with Igomahl II",
+            "prefix": "",
+            "flavor_text": "・4x attribute gains in Main quests and Destined Battle: Deathmatch with Igomahl<br>・Bonus Tower Fragment/Ghastly Plant drops in Destined Battle: Deathmatch with Igomahl",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 255
+        },
+        {
+            "id": 1000000444,
+            "event_ability_category_id": 1000000222,
+            "name": "[Ltd. Time] Otherworld Igomahl I",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Destined Battle: Otherworld Igomahl (2x in Main)<br>・Bonus Tattered Cloth/Corrupted Scale drops in Destined Battle: Otherworld Igomahl",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 256
+        },
+        {
+            "id": 1000000445,
+            "event_ability_category_id": 1000000223,
+            "name": "[Ltd. Time] Otherworld Igomahl II",
+            "prefix": "",
+            "flavor_text": "・4x attribute gains in Main quests and Destined Battle: Otherworld Igomahl<br>・Bonus Tattered Cloth/Corrupted Scale drops in Destined Battle: Otherworld Igomahl",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 257
+        },
+        {
+            "id": 1000000446,
+            "event_ability_category_id": 1000000224,
+            "name": "[Ltd. Time] End of the Ancient War I",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Destined Battle: End of the Ancient War (2x in Main)<br>・Bonus Slimy Skin/Fang of Frenzy drops in Destined Battle: End of the Ancient War",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 258
+        },
+        {
+            "id": 1000000447,
+            "event_ability_category_id": 1000000225,
+            "name": "[Ltd. Time] End of the Ancient War II",
+            "prefix": "",
+            "flavor_text": "・4x attribute gains in Main quests and Destined Battle: End of the Ancient War<br>・Bonus Slimy Skin/Fang of Frenzy drops in Destined Battle: End of the Ancient War",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 259
+        },
+        {
+            "id": 1000000452,
+            "event_ability_category_id": 1000000228,
+            "name": "[Ltd. Time] Main Story Expansion I",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 262
+        },
+        {
+            "id": 1000000453,
+            "event_ability_category_id": 1000000229,
+            "name": "[Ltd. Time] Main Story Expansion II",
+            "prefix": "",
+            "flavor_text": "・4x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 263
+        },
+        {
+            "id": 1000000454,
+            "event_ability_category_id": 1000000230,
+            "name": "[Ltd. Time] 2nd Anniversary Quest",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the 2nd Anniversary Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 264
+        },
+        {
+            "id": 1000000455,
+            "event_ability_category_id": 1000000231,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 265
+        },
+        {
+            "id": 1000000456,
+            "event_ability_category_id": 1000000232,
+            "name": "[Ltd. Time] Hop In! SaGa Onsen Conquest I",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests and Hop In! SaGa Onsen Conquest<br>・Bonus Nao Tesuki Washi Fan/Nishikawanobori Basket drops in Hop In! SaGa Onsen Conquest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 266
+        },
+        {
+            "id": 1000000457,
+            "event_ability_category_id": 1000000233,
+            "name": "[Ltd. Time] Hop In! SaGa Onsen Conquest II",
+            "prefix": "",
+            "flavor_text": "・4x attribute gains in Main quests and Hop In! SaGa Onsen Conquest<br>・Bonus Nao Tesuki Washi Fan/Nishikawanobori Basket drops in Hop In! SaGa Onsen Conquest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 267
+        },
+        {
+            "id": 1000000464,
+            "event_ability_category_id": 1000000237,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 271
+        },
+        {
+            "id": 1000000467,
+            "event_ability_category_id": 1000000240,
+            "name": "[Ltd. Time] Treasure Cave",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Treasure Cave (Gold)<br>・Bonus Style Piece drops (very rare chance) for the Styles you use when clearing Treasure Cave",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 273
+        },
+        {
+            "id": 1000000470,
+            "event_ability_category_id": 1000000241,
+            "name": "[Ltd. Time] New Arc Main Story Expansion",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 275
+        },
+        {
+            "id": 1000000471,
+            "event_ability_category_id": 1000000242,
+            "name": "[Ltd. Time] Azami's Super Training Dojo",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Azami's Super Training Dojo",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 276
+        },
+        {
+            "id": 1000000472,
+            "event_ability_category_id": 1000000243,
+            "name": "[Ltd. Time] New Arc SaGa Carnival",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in New Arc SaGa Carnival<br>・Bonus New Arc Pennants drops in New Arc SaGa Carnival",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 277
+        },
+        {
+            "id": 1000000473,
+            "event_ability_category_id": 1000000244,
+            "name": "[Ltd. Time] The Lost Archfiend Chronicles",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests and Beyond - The Lost Archfiend Chronicles<br>・Bonus Cracked Monument drops in Beyond - The Lost Archfiend Chronicles",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 278
+        },
+        {
+            "id": 1000000474,
+            "event_ability_category_id": 1000000245,
+            "name": "[Ltd. Time] The MAGI Legend Conquest I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests and The MAGI Legend Conquest<br>・Bonus Hardwood Logs/Mech Part drops in The MAGI Legend Conquest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 279
+        },
+        {
+            "id": 1000000475,
+            "event_ability_category_id": 1000000246,
+            "name": "[Ltd. Time] The MAGI Legend Conquest II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests and The MAGI Legend Conquest<br>・Bonus Hardwood Logs/Mech Part drops in The MAGI Legend Conquest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 280
+        },
+        {
+            "id": 1000000476,
+            "event_ability_category_id": 1000000247,
+            "name": "[Ltd. Time] Battle with Arsenal I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests and Battle with Arsenal<br>・Bonus Energy Cable drops in Battle with Arsenal",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 281
+        },
+        {
+            "id": 1000000477,
+            "event_ability_category_id": 1000000248,
+            "name": "[Ltd. Time] Battle with Arsenal II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests and Battle with Arsenal<br>・Bonus Energy Cable drops in Battle with Arsenal",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 282
+        },
+        {
+            "id": 1000000478,
+            "event_ability_category_id": 1000000249,
+            "name": "[Ltd. Time] Battle with Haniwa I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests and Battle with Haniwa",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 283
+        },
+        {
+            "id": 1000000479,
+            "event_ability_category_id": 1000000250,
+            "name": "[Ltd. Time] Battle with Haniwa II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests and Battle with Haniwa",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 284
+        },
+        {
+            "id": 1000000480,
+            "event_ability_category_id": 1000000251,
+            "name": "[Ltd. Time] Take Off! Talon! I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests and Take Off! Talon!<br>・Bonus Luminous Rock drops in Take Off! Talon!",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 285
+        },
+        {
+            "id": 1000000481,
+            "event_ability_category_id": 1000000252,
+            "name": "[Ltd. Time] Take Off! Talon! II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests and Take Off! Talon!<br>・Bonus Luminous Rock drops in Take Off! Talon!",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 286
+        },
+        {
+            "id": 1000000482,
+            "event_ability_category_id": 1000000253,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 287
+        },
+        {
+            "id": 1000000491,
+            "event_ability_category_id": 1000000258,
+            "name": "[Ltd. Time] Main Story Expansion",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 292
+        },
+        {
+            "id": 1000000492,
+            "event_ability_category_id": 1000000259,
+            "name": "[Ltd. Time] Sage of the Isle of Beginnings",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests and Sage of the Isle of Beginnings<br>・Goo drop +50% in Sage of the Isle of Beginnings<br>・Bonus Tomato Juice drops in Sage of the Isle of Beginnings",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 293
+        },
+        {
+            "id": 1000000495,
+            "event_ability_category_id": 1000000261,
+            "name": "[Ltd. Time] Miracle Day Parade I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests and Miracle Day Parade<br>・Bonus Miracle Candy drops in Miracle Day Parade",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 295
+        },
+        {
+            "id": 1000000496,
+            "event_ability_category_id": 1000000262,
+            "name": "[Ltd. Time] Miracle Day Parade II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests and Miracle Day Parade<br>・Bonus Miracle Candy drops in Miracle Day Parade",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 296
+        },
+        {
+            "id": 1000000497,
+            "event_ability_category_id": 1000000263,
+            "name": "[Ltd. Time] Wonder Night Parade I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests and Wonder Night Parade<br>・Bonus Wonder Chocolate drops in Wonder Night Parade",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 297
+        },
+        {
+            "id": 1000000498,
+            "event_ability_category_id": 1000000264,
+            "name": "[Ltd. Time] Wonder Night Parade II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests and Wonder Night Parade<br>・Bonus Wonder Chocolate drops in Wonder Night Parade",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 298
+        },
+        {
+            "id": 1000000499,
+            "event_ability_category_id": 1000000265,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 299
+        },
+        {
+            "id": 1000000500,
+            "event_ability_category_id": 1000000266,
+            "name": "[Ltd. Time] SaGa Soul Appreciation Battle I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests and SaGa Soul Appreciation Battle<br>・Bonus SaGa Soul Cake drops in SaGa Soul Appreciation Battle",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 300
+        },
+        {
+            "id": 1000000501,
+            "event_ability_category_id": 1000000267,
+            "name": "[Ltd. Time] SaGa Soul Appreciation Battle II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests and SaGa Soul Appreciation Battle<br>・Bonus SaGa Soul Cake drops in SaGa Soul Appreciation Battle",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 301
+        },
+        {
+            "id": 1000000504,
+            "event_ability_category_id": 1000000269,
+            "name": "[Ltd. Time] Jamil's Treasure Hunt: Hidden Room",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Jamil's Treasure Hunt: Hidden Room",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 303
+        },
+        {
+            "id": 1000000505,
+            "event_ability_category_id": 1000000270,
+            "name": "[Ltd. Time] Halloween Party Night Booster",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in all battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 9999
+        },
+        {
+            "id": 1000000506,
+            "event_ability_category_id": 1000000271,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 305
+        },
+        {
+            "id": 1000000511,
+            "event_ability_category_id": 1000000274,
+            "name": "[Ltd. Time] A Pidona Night's Dream",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in A Pidona Night's Dream (2x in Main)<br>・Peculiar Treat drop +50% in A Pidona Night's Dream<br>・Bonus Pop'n Pumpkin drops in A Pidona Night's Dream",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 307
+        },
+        {
+            "id": 1000000512,
+            "event_ability_category_id": 1000000275,
+            "name": "[Ltd. Time] Castle Party & Final Trial",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Castle Party & Final Trial (2x in Main)<br>・Ghost Plushie drop +50% in Castle Party & Final Trial<br>・Bonus Pumpkin Cake drops in Castle Party & Final Trial",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 308
+        },
+        {
+            "id": 1000000515,
+            "event_ability_category_id": 1000000277,
+            "name": "[Ltd. Time] Azami's Super Training Dojo",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Azami's Super Training Dojo",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 310
+        },
+        {
+            "id": 1000000520,
+            "event_ability_category_id": 1000000280,
+            "name": "[Ltd. Time] Main Story Expansion",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 313
+        },
+        {
+            "id": 1000000525,
+            "event_ability_category_id": 1000000283,
+            "name": "[Ltd. Time] SaGa Soul Appreciation Battle I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests and 2.5 Anniv. Eve SaGa Soul Appreciation Battle<br>・Bonus SaGa Soul Party Popper drops in 2.5 Anniv. Eve SaGa Soul Appreciation Battle",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 316
+        },
+        {
+            "id": 1000000526,
+            "event_ability_category_id": 1000000284,
+            "name": "[Ltd. Time] SaGa Soul Appreciation Battle II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests and 2.5 Anniv. Eve SaGa Soul Appreciation Battle<br>・Bonus SaGa Soul Party Popper drops in 2.5 Anniv. Eve SaGa Soul Appreciation Battle",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 317
+        },
+        {
+            "id": 1000000527,
+            "event_ability_category_id": 1000000285,
+            "name": "[Ltd. Time] 2.5 Anniversary Boot Camp",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 318
+        },
+        {
+            "id": 1000000528,
+            "event_ability_category_id": 1000000286,
+            "name": "[Ltd. Time] 2.5 Anniversary Quest",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing 2.5 Anniversary Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 319
+        },
+        {
+            "id": 1000000529,
+            "event_ability_category_id": 1000000287,
+            "name": "[Ltd. Time] SaGa the Music Conquest I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in SaGa the Music Conquest<br>・Bonus Fancy Sticker/Rock Badge drops in SaGa the Music Conquest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 320
+        },
+        {
+            "id": 1000000530,
+            "event_ability_category_id": 1000000288,
+            "name": "[Ltd. Time] SaGa the Music Conquest II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests and SaGa the Music Conquest<br>・Bonus Fancy Sticker/Rock Badge drops in SaGa the Music Conquest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 321
+        },
+        {
+            "id": 1000000531,
+            "event_ability_category_id": 1000000289,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 322
+        },
+        {
+            "id": 1000000532,
+            "event_ability_category_id": 1000000290,
+            "name": "[Ltd. Time] Romancing Music Jam! I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Romancing Music Jam!<br>・Bonus Music Stamp drops in Romancing Music Jam!",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 323
+        },
+        {
+            "id": 1000000533,
+            "event_ability_category_id": 1000000291,
+            "name": "[Ltd. Time] Romancing Music Jam! II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests and Romancing Music Jam!<br>・Bonus Music Stamp drops in Romancing Music Jam!",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 324
+        },
+        {
+            "id": 1000000534,
+            "event_ability_category_id": 1000000292,
+            "name": "[Ltd. Time] White Christmas Conquest I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in White Christmas Conquest<br>・Bonus Baubles/Christmas Bell drops in White Christmas Conquest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 325
+        },
+        {
+            "id": 1000000535,
+            "event_ability_category_id": 1000000293,
+            "name": "[Ltd. Time] White Christmas Conquest II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in White Christmas Conquest<br>・Bonus Baubles/Christmas Bell drops in White Christmas Conquest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 326
+        },
+        {
+            "id": 1000000536,
+            "event_ability_category_id": 1000000294,
+            "name": "[Ltd. Time] Best Wishes! New Year's BOX I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests and Best Wishes! New Year's BOX",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 327
+        },
+        {
+            "id": 1000000537,
+            "event_ability_category_id": 1000000295,
+            "name": "[Ltd. Time] Best Wishes! New Year's BOX II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests and Best Wishes! New Year's BOX",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 328
+        },
+        {
+            "id": 1000000544,
+            "event_ability_category_id": 1000000299,
+            "name": "[Ltd. Time] Main Story Expansion I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 332
+        },
+        {
+            "id": 1000000545,
+            "event_ability_category_id": 1000000300,
+            "name": "[Ltd. Time] Main Story Expansion II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 333
+        },
+        {
+            "id": 1000000546,
+            "event_ability_category_id": 1000000301,
+            "name": "[Ltd. Time] The Seekers' Path",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 334
+        },
+        {
+            "id": 1000000547,
+            "event_ability_category_id": 1000000302,
+            "name": "[Ltd. Time] Lunar New Year 2023! Quest",
+            "prefix": "",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Lunar New Year 2023! Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 335
+        },
+        {
+            "id": 1000000550,
+            "event_ability_category_id": 1000000304,
+            "name": "[Ltd. Time] New Year's Super Training Dojo I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests and New Year's Super Training Dojo<br>・Bonus Festive Rope drops in New Year's Super Training Dojo",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 337
+        },
+        {
+            "id": 1000000551,
+            "event_ability_category_id": 1000000305,
+            "name": "[Ltd. Time] New Year's Super Training Dojo II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests and New Year's Super Training Dojo<br>・Bonus Festive Rope drops in New Year's Super Training Dojo",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 338
+        },
+        {
+            "id": 1000000552,
+            "event_ability_category_id": 1000000306,
+            "name": "[Ltd. Time] Silver's Tournament I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests and Silver's Tournament<br>・Bonus Challenge Scroll drops in Silver's Tournament",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 339
+        },
+        {
+            "id": 1000000553,
+            "event_ability_category_id": 1000000307,
+            "name": "[Ltd. Time] Silver's Tournament II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests and Silver's Tournament<br>・Bonus Challenge Scroll drops in Silver's Tournament",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 340
+        },
+        {
+            "id": 1000000554,
+            "event_ability_category_id": 1000000308,
+            "name": "[Ltd. Time] Main Story Expansion I",
+            "prefix": "",
+            "flavor_text": "・2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 341
+        },
+        {
+            "id": 1000000555,
+            "event_ability_category_id": 1000000309,
+            "name": "[Ltd. Time] Main Story Expansion II",
+            "prefix": "",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 342
+        },
+        {
+            "id": 1000000562,
+            "event_ability_category_id": 1000000313,
+            "name": "Higher! Exciting Festival I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests and Higher! Exciting Festival<br>・Bonus Party Balloon drops in Higher! Exciting Festival",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 346
+        },
+        {
+            "id": 1000000563,
+            "event_ability_category_id": 1000000314,
+            "name": "Higher! Exciting Festival II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Higher! Exciting Festival<br>・Bonus Party Balloon drops in Higher! Exciting Festival",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 347
+        },
+        {
+            "id": 1000000564,
+            "event_ability_category_id": 1000000315,
+            "name": "Red-Headed Girl Booster",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in all battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 9999
+        },
+        {
+            "id": 1000000565,
+            "event_ability_category_id": 1000000316,
+            "name": "Main Story Expansion I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 348
+        },
+        {
+            "id": 1000000566,
+            "event_ability_category_id": 1000000317,
+            "name": "Main Story Expansion II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 349
+        },
+        {
+            "id": 1000000567,
+            "event_ability_category_id": 1000000318,
+            "name": "A Stage for Chivalry I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests and A Stage for Chivalry<br>・Bonus Two White Flowers/Knightly Ribbon drops in A Stage for Chivalry",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 350
+        },
+        {
+            "id": 1000000568,
+            "event_ability_category_id": 1000000319,
+            "name": "A Stage for Chivalry II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and A Stage for Chivalry<br>・Bonus Two White Flowers/Knightly Ribbon drops in A Stage for Chivalry",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 351
+        },
+        {
+            "id": 1000000569,
+            "event_ability_category_id": 1000000320,
+            "name": "Minstrel Song -Song of Heroes- I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests and Minstrel Song -Song of Heroes-<br>・Bonus Demonic Beast Claw/Element Stones drops in Minstrel Song -Song of Heroes-",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 352
+        },
+        {
+            "id": 1000000570,
+            "event_ability_category_id": 1000000321,
+            "name": "Minstrel Song -Song of Heroes- II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Minstrel Song -Song of Heroes-<br>・Bonus Demonic Beast Claw/Element Stones drops in Minstrel Song -Song of Heroes-",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 353
+        },
+        {
+            "id": 1000000571,
+            "event_ability_category_id": 1000000322,
+            "name": "Voice of the Ancient Blade I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests and Voice of the Ancient Blade<br>・Bonus Blade Fragments drops in Voice of the Ancient Blade",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 354
+        },
+        {
+            "id": 1000000572,
+            "event_ability_category_id": 1000000323,
+            "name": "Voice of the Ancient Blade II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Voice of the Ancient Blade<br>・Bonus Blade Fragments drops in Voice of the Ancient Blade",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 355
+        },
+        {
+            "id": 1000000573,
+            "event_ability_category_id": 1000000324,
+            "name": "The Seekers' Path",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 356
+        },
+        {
+            "id": 1000000574,
+            "event_ability_category_id": 1000000325,
+            "name": "Chills! Spooky Test of Courage I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests and Chills! Spooky Test of Courage<br>・Bonus Ghost Lantern drops in Chills! Spooky Test of Courage",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 357
+        },
+        {
+            "id": 1000000575,
+            "event_ability_category_id": 1000000326,
+            "name": "Chills! Spooky Test of Courage II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Chills! Spooky Test of Courage<br>・Bonus Ghost Lantern drops in Chills! Spooky Test of Courage",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 358
+        },
+        {
+            "id": 1000000576,
+            "event_ability_category_id": 1000000327,
+            "name": "Shivers! Test of Courage Training I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests and Shivers! Test of Courage Training",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 359
+        },
+        {
+            "id": 1000000577,
+            "event_ability_category_id": 1000000328,
+            "name": "Shivers! Test of Courage Training II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Shivers! Test of Courage Training",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 360
+        },
+        {
+            "id": 1000000578,
+            "event_ability_category_id": 1000000329,
+            "name": "INTRUDER I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests and INTRUDER<br>・Bonus Microchip drops in INTRUDER",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 361
+        },
+        {
+            "id": 1000000579,
+            "event_ability_category_id": 1000000330,
+            "name": "INTRUDER II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and INTRUDER<br>・Bonus Microchip drops in INTRUDER",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 362
+        },
+        {
+            "id": 1000000580,
+            "event_ability_category_id": 1000000331,
+            "name": "Seeker of Truth I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests and Seeker of Truth<br>・Bonus Gold Coin drops in Seeker of Truth",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 363
+        },
+        {
+            "id": 1000000581,
+            "event_ability_category_id": 1000000332,
+            "name": "Seeker of Truth II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Seeker of Truth<br>・Bonus Gold Coin drops in Seeker of Truth",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 364
+        },
+        {
+            "id": 1000000582,
+            "event_ability_category_id": 1000000333,
+            "name": "Golden Vacation I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests and Any way you want it! Golden Vacation<br>・Bonus Tropical Flower drops in Any way you want it! Golden Vacation",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 365
+        },
+        {
+            "id": 1000000583,
+            "event_ability_category_id": 1000000334,
+            "name": "Golden Vacation II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Any way you want it! Golden Vacation<br>・Bonus Tropical Flower drops in Any way you want it! Golden Vacation",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 366
+        },
+        {
+            "id": 1000000584,
+            "event_ability_category_id": 1000000335,
+            "name": "Haniwa's Golden BOX I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests and Haniwa's Golden BOX",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 367
+        },
+        {
+            "id": 1000000585,
+            "event_ability_category_id": 1000000336,
+            "name": "Haniwa's Golden BOX II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Haniwa's Golden BOX",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 368
+        },
+        {
+            "id": 1000000586,
+            "event_ability_category_id": 1000000337,
+            "name": "Fired Up! Burning Battle Memories I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests and Fired Up! Burning Battle Memories<br>・Bonus Broken Projector drops in Fired Up! Burning Battle Memories",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 369
+        },
+        {
+            "id": 1000000587,
+            "event_ability_category_id": 1000000338,
+            "name": "Fired Up! Burning Battle Memories II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Fired Up! Burning Battle Memories<br>・Bonus Broken Projector drops in Fired Up! Burning Battle Memories",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 370
+        },
+        {
+            "id": 1000000588,
+            "event_ability_category_id": 1000000339,
+            "name": "The Seekers' Path",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in The Seekers' Path",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 371
+        },
+        {
+            "id": 1000000589,
+            "event_ability_category_id": 1000000340,
+            "name": "Threat from the Depths! Deepfish I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests and Threat from the Depths! Deepfish<br>・Bonus Ancient Helm drops in Threat from the Depths! Deepfish",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 372
+        },
+        {
+            "id": 1000000590,
+            "event_ability_category_id": 1000000341,
+            "name": "Threat from the Depths! Deepfish II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Threat from the Depths! Deepfish<br>・Bonus Ancient Helm drops in Threat from the Depths! Deepfish",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 373
+        },
+        {
+            "id": 1000000591,
+            "event_ability_category_id": 1000000342,
+            "name": "Super Combat Training Booster",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in all battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 9999
+        },
+        {
+            "id": 1000000592,
+            "event_ability_category_id": 1000000343,
+            "name": "House Julanius Training I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests and House Julanius Super Combat Training<br>・Bonus Quality Grindstone drops in House Julanius Super Combat Training",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 374
+        },
+        {
+            "id": 1000000593,
+            "event_ability_category_id": 1000000344,
+            "name": "House Julanius Training II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and House Julanius Super Combat Training<br>・Bonus Quality Grindstone drops in House Julanius Super Combat Training",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 375
+        },
+        {
+            "id": 1000000594,
+            "event_ability_category_id": 1000000345,
+            "name": "Main Story Expansion",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 376
+        },
+        {
+            "id": 1000000595,
+            "event_ability_category_id": 1000000346,
+            "name": "3rd Anniv. Countdown Quest",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing 3rd Anniv. Countdown Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 377
+        },
+        {
+            "id": 1000000596,
+            "event_ability_category_id": 1000000347,
+            "name": "Wonderful Saga! Romancing Tour (Solo) I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Wonderful Saga! Romancing Tour (Solo)<br>・Bonus Imari Wind Bell drops in Wonderful Saga! Romancing Tour (Solo)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 378
+        },
+        {
+            "id": 1000000597,
+            "event_ability_category_id": 1000000348,
+            "name": "Wonderful Saga! Romancing Tour (Solo) II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains in Main quests and Wonderful Saga! Romancing Tour (Solo)<br>・Bonus Imari Wind Bell drops in Wonderful Saga! Romancing Tour (Solo)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 379
+        },
+        {
+            "id": 1000000598,
+            "event_ability_category_id": 1000000349,
+            "name": "3rd Anniversary Quest",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing 3rd Anniversary Quest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 380
+        },
+        {
+            "id": 1000000599,
+            "event_ability_category_id": 1000000350,
+            "name": "3rd Anniv. Booster",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains in all battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 9999
+        },
+        {
+            "id": 1000000600,
+            "event_ability_category_id": 1000000351,
+            "name": "(All) Attribute Growth Booster V",
+            "prefix": "",
+            "flavor_text": "・5x attribute gains in all battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 10000
+        },
+        {
+            "id": 1000000601,
+            "event_ability_category_id": 1000000352,
+            "name": "Wonderful Saga! Romancing Tour (Co-op) I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Wonderful Saga! Romancing Tour (Co-op)<br>・Bonus Yumino Dolls/Hizen Vidro Cup drops in Wonderful Saga! Romancing Tour (Co-op)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 381
+        },
+        {
+            "id": 1000000602,
+            "event_ability_category_id": 1000000353,
+            "name": "Wonderful Saga! Romancing Tour (Co-op) II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains in Main quests and Wonderful Saga! Romancing Tour (Co-op)<br>・Bonus Yumino Dolls/Hizen Vidro Cup drops in Wonderful Saga! Romancing Tour (Co-op)",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 382
+        },
+        {
+            "id": 1000000603,
+            "event_ability_category_id": 1000000354,
+            "name": "Takeshita Ice Cream Bar BOX I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Templar Galahad & Takeshita Ice Cream Bar BOX",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 383
+        },
+        {
+            "id": 1000000604,
+            "event_ability_category_id": 1000000355,
+            "name": "Takeshita Ice Cream Bar BOX II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains in Main quests and Templar Galahad & Takeshita Ice Cream Bar BOX",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 384
+        },
+        {
+            "id": 1000000605,
+            "event_ability_category_id": 1000000356,
+            "name": "Romancing Saga Legacy Panels I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Flip 'Em! Romancing Saga Legacy Panels",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 385
+        },
+        {
+            "id": 1000000606,
+            "event_ability_category_id": 1000000357,
+            "name": "Romancing Saga Legacy Panels II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains in Main quests and Flip 'Em! Romancing Saga Legacy Panels",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 386
+        },
+        {
+            "id": 1000000607,
+            "event_ability_category_id": 1000000358,
+            "name": "A Midsummer Night's Stroll I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and A Midsummer Night's Stroll<br>・Bonus Scattered Petals drops in A Midsummer Night's Stroll",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 387
+        },
+        {
+            "id": 1000000608,
+            "event_ability_category_id": 1000000359,
+            "name": "A Midsummer Night's Stroll II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains in Main quests and A Midsummer Night's Stroll<br>・Bonus Scattered Petals drops in A Midsummer Night's Stroll",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 388
+        },
+        {
+            "id": 1000000609,
+            "event_ability_category_id": 1000000360,
+            "name": "Sparkling! Summer Night Party BOX I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Sparkling! Summer Night Party BOX",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 389
+        },
+        {
+            "id": 1000000610,
+            "event_ability_category_id": 1000000361,
+            "name": "Sparkling! Summer Night Party BOX II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains in Main quests and Sparkling! Summer Night Party BOX",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 390
+        },
+        {
+            "id": 1000000611,
+            "event_ability_category_id": 1000000362,
+            "name": "Glamorous Beachside Night I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Glamorous Beachside Night<br>・Bonus Shiny Coral drops in Glamorous Beachside Night",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 391
+        },
+        {
+            "id": 1000000612,
+            "event_ability_category_id": 1000000363,
+            "name": "Glamorous Beachside Night II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains in Main quests and Glamorous Beachside Night<br>・Bonus Shiny Coral drops in Glamorous Beachside Night",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 392
+        },
+        {
+            "id": 1000000613,
+            "event_ability_category_id": 1000000364,
+            "name": "Main Story Expansion I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 393
+        },
+        {
+            "id": 1000000614,
+            "event_ability_category_id": 1000000365,
+            "name": "Main Story Expansion II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains in Main quests<br>・2x skill/spell rank up amount in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 394
+        },
+        {
+            "id": 1000000615,
+            "event_ability_category_id": 1000000366,
+            "name": "3rd Anniv. Closing! Super Training Dojo I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and 3rd Anniv. Closing! Super Training Dojo<br>・Bonus Super Training Towel drops in 3rd Anniv. Closing! Super Training Dojo",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 395
+        },
+        {
+            "id": 1000000616,
+            "event_ability_category_id": 1000000367,
+            "name": "3rd Anniv. Closing! Super Training Dojo II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains in Main quests and 3rd Anniv. Closing! Super Training Dojo<br>・Bonus Super Training Towel drops in 3rd Anniv. Closing! Super Training Dojo",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 396
+        },
+        {
+            "id": 1000000617,
+            "event_ability_category_id": 1000000368,
+            "name": "Main Story Expansion I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 397
+        },
+        {
+            "id": 1000000618,
+            "event_ability_category_id": 1000000369,
+            "name": "Main Story Expansion II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains in Main quests<br>・2x skill/spell rank up amount in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 398
+        },
+        {
+            "id": 1000000619,
+            "event_ability_category_id": 1000000370,
+            "name": "Creepy! Haunted Show I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Creepy! Haunted Show<br>・Bonus Pumpkin Wreath drops in Creepy! Haunted Show",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 399
+        },
+        {
+            "id": 1000000620,
+            "event_ability_category_id": 1000000371,
+            "name": "Creepy! Haunted Show II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Creepy! Haunted Show<br>・Bonus Pumpkin Wreath drops in Creepy! Haunted Show",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 400
+        },
+        {
+            "id": 1000000621,
+            "event_ability_category_id": 1000000372,
+            "name": "Welcome! MU Culture Fest I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Welcome! MU Culture Fest<br>・Bonus Peg Balloons drops in Welcome! MU Culture Fest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 401
+        },
+        {
+            "id": 1000000622,
+            "event_ability_category_id": 1000000373,
+            "name": "Welcome! MU Culture Fest II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Welcome! MU Culture Fest<br>・Bonus Peg Balloons drops in Welcome! MU Culture Fest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 402
+        },
+        {
+            "id": 1000000623,
+            "event_ability_category_id": 1000000374,
+            "name": "Mages of Mahzoz I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Mages of Mahzoz",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 403
+        },
+        {
+            "id": 1000000624,
+            "event_ability_category_id": 1000000375,
+            "name": "Mages of Mahzoz II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Mages of Mahzoz",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 404
+        },
+        {
+            "id": 1000000625,
+            "event_ability_category_id": 1000000376,
+            "name": "Fateful Showdown I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Fateful Showdown",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 405
+        },
+        {
+            "id": 1000000626,
+            "event_ability_category_id": 1000000377,
+            "name": "Fateful Showdown II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Fateful Showdown",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 406
+        },
+        {
+            "id": 1000000627,
+            "event_ability_category_id": 1000000378,
+            "name": "30 Million Global DLs Booster",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains in all battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 9999
+        },
+        {
+            "id": 1000000628,
+            "event_ability_category_id": 1000000379,
+            "name": "30 Million Global DLs Skill/Spell Rank Booster",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x skill/spell rank up amount in all battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 9999
+        },
+        {
+            "id": 1000000629,
+            "event_ability_category_id": 1000000380,
+            "name": "Corridor of Destiny I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Corridor of Destiny",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 407
+        },
+        {
+            "id": 1000000630,
+            "event_ability_category_id": 1000000381,
+            "name": "Corridor of Destiny II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Corridor of Destiny",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 408
+        },
+        {
+            "id": 1000000631,
+            "event_ability_category_id": 1000000382,
+            "name": "Corridor of Destiny III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Corridor of Destiny・Bonus Flaming Fury Rare Metal/Flaming Fury Mold Piece (Sword)/Evil Dark Rare Metal/Evil Dark Mold Piece (G. Sword) drops in Corridor of Destiny",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 409
+        },
+        {
+            "id": 1000000632,
+            "event_ability_category_id": 1000000383,
+            "name": "Main Story Expansion I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 410
+        },
+        {
+            "id": 1000000633,
+            "event_ability_category_id": 1000000384,
+            "name": "Main Story Expansion II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests・Bonus Vermillion Rare Metal/Vermillion Mold Piece (S. Sword) drops in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 411
+        },
+        {
+            "id": 1000000634,
+            "event_ability_category_id": 1000000385,
+            "name": "Collect Elemental Gears I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Collect Elemental Gears<br>・Bonus Hard Fang drops in Collect Elemental Gears",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 412
+        },
+        {
+            "id": 1000000635,
+            "event_ability_category_id": 1000000386,
+            "name": "Collect Elemental Gears II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Collect Elemental Gears<br>・Bonus Hard Fang drops in Collect Elemental Gears",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 413
+        },
+        {
+            "id": 1000000636,
+            "event_ability_category_id": 1000000387,
+            "name": "Collect Elemental Gears III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Collect Elemental Gears<br>・Bonus Hard Fang/Prismatic Metal Chunk/Prismatic Sword Mold Piece/Prismatic G. Sword Mold Piece/Prismatic Hammer Mold Piece/Prismatic Gun Mold Piece/Prismatic S. Sword Mold Piece/Prismatic Staff Mold Piece drops in Collect Elemental Gears",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 414
+        },
+        {
+            "id": 1000000637,
+            "event_ability_category_id": 1000000388,
+            "name": "Main Story Expansion I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 415
+        },
+        {
+            "id": 1000000638,
+            "event_ability_category_id": 1000000389,
+            "name": "Main Story Expansion II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests<br>・Bonus Prismatic Metal Chunk/Prismatic Sword Mold Piece/Prismatic G. Sword Mold Piece/Prismatic Hammer Mold Piece/Prismatic Gun Mold Piece/Prismatic S. Sword Mold Piece/Prismatic Staff Mold Piece drops in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 416
+        },
+        {
+            "id": 1000000639,
+            "event_ability_category_id": 1000000390,
+            "name": "Valor Fest. Panels I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Valor Fest. Panels<br>・Bonus Valor Fest. Trophy drops in Valor Fest. Panels",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 417
+        },
+        {
+            "id": 1000000640,
+            "event_ability_category_id": 1000000391,
+            "name": "Valor Fest. Panels II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Valor Fest. Panels<br>・Bonus Valor Fest. Trophy drops in Valor Fest. Panels",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 418
+        },
+        {
+            "id": 1000000641,
+            "event_ability_category_id": 1000000392,
+            "name": "Valor Fest. Panels III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Valor Fest. Panels・Bonus Valor Fest. Trophy/Prismatic Metal Chunk/Prismatic Sword Mold Piece/Prismatic G. Sword Mold Piece/Prismatic Hammer Mold Piece/Prismatic Spear Mold Piece/Prismatic Staff Mold Piece drops in Valor Fest. Panels",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 419
+        },
+        {
+            "id": 1000000642,
+            "event_ability_category_id": 1000000393,
+            "name": "Celebrate! Holy Night I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Celebrate! Holy Night<br>・Bonus Snow Dome drops in Celebrate! Holy Night",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 420
+        },
+        {
+            "id": 1000000643,
+            "event_ability_category_id": 1000000394,
+            "name": "Celebrate! Holy Night II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Celebrate! Holy Night<br>・Bonus Snow Dome drops in Celebrate! Holy Night",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 421
+        },
+        {
+            "id": 1000000644,
+            "event_ability_category_id": 1000000395,
+            "name": "Celebrate! Holy Night III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Celebrate! Holy Night・Bonus Snow Dome/Prismatic Metal Chunk/Prismatic Sword Mold Piece/Prismatic S. Sword Mold Piece/Prismatic Gauntlets Mold Piece drops in Celebrate! Holy Night",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 422
+        },
+        {
+            "id": 1000000645,
+            "event_ability_category_id": 1000000396,
+            "name": "Main Story Expansion I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 423
+        },
+        {
+            "id": 1000000646,
+            "event_ability_category_id": 1000000397,
+            "name": "Main Story Expansion II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests・Bonus Prismatic Metal Chunk/Prismatic Sword Mold Piece/Prismatic S. Sword Mold Piece/Prismatic Gauntlets Mold Piece drops in Main quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 424
+        },
+        {
+            "id": 1000000647,
+            "event_ability_category_id": 1000000398,
+            "name": "They Who Were Born I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and They Who Were Born: Divine Realm Battles<br>・Bonus Distortion Crystal/Design Pebble drops in They Who Were Born: Divine Realm Battles",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 425
+        },
+        {
+            "id": 1000000648,
+            "event_ability_category_id": 1000000399,
+            "name": "They Who Were Born II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and They Who Were Born: Divine Realm Battles<br>・Bonus Distortion Crystal/Design Pebble drops in They Who Were Born: Divine Realm Battles",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 426
+        },
+        {
+            "id": 1000000649,
+            "event_ability_category_id": 1000000400,
+            "name": "They Who Were Born III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and They Who Were Born: Divine Realm Battles・Bonus Distortion Crystal/Design Pebble/Prismatic Forging Material drops in They Who Were Born: Divine Realm Battles",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 427
+        },
+        {
+            "id": 1000000650,
+            "event_ability_category_id": 1000000401,
+            "name": "They Who Were Born IV",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains and 2x skill/spell rank up amount in Main quests and They Who Were Born: Divine Realm Battles・Bonus Distortion Crystal/Design Pebble drops in They Who Were Born: Divine Realm Battles・Bonus Accessory drops (very low chance) in They Who Were Born: Divine Realm Battles - Raid Battle",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 428
+        }
+    ]
+}

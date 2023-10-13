@@ -1,0 +1,35 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5183204422303544066
+    },
+    "m_Name": "BeginnerMissionCompReward",
+    "objectArray": [
+        {
+            "id": 1,
+            "reward_type": 8,
+            "reward_id": 810001,
+            "reward_quantity": 1,
+            "beginner_mission_group_id": 1
+        },
+        {
+            "id": 2,
+            "reward_type": 1,
+            "reward_id": 100002,
+            "reward_quantity": 3000,
+            "beginner_mission_group_id": 2
+        },
+        {
+            "id": 3,
+            "reward_type": 1,
+            "reward_id": 100002,
+            "reward_quantity": 5000,
+            "beginner_mission_group_id": 3
+        }
+    ]
+}

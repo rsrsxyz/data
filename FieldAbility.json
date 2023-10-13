@@ -1,0 +1,135 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1809817576584634892
+    },
+    "m_Name": "FieldAbility",
+    "objectArray": [
+        {
+            "id": 718100001,
+            "name": "Dust Rise",
+            "flavor_text": "[Before selecting an action on Turn 1 and Turn 4 counting from the start of battle]<br>Grants all surviving allies and all enemies <special_effect=800000188>Attack Boost (1x)</special_effect> (large effect/1 turn(s)).",
+            "icon": 4010,
+            "effect_name": "field_earth",
+            "cue_sheet_name": "se_fieldability",
+            "se_name": "se_fieldability_earth",
+            "special_effect_ids": [
+                818040001
+            ],
+            "field_ability_when": 1,
+            "field_ability_group": 99,
+            "is_cancelable": 0
+        },
+        {
+            "id": 718100002,
+            "name": "Dust Rise",
+            "flavor_text": "[Before selecting an action on certain turns counting from the start of battle (Turn 1/every 3 turns after Turn 1)]<br>Grants all surviving allies and all enemies <special_effect=800000188>Attack Boost (1x)</special_effect> (large effect/1 turn(s)).",
+            "icon": 4010,
+            "effect_name": "field_earth",
+            "cue_sheet_name": "se_fieldability",
+            "se_name": "se_fieldability_earth",
+            "special_effect_ids": [
+                818040001
+            ],
+            "field_ability_when": 1,
+            "field_ability_group": 99,
+            "is_cancelable": 0
+        },
+        {
+            "id": 718200001,
+            "name": "Ice Prison",
+            "flavor_text": "[At the end of Turn 3 counting from the start of battle]<br>Grants all surviving allies <special_effect=800000184>BP Cost Increase</special_effect> (Increase: 1/Effect: permanent in battle).",
+            "icon": 4010,
+            "effect_name": "field_ice",
+            "cue_sheet_name": "se_fieldability",
+            "se_name": "se_fieldability_ice",
+            "special_effect_ids": [
+                818040003
+            ],
+            "field_ability_when": 2,
+            "field_ability_group": 99,
+            "is_cancelable": 0
+        },
+        {
+            "id": 718200002,
+            "name": "Life Cycle",
+            "flavor_text": "[End of Turn]<br>Recovers a portion of all surviving allies' HP (5% of target's Max HP).",
+            "icon": 4007,
+            "effect_name": "field_wood",
+            "cue_sheet_name": "se_fieldability",
+            "se_name": "se_fieldability_tree",
+            "special_effect_ids": [
+                818050001
+            ],
+            "field_ability_when": 2,
+            "field_ability_group": 99,
+            "is_cancelable": 0
+        },
+        {
+            "id": 718200003,
+            "name": "Hell Fire",
+            "flavor_text": "[End of Turn]<br>All surviving allies take a portion of damage (5% of target's Max HP).<br>*Proportional Damage can't be reduced by effects that reduce damage taken.",
+            "icon": 4010,
+            "effect_name": "field_fire",
+            "cue_sheet_name": "se_fieldability",
+            "se_name": "se_fieldability_fire",
+            "special_effect_ids": [
+                818050002
+            ],
+            "field_ability_when": 2,
+            "field_ability_group": 99,
+            "is_cancelable": 0
+        },
+        {
+            "id": 718200004,
+            "name": "Oracle",
+            "flavor_text": "[At the end of even turns counting from the start of battle]<br>Grants all surviving allies <special_effect=800000185>Max BP Reduction</special_effect> (Reduction: 1/Effect: permanent in battle).",
+            "icon": 4010,
+            "effect_name": "field_metal",
+            "cue_sheet_name": "se_fieldability",
+            "se_name": "se_fieldability_gold",
+            "special_effect_ids": [
+                818040002
+            ],
+            "field_ability_when": 2,
+            "field_ability_group": 99,
+            "is_cancelable": 0
+        },
+        {
+            "id": 718200005,
+            "name": "Ice Prison",
+            "flavor_text": "[At the end of certain turns counting from the start of battle (Turn 4/every 6 turns after Turn 4)]<br>Grants all surviving allies <special_effect=800000184>BP Cost Increase</special_effect> (Increase: 1/Effect: permanent in battle).",
+            "icon": 4010,
+            "effect_name": "field_ice",
+            "cue_sheet_name": "se_fieldability",
+            "se_name": "se_fieldability_ice",
+            "special_effect_ids": [
+                818040003
+            ],
+            "field_ability_when": 2,
+            "field_ability_group": 99,
+            "is_cancelable": 0
+        },
+        {
+            "id": 718200006,
+            "name": "Life Cycle",
+            "flavor_text": "[End of Turn]<br>Recovers a portion of all surviving allies' and all enemies' HP (5% of target's Max HP).",
+            "icon": 4007,
+            "effect_name": "field_wood",
+            "cue_sheet_name": "se_fieldability",
+            "se_name": "se_fieldability_tree",
+            "special_effect_ids": [
+                818050001,
+                818050003
+            ],
+            "field_ability_when": 2,
+            "field_ability_group": 99,
+            "is_cancelable": 0
+        }
+    ]
+}

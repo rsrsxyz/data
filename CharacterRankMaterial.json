@@ -1,0 +1,30 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5779506882274759528
+    },
+    "m_Name": "CharacterRankMaterial",
+    "objectArray": [
+        {
+            "id": 960001,
+            "name": "Promotion Scroll",
+            "flavor_text": "Item required for taking the Promotion Exam.",
+            "icon": "960001",
+            "max_quantity": 9999999,
+            "sort_order": 49999950
+        },
+        {
+            "id": 961001,
+            "name": "Promotion Certificate I",
+            "flavor_text": "Item required for taking the Promotion Exam (Rank 11).",
+            "icon": "961001",
+            "max_quantity": 9999999,
+            "sort_order": 49999945
+        }
+    ]
+}

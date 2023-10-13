@@ -1,0 +1,824 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -8374034029976098242
+    },
+    "m_Name": "BeginnerMission",
+    "objectArray": [
+        {
+            "id": 50001,
+            "step": 1,
+            "summary": "Raise Attributes 5 Times<br>(Battle/Expedition)",
+            "description": "Increase any character's attributes 5 times (through battles or Expeditions).",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 5,
+            "priority": 9999999
+        },
+        {
+            "id": 50002,
+            "step": 1,
+            "summary": "Clear Polka Arc<br>Ch. 1, 1-1-3<br>or reach<br>Player Rank 5",
+            "description": "Complete Polka Arc Ch. 1, 1-1-3. The Exam Begins! on Normal difficulty (Main Quests > Polka Arc) or reach Player Rank 5.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 5,
+            "priority": 9999998
+        },
+        {
+            "id": 50003,
+            "step": 1,
+            "summary": "Clear Polka Arc<br>Ch. 1, 1-1-7<br>or reach<br>Player Rank 7",
+            "description": "Complete Polka Arc Ch. 1, 1-1-7. Demonic Beast Horde on Normal difficulty or reach Player Rank 7.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 5,
+            "priority": 9999997
+        },
+        {
+            "id": 50004,
+            "step": 1,
+            "summary": "Clear<br>Training Cave",
+            "description": "Complete the Monster-filled Training Cave 1 time (Sub Quests > Daily > Permanent > Monster-filled Training Cave).<br>*Unlock by clearing Polka Arc Ch. 1, 1-1-7 or reach Player Rank 6.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 5,
+            "priority": 9999996
+        },
+        {
+            "id": 50005,
+            "step": 1,
+            "summary": "Raise Style Lv<br>to 3<br>(Dojo)",
+            "description": "Level a Style up to Lv 3 at the Dojo (Dojo > Enhance Styles).",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 5,
+            "priority": 9999995
+        },
+        {
+            "id": 50006,
+            "step": 1,
+            "summary": "Clear Polka Arc<br>Ch. 1, 1-1-9<br>or reach<br>Player Rank 10",
+            "description": "Complete Polka Arc Ch. 1, 1-1-9. Upper Floors on Normal difficulty or reach Player Rank 10.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999994
+        },
+        {
+            "id": 50007,
+            "step": 1,
+            "summary": "Raise Style Lv<br>to 10<br>(Dojo)",
+            "description": "Level a Style up to Lv 10 at the Dojo (Dojo > Enhance Styles).",
+            "reward_type": 26,
+            "reward_id": 501300100,
+            "reward_quantity": 10,
+            "priority": 9999993
+        },
+        {
+            "id": 50008,
+            "step": 1,
+            "summary": "Return Instantly<br>from 2 Expeditions<br>(Dojo)",
+            "description": "Return instantly from 2 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 5,
+            "priority": 9999992
+        },
+        {
+            "id": 50009,
+            "step": 1,
+            "summary": "Clear Polka Arc<br>Ch. 1, 1-2-12<br>or reach<br>Player Rank 12",
+            "description": "Complete Polka Arc Ch. 1, 1-2-12. Summit's Gate on Normal difficulty or reach Player Rank 12.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999991
+        },
+        {
+            "id": 50010,
+            "step": 2,
+            "summary": "Return Instantly<br>from 3 Expeditions<br>(Dojo)",
+            "description": "Return instantly from 3 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+            "reward_type": 15,
+            "reward_id": 104300450,
+            "reward_quantity": 1,
+            "priority": 9999989
+        },
+        {
+            "id": 50011,
+            "step": 2,
+            "summary": "Enhance Equipment to Lv 2<br>(Forge)",
+            "description": "Enhance 1 piece of equipment to Level 2 at the Forge (obtain materials from Main Quests).",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999988
+        },
+        {
+            "id": 50012,
+            "step": 2,
+            "summary": "Clear Polka Arc<br>Ch. 1, 2-1-10<br>or reach<br>Player Rank 14",
+            "description": "Complete Polka Arc Ch. 1, 2-1-10. Cavern Exit on Normal difficulty or reach Player Rank 14.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999987
+        },
+        {
+            "id": 50013,
+            "step": 2,
+            "summary": "Clear<br>Treasure Hunt",
+            "description": "Complete the Big Treasure Hunt 1 time (Sub Quests > Daily > Permanent > Big Treasure Hunt).<br>*Unlock by clearing Polka Arc Ch. 1, 2-1-10 or reach Player Rank 13.",
+            "reward_type": 1,
+            "reward_id": 100003,
+            "reward_quantity": 30000,
+            "priority": 9999986
+        },
+        {
+            "id": 50014,
+            "step": 2,
+            "summary": "Raise Style Lv<br>to 15<br>(Dojo)",
+            "description": "Level a Style up to Lv 15 at the Dojo (Dojo > Enhance Styles).",
+            "reward_type": 11,
+            "reward_id": 830001,
+            "reward_quantity": 5,
+            "priority": 9999985
+        },
+        {
+            "id": 50015,
+            "step": 2,
+            "summary": "Clear Polka Arc<br>Ch. 1, 2-2-10<br>or reach<br>Player Rank 16",
+            "description": "Complete Polka Arc Ch. 1, 2-2-10. Underground Inhabitant on Normal difficulty or reach Player Rank 16.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999984
+        },
+        {
+            "id": 50016,
+            "step": 2,
+            "summary": "Clear<br>Spiral Corridor<br>Floor 3",
+            "description": "Complete Spiral Corridor Floor 3 (Sub Quests > Challenge > Permanent > Spiral Corridor).<br>*Unlock by clearing Polka Arc Ch. 1, 2-2-10 or reach Player Rank 16.<br>*The Spiral Corridor may be closed at times.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999983
+        },
+        {
+            "id": 50017,
+            "step": 2,
+            "summary": "Return Instantly<br>from 5 Expeditions<br>(Dojo)",
+            "description": "Return instantly from 5 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999982
+        },
+        {
+            "id": 50018,
+            "step": 2,
+            "summary": "Clear Polka Arc<br>Ch. 1, 3-1-12<br>or reach<br>Player Rank 18",
+            "description": "Complete Polka Arc Ch. 1, 3-1-12. Scaccini's Assassins on Normal difficulty or reach Player Rank 18.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999981
+        },
+        {
+            "id": 50019,
+            "step": 3,
+            "summary": "Unlock Style Level Cap<br>5 times<br>(Dojo)",
+            "description": "Unlock Style Level Cap 5 times (Dojo > Unlock Style Level Cap).",
+            "reward_type": 11,
+            "reward_id": 830001,
+            "reward_quantity": 20,
+            "priority": 9999979
+        },
+        {
+            "id": 50020,
+            "step": 3,
+            "summary": "Replenish Training Energy<br>(Dojo)",
+            "description": "Replenish training energy once (Dojo > Training > Add NRG).",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999978
+        },
+        {
+            "id": 50021,
+            "step": 3,
+            "summary": "Clear Polka Arc<br>Ch. 1, 3-2-6<br>or reach<br>Player Rank 20",
+            "description": "Complete Polka Arc Ch. 1, 3-2-6. Castle Keeper on Normal difficulty or reach Player Rank 20.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999977
+        },
+        {
+            "id": 50022,
+            "step": 3,
+            "summary": "Complete<br>Ruins Exploration: Tri Glowstones<br>5 Times",
+            "description": "Complete Ruins Exploration: Tri Glowstones 5 times (Sub Quests > Daily > Permanent > Ruins Exploration).",
+            "reward_type": 9,
+            "reward_id": 820001,
+            "reward_quantity": 2,
+            "priority": 9999976
+        },
+        {
+            "id": 50023,
+            "step": 3,
+            "summary": "Evolve Equipment Once<br>(Forge)",
+            "description": "Evolve equipment 1 time at the Forge (obtain materials from Sub Quests > Daily > Permanent > Ruins Exploration).",
+            "reward_type": 11,
+            "reward_id": 830001,
+            "reward_quantity": 20,
+            "priority": 9999975
+        },
+        {
+            "id": 50024,
+            "step": 3,
+            "summary": "Clear Polka Arc<br>Ch. 1, 4-1-10<br>or reach<br>Player Rank 23",
+            "description": "Complete Polka Arc Ch. 1, 4-1-10. Lurking Shadow on Normal difficulty or reach Player Rank 23.",
+            "reward_type": 11,
+            "reward_id": 830001,
+            "reward_quantity": 30,
+            "priority": 9999974
+        },
+        {
+            "id": 50025,
+            "step": 3,
+            "summary": "Clear Polka Arc<br>Ch. 1, 1-1-1 [Hard]<br>or reach<br>Player Rank 26",
+            "description": "Complete Polka Arc Ch. 1, 1-1-1. The Exam Begins! on Hard difficulty or reach Player Rank 26.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999973
+        },
+        {
+            "id": 50026,
+            "step": 3,
+            "summary": "Return Instantly<br>from 10 Expeditions<br>(Dojo)",
+            "description": "Return instantly from 10 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999972
+        },
+        {
+            "id": 50027,
+            "step": 3,
+            "summary": "Clear Polka Arc<br>Ch. 1, 4-2-10<br>or reach<br>Player Rank 30",
+            "description": "Complete Polka Arc Ch. 1, 4-2-10. Crimson Commander on Normal difficulty or reach Player Rank 30.",
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 50,
+            "priority": 9999971
+        },
+        {
+            "id": 50130,
+            "step": 1,
+            "summary": "Clear Forest of Mystery Lv. 1",
+            "description": "Complete Forest of Mystery Lv. 1 (Sub Quests > Event > Permanent > Explore the Forest of Mystery).<br>*Unlock by clearing Polka Arc Ch. 1, 4-2-10 or reach Player Rank 30.",
+            "reward_type": 11,
+            "reward_id": 830001,
+            "reward_quantity": 30,
+            "priority": 9999999
+        },
+        {
+            "id": 50131,
+            "step": 1,
+            "summary": "Return Instantly<br>from 20 Expeditions<br>(Dojo)",
+            "description": "Return instantly from 20 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 100,
+            "priority": 9999998
+        },
+        {
+            "id": 50132,
+            "step": 1,
+            "summary": "Clear Polka Arc<br>Ch. 1, 5-2-12<br>or reach<br>Player Rank 35",
+            "description": "Complete Polka Arc Ch. 1, 5-2-12. The Witch on Normal difficulty or reach Player Rank 35.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999997
+        },
+        {
+            "id": 50133,
+            "step": 1,
+            "summary": "Clear Polka Arc<br>Ch. 1, 1-2-6 [Hard]<br>or reach<br>Player Rank 40",
+            "description": "Complete Polka Arc Ch. 1, 1-2-6. Summit's Gate on Hard difficulty or reach Player Rank 40.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999996
+        },
+        {
+            "id": 50134,
+            "step": 1,
+            "summary": "Complete Spiral Corridor Floor 10",
+            "description": "Complete Spiral Corridor Floor 10 (Sub Quests > Challenge > Permanent > Spiral Corridor).<br>*The Spiral Corridor may be closed at times.",
+            "reward_type": 1,
+            "reward_id": 100003,
+            "reward_quantity": 50000,
+            "priority": 9999995
+        },
+        {
+            "id": 50135,
+            "step": 1,
+            "summary": "Clear Polka Arc<br>Ch. 1, 2-2-5 [Hard]<br>or reach<br>Player Rank 45",
+            "description": "Complete Polka Arc Ch. 1, 2-2-5. Underground Inhabitant on Hard difficulty or reach Player Rank 45.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999994
+        },
+        {
+            "id": 50136,
+            "step": 1,
+            "summary": "Awaken a Skill/Spell 1 Time<br>(Dojo)",
+            "description": "Awaken a skill or spell 1 time (Dojo > Awaken Skills/Spells).",
+            "reward_type": 11,
+            "reward_id": 830001,
+            "reward_quantity": 30,
+            "priority": 9999993
+        },
+        {
+            "id": 50137,
+            "step": 1,
+            "summary": "Defeat 500 Enemies",
+            "description": "Defeat 500 enemies total in any quest",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999992
+        },
+        {
+            "id": 50138,
+            "step": 1,
+            "summary": "Clear Polka Arc<br>Ch. 1, 3-2-3 [Hard]<br>or reach<br>Player Rank 50",
+            "description": "Complete Polka Arc Ch. 1, 3-2-3. Castle Keeper on Hard difficulty or reach Player Rank 50.",
+            "reward_type": 11,
+            "reward_id": 830001,
+            "reward_quantity": 100,
+            "priority": 9999991
+        },
+        {
+            "id": 50140,
+            "step": 2,
+            "summary": "Return Instantly<br>from 50 Expeditions<br>(Dojo)",
+            "description": "Return instantly from 50 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 20,
+            "priority": 9999989
+        },
+        {
+            "id": 50141,
+            "step": 2,
+            "summary": "Clear Polka Arc<br>Ch. 1, 4-2-5 [Hard]<br>or reach<br>Player Rank 55",
+            "description": "Complete Polka Arc Ch. 1, 4-2-5. Crimson Commander on Hard difficulty or reach Player Rank 55.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999988
+        },
+        {
+            "id": 50142,
+            "step": 2,
+            "summary": "Clear Polka Arc<br>Ch. 1, 1-2-6 [VH]<br>or reach<br>Player Rank 60",
+            "description": "Complete Polka Arc Ch. 1, 1-2-6. Summit's Gate on Very Hard difficulty or reach Player Rank 60.",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999987
+        },
+        {
+            "id": 50143,
+            "step": 2,
+            "summary": "Unlock Style Level Cap<br>7 Times<br>(Dojo)",
+            "description": "Unlock Style Level Cap 7 times (Dojo > Unlock Style Level Cap).",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 10,
+            "priority": 9999986
+        },
+        {
+            "id": 50144,
+            "step": 2,
+            "summary": "Complete Forest of Mystery Lv. 2",
+            "description": "Complete Forest of Mystery Lv. 2 (Sub Quests > Event > Permanent > Explore the Forest of Mystery).",
+            "reward_type": 9,
+            "reward_id": 820001,
+            "reward_quantity": 3,
+            "priority": 9999985
+        },
+        {
+            "id": 50145,
+            "step": 2,
+            "summary": "Clear Polka Arc<br>Ch. 1, 3-2-3 [VH]<br>or reach<br>Player Rank 65",
+            "description": "Complete Polka Arc Ch. 1, 3-2-3. Castle Keeper on Very Hard difficulty or reach Player Rank 65.",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999984
+        },
+        {
+            "id": 50146,
+            "step": 2,
+            "summary": "Complete<br>Iron Ruins<br>Lv. 5",
+            "description": "Complete Iron Ruins Lv.5 (Sub Quests > Daily > Permanent > Ruins Exploration: Tri Glowstones).",
+            "reward_type": 1,
+            "reward_id": 100003,
+            "reward_quantity": 100000,
+            "priority": 9999983
+        },
+        {
+            "id": 50147,
+            "step": 2,
+            "summary": "Evolve Equipment 2 Times<br>(Forge)",
+            "description": "Evolve equipment 2 times at the Forge (obtain materials from Sub Quests > Daily > Permanent > Ruins Exploration).",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999982
+        },
+        {
+            "id": 50148,
+            "step": 2,
+            "summary": "Clear Polka Arc<br>Ch. 1, 4-2-5 [VH]<br>or reach<br>Player Rank 70",
+            "description": "Complete Polka Arc Ch. 1, 4-2-5. Crimson Commander on Very Hard difficulty or reach Player Rank 70.",
+            "reward_type": 11,
+            "reward_id": 830001,
+            "reward_quantity": 200,
+            "priority": 9999981
+        },
+        {
+            "id": 50150,
+            "step": 3,
+            "summary": "Return Instantly<br>from 100 Expeditions<br>(Dojo)",
+            "description": "Return instantly from 100 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999979
+        },
+        {
+            "id": 50151,
+            "step": 3,
+            "summary": "Unlock Style Level Cap<br>10 Times<br>(Dojo)",
+            "description": "Unlock Style Level Cap 10 times (Dojo > Unlock Style Level Cap).",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 20,
+            "priority": 9999978
+        },
+        {
+            "id": 50152,
+            "step": 3,
+            "summary": "Clear Polka Arc<br>Ch. 1, 5-2-6 [VH]<br>or reach<br>Player Rank 75",
+            "description": "Complete Polka Arc Ch. 1, 5-2-6. The Witch on Very Hard difficulty or reach Player Rank 75.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 20,
+            "priority": 9999977
+        },
+        {
+            "id": 50153,
+            "step": 3,
+            "summary": "Complete Forest of Mystery Lv. 4",
+            "description": "Complete Forest of Mystery Lv. 4 (Sub Quests > Event > Permanent > Explore the Forest of Mystery).",
+            "reward_type": 9,
+            "reward_id": 820001,
+            "reward_quantity": 3,
+            "priority": 9999976
+        },
+        {
+            "id": 50154,
+            "step": 3,
+            "summary": "Complete<br>Iron Ruins<br>Lv. 6",
+            "description": "Complete Iron Ruins Lv.6 (Sub Quests > Daily > Permanent > Ruins Exploration: Tri Glowstones).",
+            "reward_type": 1,
+            "reward_id": 100003,
+            "reward_quantity": 100000,
+            "priority": 9999975
+        },
+        {
+            "id": 50155,
+            "step": 3,
+            "summary": "Evolve Equipment 3 Times<br>(Forge)",
+            "description": "Evolve equipment 3 times at the Forge (obtain materials from Sub Quests > Daily > Permanent > Ruins Exploration).",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 20,
+            "priority": 9999974
+        },
+        {
+            "id": 50156,
+            "step": 3,
+            "summary": "Complete Spiral Corridor Floor 20",
+            "description": "Complete Spiral Corridor Floor 20 (Sub Quests > Challenge > Permanent > Spiral Corridor).<br>*The Spiral Corridor may be closed at times.",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999973
+        },
+        {
+            "id": 50157,
+            "step": 3,
+            "summary": "Defeat 1,500 Enemies",
+            "description": "Defeat 1,500 enemies total in any quest",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 20,
+            "priority": 9999972
+        },
+        {
+            "id": 50158,
+            "step": 3,
+            "summary": "Clear Polka Arc<br>Ch. 1, 6-1-5 [VH]<br>or reach<br>Player Rank 80",
+            "description": "Complete Polka Arc Ch. 1, 6-1-5. Mountain Entrance on Very Hard difficulty or reach Player Rank 80.",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999971
+        },
+        {
+            "id": 50230,
+            "step": 1,
+            "summary": "Evolve Equipment 4 Times<br>(Forge)",
+            "description": "Evolve equipment 4 times at the Forge (obtain materials from Sub Quests > Daily > Permanent > Ruins Exploration).",
+            "reward_type": 1,
+            "reward_id": 100003,
+            "reward_quantity": 100000,
+            "priority": 9999999
+        },
+        {
+            "id": 50231,
+            "step": 1,
+            "summary": "Return Instantly<br>from 120 Expeditions<br>(Dojo)",
+            "description": "Return instantly from 120 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 20,
+            "priority": 9999998
+        },
+        {
+            "id": 50232,
+            "step": 1,
+            "summary": "Complete Forest of Mystery Lv. 6",
+            "description": "Complete Forest of Mystery Lv. 6 (Sub Quests > Event > Permanent > Explore the Forest of Mystery).",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999997
+        },
+        {
+            "id": 50233,
+            "step": 1,
+            "summary": "Unlock Style Level Cap<br>15 Times<br>(Dojo)",
+            "description": "Unlock Style Level Cap 15 times (Dojo > Unlock Style Level Cap).",
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 50,
+            "priority": 9999996
+        },
+        {
+            "id": 50234,
+            "step": 1,
+            "summary": "Defeat 2,000 Enemies",
+            "description": "Defeat 2,000 enemies total in any quest",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 20,
+            "priority": 9999995
+        },
+        {
+            "id": 50235,
+            "step": 1,
+            "summary": "Complete Spiral Corridor Floor 25",
+            "description": "Complete Spiral Corridor Floor 25 (Sub Quests > Challenge > Permanent > Spiral Corridor).<br>*The Spiral Corridor may be closed at times.",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999994
+        },
+        {
+            "id": 50236,
+            "step": 1,
+            "summary": "Clear Polka Arc<br>Ch. 1, 6-2-5 [VH]<br>or reach<br>Player Rank 83",
+            "description": "Complete Polka Arc Ch. 1, 6-2-5. Follow the Butterfly on Very Hard difficulty or reach Player Rank 83.",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999993
+        },
+        {
+            "id": 50237,
+            "step": 1,
+            "summary": "Clear Polka Arc<br>Ch. 1, 7-2-5 [VH]<br>or reach<br>Player Rank 86",
+            "description": "Complete Polka Arc Ch. 1, 7-2-5. Netherworld Departure on Very Hard difficulty or reach Player Rank 86.",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999992
+        },
+        {
+            "id": 50238,
+            "step": 1,
+            "summary": "Clear Polka Arc<br>Ch. 1, 8-2-5 [VH]<br>or reach<br>Player Rank 90",
+            "description": "Complete Polka Arc Ch. 1, 8-2-5. Battle with Kzinssie on Very Hard difficulty or reach Player Rank 90.",
+            "reward_type": 11,
+            "reward_id": 830001,
+            "reward_quantity": 200,
+            "priority": 9999991
+        },
+        {
+            "id": 50239,
+            "step": 2,
+            "summary": "Evolve Equipment 7 Times<br>(Forge)",
+            "description": "Evolve equipment 7 times at the Forge (obtain materials from Sub Quests > Daily > Permanent > Ruins Exploration).",
+            "reward_type": 1,
+            "reward_id": 100003,
+            "reward_quantity": 100000,
+            "priority": 9999989
+        },
+        {
+            "id": 50240,
+            "step": 2,
+            "summary": "Return Instantly<br>from 150 Expeditions<br>(Dojo)",
+            "description": "Return instantly from 150 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 20,
+            "priority": 9999988
+        },
+        {
+            "id": 50241,
+            "step": 2,
+            "summary": "Complete<br>Iron Ruins<br>Lv. 10",
+            "description": "Complete Iron Ruins Lv.10 (Sub Quests > Daily > Permanent > Ruins Exploration: Tri Glowstones).",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999987
+        },
+        {
+            "id": 50242,
+            "step": 2,
+            "summary": "Unlock Style Level Cap<br>20 Times<br>(Dojo)",
+            "description": "Unlock Style Level Cap 20 times (Dojo > Unlock Style Level Cap).",
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 50,
+            "priority": 9999986
+        },
+        {
+            "id": 50243,
+            "step": 2,
+            "summary": "Defeat 3,000 Enemies",
+            "description": "Defeat 3,000 enemies total in any quest",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 20,
+            "priority": 9999985
+        },
+        {
+            "id": 50244,
+            "step": 2,
+            "summary": "Complete Forest of Mystery Lv. 8",
+            "description": "Complete Forest of Mystery Lv. 8 (Sub Quests > Event > Permanent > Explore the Forest of Mystery).",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999984
+        },
+        {
+            "id": 50245,
+            "step": 2,
+            "summary": "Clear Polka Arc<br>Ch. 1, 10-2-5 [VH]<br>or reach<br>Player Rank 93",
+            "description": "Complete Polka Arc Ch. 1, 10-2-5. Final Battle on Very Hard difficulty or reach Player Rank 93.",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999983
+        },
+        {
+            "id": 50246,
+            "step": 2,
+            "summary": "Clear Polka Arc<br>Ch. 1, 11-2-5 [VH]<br>or reach<br>Player Rank 96",
+            "description": "Complete Polka Arc Ch. 1, 11-2-5. Eastern Cave on Very Hard difficulty or reach Player Rank 96.",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999982
+        },
+        {
+            "id": 50247,
+            "step": 2,
+            "summary": "Clear Polka Arc<br>Ch. 1, 13-2-5 [VH]<br>or reach<br>Player Rank 100",
+            "description": "Complete Polka Arc Ch. 1, 13-2-5. Surpassing Father on Very Hard difficulty or reach Player Rank 100.",
+            "reward_type": 11,
+            "reward_id": 830001,
+            "reward_quantity": 500,
+            "priority": 9999981
+        },
+        {
+            "id": 50248,
+            "step": 3,
+            "summary": "Evolve Equipment 10 Times<br>(Forge)",
+            "description": "Evolve equipment 10 times at the Forge (obtain materials from Sub Quests > Daily > Permanent > Ruins Exploration).",
+            "reward_type": 1,
+            "reward_id": 100003,
+            "reward_quantity": 100000,
+            "priority": 9999979
+        },
+        {
+            "id": 50249,
+            "step": 3,
+            "summary": "Return Instantly<br>from 200 Expeditions<br>(Dojo)",
+            "description": "Return instantly from 200 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 20,
+            "priority": 9999978
+        },
+        {
+            "id": 50250,
+            "step": 3,
+            "summary": "Complete 1. Barthelemy's Training: Slash",
+            "description": "Complete 1. Barthelemy's Training: Slash (Sub Quests > Challenge > Attacks > Barthelemy's Training: Slash).",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 20,
+            "priority": 9999977
+        },
+        {
+            "id": 50251,
+            "step": 3,
+            "summary": "Unlock Style Level Cap<br>30 Times<br>(Dojo)",
+            "description": "Unlock Style Level Cap 30 times (Dojo > Unlock Style Level Cap).",
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 50,
+            "priority": 9999976
+        },
+        {
+            "id": 50252,
+            "step": 3,
+            "summary": "Defeat 4,000 Enemies",
+            "description": "Defeat 4,000 enemies total in any quest",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 20,
+            "priority": 9999975
+        },
+        {
+            "id": 50253,
+            "step": 3,
+            "summary": "Complete Spiral Corridor Floor 30",
+            "description": "Complete Spiral Corridor Floor 30 (Sub Quests > Challenge > Permanent > Spiral Corridor).<br>*The Spiral Corridor may be closed at times.",
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 20,
+            "priority": 9999974
+        },
+        {
+            "id": 50254,
+            "step": 3,
+            "summary": "Clear Polka Arc<br>Ch. 1, 14-2-6 [VH]<br>or reach<br>Player Rank 103",
+            "description": "Complete Polka Arc Ch. 1, 14-2-6. Dae's Colossus on Very Hard difficulty or reach Player Rank 103.",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999973
+        },
+        {
+            "id": 50255,
+            "step": 3,
+            "summary": "Clear Polka Arc<br>Ch. 1, 15-2-5 [VH]<br>or reach<br>Player Rank 106",
+            "description": "Complete Polka Arc Ch. 1, 15-2-5. Tracing a Dark Howl on Very Hard difficulty or reach Player Rank 106.",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 30,
+            "priority": 9999972
+        },
+        {
+            "id": 50256,
+            "step": 3,
+            "summary": "Clear Polka Arc<br>Gaiden 2-5 [VH]<br>or reach<br>Player Rank 110",
+            "description": "Complete Polka Arc Ch. 1, Gaiden 2-5. Byunei, Lord of the Dragons on Very Hard difficulty or reach Player Rank 110.",
+            "reward_type": 3,
+            "reward_id": 229207,
+            "reward_quantity": 100,
+            "priority": 9999971
+        }
+    ]
+}

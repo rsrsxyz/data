@@ -1,0 +1,244 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5956556042655054077
+    },
+    "m_Name": "FieldMap",
+    "objectArray": [
+        {
+            "id": 1010101,
+            "field_map_group_id": 10101,
+            "name": "",
+            "screen_in_help_id": 178,
+            "bgm": 130111,
+            "field_map_bg_illust": 0,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1010201,
+            "field_map_group_id": 10102,
+            "name": "",
+            "screen_in_help_id": 179,
+            "bgm": 130111,
+            "field_map_bg_illust": 0,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1010301,
+            "field_map_group_id": 10103,
+            "name": "みんなで討滅！ターム族",
+            "screen_in_help_id": 216,
+            "bgm": 130113,
+            "field_map_bg_illust": 0,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1010401,
+            "field_map_group_id": 10104,
+            "name": "Conquer Romancing Saga Prefecture",
+            "screen_in_help_id": 246,
+            "bgm": 130153,
+            "field_map_bg_illust": 10001,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1010501,
+            "field_map_group_id": 10105,
+            "name": "Rally for the Creator's Game!",
+            "screen_in_help_id": 311,
+            "bgm": 130315,
+            "field_map_bg_illust": 0,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1010601,
+            "field_map_group_id": 10106,
+            "name": "1.5 Anniv.! Romancing Battle",
+            "screen_in_help_id": 344,
+            "bgm": 130378,
+            "field_map_bg_illust": 10002,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1010701,
+            "field_map_group_id": 10107,
+            "name": "1.5 Anniv.! Romancing Battle",
+            "screen_in_help_id": 344,
+            "bgm": 130378,
+            "field_map_bg_illust": 10002,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1010801,
+            "field_map_group_id": 10108,
+            "name": "Zodiac Conquest",
+            "screen_in_help_id": 380,
+            "bgm": 120038,
+            "field_map_bg_illust": 0,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1010901,
+            "field_map_group_id": 10109,
+            "name": "Sinistrals Conquest",
+            "screen_in_help_id": 403,
+            "bgm": 130141,
+            "field_map_bg_illust": 10003,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1011001,
+            "field_map_group_id": 10110,
+            "name": "Destined Battle Finale: Deathmatch with Igomahl",
+            "screen_in_help_id": 463,
+            "bgm": 120107,
+            "field_map_bg_illust": 10004,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1011101,
+            "field_map_group_id": 10111,
+            "name": "Destined Battle: Otherworld Igomahl",
+            "screen_in_help_id": 469,
+            "bgm": 120112,
+            "field_map_bg_illust": 10004,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1011201,
+            "field_map_group_id": 10120,
+            "name": "RS2 Solo Conquest (Coop-Dummy)",
+            "screen_in_help_id": 556,
+            "bgm": 130113,
+            "field_map_bg_illust": 10000,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1011501,
+            "field_map_group_id": 10115,
+            "name": "Destined Battle: End of the Ancient War",
+            "screen_in_help_id": 474,
+            "bgm": 130463,
+            "field_map_bg_illust": 10005,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1011601,
+            "field_map_group_id": 10116,
+            "name": "Hop In! SaGa Onsen Conquest",
+            "screen_in_help_id": 482,
+            "bgm": 120126,
+            "field_map_bg_illust": 10006,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1011701,
+            "field_map_group_id": 10117,
+            "name": "The MAGI Legend Conquest",
+            "screen_in_help_id": 501,
+            "bgm": 130325,
+            "field_map_bg_illust": 10007,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1011801,
+            "field_map_group_id": 10118,
+            "name": "RS2 Solo Conquest",
+            "screen_in_help_id": 556,
+            "bgm": 130113,
+            "field_map_bg_illust": 10008,
+            "field_map_quest_id_to_darken": 972017001,
+            "field_map_quest_id_to_lighten": 972017041
+        },
+        {
+            "id": 1011901,
+            "field_map_group_id": 10119,
+            "name": "White Christmas Conquest",
+            "screen_in_help_id": 569,
+            "bgm": 130270,
+            "field_map_bg_illust": 10002,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1012001,
+            "field_map_group_id": 10121,
+            "name": "Music Fest Conquest",
+            "screen_in_help_id": 631,
+            "bgm": 110001,
+            "field_map_bg_illust": 10009,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1012201,
+            "field_map_group_id": 10122,
+            "name": "Mardias Conquest Solo",
+            "screen_in_help_id": 768,
+            "bgm": 120267,
+            "field_map_bg_illust": 10010,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1012301,
+            "field_map_group_id": 10123,
+            "name": "Mardias Conquest Co-op",
+            "screen_in_help_id": 679,
+            "bgm": 120267,
+            "field_map_bg_illust": 10010,
+            "field_map_quest_id_to_darken": 972020001,
+            "field_map_quest_id_to_lighten": 972020080
+        },
+        {
+            "id": 1012401,
+            "field_map_group_id": 10124,
+            "name": "Wonderful Saga! Romancing Tour",
+            "screen_in_help_id": 795,
+            "bgm": 110001,
+            "field_map_bg_illust": 10011,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1012501,
+            "field_map_group_id": 10125,
+            "name": "Wonderful Saga! Romancing Tour_Coop",
+            "screen_in_help_id": 797,
+            "bgm": 130473,
+            "field_map_bg_illust": 10012,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        },
+        {
+            "id": 1012801,
+            "field_map_group_id": 10128,
+            "name": "Liam Arc Episode 13 They Who Were Born: Divine Realm Battles",
+            "screen_in_help_id": 879,
+            "bgm": 120324,
+            "field_map_bg_illust": 10013,
+            "field_map_quest_id_to_darken": 0,
+            "field_map_quest_id_to_lighten": 0
+        }
+    ]
+}

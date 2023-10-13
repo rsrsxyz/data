@@ -1,0 +1,59 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -1961173867197363098
+    },
+    "m_Name": "MultiMissionTab",
+    "objectArray": [
+        {
+            "id": 3,
+            "multi_mission_group_id": 2,
+            "title": "Have Fun! Culture Fest Co-op Missions",
+            "summary": "Get Culture Fest Photos",
+            "description": "Get Culture Fest Photos from Welcome! MU Culture Fest (Morning)/Welcome! MU Culture Fest (Afternoon)",
+            "area_id": 1576,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1691715600,
+            "end_at": 1692579599,
+            "priority": 10000,
+            "lock_text": ""
+        },
+        {
+            "id": 1000000001,
+            "multi_mission_group_id": 1000000001,
+            "title": "Fight Together! Fateful Showdown Co-op Missions",
+            "summary": "Get Brave General Banners",
+            "description": "Get Brave General Banners in Fateful Showdown: Brave General",
+            "area_id": 1608,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1693011600,
+            "end_at": 1693789199,
+            "priority": 10002,
+            "lock_text": ""
+        },
+        {
+            "id": 1000000002,
+            "multi_mission_group_id": 1000000001,
+            "title": "Fight Together! Fateful Showdown Co-op Missions",
+            "summary": "Get Fierce General Banners",
+            "description": "Get Fierce General Banners in Fateful Showdown: Fierce General",
+            "area_id": 1609,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1693011600,
+            "end_at": 1693789199,
+            "priority": 10001,
+            "lock_text": ""
+        }
+    ]
+}

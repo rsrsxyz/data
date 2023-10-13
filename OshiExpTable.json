@@ -1,0 +1,38 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6220233380559712014
+    },
+    "m_Name": "OshiExpTable",
+    "objectArray": [
+        {
+            "id": 1,
+            "exp": 1
+        },
+        {
+            "id": 2,
+            "exp": 500
+        },
+        {
+            "id": 3,
+            "exp": 2500
+        },
+        {
+            "id": 4,
+            "exp": 10000
+        },
+        {
+            "id": 5,
+            "exp": 30000
+        },
+        {
+            "id": 6,
+            "exp": 150000
+        }
+    ]
+}

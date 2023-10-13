@@ -1,0 +1,46 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7149101974101865675
+    },
+    "m_Name": "EventLocalArea",
+    "objectArray": [
+        {
+            "id": 901583011,
+            "name": "Good for developing characters to around 2470 HP",
+            "area_id": 1583,
+            "sort_order": 1,
+            "difficulty": 1,
+            "banner": 1000000035
+        },
+        {
+            "id": 901583111,
+            "name": "Good for developing characters to around 2480 HP",
+            "area_id": 1583,
+            "sort_order": 2,
+            "difficulty": 1,
+            "banner": 1000000035
+        },
+        {
+            "id": 901583191,
+            "name": "Good for developing characters to around 2490 HP",
+            "area_id": 1583,
+            "sort_order": 3,
+            "difficulty": 1,
+            "banner": 1000000035
+        },
+        {
+            "id": 901583281,
+            "name": "Good for developing characters to around 2500 HP",
+            "area_id": 1583,
+            "sort_order": 4,
+            "difficulty": 1,
+            "banner": 1000000035
+        }
+    ]
+}

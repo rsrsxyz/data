@@ -1,0 +1,22 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7065908812963834731
+    },
+    "m_Name": "ShopRecommend",
+    "objectArray": [
+        {
+            "id": 1,
+            "text": "SALE!"
+        },
+        {
+            "id": 2,
+            "text": "Limited Time!"
+        }
+    ]
+}

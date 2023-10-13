@@ -1,0 +1,546 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -88451474432951904
+    },
+    "m_Name": "Voice",
+    "objectArray": [
+        {
+            "id": 100001,
+            "sound_id": 510001,
+            "on_flag": 1,
+            "text": "I'm Nora. I run this workshop.",
+            "voice_msec": 3885
+        },
+        {
+            "id": 100002,
+            "sound_id": 510002,
+            "on_flag": 1,
+            "text": "Maybe the master smith is still here.",
+            "voice_msec": 3476
+        },
+        {
+            "id": 100003,
+            "sound_id": 510003,
+            "on_flag": 1,
+            "text": "Wanna enhance weapons or armor?",
+            "voice_msec": 3088
+        },
+        {
+            "id": 100004,
+            "sound_id": 510004,
+            "on_flag": 1,
+            "text": "I wish to make the best workshop.",
+            "voice_msec": 4163
+        },
+        {
+            "id": 100005,
+            "sound_id": 510005,
+            "on_flag": 1,
+            "text": "Hi there. What can I do for you?",
+            "voice_msec": 2529
+        },
+        {
+            "id": 100006,
+            "sound_id": 510006,
+            "on_flag": 0,
+            "text": "Forge Voice 6 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100007,
+            "sound_id": 510007,
+            "on_flag": 0,
+            "text": "Forge Voice 7 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100008,
+            "sound_id": 510008,
+            "on_flag": 0,
+            "text": "Forge Voice 8 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100009,
+            "sound_id": 510009,
+            "on_flag": 0,
+            "text": "Forge Voice 9 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100010,
+            "sound_id": 510010,
+            "on_flag": 0,
+            "text": "Forge Voice 10 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100011,
+            "sound_id": 520001,
+            "on_flag": 1,
+            "text": "No pain, no gain.",
+            "voice_msec": 2248
+        },
+        {
+            "id": 100012,
+            "sound_id": 520002,
+            "on_flag": 1,
+            "text": "This dojo is built for warriors.",
+            "voice_msec": 2716
+        },
+        {
+            "id": 100013,
+            "sound_id": 520003,
+            "on_flag": 1,
+            "text": "Be sure to enhance your fighters.",
+            "voice_msec": 1918
+        },
+        {
+            "id": 100014,
+            "sound_id": 520004,
+            "on_flag": 1,
+            "text": "Welcome to the Dojo of Grave Knights.",
+            "voice_msec": 2653
+        },
+        {
+            "id": 100015,
+            "sound_id": 520005,
+            "on_flag": 1,
+            "text": "Good to see you. Let's begin.",
+            "voice_msec": 2703
+        },
+        {
+            "id": 100016,
+            "sound_id": 520006,
+            "on_flag": 0,
+            "text": "Dojo Voice 6 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100017,
+            "sound_id": 520007,
+            "on_flag": 0,
+            "text": "Dojo Voice 7 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100018,
+            "sound_id": 520008,
+            "on_flag": 0,
+            "text": "Dojo Voice 8 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100019,
+            "sound_id": 520009,
+            "on_flag": 0,
+            "text": "Dojo Voice 9 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100020,
+            "sound_id": 520010,
+            "on_flag": 0,
+            "text": "Dojo Voice 10 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100021,
+            "sound_id": 530001,
+            "on_flag": 1,
+            "text": "Welcome! We've got lots to choose from.",
+            "voice_msec": 2870
+        },
+        {
+            "id": 100022,
+            "sound_id": 530002,
+            "on_flag": 1,
+            "text": "Yaaawn. I'm so bored today.",
+            "voice_msec": 2969
+        },
+        {
+            "id": 100023,
+            "sound_id": 530003,
+            "on_flag": 1,
+            "text": "Adventure? Take me with ya.",
+            "voice_msec": 2691
+        },
+        {
+            "id": 100024,
+            "sound_id": 530004,
+            "on_flag": 1,
+            "text": "Prep is vital for any adventure.",
+            "voice_msec": 3307
+        },
+        {
+            "id": 100025,
+            "sound_id": 530005,
+            "on_flag": 1,
+            "text": "I'm Virginia. Just call me Ginny.",
+            "voice_msec": 3506
+        },
+        {
+            "id": 100026,
+            "sound_id": 530006,
+            "on_flag": 0,
+            "text": "Job Voice 6 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100027,
+            "sound_id": 530007,
+            "on_flag": 0,
+            "text": "Job Voice 7 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100028,
+            "sound_id": 530008,
+            "on_flag": 0,
+            "text": "Job Voice 8 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100029,
+            "sound_id": 530009,
+            "on_flag": 0,
+            "text": "Job Voice 9 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100030,
+            "sound_id": 530010,
+            "on_flag": 0,
+            "text": "Job Voice 10 (For Non-Playback Test)",
+            "voice_msec": 999
+        },
+        {
+            "id": 100031,
+            "sound_id": 540001,
+            "on_flag": 1,
+            "text": "This is for you.",
+            "voice_msec": 1591
+        },
+        {
+            "id": 100032,
+            "sound_id": 540002,
+            "on_flag": 1,
+            "text": "A present!",
+            "voice_msec": 1296
+        },
+        {
+            "id": 100033,
+            "sound_id": 540003,
+            "on_flag": 1,
+            "text": "For you.",
+            "voice_msec": 1187
+        },
+        {
+            "id": 100034,
+            "sound_id": 540004,
+            "on_flag": 1,
+            "text": "Hope you'll like it.",
+            "voice_msec": 1387
+        },
+        {
+            "id": 100035,
+            "sound_id": 540005,
+            "on_flag": 1,
+            "text": "More giveaways!",
+            "voice_msec": 1579
+        },
+        {
+            "id": 100036,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "True power transcends life and death.",
+            "voice_msec": 0
+        },
+        {
+            "id": 100037,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "Now, choose your opponent.",
+            "voice_msec": 0
+        },
+        {
+            "id": 100038,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "What a tough battle...",
+            "voice_msec": 0
+        },
+        {
+            "id": 100039,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "Rid the world of evildoers!",
+            "voice_msec": 0
+        },
+        {
+            "id": 100040,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "Ha-ha-ha-ha!",
+            "voice_msec": 0
+        },
+        {
+            "id": 100041,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "Train your Grave Knights and warriors!",
+            "voice_msec": 0
+        },
+        {
+            "id": 100042,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "History becomes legend, and before long, myth.",
+            "voice_msec": 0
+        },
+        {
+            "id": 100043,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "Welcome to Fargo, the capital of fine art.",
+            "voice_msec": 0
+        },
+        {
+            "id": 100044,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "I, D'Walker, will be your guide.",
+            "voice_msec": 0
+        },
+        {
+            "id": 100045,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "Music, theater, art. Take your pick and enjoy.",
+            "voice_msec": 0
+        },
+        {
+            "id": 100046,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "The city grows with each passing day.",
+            "voice_msec": 0
+        },
+        {
+            "id": 100047,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "Fargo, a place where a theater may appear over night.",
+            "voice_msec": 0
+        },
+        {
+            "id": 100048,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "To ever greater heights...",
+            "voice_msec": 0
+        },
+        {
+            "id": 100049,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "Extreme Hidden Dojo... The Final Isle is open!",
+            "voice_msec": 0
+        },
+        {
+            "id": 100050,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "It's the... Extreme Hidden Dojo!",
+            "voice_msec": 0
+        },
+        {
+            "id": 100051,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "Recording battle data...",
+            "voice_msec": 0
+        },
+        {
+            "id": 100052,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "Loading enemy data...",
+            "voice_msec": 0
+        },
+        {
+            "id": 100053,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "*clank* *bang* BEEP!",
+            "voice_msec": 0
+        },
+        {
+            "id": 100054,
+            "sound_id": 510011,
+            "on_flag": 1,
+            "text": "Gustave the Steel, they say. How embarrassing.",
+            "voice_msec": 3428
+        },
+        {
+            "id": 100055,
+            "sound_id": 510012,
+            "on_flag": 1,
+            "text": "I want to make an even bigger sword one day.",
+            "voice_msec": 2710
+        },
+        {
+            "id": 100056,
+            "sound_id": 510013,
+            "on_flag": 1,
+            "text": "Weapons and armor are both important.",
+            "voice_msec": 2802
+        },
+        {
+            "id": 100057,
+            "sound_id": 510014,
+            "on_flag": 1,
+            "text": "Say, have you seen Flynn?",
+            "voice_msec": 1808
+        },
+        {
+            "id": 100058,
+            "sound_id": 510015,
+            "on_flag": 1,
+            "text": "I wonder if my mother is doing well.",
+            "voice_msec": 1658
+        },
+        {
+            "id": 100059,
+            "sound_id": 520011,
+            "on_flag": 1,
+            "text": "So, you came. Let's get started.",
+            "voice_msec": 2842
+        },
+        {
+            "id": 100060,
+            "sound_id": 520012,
+            "on_flag": 1,
+            "text": "My training's no walk in the park.",
+            "voice_msec": 2980
+        },
+        {
+            "id": 100061,
+            "sound_id": 520013,
+            "on_flag": 1,
+            "text": "Faster... More beautifully...",
+            "voice_msec": 2855
+        },
+        {
+            "id": 100062,
+            "sound_id": 520014,
+            "on_flag": 1,
+            "text": "You need to train so you're always ready to fight.",
+            "voice_msec": 3149
+        },
+        {
+            "id": 100063,
+            "sound_id": 520015,
+            "on_flag": 1,
+            "text": "Open the gates! This is Azami's Dojo! ...Ahem.",
+            "voice_msec": 4754
+        },
+        {
+            "id": 100064,
+            "sound_id": 530011,
+            "on_flag": 1,
+            "text": "Welcome! Take your time.",
+            "voice_msec": 2463
+        },
+        {
+            "id": 100065,
+            "sound_id": 530012,
+            "on_flag": 1,
+            "text": "Too many customers are just here to see me.",
+            "voice_msec": 2799
+        },
+        {
+            "id": 100066,
+            "sound_id": 530013,
+            "on_flag": 1,
+            "text": "The store's uniform? Were you looking forward to it?",
+            "voice_msec": 3936
+        },
+        {
+            "id": 100067,
+            "sound_id": 530014,
+            "on_flag": 1,
+            "text": "My current mission is to be the shop's poster girl.",
+            "voice_msec": 3058
+        },
+        {
+            "id": 100068,
+            "sound_id": 530015,
+            "on_flag": 1,
+            "text": "I'm Emelia, former top model.",
+            "voice_msec": 3192
+        },
+        {
+            "id": 100069,
+            "sound_id": 550001,
+            "on_flag": 1,
+            "text": "Ninjutsu: Cloning Technique! Just kidding.",
+            "voice_msec": 4309
+        },
+        {
+            "id": 100070,
+            "sound_id": 550002,
+            "on_flag": 1,
+            "text": "What enemies are we up against today?",
+            "voice_msec": 2723
+        },
+        {
+            "id": 100071,
+            "sound_id": 550003,
+            "on_flag": 1,
+            "text": "Hey, you! Quit slackin' off!",
+            "voice_msec": 3011
+        },
+        {
+            "id": 100072,
+            "sound_id": 550004,
+            "on_flag": 1,
+            "text": "You prefer more intense training?",
+            "voice_msec": 2499
+        },
+        {
+            "id": 100073,
+            "sound_id": 550005,
+            "on_flag": 1,
+            "text": "Mwahahahaha!",
+            "voice_msec": 1942
+        },
+        {
+            "id": 100074,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "The Ultra Hidden...!",
+            "voice_msec": 0
+        },
+        {
+            "id": 100075,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "The Ultra Hidden Dojo, the Final Isle is open!",
+            "voice_msec": 0
+        },
+        {
+            "id": 100076,
+            "sound_id": 0,
+            "on_flag": 1,
+            "text": "Stronger... And stronger still...!",
+            "voice_msec": 0
+        }
+    ]
+}

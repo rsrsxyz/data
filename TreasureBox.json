@@ -1,0 +1,523 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 4995857877034868381
+    },
+    "m_Name": "TreasureBox",
+    "objectArray": [
+        {
+            "id": 900003,
+            "name": "The Final Treasure - Small",
+            "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston Pieces, Silver Pieces, Orb Medals, and more.",
+            "rarity": 4,
+            "max_quantity": 9999,
+            "expired_at": 0,
+            "icon": 900003,
+            "sort_order": 49999015,
+            "drop_group_ids": [
+                400000068,
+                400000069
+            ]
+        },
+        {
+            "id": 900004,
+            "name": "The Final Treasure - Large",
+            "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston, SS [From World's End] Boston Pieces, Testaments of the Mighty: Rank 1/Rank 2, Orb Medals, Stamina Potions (Large), and more.",
+            "rarity": 5,
+            "max_quantity": 9999,
+            "expired_at": 0,
+            "icon": 900004,
+            "sort_order": 49999020,
+            "drop_group_ids": [
+                400000070,
+                400000071,
+                400000072
+            ]
+        },
+        {
+            "id": 900006,
+            "name": "Festival Box [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until [1627606799] <tz>)",
+            "rarity": 2,
+            "max_quantity": 9999,
+            "expired_at": 1627606799,
+            "icon": 900006,
+            "sort_order": 1025,
+            "drop_group_ids": [
+                92829,
+                92845
+            ]
+        },
+        {
+            "id": 900007,
+            "name": "Super Festival Box [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until [1627606799] <tz>)",
+            "rarity": 3,
+            "max_quantity": 9999,
+            "expired_at": 1627606799,
+            "icon": 900007,
+            "sort_order": 1030,
+            "drop_group_ids": [
+                92830,
+                92846
+            ]
+        },
+        {
+            "id": 900008,
+            "name": "Deluxe Festival Box [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until [1627606799] <tz>)",
+            "rarity": 4,
+            "max_quantity": 9999,
+            "expired_at": 1627606799,
+            "icon": 900008,
+            "sort_order": 1035,
+            "drop_group_ids": [
+                92831,
+                92847
+            ]
+        },
+        {
+            "id": 900009,
+            "name": "Golden Box",
+            "description": "Open from Items>Treasure Box. You may get any of the items from Rewards.",
+            "rarity": 5,
+            "max_quantity": 9999,
+            "expired_at": 0,
+            "icon": 900009,
+            "sort_order": 1040,
+            "drop_group_ids": [
+                1000090512,
+                1000090511,
+                93128,
+                93129,
+                93130,
+                93131,
+                93132,
+                93133,
+                93134,
+                93135,
+                93136,
+                93137,
+                93138
+            ]
+        },
+        {
+            "id": 900011,
+            "name": "Cave of Holy Stones Box [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until [1630025999] <tz>)",
+            "rarity": 5,
+            "max_quantity": 9999,
+            "expired_at": 1630025999,
+            "icon": 900011,
+            "sort_order": 1046,
+            "drop_group_ids": [
+                93294,
+                93295,
+                93296,
+                93297,
+                93298,
+                1000090513
+            ]
+        },
+        {
+            "id": 900014,
+            "name": "New Year's Food Box [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until [1644627599] <tz>)",
+            "rarity": 5,
+            "max_quantity": 9999,
+            "expired_at": 1644627599,
+            "icon": 900016,
+            "sort_order": 1060,
+            "drop_group_ids": [
+                95234,
+                95234,
+                95234,
+                95234
+            ]
+        },
+        {
+            "id": 900015,
+            "name": "Ox Fortune Slip (Small Luck) [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You will get the items from Rewards. (Until [1644541199] <tz>)",
+            "rarity": 3,
+            "max_quantity": 9999,
+            "expired_at": 1644541199,
+            "icon": 900019,
+            "sort_order": 1065,
+            "drop_group_ids": [
+                95277,
+                95278,
+                95279,
+                95280,
+                95281,
+                95282,
+                95283,
+                95284,
+                95285,
+                95286
+            ]
+        },
+        {
+            "id": 900016,
+            "name": "Ox Fortune Slip (Fair Luck) [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You will get the items from Rewards. (Until [1644541199] <tz>)",
+            "rarity": 4,
+            "max_quantity": 9999,
+            "expired_at": 1644541199,
+            "icon": 900018,
+            "sort_order": 1070,
+            "drop_group_ids": [
+                95267,
+                95268,
+                95269,
+                95270,
+                95271,
+                95272,
+                95273,
+                95274,
+                95275,
+                95276
+            ]
+        },
+        {
+            "id": 900017,
+            "name": "Ox Fortune Slip (Great Luck) [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You will get the items from Rewards. (Until [1644541199] <tz>)",
+            "rarity": 5,
+            "max_quantity": 9999,
+            "expired_at": 1644541199,
+            "icon": 900017,
+            "sort_order": 1075,
+            "drop_group_ids": [
+                95257,
+                95258,
+                95259,
+                95260,
+                95261,
+                95262,
+                95263,
+                95264,
+                95265,
+                95266
+            ]
+        },
+        {
+            "id": 900020,
+            "name": "Treasure of Abyss [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You will get random items from Rewards. (Until [1656032399] <tz>)",
+            "rarity": 5,
+            "max_quantity": 9999,
+            "expired_at": 1656032399,
+            "icon": 900020,
+            "sort_order": 1080,
+            "drop_group_ids": [
+                102252,
+                102252,
+                102252,
+                102252,
+                102252,
+                102252,
+                102252,
+                102252,
+                102252,
+                102252
+            ]
+        },
+        {
+            "id": 900025,
+            "name": "Christmas Present [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until 01/24/2023 16:59 PST)",
+            "rarity": 5,
+            "max_quantity": 9999,
+            "expired_at": 1674608399,
+            "icon": 900025,
+            "sort_order": 21122125,
+            "drop_group_ids": [
+                103471,
+                103471,
+                103471,
+                103471,
+                103471,
+                103471,
+                103471,
+                103471,
+                103471,
+                103471
+            ]
+        },
+        {
+            "id": 900026,
+            "name": "Tiger Fortune Slip Box [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You will get the items from Rewards. (Until 02/27/2023 16:59 PST)",
+            "rarity": 3,
+            "max_quantity": 9999,
+            "expired_at": 1677545999,
+            "icon": 900026,
+            "sort_order": 22010130,
+            "drop_group_ids": [
+                21008000
+            ]
+        },
+        {
+            "id": 900027,
+            "name": "Tiger Fortune Slip (Great Luck) [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You will get the items from Rewards. (Until 02/27/2023 16:59 PST)",
+            "rarity": 5,
+            "max_quantity": 9999,
+            "expired_at": 1677545999,
+            "icon": 900017,
+            "sort_order": 22010125,
+            "drop_group_ids": [
+                21008001,
+                21008002,
+                21008003,
+                21008004,
+                21008005,
+                21008006,
+                21008007,
+                21008008,
+                21008009,
+                21008010
+            ]
+        },
+        {
+            "id": 900028,
+            "name": "Tiger Fortune Slip (Fair Luck) [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You will get the items from Rewards. (Until 02/27/2023 16:59 PST)",
+            "rarity": 4,
+            "max_quantity": 9999,
+            "expired_at": 1677545999,
+            "icon": 900018,
+            "sort_order": 22010120,
+            "drop_group_ids": [
+                21008011,
+                21008012,
+                21008013,
+                21008014,
+                21008015,
+                21008016,
+                21008017,
+                21008018,
+                21008019,
+                21008020
+            ]
+        },
+        {
+            "id": 900029,
+            "name": "Tiger Fortune Slip (Small Luck) [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You will get the items from Rewards. (Until 02/27/2023 16:59 PST)",
+            "rarity": 3,
+            "max_quantity": 9999,
+            "expired_at": 1677545999,
+            "icon": 900019,
+            "sort_order": 22010115,
+            "drop_group_ids": [
+                21008021,
+                21008022,
+                21008023,
+                21008024,
+                21008025,
+                21008026,
+                21008027,
+                21008028,
+                21008029,
+                21008030
+            ]
+        },
+        {
+            "id": 900030,
+            "name": "The Final Treasure II - Small",
+            "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston Pieces, Silver Pieces, Orb Medals, and more.",
+            "rarity": 4,
+            "max_quantity": 9999,
+            "expired_at": 0,
+            "icon": 900027,
+            "sort_order": 49999005,
+            "drop_group_ids": [
+                400000068,
+                400000069,
+                400000221
+            ]
+        },
+        {
+            "id": 900031,
+            "name": "The Final Treasure II - Large",
+            "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston, SS [From World's End] Boston Pieces, Testaments of the Mighty: Rank 1/Rank 2, Orb Medals, Stamina Potions (Large), and more.",
+            "rarity": 5,
+            "max_quantity": 9999,
+            "expired_at": 0,
+            "icon": 900028,
+            "sort_order": 49999010,
+            "drop_group_ids": [
+                400000070,
+                400000071,
+                400000072,
+                400000222
+            ]
+        },
+        {
+            "id": 900044,
+            "name": "Forging Material Box (Ancient) [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You may get any of the following items. (Until [1692579599] <tz>)<br>Reward: Ancient Metal Chunks, Ancient Sword Mold Pieces, aurum, more.",
+            "rarity": 4,
+            "max_quantity": 9999,
+            "expired_at": 1692579599,
+            "icon": 900036,
+            "sort_order": 23071310,
+            "drop_group_ids": [
+                21012332,
+                21012333,
+                21012334,
+                21012335,
+                21012336,
+                21012337,
+                21012338,
+                21012339,
+                21012340,
+                21012341,
+                21012342,
+                21012376
+            ]
+        },
+        {
+            "id": 900045,
+            "name": "Forging Material Box (Black Iron) [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You may get any of the following items. (Until [1692579599] <tz>)<br>Reward: Black Iron Chunks, Black Iron Sword Mold Pieces, aurum, and more.",
+            "rarity": 4,
+            "max_quantity": 9999,
+            "expired_at": 1692579599,
+            "icon": 900037,
+            "sort_order": 23071320,
+            "drop_group_ids": [
+                21012343,
+                21012344,
+                21012345,
+                21012346,
+                21012347,
+                21012348,
+                21012349,
+                21012350,
+                21012351,
+                21012352,
+                21012353,
+                21012376
+            ]
+        },
+        {
+            "id": 900046,
+            "name": "Forging Material Box (Bronze) [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You may get any of the following items. (Until [1692579599] <tz>)<br>Reward: Bronze Metal Chunks, Bronze Sword Mold Pieces, aurum, and more.",
+            "rarity": 4,
+            "max_quantity": 9999,
+            "expired_at": 1692579599,
+            "icon": 900038,
+            "sort_order": 23071330,
+            "drop_group_ids": [
+                21012354,
+                21012355,
+                21012356,
+                21012357,
+                21012358,
+                21012359,
+                21012360,
+                21012361,
+                21012362,
+                21012363,
+                21012364,
+                21012376
+            ]
+        },
+        {
+            "id": 900047,
+            "name": "Forging Material Box (Teal) [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You may get any of the following items. (Until [1692579599] <tz>)<br>Reward: Teal Metal Chunks, Teal Sword Mold Pieces, aurum, and more.",
+            "rarity": 4,
+            "max_quantity": 9999,
+            "expired_at": 1692579599,
+            "icon": 900039,
+            "sort_order": 23071340,
+            "drop_group_ids": [
+                21012365,
+                21012366,
+                21012367,
+                21012368,
+                21012369,
+                21012370,
+                21012371,
+                21012372,
+                21012373,
+                21012374,
+                21012375,
+                21012376
+            ]
+        },
+        {
+            "id": 900048,
+            "name": "The Final Treasure III - Small",
+            "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston Pieces, Silver Pieces, Hidden Attribute Orbs, and more.",
+            "rarity": 4,
+            "max_quantity": 9999,
+            "expired_at": 0,
+            "icon": 900027,
+            "sort_order": 49998995,
+            "drop_group_ids": [
+                400000225,
+                400000069,
+                400000221
+            ]
+        },
+        {
+            "id": 900049,
+            "name": "The Final Treasure III - Large",
+            "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston, SS [From World's End] Boston Pieces, Testaments of the Mighty: Rank 1/Rank 2, Hidden Attribute Orbs, Stamina Potions (Large), and more.",
+            "rarity": 5,
+            "max_quantity": 9999,
+            "expired_at": 0,
+            "icon": 900028,
+            "sort_order": 49999000,
+            "drop_group_ids": [
+                400000226,
+                400000071,
+                400000072,
+                400000222
+            ]
+        },
+        {
+            "id": 1000900001,
+            "name": "Holy Night Gift [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You will get the items from Rewards. (Until [1699577999] <tz>)",
+            "rarity": 5,
+            "max_quantity": 9999,
+            "expired_at": 1699577999,
+            "icon": 900025,
+            "sort_order": 23092800,
+            "drop_group_ids": [
+                1000097585,
+                1000097627,
+                1000097628,
+                21012897,
+                21012898,
+                21012899,
+                21012900,
+                21012901,
+                21012902,
+                21012903,
+                21012904,
+                21012905,
+                21012906,
+                21012907,
+                21012908,
+                21012909,
+                21012910,
+                21012911,
+                21012912,
+                21012913
+            ]
+        }
+    ]
+}

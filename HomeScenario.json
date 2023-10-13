@@ -1,0 +1,49 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -577406792362994792
+    },
+    "m_Name": "HomeScenario",
+    "objectArray": [
+        {
+            "id": 2,
+            "start_at": 1605679200,
+            "end_at": 1607302799,
+            "priority": 100,
+            "scenario_script_name": "90004-010"
+        },
+        {
+            "id": 3,
+            "start_at": 1575082800,
+            "end_at": 1576810799,
+            "priority": 100,
+            "scenario_script_name": "90005-010"
+        },
+        {
+            "id": 4,
+            "start_at": 1608685200,
+            "end_at": 1610067599,
+            "priority": 100,
+            "scenario_script_name": "90006-010"
+        },
+        {
+            "id": 5,
+            "start_at": 1622509200,
+            "end_at": 1625533199,
+            "priority": 100,
+            "scenario_script_name": "90007-010"
+        },
+        {
+            "id": 6,
+            "start_at": 1657760400,
+            "end_at": 1659056399,
+            "priority": 100,
+            "scenario_script_name": "90010-010"
+        }
+    ]
+}

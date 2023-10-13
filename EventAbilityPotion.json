@@ -1,0 +1,118 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 8362361236193440990
+    },
+    "m_Name": "EventAbilityPotion",
+    "objectArray": [
+        {
+            "id": 940005,
+            "name": "Valdor's Training Secrets [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 5x attribute gains for all Styles in all battle quests for 1 hour after use. (Until [1651625999] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1651625999,
+            "icon": 1000940001,
+            "sort_order": 9998,
+            "style_event_ability_id": 0,
+            "event_ability_group_id": 1000000441,
+            "duration_seconds": 3600,
+            "event_ability_potion_type": 1
+        },
+        {
+            "id": 1000940001,
+            "name": "Halloween Party Night Booster [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 3x attribute gains for a character in all battle quests for 1 hour after use. (Until [1669337999] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1669337999,
+            "icon": 1000940002,
+            "sort_order": 9999,
+            "style_event_ability_id": 0,
+            "event_ability_group_id": 1000000505,
+            "duration_seconds": 3600,
+            "event_ability_potion_type": 2
+        },
+        {
+            "id": 1000940002,
+            "name": "Red-Headed Girl Booster [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 3x attribute gains for a character in all battle quests for 1 hour after use. (Until [1680829199] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1680829199,
+            "icon": 940001,
+            "sort_order": 23040701,
+            "style_event_ability_id": 0,
+            "event_ability_group_id": 1000000564,
+            "duration_seconds": 3600,
+            "event_ability_potion_type": 2
+        },
+        {
+            "id": 1000940003,
+            "name": "Super Combat Training Booster [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 3x attribute gains for a character in all battle quests for 1 hour after use. (Until [1686877199] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1686877199,
+            "icon": 940001,
+            "sort_order": 23061601,
+            "style_event_ability_id": 0,
+            "event_ability_group_id": 1000000591,
+            "duration_seconds": 3600,
+            "event_ability_potion_type": 2
+        },
+        {
+            "id": 1000940004,
+            "name": "3rd Anniv. Booster [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 4x attribute gains for a character in all battle quests for 1 hour after use. (Until [1689728399] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1689728399,
+            "icon": 1000940004,
+            "sort_order": 23071901,
+            "style_event_ability_id": 0,
+            "event_ability_group_id": 1000000599,
+            "duration_seconds": 3600,
+            "event_ability_potion_type": 2
+        },
+        {
+            "id": 1000940005,
+            "name": "(All) Attribute Growth Booster V",
+            "flavor_text": "Item that grants 5x attribute gains for all Styles in all battle quests for 12 hours after use.",
+            "max_quantity": 9999,
+            "expired_at": 0,
+            "icon": 1000940005,
+            "sort_order": 99999999,
+            "style_event_ability_id": 0,
+            "event_ability_group_id": 1000000600,
+            "duration_seconds": 43200,
+            "event_ability_potion_type": 1
+        },
+        {
+            "id": 1000940006,
+            "name": "30 Million Global DLs Booster [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 4x attribute gains for a character in all battle quests for 24 hours after use. (Until [1698800399] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1698800399,
+            "icon": 940001,
+            "sort_order": 23110101,
+            "style_event_ability_id": 0,
+            "event_ability_group_id": 1000000627,
+            "duration_seconds": 86400,
+            "event_ability_potion_type": 2
+        },
+        {
+            "id": 1000940007,
+            "name": "30 Million Global DLs Skill/Spell Rank Booster [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 2x skill/spell rank up amount for a character in all battle quests for 24 hours after use. (Until [1698800399] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1698800399,
+            "icon": 940028,
+            "sort_order": 23110102,
+            "style_event_ability_id": 0,
+            "event_ability_group_id": 1000000628,
+            "duration_seconds": 86400,
+            "event_ability_potion_type": 2
+        }
+    ]
+}

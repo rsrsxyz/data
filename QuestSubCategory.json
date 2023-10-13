@@ -1,0 +1,84 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7282631678240343248
+    },
+    "m_Name": "QuestSubCategory",
+    "objectArray": [
+        {
+            "id": 19,
+            "name": "Polka Arc Ch. 1",
+            "sort_order": 981
+        },
+        {
+            "id": 20,
+            "name": "Event",
+            "sort_order": 980
+        },
+        {
+            "id": 21,
+            "name": "Tower",
+            "sort_order": 979
+        },
+        {
+            "id": 22,
+            "name": "Shrine",
+            "sort_order": 978
+        },
+        {
+            "id": 23,
+            "name": "Attacks",
+            "sort_order": 890
+        },
+        {
+            "id": 24,
+            "name": "Polka Arc Ch. 2",
+            "sort_order": 976
+        },
+        {
+            "id": 25,
+            "name": "Liam Arc",
+            "sort_order": 999
+        },
+        {
+            "id": 27,
+            "name": "Excavation",
+            "sort_order": 940
+        },
+        {
+            "id": 28,
+            "name": "Permanent",
+            "sort_order": 930
+        },
+        {
+            "id": 29,
+            "name": "Event",
+            "sort_order": 920
+        },
+        {
+            "id": 30,
+            "name": "Permanent",
+            "sort_order": 910
+        },
+        {
+            "id": 31,
+            "name": "Event",
+            "sort_order": 905
+        },
+        {
+            "id": 32,
+            "name": "Permanent",
+            "sort_order": 900
+        },
+        {
+            "id": 33,
+            "name": "Towers/Shrines",
+            "sort_order": 925
+        }
+    ]
+}

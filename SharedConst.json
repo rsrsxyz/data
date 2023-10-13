@@ -1,0 +1,182 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -7538284232106925224
+    },
+    "m_Name": "SharedConst",
+    "objectArray": [
+        {
+            "id": 1,
+            "key": "shop_wheel_daily_count_limit",
+            "type": "integer",
+            "value": "6"
+        },
+        {
+            "id": 3,
+            "key": "field_map_interval_seconds",
+            "type": "integer",
+            "value": "10"
+        },
+        {
+            "id": 4,
+            "key": "guild_creation_jewel",
+            "type": "integer",
+            "value": "100"
+        },
+        {
+            "id": 5,
+            "key": "guild_entry_limit",
+            "type": "integer",
+            "value": "30"
+        },
+        {
+            "id": 6,
+            "key": "guild_sub_leader_limit",
+            "type": "integer",
+            "value": "3"
+        },
+        {
+            "id": 7,
+            "key": "guild_chat_display_limit_days",
+            "type": "integer",
+            "value": "7"
+        },
+        {
+            "id": 8,
+            "key": "guild_chat_display_limit_count",
+            "type": "integer",
+            "value": "300"
+        },
+        {
+            "id": 9,
+            "key": "material_max_quantity",
+            "type": "integer",
+            "value": "999999"
+        },
+        {
+            "id": 10,
+            "key": "party_group_count",
+            "type": "integer",
+            "value": "5"
+        },
+        {
+            "id": 11,
+            "key": "party_count",
+            "type": "integer",
+            "value": "10"
+        },
+        {
+            "id": 12,
+            "key": "music_shop_event_point_id",
+            "type": "integer",
+            "value": "920001"
+        },
+        {
+            "id": 13,
+            "key": "limit_island_party_group_count",
+            "type": "integer",
+            "value": "2"
+        },
+        {
+            "id": 14,
+            "key": "limit_island_party_count",
+            "type": "integer",
+            "value": "10"
+        },
+        {
+            "id": 15,
+            "key": "guild_name_update_aurum",
+            "type": "integer",
+            "value": "50000"
+        },
+        {
+            "id": 16,
+            "key": "event_ability_potion_limit_seconds",
+            "type": "integer",
+            "value": "86400"
+        },
+        {
+            "id": 17,
+            "key": "favorite_armor_set_group_count",
+            "type": "integer",
+            "value": "10"
+        },
+        {
+            "id": 18,
+            "key": "favorite_armor_set_count",
+            "type": "integer",
+            "value": "5"
+        },
+        {
+            "id": 19,
+            "key": "expedition_grind_limit",
+            "type": "integer",
+            "value": "100"
+        },
+        {
+            "id": 20,
+            "key": "holy_stone_max_count",
+            "type": "integer",
+            "value": "9950"
+        },
+        {
+            "id": 21,
+            "key": "auto_rematch_daily_default_count",
+            "type": "integer",
+            "value": "50"
+        },
+        {
+            "id": 22,
+            "key": "max_inventory_count",
+            "type": "integer",
+            "value": "3000"
+        },
+        {
+            "id": 23,
+            "key": "road_meet_limit",
+            "type": "integer",
+            "value": "100"
+        },
+        {
+            "id": 24,
+            "key": "road_fetch_inteval_seconds",
+            "type": "integer",
+            "value": "10"
+        },
+        {
+            "id": 25,
+            "key": "road_navigator_id",
+            "type": "integer",
+            "value": "9900115"
+        },
+        {
+            "id": 26,
+            "key": "road_lobby_dot_count",
+            "type": "integer",
+            "value": "10"
+        },
+        {
+            "id": 27,
+            "key": "max_gacha_optional_draw_count",
+            "type": "integer",
+            "value": "1000"
+        },
+        {
+            "id": 28,
+            "key": "piece_max_quantity",
+            "type": "integer",
+            "value": "99999999"
+        },
+        {
+            "id": 29,
+            "key": "max_bp_limit",
+            "type": "integer",
+            "value": "99"
+        }
+    ]
+}

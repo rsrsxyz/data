@@ -1,0 +1,308 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6818814098697424689
+    },
+    "m_Name": "MusicAlbum",
+    "objectArray": [
+        {
+            "id": 1,
+            "name": "Romancing SaGa Original Soundtrack -Remaster- ",
+            "flavor_text": "The Romancing SaGa series introduced the idea of a non-linear storyline to the world of RPGs. Enjoy music from Romancing SaGa, the starting point of the SaGa series, as you accompany the eight heroes on their legendary search for the Fatestones.",
+            "icon": 1001,
+            "sort_order": 40
+        },
+        {
+            "id": 2,
+            "name": "Romancing SaGa 2 Original Soundtrack -Remaster- ",
+            "flavor_text": "Romancing SaGa2 was a hit for its non-linear, freeform plot. This is a collection of RS2's background music that tells a grand tale through its colorful, lyrical content.",
+            "icon": 1002,
+            "sort_order": 50
+        },
+        {
+            "id": 3,
+            "name": "Romancing SaGa 3 Original Soundtrack -Remaster- ",
+            "flavor_text": "Soundtrack for the music in Romancing SaGa 3, the last title in the Romancing SaGa series for the Super Nintendo that was renowned for its graphics, animation, and music. A collection of the original sounds from the game, this soundtrack perfectly complements the story of eight heroes tied together by fate.",
+            "icon": 1003,
+            "sort_order": 60
+        },
+        {
+            "id": 4,
+            "name": "SaGa Frontier Original Soundtrack",
+            "flavor_text": "Composer Kenji Ito approached this title hoping to make music that showed off just how versatile he can be. The end result is 74 tracks of the highest quality. The Last Battle piece, which is different for each character, is a great listen. Take this chance to join the game's seven heroes on a musical adventure!",
+            "icon": 1004,
+            "sort_order": 70
+        },
+        {
+            "id": 5,
+            "name": "SaGa Frontier 2 Original Soundtrack",
+            "flavor_text": "Composer Masashi Hamauzu takes the lead in SaGa Frontier2. Using a base tune in several tracks creates a sense of unity. Discover the roots of Hamauzu and enjoy his world of music on this disc.",
+            "icon": 1005,
+            "sort_order": 80
+        },
+        {
+            "id": 6,
+            "name": "Unlimited:SaGa Original Soundtrack",
+            "flavor_text": "As Square Enix's first RPG to fully utilize streaming audio, UNLIMITED SaGa has been highly praised not only for its gameplay, but also for its musical score. Composed by Masashi Hamauzu, the songs feature a beautiful orchestra and a mix of various musical styles such as jazz and Latin.",
+            "icon": 1006,
+            "sort_order": 90
+        },
+        {
+            "id": 7,
+            "name": "Romancing SaGa -Minstrel Song- Original Soundtrack",
+            "flavor_text": "Soundtrack for the music in Romancing SaGa -Minstrel Song-, a remake of the original title. With new tracks like Ardent Rhythm and Melodies of Good and Evil, there are also many reimagined songs like Saurin Unchained - the Final Battle. The music alone makes this remake feel like a brand new title.",
+            "icon": 1007,
+            "sort_order": 100
+        },
+        {
+            "id": 8,
+            "name": "Imperial SaGa Original Soundtrack",
+            "flavor_text": "This is the soundtrack for Imperial SaGa, the first PC browser game in the series. It contains music written and arranged for Imperial SaGa by series composer Kenji Ito. Features 36 tracks, including new music like \"Sound the Charge!\" as well as unreleased bonus tracks like \"Let's Go! Wonder Man Robin (Macaroni Ver.)\" with lyrics penned by executive producer Akitoshi Kawazu!",
+            "icon": 1008,
+            "sort_order": 110
+        },
+        {
+            "id": 9,
+            "name": "SaGa SCARLET GRACE Original Soundtrack",
+            "flavor_text": "Soundtrack for SaGa SCARLET GRACE. The music composed by Kenji Ito was recorded with a full orchestra, expressing the multilayered world view of SSG. Enjoy the unique musicality woven by SaGa and Ito that transcends the boundaries of game music.",
+            "icon": 1009,
+            "sort_order": 120
+        },
+        {
+            "id": 10,
+            "name": "SaGa THE STAGE -Seven Heroes Return- Original Soundtrack",
+            "flavor_text": "Soundtrack for SaGa THE STAGE -Seven Heroes Return- Original Soundtrack, based on the antagonists of Romancing SaGa2. Kenji Ito produced all new tracks for this theatrical production, and rearranged a familiar phrase for fans to enjoy. The music in this album can be enjoyed by those who've seen the show and those who haven't!",
+            "icon": 1010,
+            "sort_order": 130
+        },
+        {
+            "id": 11,
+            "name": "Romancing SaGa Re;univerSe Original Soundtrack",
+            "flavor_text": "Original soundtrack for Romancing SaGa Re;univerSe. With all new songs and compositions by Kenji Ito that add more color to the new Romancing SaGa world.",
+            "icon": 1011,
+            "sort_order": 10
+        },
+        {
+            "id": 12,
+            "name": "Re:Birth II/Romancing SaGa BATTLE Kenji Ito Arranged Album",
+            "flavor_text": "The music of the Romancing SaGa series is back in this collection of freshly recorded battle arrangements, the Re:Birth series, produced by Kenji Ito himself. This album features \"Battle1 Medley,\" \"Devil Lord Confrontation Medley,\" and other exciting tracks. Features new cover art from SaGa series illustrator Tomomi Kobayashi.",
+            "icon": 1012,
+            "sort_order": 140
+        },
+        {
+            "id": 13,
+            "name": "Re:Birth II -SEN- / SaGa Battle Arrangements",
+            "flavor_text": "The music of the Romancing SaGa series, Final Fantasy Legend II, and SaGa Frontier is back in this collection of freshly recorded arrangements, the Re:Birth series, produced by Kenji Ito himself. Don't miss out on this spark!",
+            "icon": 1014,
+            "sort_order": 160
+        },
+        {
+            "id": 14,
+            "name": "Re:Birth II -Ren- / SaGa Battle Arrangements",
+            "flavor_text": "The music selected by Kenji Ito is back in this collection of freshly recorded arrangements, the Re:Birth series, produced by Kenji Ito himself. Vocals are also added in \"Battle #4,\" \"Ardent Rhythm,\" and more. Delight your ears and heart with this exciting album!",
+            "icon": 1013,
+            "sort_order": 150
+        },
+        {
+            "id": 16,
+            "name": "The Final Fantasy Legend Original Soundtrack",
+            "flavor_text": "The momentous soundtrack recorded for The Final Fantasy Legend, the first Game Boy title from the then SQUARE. Many of the pieces composed by Nobuo Uematsu were rearranged and used throughout the SaGa series, and the SaGa soundscape has only grown since then. This is where the legend began.",
+            "icon": 1016,
+            "sort_order": 170
+        },
+        {
+            "id": 17,
+            "name": "The Final Fantasy Legend II Original Soundtrack",
+            "flavor_text": "Nobuo Uematsu and Kenji Ito collaborated to create the soundscape for the second Game Boy title in the SaGa series. This was the monumental first title for Kenji Ito, who would later carry the torch of SaGa's music, so you can fully enjoy his signature sound. Hot battle tracks like Lethal Strike, Struggle to the Death, and Save the world pack a serious punch.",
+            "icon": 1017,
+            "sort_order": 180
+        },
+        {
+            "id": 18,
+            "name": "The Final Fantasy Legend III Original Soundtrack",
+            "flavor_text": "Unlike the previous two titles, this one was the joint effort of Ryuji Sasai and Chihiro Fujioka. They did something new, creating soundtracks that used four sound channels, further emphasizing the rhythms and beats. Savor the different sonic flavors presented across the three Game Boy games.",
+            "icon": 1018,
+            "sort_order": 190
+        },
+        {
+            "id": 19,
+            "name": "Final Fantasy Legend Ⅱ - Goddess of Destiny Original Soundtrack",
+            "flavor_text": "This soundtrack is a complete collection of tracks from Final Fantasy Legend II: Goddess of Destiny. In addition to new arrangements of nostalgic tunes, the soundtrack also includes five new pieces by SaGa series composer Kenji Ito. The music of the adventure for MAGIs is brought back in a new style.",
+            "icon": 1019,
+            "sort_order": 200
+        },
+        {
+            "id": 20,
+            "name": "Final Fantasy Legend III: Shadow or Light Original Soundtrack",
+            "flavor_text": "This soundtrack features all the music from Final Fantasy Legend III: Shadow or Light. The 27-track album includes an original arrangement of the game's main theme as a bonus track. Kenji Ito and Ryuji Sasai composed the music. Enjoy the fantasy reborn!",
+            "icon": 1020,
+            "sort_order": 210
+        },
+        {
+            "id": 21,
+            "name": "SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX",
+            "flavor_text": "This chill out arrangement album features tracks from nostalgic SQUARE games, including The Final Fantasy Legend, Final Fantasy Legend II, and Final Fantasy Legend III. Enjoy this album with music perfect for a relaxing time.",
+            "icon": 1021,
+            "sort_order": 220
+        },
+        {
+            "id": 22,
+            "name": "SaGa1･2･3 PIANO TRIO ARRANGEMENTS TRACKS",
+            "flavor_text": "In this mini-album, made for the SaGa 30th Anniversary Box [Kami], carefully selected pieces from The Final Fantasy Legend, Final Fantasy Legend II, and Final Fantasy Legend III are given new instrumental trio arrangements for piano, violin, and cello. Delight in the exquisite melodies of these classic pieces.",
+            "icon": 1022,
+            "sort_order": 230
+        },
+        {
+            "id": 23,
+            "name": "Romancing SaGa for WonderSwan Color",
+            "flavor_text": "A port of Romancing SaGa released in December 2001. New scenarios, events, and features were added to make it friendlier to play. Enjoy the charm of the in-game music in its original form! *The original soundtrack is not available as a product.",
+            "icon": 1023,
+            "sort_order": 240
+        },
+        {
+            "id": 24,
+            "name": "Re:Tune Romancing SaGa Battle Arrangements",
+            "flavor_text": "A new album arrangement produced by composer Kenji Ito, selected from battles throughout the Romancing SaGa series. Unlike the Re:Birth series, the new arrangements are not limited by instrument pairings. Enjoy Kenji Ito's latest venture into the sonic frontier of band music and various instrumental collaborations.",
+            "icon": 1015,
+            "sort_order": 250
+        },
+        {
+            "id": 25,
+            "name": "DESTINY 8 - SaGa Band Arrangement Album",
+            "flavor_text": "SaGa's official band, DESTINY 8, presents new band arrangements in their first album of carefully selected tracks from the SaGa series. Enjoy the profound, fast-paced rock music with the addition of keyboards.",
+            "icon": 1025,
+            "sort_order": 25
+        },
+        {
+            "id": 26,
+            "name": "The Orchestral SaGa -Legend of Music- ",
+            "flavor_text": "Celebrating 25 years of SaGa, composer Kenji Ito has teamed up with Nobuo Uematsu, Chihiro Fujioka, Ryuji Sasai, and Masashi Hamauzu to deliver the orchestral album fans have been waiting for. Includes all-new arrangements of pieces selected from titles throughout the series, from The Final Fantasy Legend to Romancing SaGa -Minstrel Song-.",
+            "icon": 1026,
+            "sort_order": 280
+        },
+        {
+            "id": 27,
+            "name": "SQUARE ENIX JAZZ -SaGa- ",
+            "flavor_text": "An album of authentic jazz arrangements of tracks from across the SaGa series, featuring 12 carefully selected tracks, including \"Coup de Grace\" (Romancing SaGa), \"Alone\" (SaGa Frontier), \"Sound the Charge!\" (Imperial SaGa), and more. Delight in these arrangements by trombonist Eijiro Nakagawa and bassist Ryu Kawamura, and the unique jazz performances of these great musicians.",
+            "icon": 1027,
+            "sort_order": 290
+        },
+        {
+            "id": 28,
+            "name": "SaGa Frontier Original Soundtrack Revival Disc",
+            "flavor_text": "A soundtrack for SaGa Frontier, now accompanied by videos depicting scenes related to each song! This time, in addition to the music from the SaGa Frontier Original Soundtrack, you'll find three new tracks written for Fuse's scenario in SaGa Frontier Remastered. Among them, you'll be able to enjoy \"Hey! FUSE ~DANDY MIX~\".",
+            "icon": 1028,
+            "sort_order": 300
+        },
+        {
+            "id": 29,
+            "name": "Romancing SaGa Orchestra Festival LIVE CD",
+            "flavor_text": "Experience the February 2020 performance of the Romancing SaGa orchestra concert in the comfort of your own home! This is a two-disc CD set containing songs from the Romancing SaGa Orchestra Fest concert that was held in February 2020 at the Tokyo Metropolitan Theatre. A full orchestra has performed carefully selected songs from various Romancing SaGa titles in the series. This is a must-have for fans of the Romancing SaGa series.",
+            "icon": 1029,
+            "sort_order": 310
+        },
+        {
+            "id": 30,
+            "name": "DESTINY 8 - SaGa Band Arrangement Album Vol.2",
+            "flavor_text": "The second album from DESTINY 8 (D8), SaGa's official band since 2020, is here! In addition to SaGa series composer Kenji Ito (keyboard), D8 also features the five talented musicians Noriyuki Kamikura (keyboard), Sorao Mori (guitar), Zenya Sakata (guitar), Harunosuke Ikejiri (bass), and Toshiharu Okajima (drums), making a powerful six-piece band. Once again, the band presents carefully selected tracks from the SaGa series with skillful and passionate arrangements.",
+            "icon": 1030,
+            "sort_order": 270
+        },
+        {
+            "id": 31,
+            "name": "SaGa Frontier Series ACOUSTIC ARRANGEMENTS",
+            "flavor_text": "From SaGa Frontier, along with SaGa Frontier 2, we bring you a new arrangement album that revives popular tracks from the series with authentic acoustic arrangements. With \"exceptionally skilled performances centered around strings\" as the main concept, we bring you completely new recordings of tracks that encompass the particular choices by arrangers and performers as well as the respect they have for the original tracks. This soundtrack fuses the power of live recording with the elements that make these tracks their own, making them identifiable to anyone that hears them.",
+            "icon": 1031,
+            "sort_order": 320
+        },
+        {
+            "id": 32,
+            "name": "Orchestral SaGa",
+            "flavor_text": "This brand-new arrangement album offers you a chance to experience the musical magic of Orchestral Saga ahead of the live performances on July 31 and August 1, 2021. Overseen by composer Kenji Ito, these all-new recordings were hand-selected and cover the musical breadth of the series, featuring music from The Final Fantasy Legend to Imperial SaGa Eclipse. Enjoy the sublime sounds of the SaGa series in full orchestral glory!",
+            "icon": 1032,
+            "sort_order": 330
+        },
+        {
+            "id": 37,
+            "name": "Romancing SaGa Re;univerSe Original Soundtrack vol.2",
+            "flavor_text": "The long-awaited second volume of the soundtrack from Romancing SaGa Re;univerSe is here! This two-disc album features numerous tracks that adorned Main Story Polka Arc, which were not included in the previous Romancing SaGa Re;univerSe Original Soundtrack released in April 2019. Other tracks include those from various events such as anniversaries, Christmas, and all the tracks from the exciting Igomahl Conquest!",
+            "icon": 1033,
+            "sort_order": 20
+        },
+        {
+            "id": 38,
+            "name": "Songs not included in Romancing SaGa Re;univerSe Soundtrack",
+            "flavor_text": "Tracks not included in the Romancing SaGa Re;univerSe Original Soundtrack are included in advance! *Track names are subject to change at a later date.",
+            "icon": 1034,
+            "sort_order": 30
+        },
+        {
+            "id": 39,
+            "name": "SQUARE ENIX - Airship Cruise Beats",
+            "flavor_text": "Get ready to get down (or fly high) with this album of bumpin' dance beats. You may know the SaGa series tracks \"Aim for the Summit\", \"Righteous Robin's Theme: Thwart All Evil\", \"Sound the Charge!\", and \"Save the World\", but now they've been tuned for a fantastical tour across your own personal world map. From electronica to house to future bass, these sleek sounds from up-and-coming artists will prove the perfect soundtrack for any trip you take.",
+            "icon": 1035,
+            "sort_order": 340
+        },
+        {
+            "id": 40,
+            "name": "Imperial SaGa eclipse Original Soundtrack",
+            "flavor_text": "",
+            "icon": 1040,
+            "sort_order": 115
+        },
+        {
+            "id": 41,
+            "name": "SQUARE ENIX JAZZ Vol.2",
+            "flavor_text": "",
+            "icon": 1041,
+            "sort_order": 295
+        },
+        {
+            "id": 42,
+            "name": "Piano Pieces \"SF2\" Rhapsody on a Theme of SaGa FRONTIER2",
+            "flavor_text": "",
+            "icon": 1042,
+            "sort_order": 350
+        },
+        {
+            "id": 43,
+            "name": "SQUARE ENIX ACOUSTIC ARRANGEMENTS",
+            "flavor_text": "This is the first volume in a series of albums interpreting tunes from games released in the 90's with transcendent string performances. It includes tracks from the Final Fantasy series, SaGa series, The Legend of Mana series, as well as Chrono Trigger and Live A Live. Enjoy a fresh take on these beloved classics through these emotive arrangements.",
+            "icon": 1043,
+            "sort_order": 360
+        },
+        {
+            "id": 44,
+            "name": "SaGa SCARLET GRACE SPECIAL SOUND SELECTION",
+            "flavor_text": "",
+            "icon": 1044,
+            "sort_order": 370
+        },
+        {
+            "id": 45,
+            "name": "Romancing SaGa -Minstrel Song- Remastered Original Soundtrack",
+            "flavor_text": "The Romancing SaGa - Minstrel Song - Remastered Original Soundtrack released in December, 2022 includes 103 tracks from the original soundtrack released in 2005, including \"Minuet\" by Masayoshi Yamazaki. Two tracks \"Pirates!(Inst ver.)\" and \"Pirates!(Sudden ver.)\" that were implemented in the original game but never included in the soundtrack and the newly arranged \"Melodies of Good and Evil (More Wicked!)\" are also included in this 4-CD set (106 tracks).",
+            "icon": 1045,
+            "sort_order": 390
+        },
+        {
+            "id": 46,
+            "name": "DESTINY 8 - SaGa Band Arrangement Album Vol.3",
+            "flavor_text": "Destiny 8's third album is here with highly technical, intense arrangements that give songs from the series a fresh, captivating twist. It includes the battle themes of the three Gods of Evil--Death, Schirach, and Saruin--to commemorate the release of Romancing SaGa - Minstrel Song - Remastered. It also debuts the first rock arrangement of \"Igomahl the Harlequin\"!",
+            "icon": 1046,
+            "sort_order": 275
+        },
+        {
+            "id": 999,
+            "name": "Not included in any album",
+            "flavor_text": "",
+            "icon": 2000,
+            "sort_order": 380
+        }
+    ]
+}

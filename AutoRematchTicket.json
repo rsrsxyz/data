@@ -1,0 +1,221 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -9151419514681799183
+    },
+    "m_Name": "AutoRematchTicket",
+    "objectArray": [
+        {
+            "id": 950001,
+            "name": "Auto Rematch Ticket",
+            "flavor_text": "A ticket for performing an auto rematch in some quests.",
+            "icon": 950001,
+            "max_quantity": 999999,
+            "expired_at": 0,
+            "sort_order": 21112723
+        },
+        {
+            "id": 950007,
+            "name": "3rd Anniv. Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1689296399] <tz>)",
+            "icon": 950007,
+            "max_quantity": 999999,
+            "expired_at": 1689296399,
+            "sort_order": 23071400
+        },
+        {
+            "id": 950012,
+            "name": "Liam Arc Battle Festival Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1701651599] <tz>)",
+            "icon": 950012,
+            "max_quantity": 999999,
+            "expired_at": 1701651599,
+            "sort_order": 23120400
+        },
+        {
+            "id": 1000950001,
+            "name": "Battle Prep Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until 04/19/2022 17:59 PDT)",
+            "icon": 1000950001,
+            "max_quantity": 999999,
+            "expired_at": 1650416399,
+            "sort_order": 1000
+        },
+        {
+            "id": 1000950002,
+            "name": "Battle Festival Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1654217999] <tz>)",
+            "icon": 1000950002,
+            "max_quantity": 999999,
+            "expired_at": 1654217999,
+            "sort_order": 1001
+        },
+        {
+            "id": 1000950003,
+            "name": "2nd Anniversary Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1657760399] <tz>)",
+            "icon": 1000950003,
+            "max_quantity": 999999,
+            "expired_at": 1657760399,
+            "sort_order": 1002
+        },
+        {
+            "id": 1000950004,
+            "name": "New Arc Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1659661199] <tz>)",
+            "icon": 1000950004,
+            "max_quantity": 999999,
+            "expired_at": 1659661199,
+            "sort_order": 1003
+        },
+        {
+            "id": 1000950005,
+            "name": "Sa・Ga Festival Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1661475599] <tz>)",
+            "icon": 1000950005,
+            "max_quantity": 999999,
+            "expired_at": 1661475599,
+            "sort_order": 1004
+        },
+        {
+            "id": 1000950006,
+            "name": "Seven Heroes Attack Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1663894799] <tz>)",
+            "icon": 1000950006,
+            "max_quantity": 999999,
+            "expired_at": 1663894799,
+            "sort_order": 1005
+        },
+        {
+            "id": 1000950007,
+            "name": "Halloween Party Night Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1668128399] <tz>)",
+            "icon": 1000950007,
+            "max_quantity": 999999,
+            "expired_at": 1668128399,
+            "sort_order": 1006
+        },
+        {
+            "id": 1000950008,
+            "name": "Appreciation 2022 Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1669942799] <tz>)",
+            "icon": 1000950008,
+            "max_quantity": 999999,
+            "expired_at": 1669942799,
+            "sort_order": 1007
+        },
+        {
+            "id": 1000950009,
+            "name": "2.5 Anniv. Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1672793999] <tz>)",
+            "icon": 1000950009,
+            "max_quantity": 999999,
+            "expired_at": 1672793999,
+            "sort_order": 1008
+        },
+        {
+            "id": 1000950010,
+            "name": "SaGa Year End Fest. Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1674781199] <tz>)",
+            "icon": 950002,
+            "max_quantity": 999999,
+            "expired_at": 1674781199,
+            "sort_order": 1009
+        },
+        {
+            "id": 1000950011,
+            "name": "Lunar New Year 2023! Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1676422799] <tz>)",
+            "icon": 950004,
+            "max_quantity": 999999,
+            "expired_at": 1676422799,
+            "sort_order": 1010
+        },
+        {
+            "id": 1000950012,
+            "name": "Happy Party Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1678237199] <tz>)",
+            "icon": 1000950012,
+            "max_quantity": 999999,
+            "expired_at": 1678237199,
+            "sort_order": 1011
+        },
+        {
+            "id": 1000950013,
+            "name": "Song of Heroes Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1680829199] <tz>)",
+            "icon": 950005,
+            "max_quantity": 999999,
+            "expired_at": 1680829199,
+            "sort_order": 1012
+        },
+        {
+            "id": 1000950014,
+            "name": "Spring Festival Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1682729999] <tz>)",
+            "icon": 950006,
+            "max_quantity": 999999,
+            "expired_at": 1682729999,
+            "sort_order": 23042901
+        },
+        {
+            "id": 1000950015,
+            "name": "Golden Vacation Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1685062799] <tz>)",
+            "icon": 1000950015,
+            "max_quantity": 999999,
+            "expired_at": 1685062799,
+            "sort_order": 23052601
+        },
+        {
+            "id": 1000950016,
+            "name": "3rd Anniv. Eve Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1686272399] <tz>)",
+            "icon": 1000950008,
+            "max_quantity": 999999,
+            "expired_at": 1686272399,
+            "sort_order": 23060901
+        },
+        {
+            "id": 1000950017,
+            "name": "3rd Anniv. Closing Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1692320399] <tz>)",
+            "icon": 1000950017,
+            "max_quantity": 999999,
+            "expired_at": 1692320399,
+            "sort_order": 23081800
+        },
+        {
+            "id": 1000950018,
+            "name": "Summer Party Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1694134799] <tz>)",
+            "icon": 1000950018,
+            "max_quantity": 999999,
+            "expired_at": 1694134799,
+            "sort_order": 23090800
+        },
+        {
+            "id": 1000950019,
+            "name": "RS3 TC/KO Release Anniv. Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1694825999] <tz>)",
+            "icon": 1000950019,
+            "max_quantity": 999999,
+            "expired_at": 1694825999,
+            "sort_order": 23091600
+        },
+        {
+            "id": 1000950020,
+            "name": "30 Million Global DLs! Auto Rematch Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1698368399] <tz>)",
+            "icon": 1000950015,
+            "max_quantity": 999999,
+            "expired_at": 1698368399,
+            "sort_order": 23102000
+        }
+    ]
+}

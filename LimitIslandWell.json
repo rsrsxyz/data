@@ -1,0 +1,989 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7048582803941510304
+    },
+    "m_Name": "LimitIslandWell",
+    "objectArray": [
+        {
+            "id": 1001,
+            "name": "Slash/Cold Well",
+            "icon": 1990041
+        },
+        {
+            "id": 1002,
+            "name": "Slash/Heat Well",
+            "icon": 1010031
+        },
+        {
+            "id": 1003,
+            "name": "Heat/Cold Well",
+            "icon": 1150111
+        },
+        {
+            "id": 1004,
+            "name": "Pierce/Sun Well",
+            "icon": 1990051
+        },
+        {
+            "id": 1005,
+            "name": "Pierce/Heat/Cold Well",
+            "icon": 1070061
+        },
+        {
+            "id": 1006,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1007,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1008,
+            "name": "Blunt/Lightning Well",
+            "icon": 1060081
+        },
+        {
+            "id": 1009,
+            "name": "Sun/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1010,
+            "name": "Slash/Cold Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1011,
+            "name": "Slash/Lightning Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1012,
+            "name": "Slash/Sun Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1013,
+            "name": "Heat/Cold Well",
+            "icon": 1040061
+        },
+        {
+            "id": 1014,
+            "name": "Heat/Cold Well",
+            "icon": 1030041
+        },
+        {
+            "id": 1015,
+            "name": "Spell Well",
+            "icon": 1150101
+        },
+        {
+            "id": 1016,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1017,
+            "name": "Slash/Pierce Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1018,
+            "name": "Slash/Cold Well",
+            "icon": 1990041
+        },
+        {
+            "id": 1019,
+            "name": "Pierce/Sun Well",
+            "icon": 1990051
+        },
+        {
+            "id": 1020,
+            "name": "Pierce/Heat/Cold Well",
+            "icon": 1070061
+        },
+        {
+            "id": 1021,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1022,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1023,
+            "name": "Blunt/Lightning Well",
+            "icon": 1060081
+        },
+        {
+            "id": 1024,
+            "name": "Sun/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1025,
+            "name": "Forneus's Minions Attack!",
+            "icon": 1991931
+        },
+        {
+            "id": 1026,
+            "name": "Slash/Cold Well",
+            "icon": 1990041
+        },
+        {
+            "id": 1027,
+            "name": "Slash/Heat Well",
+            "icon": 1010031
+        },
+        {
+            "id": 1028,
+            "name": "Cold/Pierce Well",
+            "icon": 1070081
+        },
+        {
+            "id": 1029,
+            "name": "Pierce/Sun Well",
+            "icon": 1990051
+        },
+        {
+            "id": 1030,
+            "name": "Pierce/Heat/Cold Well",
+            "icon": 1070061
+        },
+        {
+            "id": 1031,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1032,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1033,
+            "name": "Blunt/Lightning Well",
+            "icon": 1060081
+        },
+        {
+            "id": 1034,
+            "name": "Heat/Cold Well",
+            "icon": 1150111
+        },
+        {
+            "id": 1035,
+            "name": "Heat/Cold Well",
+            "icon": 1030041
+        },
+        {
+            "id": 1036,
+            "name": "Slash/Heat Well",
+            "icon": 1010031
+        },
+        {
+            "id": 1037,
+            "name": "Pierce/Sun Well",
+            "icon": 1990051
+        },
+        {
+            "id": 1038,
+            "name": "Pierce/Heat/Cold Well",
+            "icon": 1070061
+        },
+        {
+            "id": 1039,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1040,
+            "name": "Slash/Sun Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1041,
+            "name": "Slash/Heat Well",
+            "icon": 1010031
+        },
+        {
+            "id": 1042,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1043,
+            "name": "Heat/Cold Well",
+            "icon": 1040061
+        },
+        {
+            "id": 1044,
+            "name": "Heat/Cold Well",
+            "icon": 1030041
+        },
+        {
+            "id": 1045,
+            "name": "Spell Well",
+            "icon": 1150101
+        },
+        {
+            "id": 1046,
+            "name": "Slash/Cold Well",
+            "icon": 1990041
+        },
+        {
+            "id": 1047,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1048,
+            "name": "Slash/Sun Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1052,
+            "name": "Slash/Pierce Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1053,
+            "name": "Slash/Cold Well",
+            "icon": 1990041
+        },
+        {
+            "id": 1054,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1055,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1056,
+            "name": "Slash/Pierce Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1057,
+            "name": "Pierce/Sun Well",
+            "icon": 1990051
+        },
+        {
+            "id": 1058,
+            "name": "Slash/Heat Well",
+            "icon": 1010031
+        },
+        {
+            "id": 1059,
+            "name": "Slash/Cold Well",
+            "icon": 1990041
+        },
+        {
+            "id": 1060,
+            "name": "Slash/Sun Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1061,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1062,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1063,
+            "name": "Blunt/Lightning Well",
+            "icon": 1060081
+        },
+        {
+            "id": 1070,
+            "name": "Heat/Cold Well",
+            "icon": 1040061
+        },
+        {
+            "id": 1071,
+            "name": "Heat/Cold Well",
+            "icon": 1030041
+        },
+        {
+            "id": 1072,
+            "name": "Spell Well",
+            "icon": 1150101
+        },
+        {
+            "id": 1082,
+            "name": "Sun/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1083,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1084,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1091,
+            "name": "Spell Well",
+            "icon": 1150101
+        },
+        {
+            "id": 1092,
+            "name": "Heat/Cold Well",
+            "icon": 1040061
+        },
+        {
+            "id": 1093,
+            "name": "Heat/Cold Well",
+            "icon": 1030041
+        },
+        {
+            "id": 1097,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1098,
+            "name": "Pierce/Heat/Cold Well",
+            "icon": 1070061
+        },
+        {
+            "id": 1099,
+            "name": "Pierce/Sun Well",
+            "icon": 1990051
+        },
+        {
+            "id": 1127,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1128,
+            "name": "Blunt/Lightning Well",
+            "icon": 1060081
+        },
+        {
+            "id": 1129,
+            "name": "Sun/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1139,
+            "name": "Sun/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1140,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1141,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001001,
+            "name": "Slash/Cold Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001002,
+            "name": "Slash/Heat Well",
+            "icon": 1010031
+        },
+        {
+            "id": 1000001003,
+            "name": "Slash/Sun Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1000001004,
+            "name": "Sun/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1000001005,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001006,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1000001007,
+            "name": "Heat/Cold Well",
+            "icon": 1040061
+        },
+        {
+            "id": 1000001008,
+            "name": "Heat/Cold Well",
+            "icon": 1030041
+        },
+        {
+            "id": 1000001009,
+            "name": "Spell Well",
+            "icon": 1150101
+        },
+        {
+            "id": 1000001010,
+            "name": "Slash/Sun Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1000001011,
+            "name": "Slash/Cold Well",
+            "icon": 1990041
+        },
+        {
+            "id": 1000001012,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001013,
+            "name": "Slash/Heat Well",
+            "icon": 1010031
+        },
+        {
+            "id": 1000001014,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1000001015,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001016,
+            "name": "Slash/Sun Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1000001017,
+            "name": "Spell Well",
+            "icon": 1150101
+        },
+        {
+            "id": 1000001018,
+            "name": "Pierce/Sun Well",
+            "icon": 1990051
+        },
+        {
+            "id": 1000001019,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001020,
+            "name": "Slash/Pierce Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1000001021,
+            "name": "Heat/Cold Well",
+            "icon": 1150111
+        },
+        {
+            "id": 1000001022,
+            "name": "Blunt/Lightning Well",
+            "icon": 1060081
+        },
+        {
+            "id": 1000001023,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001024,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1000001025,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1000001026,
+            "name": "Pierce/Heat/Cold Well",
+            "icon": 1070061
+        },
+        {
+            "id": 1000001027,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001028,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001029,
+            "name": "Slash/Sun Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1000001030,
+            "name": "Sun/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1000001031,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001032,
+            "name": "Slash/Sun Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1000001033,
+            "name": "Cold/Pierce Well",
+            "icon": 1070081
+        },
+        {
+            "id": 1000001034,
+            "name": "Pierce/Heat/Cold Well",
+            "icon": 1070061
+        },
+        {
+            "id": 1000001035,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001036,
+            "name": "Blunt/Lightning Well",
+            "icon": 1060081
+        },
+        {
+            "id": 1000001037,
+            "name": "Sun/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1000001038,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1000001039,
+            "name": "Pierce/Sun Well",
+            "icon": 1990051
+        },
+        {
+            "id": 1000001040,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001041,
+            "name": "Sun/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1000001042,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001043,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001044,
+            "name": "Slash/Pierce Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1000001045,
+            "name": "Slash/Cold Well",
+            "icon": 1990041
+        },
+        {
+            "id": 1000001046,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1000001047,
+            "name": "Pierce/Heat/Cold Well",
+            "icon": 1070061
+        },
+        {
+            "id": 1000001048,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001049,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001050,
+            "name": "Slash/Cold Well",
+            "icon": 1990041
+        },
+        {
+            "id": 1000001051,
+            "name": "Spell Well",
+            "icon": 1150101
+        },
+        {
+            "id": 1000001052,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001053,
+            "name": "Sun/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1000001054,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001055,
+            "name": "Slash/Sun Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1000001056,
+            "name": "Slash/Pierce Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1000001057,
+            "name": "Sun/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1000001058,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001059,
+            "name": "Slash/Pierce Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1000001060,
+            "name": "Heat/Cold Well",
+            "icon": 1040061
+        },
+        {
+            "id": 1000001061,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001062,
+            "name": "Slash/Cold Well",
+            "icon": 1990041
+        },
+        {
+            "id": 1000001063,
+            "name": "Sun/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1000001064,
+            "name": "Slash/Heat Well",
+            "icon": 1010031
+        },
+        {
+            "id": 1000001065,
+            "name": "Pierce/Sun Well",
+            "icon": 1990051
+        },
+        {
+            "id": 1000001066,
+            "name": "Blunt/Lightning Well",
+            "icon": 1060081
+        },
+        {
+            "id": 1000001067,
+            "name": "Slash/Pierce Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1000001068,
+            "name": "Sun/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1000001069,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001070,
+            "name": "Pierce/Heat/Cold Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1000001071,
+            "name": "Slash/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1000001072,
+            "name": "Pierce/Sun Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001073,
+            "name": "Sun/Blunt Well",
+            "icon": 1180091
+        },
+        {
+            "id": 1000001074,
+            "name": "Slash/Lightning Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1000001075,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001076,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1000001077,
+            "name": "Slash/Sun Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1000001078,
+            "name": "Slash/Pierce Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1000001079,
+            "name": "Heat/Cold Well",
+            "icon": 1150111
+        },
+        {
+            "id": 1000001080,
+            "name": "Pierce/Sun Well",
+            "icon": 1990051
+        },
+        {
+            "id": 1000001081,
+            "name": "Blunt/Lightning Well",
+            "icon": 1060081
+        },
+        {
+            "id": 1000001082,
+            "name": "Slash/Cold Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001083,
+            "name": "Blunt/Lightning Well",
+            "icon": 1060081
+        },
+        {
+            "id": 1000001084,
+            "name": "Pierce/Heat/Cold Well",
+            "icon": 1070061
+        },
+        {
+            "id": 1000001085,
+            "name": "Slash/Sun Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1000001086,
+            "name": "Blunt/Lightning Well",
+            "icon": 1060081
+        },
+        {
+            "id": 1000001087,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001088,
+            "name": "Slash/Sun Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1000001089,
+            "name": "Slash/Cold Well",
+            "icon": 1990041
+        },
+        {
+            "id": 1000001090,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001091,
+            "name": "Slash/Cold Well",
+            "icon": 1990041
+        },
+        {
+            "id": 1000001092,
+            "name": "Blunt/Lightning Well",
+            "icon": 1060081
+        },
+        {
+            "id": 1000001093,
+            "name": "Pierce/Heat/Cold Well",
+            "icon": 1070061
+        },
+        {
+            "id": 1000001094,
+            "name": "Slash/Lightning Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1000001095,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001096,
+            "name": "Pierce/Heat/Cold Well",
+            "icon": 1070061
+        },
+        {
+            "id": 1000001097,
+            "name": "Blunt/Lightning Well",
+            "icon": 1060081
+        },
+        {
+            "id": 1000001098,
+            "name": "Slash/Heat Well",
+            "icon": 1010031
+        },
+        {
+            "id": 1000001099,
+            "name": "Heat/Cold Well",
+            "icon": 1150111
+        },
+        {
+            "id": 1000001100,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001101,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1000001102,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001103,
+            "name": "Slash/Pierce Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1000001104,
+            "name": "Blunt/Heat Well",
+            "icon": 1060101
+        },
+        {
+            "id": 1000001105,
+            "name": "Pierce/Heat/Cold Well",
+            "icon": 1070061
+        },
+        {
+            "id": 1000001106,
+            "name": "Slash/Sun Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1000001107,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001108,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001109,
+            "name": "Slash/Pierce Well",
+            "icon": 1180101
+        },
+        {
+            "id": 1000001110,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001111,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001112,
+            "name": "Slash/Cold Well",
+            "icon": 1990041
+        },
+        {
+            "id": 1000001113,
+            "name": "Slash/Pierce Well",
+            "icon": 1990391
+        },
+        {
+            "id": 1000001114,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001115,
+            "name": "Shadow/Pierce/Heat Well",
+            "icon": 1040181
+        },
+        {
+            "id": 1000001116,
+            "name": "Slash/Blunt Well",
+            "icon": 1010161
+        },
+        {
+            "id": 1000001117,
+            "name": "Slash/Cold Well",
+            "icon": 1990041
+        }
+    ]
+}

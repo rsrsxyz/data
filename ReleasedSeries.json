@@ -1,0 +1,84 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 4013204095331882267
+    },
+    "m_Name": "ReleasedSeries",
+    "objectArray": [
+        {
+            "id": 1,
+            "series": 11,
+            "open": 1
+        },
+        {
+            "id": 2,
+            "series": 12,
+            "open": 1
+        },
+        {
+            "id": 4,
+            "series": 13,
+            "open": 1
+        },
+        {
+            "id": 6,
+            "series": 21,
+            "open": 1
+        },
+        {
+            "id": 7,
+            "series": 22,
+            "open": 1
+        },
+        {
+            "id": 8,
+            "series": 23,
+            "open": 1
+        },
+        {
+            "id": 9,
+            "series": 31,
+            "open": 1
+        },
+        {
+            "id": 10,
+            "series": 32,
+            "open": 1
+        },
+        {
+            "id": 11,
+            "series": 41,
+            "open": 1
+        },
+        {
+            "id": 12,
+            "series": 51,
+            "open": 1
+        },
+        {
+            "id": 13,
+            "series": 52,
+            "open": 0
+        },
+        {
+            "id": 14,
+            "series": 61,
+            "open": 1
+        },
+        {
+            "id": 15,
+            "series": 71,
+            "open": 1
+        },
+        {
+            "id": 16,
+            "series": 1001,
+            "open": 1
+        }
+    ]
+}

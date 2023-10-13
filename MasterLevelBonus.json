@@ -1,0 +1,514 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3801243795392425718
+    },
+    "m_Name": "MasterLevelBonus",
+    "objectArray": [
+        {
+            "id": 1,
+            "power_coefficient": 0.0,
+            "od_coefficient": 0.0
+        },
+        {
+            "id": 2,
+            "power_coefficient": 0.5,
+            "od_coefficient": 0.0
+        },
+        {
+            "id": 3,
+            "power_coefficient": 0.5,
+            "od_coefficient": 0.5
+        },
+        {
+            "id": 4,
+            "power_coefficient": 1.0,
+            "od_coefficient": 0.5
+        },
+        {
+            "id": 5,
+            "power_coefficient": 1.0,
+            "od_coefficient": 1.0
+        },
+        {
+            "id": 6,
+            "power_coefficient": 1.5,
+            "od_coefficient": 1.0
+        },
+        {
+            "id": 7,
+            "power_coefficient": 1.5,
+            "od_coefficient": 1.5
+        },
+        {
+            "id": 8,
+            "power_coefficient": 2.0,
+            "od_coefficient": 1.5
+        },
+        {
+            "id": 9,
+            "power_coefficient": 2.0,
+            "od_coefficient": 2.0
+        },
+        {
+            "id": 10,
+            "power_coefficient": 2.5,
+            "od_coefficient": 2.0
+        },
+        {
+            "id": 11,
+            "power_coefficient": 2.5,
+            "od_coefficient": 2.5
+        },
+        {
+            "id": 12,
+            "power_coefficient": 3.0,
+            "od_coefficient": 2.5
+        },
+        {
+            "id": 13,
+            "power_coefficient": 3.0,
+            "od_coefficient": 3.0
+        },
+        {
+            "id": 14,
+            "power_coefficient": 3.5,
+            "od_coefficient": 3.0
+        },
+        {
+            "id": 15,
+            "power_coefficient": 3.5,
+            "od_coefficient": 3.5
+        },
+        {
+            "id": 16,
+            "power_coefficient": 4.0,
+            "od_coefficient": 3.5
+        },
+        {
+            "id": 17,
+            "power_coefficient": 4.0,
+            "od_coefficient": 4.0
+        },
+        {
+            "id": 18,
+            "power_coefficient": 4.5,
+            "od_coefficient": 4.0
+        },
+        {
+            "id": 19,
+            "power_coefficient": 4.5,
+            "od_coefficient": 4.5
+        },
+        {
+            "id": 20,
+            "power_coefficient": 5.0,
+            "od_coefficient": 4.5
+        },
+        {
+            "id": 21,
+            "power_coefficient": 5.0,
+            "od_coefficient": 5.0
+        },
+        {
+            "id": 22,
+            "power_coefficient": 5.5,
+            "od_coefficient": 5.0
+        },
+        {
+            "id": 23,
+            "power_coefficient": 5.5,
+            "od_coefficient": 5.5
+        },
+        {
+            "id": 24,
+            "power_coefficient": 6.0,
+            "od_coefficient": 5.5
+        },
+        {
+            "id": 25,
+            "power_coefficient": 6.0,
+            "od_coefficient": 6.0
+        },
+        {
+            "id": 26,
+            "power_coefficient": 6.5,
+            "od_coefficient": 6.0
+        },
+        {
+            "id": 27,
+            "power_coefficient": 6.5,
+            "od_coefficient": 6.5
+        },
+        {
+            "id": 28,
+            "power_coefficient": 7.0,
+            "od_coefficient": 6.5
+        },
+        {
+            "id": 29,
+            "power_coefficient": 7.0,
+            "od_coefficient": 7.0
+        },
+        {
+            "id": 30,
+            "power_coefficient": 7.5,
+            "od_coefficient": 7.0
+        },
+        {
+            "id": 31,
+            "power_coefficient": 7.5,
+            "od_coefficient": 7.5
+        },
+        {
+            "id": 32,
+            "power_coefficient": 8.0,
+            "od_coefficient": 7.5
+        },
+        {
+            "id": 33,
+            "power_coefficient": 8.0,
+            "od_coefficient": 8.0
+        },
+        {
+            "id": 34,
+            "power_coefficient": 8.5,
+            "od_coefficient": 8.0
+        },
+        {
+            "id": 35,
+            "power_coefficient": 8.5,
+            "od_coefficient": 8.5
+        },
+        {
+            "id": 36,
+            "power_coefficient": 9.0,
+            "od_coefficient": 8.5
+        },
+        {
+            "id": 37,
+            "power_coefficient": 9.0,
+            "od_coefficient": 9.0
+        },
+        {
+            "id": 38,
+            "power_coefficient": 9.5,
+            "od_coefficient": 9.0
+        },
+        {
+            "id": 39,
+            "power_coefficient": 9.5,
+            "od_coefficient": 9.5
+        },
+        {
+            "id": 40,
+            "power_coefficient": 10.0,
+            "od_coefficient": 9.5
+        },
+        {
+            "id": 41,
+            "power_coefficient": 10.0,
+            "od_coefficient": 10.0
+        },
+        {
+            "id": 42,
+            "power_coefficient": 10.5,
+            "od_coefficient": 10.0
+        },
+        {
+            "id": 43,
+            "power_coefficient": 10.5,
+            "od_coefficient": 10.5
+        },
+        {
+            "id": 44,
+            "power_coefficient": 11.0,
+            "od_coefficient": 10.5
+        },
+        {
+            "id": 45,
+            "power_coefficient": 11.0,
+            "od_coefficient": 11.0
+        },
+        {
+            "id": 46,
+            "power_coefficient": 11.5,
+            "od_coefficient": 11.0
+        },
+        {
+            "id": 47,
+            "power_coefficient": 11.5,
+            "od_coefficient": 11.5
+        },
+        {
+            "id": 48,
+            "power_coefficient": 12.0,
+            "od_coefficient": 11.5
+        },
+        {
+            "id": 49,
+            "power_coefficient": 12.0,
+            "od_coefficient": 12.0
+        },
+        {
+            "id": 50,
+            "power_coefficient": 12.5,
+            "od_coefficient": 12.5
+        },
+        {
+            "id": 51,
+            "power_coefficient": 13.0,
+            "od_coefficient": 12.5
+        },
+        {
+            "id": 52,
+            "power_coefficient": 13.0,
+            "od_coefficient": 13.0
+        },
+        {
+            "id": 53,
+            "power_coefficient": 13.5,
+            "od_coefficient": 13.0
+        },
+        {
+            "id": 54,
+            "power_coefficient": 13.5,
+            "od_coefficient": 13.5
+        },
+        {
+            "id": 55,
+            "power_coefficient": 14.0,
+            "od_coefficient": 13.5
+        },
+        {
+            "id": 56,
+            "power_coefficient": 14.0,
+            "od_coefficient": 14.0
+        },
+        {
+            "id": 57,
+            "power_coefficient": 14.5,
+            "od_coefficient": 14.0
+        },
+        {
+            "id": 58,
+            "power_coefficient": 14.5,
+            "od_coefficient": 14.5
+        },
+        {
+            "id": 59,
+            "power_coefficient": 15.0,
+            "od_coefficient": 14.5
+        },
+        {
+            "id": 60,
+            "power_coefficient": 15.0,
+            "od_coefficient": 15.0
+        },
+        {
+            "id": 61,
+            "power_coefficient": 15.5,
+            "od_coefficient": 15.0
+        },
+        {
+            "id": 62,
+            "power_coefficient": 15.5,
+            "od_coefficient": 15.5
+        },
+        {
+            "id": 63,
+            "power_coefficient": 16.0,
+            "od_coefficient": 15.5
+        },
+        {
+            "id": 64,
+            "power_coefficient": 16.0,
+            "od_coefficient": 16.0
+        },
+        {
+            "id": 65,
+            "power_coefficient": 16.5,
+            "od_coefficient": 16.0
+        },
+        {
+            "id": 66,
+            "power_coefficient": 16.5,
+            "od_coefficient": 16.5
+        },
+        {
+            "id": 67,
+            "power_coefficient": 17.0,
+            "od_coefficient": 16.5
+        },
+        {
+            "id": 68,
+            "power_coefficient": 17.0,
+            "od_coefficient": 17.0
+        },
+        {
+            "id": 69,
+            "power_coefficient": 17.5,
+            "od_coefficient": 17.0
+        },
+        {
+            "id": 70,
+            "power_coefficient": 17.5,
+            "od_coefficient": 17.5
+        },
+        {
+            "id": 71,
+            "power_coefficient": 18.0,
+            "od_coefficient": 17.5
+        },
+        {
+            "id": 72,
+            "power_coefficient": 18.0,
+            "od_coefficient": 18.0
+        },
+        {
+            "id": 73,
+            "power_coefficient": 18.5,
+            "od_coefficient": 18.0
+        },
+        {
+            "id": 74,
+            "power_coefficient": 18.5,
+            "od_coefficient": 18.5
+        },
+        {
+            "id": 75,
+            "power_coefficient": 19.0,
+            "od_coefficient": 18.5
+        },
+        {
+            "id": 76,
+            "power_coefficient": 19.0,
+            "od_coefficient": 19.0
+        },
+        {
+            "id": 77,
+            "power_coefficient": 19.5,
+            "od_coefficient": 19.0
+        },
+        {
+            "id": 78,
+            "power_coefficient": 19.5,
+            "od_coefficient": 19.5
+        },
+        {
+            "id": 79,
+            "power_coefficient": 20.0,
+            "od_coefficient": 19.5
+        },
+        {
+            "id": 80,
+            "power_coefficient": 20.0,
+            "od_coefficient": 20.0
+        },
+        {
+            "id": 81,
+            "power_coefficient": 20.5,
+            "od_coefficient": 20.0
+        },
+        {
+            "id": 82,
+            "power_coefficient": 20.5,
+            "od_coefficient": 20.5
+        },
+        {
+            "id": 83,
+            "power_coefficient": 21.0,
+            "od_coefficient": 20.5
+        },
+        {
+            "id": 84,
+            "power_coefficient": 21.0,
+            "od_coefficient": 21.0
+        },
+        {
+            "id": 85,
+            "power_coefficient": 21.5,
+            "od_coefficient": 21.0
+        },
+        {
+            "id": 86,
+            "power_coefficient": 21.5,
+            "od_coefficient": 21.5
+        },
+        {
+            "id": 87,
+            "power_coefficient": 22.0,
+            "od_coefficient": 21.5
+        },
+        {
+            "id": 88,
+            "power_coefficient": 22.0,
+            "od_coefficient": 22.0
+        },
+        {
+            "id": 89,
+            "power_coefficient": 22.5,
+            "od_coefficient": 22.0
+        },
+        {
+            "id": 90,
+            "power_coefficient": 22.5,
+            "od_coefficient": 22.5
+        },
+        {
+            "id": 91,
+            "power_coefficient": 23.0,
+            "od_coefficient": 22.5
+        },
+        {
+            "id": 92,
+            "power_coefficient": 23.0,
+            "od_coefficient": 23.0
+        },
+        {
+            "id": 93,
+            "power_coefficient": 23.5,
+            "od_coefficient": 23.0
+        },
+        {
+            "id": 94,
+            "power_coefficient": 23.5,
+            "od_coefficient": 23.5
+        },
+        {
+            "id": 95,
+            "power_coefficient": 24.0,
+            "od_coefficient": 23.5
+        },
+        {
+            "id": 96,
+            "power_coefficient": 24.0,
+            "od_coefficient": 24.0
+        },
+        {
+            "id": 97,
+            "power_coefficient": 24.5,
+            "od_coefficient": 24.0
+        },
+        {
+            "id": 98,
+            "power_coefficient": 24.5,
+            "od_coefficient": 24.5
+        },
+        {
+            "id": 99,
+            "power_coefficient": 25.0,
+            "od_coefficient": 24.5
+        },
+        {
+            "id": 100,
+            "power_coefficient": 25.0,
+            "od_coefficient": 25.0
+        }
+    ]
+}
