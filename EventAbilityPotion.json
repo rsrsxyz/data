@@ -24,6 +24,19 @@
             "event_ability_potion_type": 1
         },
         {
+            "id": 940029,
+            "name": "Liam Arc Battle Festival Skill/Spell Rank Booster [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 2x skill/spell rank up amount for a character in all battle quests for 24 hours after use. (Until [1701392399] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1701392399,
+            "icon": 940028,
+            "sort_order": 23101902,
+            "style_event_ability_id": 0,
+            "event_ability_group_id": 1132,
+            "duration_seconds": 86400,
+            "event_ability_potion_type": 2
+        },
+        {
             "id": 1000940001,
             "name": "Halloween Party Night Booster [Ltd. Time]",
             "flavor_text": "[Limited Time] Item that grants 3x attribute gains for a character in all battle quests for 1 hour after use. (Until [1669337999] <tz>)",

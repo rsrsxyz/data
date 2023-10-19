@@ -3521,6 +3521,19 @@
             "in_group_priority": 99
         },
         {
+            "id": 1300,
+            "name": "???",
+            "flavor_text": "Just whose voice is that?",
+            "map_id": 1,
+            "x": 1,
+            "y": 10,
+            "illust_category": 1,
+            "illust": 1040,
+            "priority": 1,
+            "group_id": 1026,
+            "in_group_priority": 99
+        },
+        {
             "id": 1000000001,
             "name": "Battle with the Eight Stars",
             "flavor_text": "Accept the challenges of the eight heroes!",

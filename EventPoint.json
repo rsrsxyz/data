@@ -1841,6 +1841,26 @@
             "selling_price": 0
         },
         {
+            "id": 800252,
+            "name": "Romancing Festival Medal 125",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800252,
+            "max_quantity": 99999999,
+            "expired_at": 1700096399,
+            "sort_order": 23101960,
+            "selling_price": 0
+        },
+        {
+            "id": 800253,
+            "name": "Romancing Festival Medal 124",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800253,
+            "max_quantity": 99999999,
+            "expired_at": 1700096399,
+            "sort_order": 23101955,
+            "selling_price": 0
+        },
+        {
             "id": 800254,
             "name": "Romancing Festival Medal 121",
             "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -7098,6 +7118,26 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 23100527,
+            "selling_price": 0
+        },
+        {
+            "id": 1100828,
+            "name": "Super Training Medal [Battle Festival!]",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100828,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23101940,
+            "selling_price": 0
+        },
+        {
+            "id": 1100829,
+            "name": "Super Training Proof [Battle Festival!]",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100829,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23101944,
             "selling_price": 0
         },
         {

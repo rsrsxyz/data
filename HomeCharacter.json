@@ -15021,6 +15021,198 @@
             ],
             "reward_text": "Fight at sea!",
             "position": 3
+        },
+        {
+            "id": 1000000641,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Goddess",
+            "dot_id": 121305,
+            "illust_id": 121305,
+            "texts": [
+                "I am to awaken? Heh heh, I wonder what will happen to me.",
+                "Use with caution. Overdoing it is a recipe for failure.",
+                "When this is all over, I will go back to sleep until I am needed once again."
+            ],
+            "reward_text": "Use with caution. Overdoing it is a recipe for failure.",
+            "position": 8
+        },
+        {
+            "id": 1000000642,
+            "reward_type": 12,
+            "reward_id": 840203,
+            "reward_quantity": 15,
+            "name": "Noel",
+            "dot_id": 229210,
+            "illust_id": 229210,
+            "texts": [
+                "Removing cruelty suppression!",
+                "Removing efficiency suppression!",
+                "Even I have never tried to see how far my full power can go."
+            ],
+            "reward_text": "Even I have never tried to see how far my full power can go.",
+            "position": 7
+        },
+        {
+            "id": 1000000643,
+            "reward_type": 8,
+            "reward_id": 810066,
+            "reward_quantity": 25,
+            "name": "M Black",
+            "dot_id": 312004,
+            "illust_id": 312004,
+            "texts": [
+                "Can you bear the full force of my blade?",
+                "Can you get me to back off, even just a little?",
+                "I have no intention of taking you down with me. I alone shall remain. That is victory."
+            ],
+            "reward_text": "Can you bear the full force of my blade?",
+            "position": 1
+        },
+        {
+            "id": 1000000644,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Arthur",
+            "dot_id": 130104,
+            "illust_id": 130104,
+            "texts": [
+                "I'm the protagonist.",
+                "The name's Arthur. Don't you forget it.",
+                "People tell me to think things through more, but that's not what protagonists do."
+            ],
+            "reward_text": "The name's Arthur. Don't you forget it.",
+            "position": 3
+        },
+        {
+            "id": 1000000645,
+            "reward_type": 12,
+            "reward_id": 840203,
+            "reward_quantity": 15,
+            "name": "Talon",
+            "dot_id": 131004,
+            "illust_id": 131004,
+            "texts": [
+                "Fast attack!",
+                "All range attack!",
+                "I may not be the lead, but my role is still necessary, is it not?"
+            ],
+            "reward_text": "Fast attack!",
+            "position": 6
+        },
+        {
+            "id": 1000000646,
+            "reward_type": 8,
+            "reward_id": 810066,
+            "reward_quantity": 25,
+            "name": "Macha",
+            "dot_id": 619105,
+            "illust_id": 619105,
+            "texts": [
+                "Magic is different in every world.",
+                "There are all kinds of magic I don't know.",
+                "Magic does not destroy worlds. It's the natural order itself. So, don't worry."
+            ],
+            "reward_text": "Magic is different in every world.",
+            "position": 10
+        },
+        {
+            "id": 1000000647,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Goddess",
+            "dot_id": 121305,
+            "illust_id": 121305,
+            "texts": [
+                "I am to awaken? Heh heh, I wonder what will happen to me.",
+                "Use with caution. Overdoing it is a recipe for failure.",
+                "When this is all over, I will go back to sleep until I am needed once again."
+            ],
+            "reward_text": "Use with caution. Overdoing it is a recipe for failure.",
+            "position": 8
+        },
+        {
+            "id": 1000000648,
+            "reward_type": 12,
+            "reward_id": 840203,
+            "reward_quantity": 2,
+            "name": "Noel",
+            "dot_id": 229210,
+            "illust_id": 229210,
+            "texts": [
+                "Removing cruelty suppression!",
+                "Removing efficiency suppression!",
+                "Even I have never tried to see how far my full power can go."
+            ],
+            "reward_text": "Even I have never tried to see how far my full power can go.",
+            "position": 7
+        },
+        {
+            "id": 1000000649,
+            "reward_type": 8,
+            "reward_id": 810066,
+            "reward_quantity": 2,
+            "name": "M Black",
+            "dot_id": 312004,
+            "illust_id": 312004,
+            "texts": [
+                "Can you bear the full force of my blade?",
+                "Can you get me to back off, even just a little?",
+                "I have no intention of taking you down with me. I alone shall remain. That is victory."
+            ],
+            "reward_text": "Can you bear the full force of my blade?",
+            "position": 1
+        },
+        {
+            "id": 1000000650,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Arthur",
+            "dot_id": 130104,
+            "illust_id": 130104,
+            "texts": [
+                "I'm the protagonist.",
+                "The name's Arthur. Don't you forget it.",
+                "People tell me to think things through more, but that's not what protagonists do."
+            ],
+            "reward_text": "The name's Arthur. Don't you forget it.",
+            "position": 3
+        },
+        {
+            "id": 1000000651,
+            "reward_type": 12,
+            "reward_id": 840203,
+            "reward_quantity": 2,
+            "name": "Talon",
+            "dot_id": 131004,
+            "illust_id": 131004,
+            "texts": [
+                "Fast attack!",
+                "All range attack!",
+                "I may not be the lead, but my role is still necessary, is it not?"
+            ],
+            "reward_text": "Fast attack!",
+            "position": 6
+        },
+        {
+            "id": 1000000652,
+            "reward_type": 8,
+            "reward_id": 810066,
+            "reward_quantity": 2,
+            "name": "Macha",
+            "dot_id": 619105,
+            "illust_id": 619105,
+            "texts": [
+                "Magic is different in every world.",
+                "There are all kinds of magic I don't know.",
+                "Magic does not destroy worlds. It's the natural order itself. So, don't worry."
+            ],
+            "reward_text": "Magic is different in every world.",
+            "position": 10
         }
     ]
 }

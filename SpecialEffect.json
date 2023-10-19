@@ -18122,7 +18122,7 @@
             "flavor_text": "Decreases damage taken.",
             "target_area": 3,
             "state_vars": [
-                80
+                75
             ],
             "text_pop": "DEF↑",
             "text_color": "65D2FF",
@@ -19503,7 +19503,7 @@
             "id": 801041660,
             "state_change_id": 900050113,
             "name": "Chain Attack (Yo-yo+)",
-            "flavor_text": "[After activating an attack]<br><skill=110300254>Yo-yo+</skill> will be activated.",
+            "flavor_text": "After activating an attack, <skill=110300254>Yo-yo+</skill> will be activated.",
             "target_area": 1,
             "state_vars": [
                 702101959
@@ -47697,7 +47697,7 @@
             "id": 802041884,
             "state_change_id": 900050073,
             "name": "New Moon",
-            "flavor_text": "When landing skill 1, Moon Slash+ will be activated (very high chance).",
+            "flavor_text": "When landing skill 1, Moon Slash+ will be activated.",
             "target_area": 1,
             "state_vars": [
                 110200303
@@ -47719,7 +47719,7 @@
             "id": 802041885,
             "state_change_id": 900050073,
             "name": "New Moon",
-            "flavor_text": "When landing skill 2, Moon Slash+ will be activated (very high chance).",
+            "flavor_text": "When landing skill 2, Moon Slash+ will be activated.",
             "target_area": 1,
             "state_vars": [
                 110200303
@@ -47741,7 +47741,7 @@
             "id": 802041886,
             "state_change_id": 900050073,
             "name": "New Moon",
-            "flavor_text": "When landing skill 3, Moon Slash+ will be activated (very high chance).",
+            "flavor_text": "When landing skill 3, Moon Slash+ will be activated.",
             "target_area": 1,
             "state_vars": [
                 110200303
@@ -47763,7 +47763,7 @@
             "id": 802041887,
             "state_change_id": 900050073,
             "name": "New Moon",
-            "flavor_text": "When landing an inherited skill, Moon Slash+ will be activated (very high chance).",
+            "flavor_text": "When landing an inherited skill, Moon Slash+ will be activated.",
             "target_area": 1,
             "state_vars": [
                 110200303
@@ -47785,7 +47785,7 @@
             "id": 802041888,
             "state_change_id": 900050073,
             "name": "New Moon",
-            "flavor_text": "When landing a normal attack, Moon Slash+ will be activated (very high chance).",
+            "flavor_text": "When landing a normal attack, Moon Slash+ will be activated.",
             "target_area": 1,
             "state_vars": [
                 110200303
@@ -47917,7 +47917,7 @@
             "id": 802041894,
             "state_change_id": 900050073,
             "name": "Full Moon",
-            "flavor_text": "When landing skill 1, Crescent Moon Slash will be activated (high chance).",
+            "flavor_text": "When landing skill 1, Crescent Moon Slash will be activated.",
             "target_area": 1,
             "state_vars": [
                 110200305
@@ -47939,7 +47939,7 @@
             "id": 802041895,
             "state_change_id": 900050073,
             "name": "Full Moon",
-            "flavor_text": "When landing skill 2, Crescent Moon Slash will be activated (high chance).",
+            "flavor_text": "When landing skill 2, Crescent Moon Slash will be activated.",
             "target_area": 1,
             "state_vars": [
                 110200305
@@ -47961,7 +47961,7 @@
             "id": 802041896,
             "state_change_id": 900050073,
             "name": "Full Moon",
-            "flavor_text": "When landing skill 3, Crescent Moon Slash will be activated (high chance).",
+            "flavor_text": "When landing skill 3, Crescent Moon Slash will be activated.",
             "target_area": 1,
             "state_vars": [
                 110200305
@@ -47983,7 +47983,7 @@
             "id": 802041897,
             "state_change_id": 900050073,
             "name": "Full Moon",
-            "flavor_text": "When landing an inherited skill, Crescent Moon Slash will be activated (high chance).",
+            "flavor_text": "When landing an inherited skill, Crescent Moon Slash will be activated.",
             "target_area": 1,
             "state_vars": [
                 110200305
@@ -48005,7 +48005,7 @@
             "id": 802041898,
             "state_change_id": 900050073,
             "name": "Full Moon",
-            "flavor_text": "When landing a normal attack, Crescent Moon Slash will be activated (high chance).",
+            "flavor_text": "When landing a normal attack, Crescent Moon Slash will be activated.",
             "target_area": 1,
             "state_vars": [
                 110200305
@@ -51821,7 +51821,7 @@
             "id": 802042283,
             "state_change_id": 900040048,
             "name": "Pierce Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a pierce attack.",
+            "flavor_text": "When attacking with pierce attacks, increases damage.",
             "target_area": 3,
             "state_vars": [],
             "text_pop": "",
@@ -90943,6 +90943,70 @@
             "state_icon": 1031
         },
         {
+            "id": 1800000019,
+            "state_change_id": 900030001,
+            "name": "Life Drain Seal",
+            "flavor_text": "Starting from the next turn after entering this stance, after activating an attack*, <skill=1110200087>Life Drain Sword</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>Deactivates when knocked unconscious or when you proceed to the next round.<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "target_area": 1,
+            "state_vars": [],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 1031
+        },
+        {
+            "id": 1800000020,
+            "state_change_id": 900030001,
+            "name": "Crescent",
+            "flavor_text": "When landing an attack with an Attack type skill/spell*, <skill=1110200085>Moon Scraper+</skill> will be activated (high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances and Skill/Spell Counterattacks are not included.",
+            "target_area": 1,
+            "state_vars": [],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 1031
+        },
+        {
+            "id": 1800000021,
+            "state_change_id": 900030001,
+            "name": "Full Moon",
+            "flavor_text": "When landing an attack with an Attack type skill/spell*, <skill=110200305>Crescent Moon Slash</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances and Skill/Spell Counterattacks are not included.",
+            "target_area": 1,
+            "state_vars": [],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 1031
+        },
+        {
+            "id": 1800000022,
+            "state_change_id": 900030001,
+            "name": "Dark Moon",
+            "flavor_text": "When landing an attack with an Attack type skill/spell*, <skill=1110200084>Moon Haze Ripper</skill> will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances and Skill/Spell Counterattacks are not included.",
+            "target_area": 1,
+            "state_vars": [],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 1031
+        },
+        {
             "id": 1801010001,
             "state_change_id": 900010012,
             "name": "STR Up",
@@ -92388,7 +92452,7 @@
             "id": 1801040028,
             "state_change_id": 900040048,
             "name": "Slash Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a slash attack.",
+            "flavor_text": "When attacking with slash attacks, increases damage.",
             "target_area": 3,
             "state_vars": [],
             "text_pop": "Slash ATK↑",
@@ -92406,7 +92470,7 @@
             "id": 1801040029,
             "state_change_id": 900040048,
             "name": "Heat Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a heat attack.",
+            "flavor_text": "When attacking with heat attacks, increases damage.",
             "target_area": 3,
             "state_vars": [],
             "text_pop": "Heat ATK↑",
@@ -92929,7 +92993,7 @@
             "id": 1801040067,
             "state_change_id": 900040048,
             "name": "Pierce Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a pierce attack.",
+            "flavor_text": "When attacking with pierce attacks, increases damage.",
             "target_area": 3,
             "state_vars": [],
             "text_pop": "Pierce ATK↑",
@@ -96021,6 +96085,24 @@
             "state_icon": 3001
         },
         {
+            "id": 1801040229,
+            "state_change_id": 900050113,
+            "name": "Life Drain Seal",
+            "flavor_text": "Starting from the next turn after entering this stance, after activating an attack, <skill=1110200087>Life Drain Sword</skill> will be activated (very high chance).",
+            "target_area": 1,
+            "state_vars": [
+                1702100266
+            ],
+            "text_pop": "Life Drain Seal",
+            "text_color": "FFFFFF",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
             "id": 1801040335,
             "state_change_id": 900040062,
             "name": "Defense Boost (small)",
@@ -96722,7 +96804,7 @@
             "id": 1802040006,
             "state_change_id": 900040048,
             "name": "Pierce Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a pierce attack.",
+            "flavor_text": "When attacking with pierce attacks, increases damage.",
             "target_area": 3,
             "state_vars": [],
             "text_pop": "Pierce ATK↑",
@@ -96900,7 +96982,7 @@
             "id": 1802040016,
             "state_change_id": 900040048,
             "name": "Blunt Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a blunt attack.",
+            "flavor_text": "When attacking with blunt attacks, increases damage.",
             "target_area": 3,
             "state_vars": [],
             "text_pop": "Blunt ATK↑",
@@ -97178,7 +97260,7 @@
             "id": 1802040030,
             "state_change_id": 900040048,
             "name": "Pierce Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a pierce attack.",
+            "flavor_text": "When attacking with pierce attacks, increases damage.",
             "target_area": 3,
             "state_vars": [],
             "text_pop": "Pierce ATK↑",
@@ -97574,7 +97656,7 @@
             "id": 1802040051,
             "state_change_id": 900040048,
             "name": "Slash Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a slash attack.",
+            "flavor_text": "When attacking with slash attacks, increases damage.",
             "target_area": 3,
             "state_vars": [],
             "text_pop": "Slash ATK↑",
@@ -97652,7 +97734,7 @@
             "id": 1802040055,
             "state_change_id": 900040048,
             "name": "Shadow Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a shadow attack.",
+            "flavor_text": "When attacking with shadow attacks, increases damage.",
             "target_area": 1,
             "state_vars": [],
             "text_pop": "Shadow ATK↑",
@@ -100912,7 +100994,7 @@
             "id": 1802040220,
             "state_change_id": 900040048,
             "name": "Cold Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a cold attack.",
+            "flavor_text": "When attacking with cold attacks, increases damage.",
             "target_area": 1,
             "state_vars": [],
             "text_pop": "Cold ATK↑",
@@ -103690,7 +103772,7 @@
             "id": 1802040445,
             "state_change_id": 900040048,
             "name": "Lightning Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a lightning attack.",
+            "flavor_text": "When attacking with lightning attacks, increases damage.",
             "target_area": 3,
             "state_vars": [],
             "text_pop": "Lightning ATK↑",
@@ -103708,7 +103790,7 @@
             "id": 1802040446,
             "state_change_id": 900040048,
             "name": "Lightning Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a lightning attack.",
+            "flavor_text": "When attacking with lightning attacks, increases damage.",
             "target_area": 3,
             "state_vars": [],
             "text_pop": "Lightning ATK↑",
@@ -103726,7 +103808,7 @@
             "id": 1802040447,
             "state_change_id": 900040048,
             "name": "Blunt Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a blunt attack.",
+            "flavor_text": "When attacking with blunt attacks, increases damage.",
             "target_area": 3,
             "state_vars": [],
             "text_pop": "",
@@ -103819,7 +103901,7 @@
             "id": 1802040452,
             "state_change_id": 900040048,
             "name": "Slash Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a slash attack.",
+            "flavor_text": "When attacking with slash attacks, increases damage.",
             "target_area": 3,
             "state_vars": [],
             "text_pop": "Slash ATK↑",
@@ -103837,7 +103919,7 @@
             "id": 1802040453,
             "state_change_id": 900040048,
             "name": "Cold Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a cold attack.",
+            "flavor_text": "When attacking with cold attacks, increases damage.",
             "target_area": 3,
             "state_vars": [],
             "text_pop": "",
@@ -103855,7 +103937,7 @@
             "id": 1802040454,
             "state_change_id": 900040048,
             "name": "Heat Attack Boost",
-            "flavor_text": "Increases damage dealt to enemies when using a heat attack.",
+            "flavor_text": "When attacking with heat attacks, increases damage.",
             "target_area": 3,
             "state_vars": [],
             "text_pop": "",
@@ -105970,6 +106052,650 @@
             "ignition_effect_id": "",
             "display_flag": 1,
             "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040557,
+            "state_change_id": 900050113,
+            "name": "Life Drain Seal When Attacked",
+            "flavor_text": "[When being attacked]<br>Grants oneself <special_effect=1800000019>Life Drain Seal</special_effect>.",
+            "target_area": 1,
+            "state_vars": [
+                1702100268
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040558,
+            "state_change_id": 900050113,
+            "name": "Life Drain Seal",
+            "flavor_text": "Starting from the next turn after entering this stance, after activating an attack, <skill=1110200087>Life Drain Sword</skill> will be activated (very high chance).",
+            "target_area": 1,
+            "state_vars": [
+                1702100266
+            ],
+            "text_pop": "Life Drain Seal",
+            "text_color": "FFFFFF",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                24407
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040559,
+            "state_change_id": 900050073,
+            "name": "Life Drain Seal",
+            "flavor_text": "Attacks with Life Drain Sword after activating skill 1.",
+            "target_area": 1,
+            "state_vars": [
+                1110200087
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                24500,
+                24408,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040560,
+            "state_change_id": 900050073,
+            "name": "Life Drain Seal",
+            "flavor_text": "Attacks with Life Drain Sword after activating skill 2.",
+            "target_area": 1,
+            "state_vars": [
+                1110200087
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                24501,
+                24408,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040561,
+            "state_change_id": 900050073,
+            "name": "Life Drain Seal",
+            "flavor_text": "Attacks with Life Drain Sword after activating skill 3.",
+            "target_area": 1,
+            "state_vars": [
+                1110200087
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                24502,
+                24408,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040562,
+            "state_change_id": 900050073,
+            "name": "Life Drain Seal",
+            "flavor_text": "Attacks with Life Drain Sword after activating an inherited skill.",
+            "target_area": 1,
+            "state_vars": [
+                1110200087
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                24507,
+                24408,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040563,
+            "state_change_id": 900050073,
+            "name": "Life Drain Seal",
+            "flavor_text": "Attacks with Life Drain Sword after activating a normal attack.",
+            "target_area": 1,
+            "state_vars": [
+                1110200087
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                24506,
+                24408,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040564,
+            "state_change_id": 900050113,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=110100272>Turbulence Cannon</skill> will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1702100270
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040565,
+            "state_change_id": 900050073,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "When landing skill 1, Turbulence Cannon will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                110100272
+            ],
+            "text_pop": "Time-Traveling Hero",
+            "text_color": "FFFFFF",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                32,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040566,
+            "state_change_id": 900050073,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "When landing skill 2, Turbulence Cannon will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                110100272
+            ],
+            "text_pop": "Time-Traveling Hero",
+            "text_color": "FFFFFF",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                33,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040567,
+            "state_change_id": 900050073,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "When landing skill 3, Turbulence Cannon will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                110100272
+            ],
+            "text_pop": "Time-Traveling Hero",
+            "text_color": "FFFFFF",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                34,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040568,
+            "state_change_id": 900050073,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "When landing an inherited skill, Turbulence Cannon will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                110100272
+            ],
+            "text_pop": "Time-Traveling Hero",
+            "text_color": "FFFFFF",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                31,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040569,
+            "state_change_id": 900050073,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "When landing a normal attack, Turbulence Cannon will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                110100272
+            ],
+            "text_pop": "Time-Traveling Hero",
+            "text_color": "FFFFFF",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                30,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040570,
+            "state_change_id": 900050113,
+            "name": "Restore Use Limit on Attack",
+            "flavor_text": "[When landing an attack and at critical HP]<br>Restores the use limit of <skill=1110100075>Talon Berth</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "target_area": 1,
+            "state_vars": [
+                1702100272
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040571,
+            "state_change_id": 900050219,
+            "name": "Restore Use Limit",
+            "flavor_text": "Restores use limit.",
+            "target_area": 1,
+            "state_vars": [
+                1,
+                3
+            ],
+            "text_pop": "Times+",
+            "text_color": "5BFF24",
+            "enchantment_effect_id": "Heal",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                4,
+                2
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040572,
+            "state_change_id": 900050113,
+            "name": "Crescent",
+            "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=1110200085>Moon Scraper+</skill> will be activated (high chance).",
+            "target_area": 1,
+            "state_vars": [
+                1702100275
+            ],
+            "text_pop": "Crescent",
+            "text_color": "FFFFFF",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040573,
+            "state_change_id": 900050113,
+            "name": "Full Moon",
+            "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=110200305>Crescent Moon Slash</skill> will be activated (very high chance).",
+            "target_area": 1,
+            "state_vars": [
+                1702100276
+            ],
+            "text_pop": "Full Moon",
+            "text_color": "FFFFFF",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040574,
+            "state_change_id": 900050113,
+            "name": "Dark Moon",
+            "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=1110200084>Moon Haze Ripper</skill> will be activated (medium chance).",
+            "target_area": 1,
+            "state_vars": [
+                1702100277
+            ],
+            "text_pop": "Dark Moon",
+            "text_color": "FFFFFF",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040575,
+            "state_change_id": 900050113,
+            "name": "Turn 2 Start: Grant Crescent",
+            "flavor_text": "[On/After Turn 2 counting from the start of battle]<br>Grants oneself <special_effect=1800000020>Crescent</special_effect> (Effect: permanent in battle).",
+            "target_area": 1,
+            "state_vars": [
+                1702100278
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040576,
+            "state_change_id": 900050113,
+            "name": "Turn 3 Start: Grant Full Moon",
+            "flavor_text": "[On/After Turn 3 counting from the start of battle]<br>Grants oneself <special_effect=1800000021>Full Moon</special_effect> (Effect: permanent in battle).",
+            "target_area": 1,
+            "state_vars": [
+                1702100279
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040577,
+            "state_change_id": 900050113,
+            "name": "Turn 4 Start: Grant Dark Moon",
+            "flavor_text": "[On/After Turn 4 counting from the start of battle]<br>Grants oneself <special_effect=1800000022>Dark Moon</special_effect> (Effect: permanent in battle).",
+            "target_area": 1,
+            "state_vars": [
+                1702100280
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040578,
+            "state_change_id": 900050073,
+            "name": "Crescent",
+            "flavor_text": "When landing skill 1, Moon Scraper+ will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1110200085
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                32,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040579,
+            "state_change_id": 900050073,
+            "name": "Crescent",
+            "flavor_text": "When landing skill 2, Moon Scraper+ will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1110200085
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                33,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040580,
+            "state_change_id": 900050073,
+            "name": "Crescent",
+            "flavor_text": "When landing skill 3, Moon Scraper+ will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1110200085
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                34,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040581,
+            "state_change_id": 900050073,
+            "name": "Crescent",
+            "flavor_text": "When landing an inherited skill, Moon Scraper+ will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1110200085
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                31,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040582,
+            "state_change_id": 900050073,
+            "name": "Crescent",
+            "flavor_text": "When landing a normal attack, Moon Scraper+ will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1110200085
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                30,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040583,
+            "state_change_id": 900050073,
+            "name": "Dark Moon",
+            "flavor_text": "When landing skill 1, Moon Haze Ripper will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1110200084
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                32,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040584,
+            "state_change_id": 900050073,
+            "name": "Dark Moon",
+            "flavor_text": "When landing skill 2, Moon Haze Ripper will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1110200084
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                33,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040585,
+            "state_change_id": 900050073,
+            "name": "Dark Moon",
+            "flavor_text": "When landing skill 3, Moon Haze Ripper will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1110200084
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                34,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040586,
+            "state_change_id": 900050073,
+            "name": "Dark Moon",
+            "flavor_text": "When landing an inherited skill, Moon Haze Ripper will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1110200084
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                31,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040587,
+            "state_change_id": 900050073,
+            "name": "Dark Moon",
+            "flavor_text": "When landing a normal attack, Moon Haze Ripper will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1110200084
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                30,
+                4,
+                24600
+            ],
             "triggering_effect_condition_ids": [],
             "state_icon": 3001
         },

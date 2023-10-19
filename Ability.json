@@ -4948,7 +4948,7 @@
         {
             "id": 702101176,
             "name": "Hustle Cleanse Ⅱ (DEX/INT)",
-            "flavor_text": "When landing an attack, increases own DEX/INT (medium effect).<br>When landing an Overdrive attack, removes target's buffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+            "flavor_text": "When landing an attack, increases own DEX/INT (medium effect).<br>When landing an OD attack, removes target's buffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041096,
@@ -4976,7 +4976,7 @@
         {
             "id": 702101178,
             "name": "Remove Attributes Up on OD Attack",
-            "flavor_text": "When landing an Overdrive attack, removes target's buffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+            "flavor_text": "When landing an OD attack, removes target's buffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041098
@@ -6198,7 +6198,7 @@
         {
             "id": 702101278,
             "name": "Hustle Cleanse Ⅰ (STR/AGI)",
-            "flavor_text": "When landing an attack, increases own STR/AGI (small effect).<br>When landing an Overdrive attack, removes target's buffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+            "flavor_text": "When landing an attack, increases own STR/AGI (small effect).<br>When landing an OD attack, removes target's buffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041214,
@@ -11577,7 +11577,7 @@
         {
             "id": 702101746,
             "name": "New Moon",
-            "flavor_text": "When landing an attack with an Attack type skill/spell, Moon Slash+ will be activated (very high chance).",
+            "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=110200303>Moon Slash+</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041884,
@@ -13905,6 +13905,35 @@
             "special_effect_ids": [
                 802042362,
                 802040807,
+                802040754
+            ],
+            "ability_when": 3,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 702102008,
+            "name": "M. Arts Finesse",
+            "flavor_text": "When attacking with M. Arts, attack damage increases (extreme effect).<br>When attacked, damage taken will be reduced (very large effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041025,
+                802040448
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 702102128,
+            "name": "Heavenly Realm Ⅱ",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000011>Morale Up (medium)</special_effect> (1 turn(s)).<br>Grants oneself <special_effect=800000025>Guard Up (medium)</special_effect> (1 turn(s)).<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040835,
+                802040836,
                 802040754
             ],
             "ability_when": 3,
@@ -50959,7 +50988,7 @@
         {
             "id": 1702100077,
             "name": "Spirit Sundering Strike",
-            "flavor_text": "Attacks' damage increases (super extreme effect).<br>When landing an Overdrive attack, grants the target <special_effect=1800000002>Sundered</special_effect> (2 turn(s)).",
+            "flavor_text": "Attacks' damage increases (super extreme effect).<br>When landing an OD attack, grants the target <special_effect=1800000002>Sundered</special_effect> (2 turn(s)).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041182,
@@ -50973,7 +51002,7 @@
         {
             "id": 1702100078,
             "name": "Sunder on OD Attack",
-            "flavor_text": "When landing an Overdrive attack, grants the target <special_effect=1800000002>Sundered</special_effect> (2 turn(s)).",
+            "flavor_text": "When landing an OD attack, grants the target <special_effect=1800000002>Sundered</special_effect> (2 turn(s)).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 1802040158
@@ -53772,6 +53801,241 @@
                 1802040555
             ],
             "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100266,
+            "name": "Life Drain Seal",
+            "flavor_text": "Starting from the next turn after entering this stance, after activating an attack*, <skill=1110200087>Life Drain Sword</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>Deactivates when knocked unconscious or when you proceed to the next round.<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040559,
+                1802040560,
+                1802040561,
+                1802040562,
+                1802040563
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100267,
+            "name": "Oath of Accord",
+            "flavor_text": "[Start of turn]<br>・[When all allies are still surviving]<br>Grants oneself <special_effect=800000026>Guard Up (large)</special_effect> (1 turn(s)).<br><br>・[When 1 or more allies are unconscious/LP is 0]<br>Grants oneself <special_effect=800000027>Guard Up (very large)</special_effect> (1 turn(s)) and has oneself enter a <special_effect=800000073>taunt</special_effect> stance (very large effect/1 turn(s)).<br><br>[When being attacked]<br>Recovers own BP (+1).<br>Grants oneself <special_effect=1800000019>Life Drain Seal</special_effect>.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042025,
+                802041545,
+                1802040557
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100268,
+            "name": "Life Drain Seal When Attacked",
+            "flavor_text": "[When being attacked]<br>Grants oneself <special_effect=1800000019>Life Drain Seal</special_effect>.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040558
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100269,
+            "name": "Time-Traveling Hero",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (very large effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110100272>Turbulence Cannon</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.<br><br>[When attacked and HP reaches 0]<br>Returns to 1 HP (Max times: 1 time per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040520,
+                802011957,
+                802011430,
+                802011431,
+                802011432,
+                802011433,
+                802011434,
+                802011435,
+                802011436,
+                802042098,
+                1802040564
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100270,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=110100272>Turbulence Cannon</skill> will be activated.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040565,
+                1802040566,
+                1802040567,
+                1802040568,
+                1802040569
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100271,
+            "name": "Brave Soul",
+            "flavor_text": "[When landing an attack]<br><br><When HP is full><br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).<br>Recovers own BP (+2).<br><br><When HP is not full><br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/3 turn(s)).<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/3 turn(s)).<br>Recovers own BP (+1).<br><br><When at critical HP><br>Grants oneself <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).<br>Recovers own BP (+4).<br>Restores the use limit of <skill=1110100075>Talon Berth</skill> by 1 (Number of uses will not exceed the use limit at start of battle).<br>(Will also receive buff from When HP is not full).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041985,
+                802041986,
+                802041987,
+                1802040570
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100272,
+            "name": "Restore Use Limit on Attack",
+            "flavor_text": "[When landing an attack and at critical HP]<br>Restores the use limit of <skill=1110100075>Talon Berth</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040571
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100273,
+            "name": "Special Spiritual Energy",
+            "flavor_text": "Attacks' damage increases (very large effect).<br>When attacked, damage taken will be reduced (very large effect).<br><br>[When activating Rock Gravity/Burn Down]<br>Has oneself enter an <special_effect=800000079>Energy Charge</special_effect> stance and starts the countdown (1 count) (very high chance).<br><br>Energy Charge spell: <skill=125100260>Elemental Comet</skill><br>(Activates using spell Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040346,
+                802040448,
+                802041944
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100274,
+            "name": "Moon Phase",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000176>New Moon</special_effect> (Effect: permanent in battle).<br><br>[On/After Turn 2 counting from the start of battle]<br>Grants oneself <special_effect=1800000020>Crescent</special_effect> (Effect: permanent in battle) (Max times: 1 time per battle).<br><br>[On/After Turn 3 counting from the start of battle]<br>Grants oneself <special_effect=1800000021>Full Moon</special_effect> (Effect: permanent in battle) (Max times: 1 time per battle).<br><br>[On/After Turn 4 counting from the start of battle]<br>Grants oneself <special_effect=1800000022>Dark Moon</special_effect> (Effect: permanent in battle) (Max times: 1 time per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041904,
+                1802040575,
+                1802040576,
+                1802040577
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100275,
+            "name": "Crescent",
+            "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=1110200085>Moon Scraper+</skill> will be activated (high chance).<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040578,
+                1802040579,
+                1802040580,
+                1802040581,
+                1802040582
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100276,
+            "name": "Full Moon",
+            "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=110200305>Crescent Moon Slash</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041894,
+                802041895,
+                802041896,
+                802041897,
+                802041898
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100277,
+            "name": "Dark Moon",
+            "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=1110200084>Moon Haze Ripper</skill> will be activated (medium chance).<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040583,
+                1802040584,
+                1802040585,
+                1802040586,
+                1802040587
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100278,
+            "name": "Turn 2 Start: Grant Crescent",
+            "flavor_text": "[On/After Turn 2 counting from the start of battle]<br>Grants oneself <special_effect=1800000020>Crescent</special_effect> (Effect: permanent in battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040572
+            ],
+            "ability_when": 3,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100279,
+            "name": "Turn 3 Start: Grant Full Moon",
+            "flavor_text": "[On/After Turn 3 counting from the start of battle]<br>Grants oneself <special_effect=1800000021>Full Moon</special_effect> (Effect: permanent in battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040573
+            ],
+            "ability_when": 3,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100280,
+            "name": "Turn 4 Start: Grant Dark Moon",
+            "flavor_text": "[On/After Turn 4 counting from the start of battle]<br>Grants oneself <special_effect=1800000022>Dark Moon</special_effect> (Effect: permanent in battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040574
+            ],
+            "ability_when": 3,
             "icon": 4010,
             "rarity": 0,
             "sort_order": 0
