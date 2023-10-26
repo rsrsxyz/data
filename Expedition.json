@@ -431,6 +431,27 @@
             "close_at": 0
         },
         {
+            "id": 6700022,
+            "name": "Highroad",
+            "required_quest_id": 120110013,
+            "required_player_rank": 200,
+            "required_hours": 21,
+            "difficulty": 4,
+            "growth_difficulty": 203,
+            "recommended_status": 205,
+            "jewel_cost": 0,
+            "ticket_cost": 90,
+            "drop_group_ids": [
+                880000042,
+                880000043
+            ],
+            "flavor_text": "Recommended for characters with up to 2,150 HP and up to 205 in all attributes",
+            "background_id": 700000098,
+            "sort_order": 79,
+            "open_at": 1698282000,
+            "close_at": 0
+        },
+        {
             "id": 1006700001,
             "name": "WJS Marathon",
             "required_quest_id": 0,

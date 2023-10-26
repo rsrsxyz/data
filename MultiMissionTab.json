@@ -26,6 +26,21 @@
             "lock_text": ""
         },
         {
+            "id": 4,
+            "multi_mission_group_id": 3,
+            "title": "Thumping! Who Let the Pets Out Co-op Missions",
+            "summary": "Get Rabbit Mochi",
+            "description": "Get Rabbit Mochi in Thumping! Who Let the Pets Out",
+            "area_id": 1605,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1698282000,
+            "end_at": 1699059599,
+            "priority": 10000,
+            "lock_text": ""
+        },
+        {
             "id": 1000000001,
             "multi_mission_group_id": 1000000001,
             "title": "Fight Together! Fateful Showdown Co-op Missions",

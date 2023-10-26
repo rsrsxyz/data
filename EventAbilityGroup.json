@@ -4139,6 +4139,36 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 431
+        },
+        {
+            "id": 1000000654,
+            "event_ability_category_id": 1000000405,
+            "name": "Thumping! Who Let the Pets Out I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Thumping! Who Let the Pets Out<br>・Bonus Rabbit Daruma drops in Thumping! Who Let the Pets Out",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 432
+        },
+        {
+            "id": 1000000655,
+            "event_ability_category_id": 1000000406,
+            "name": "Thumping! Who Let the Pets Out II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Thumping! Who Let the Pets Out<br>・Bonus Rabbit Daruma drops in Thumping! Who Let the Pets Out",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 433
+        },
+        {
+            "id": 1000000656,
+            "event_ability_category_id": 1000000407,
+            "name": "Thumping! Who Let the Pets Out III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Thumping! Who Let the Pets Out<br>・Bonus Rabbit Daruma/Prismatic Metal Chunk/Prismatic Gauntlets Mold Piece/Prismatic Gun Mold Piece/Prismatic Spear Mold Piece/Prismatic Staff Mold Piece drops in Thumping! Who Let the Pets Out",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 434
         }
     ]
 }

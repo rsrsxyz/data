@@ -1791,6 +1791,26 @@
             "selling_price": 0
         },
         {
+            "id": 800235,
+            "name": "Romancing Festival Medal 126",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800235,
+            "max_quantity": 99999999,
+            "expired_at": 1700701199,
+            "sort_order": 23102665,
+            "selling_price": 0
+        },
+        {
+            "id": 800236,
+            "name": "Romancing Festival Medal 127",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800236,
+            "max_quantity": 99999999,
+            "expired_at": 1700701199,
+            "sort_order": 23102660,
+            "selling_price": 0
+        },
+        {
             "id": 800240,
             "name": "Romancing Festival Medal 117",
             "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -6908,6 +6928,36 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 23091410,
+            "selling_price": 0
+        },
+        {
+            "id": 1100792,
+            "name": "Bunny Tail Charm",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100792,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23102630,
+            "selling_price": 0
+        },
+        {
+            "id": 1100793,
+            "name": "Rabbit Daruma",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100793,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23102635,
+            "selling_price": 0
+        },
+        {
+            "id": 1100794,
+            "name": "Rabbit Mochi",
+            "flavor_text": "Tally item for Thumping! Who Let the Pets Out Co-op Missions.",
+            "icon": 1100794,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23102640,
             "selling_price": 0
         },
         {

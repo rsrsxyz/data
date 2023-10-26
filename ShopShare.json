@@ -394,6 +394,28 @@
             "price_rate": 1,
             "start_at": 0,
             "end_at": 0
+        },
+        {
+            "id": 1000010036,
+            "shop_id": 4900512,
+            "shared_shop_id": 1004900117,
+            "shop_tab_id": 1000010109,
+            "currency": 4,
+            "currency_item_id": 800235,
+            "price_rate": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000010037,
+            "shop_id": 4900513,
+            "shared_shop_id": 1004900117,
+            "shop_tab_id": 1000010112,
+            "currency": 4,
+            "currency_item_id": 800236,
+            "price_rate": 1,
+            "start_at": 0,
+            "end_at": 0
         }
     ]
 }

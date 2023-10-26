@@ -2539,6 +2539,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 227104,
+            "name": "SS Orieve Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Entrust Power to the Emperor] Orieve.",
+            "icon": 227104,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 227203,
             "name": "S Sagzaar Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [For Our Vow] Sagzaar.",
@@ -2839,6 +2847,14 @@
             "name": "SS Rocbouquet Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I've Had Enough of This!] Rocbouquet.",
             "icon": 229315,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 229316,
+            "name": "SS Rocbouquet Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Such Prominent Ears] Rocbouquet.",
+            "icon": 229316,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -3747,6 +3763,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 232402,
+            "name": "SS Yang Fan Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Weight of the Country] Yang Fan.",
+            "icon": 232402,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 232502,
             "name": "SS Bai Meiniang Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Little Massage, Please] Bai Meiniang.",
@@ -4015,6 +4039,14 @@
             "name": "SS Professor Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Genius at Sea!] Professor.",
             "icon": 234104,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 234106,
+            "name": "SS Professor Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [All About the Bunny!] Professor.",
+            "icon": 234106,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -4427,6 +4459,30 @@
             "exchange_cost": 50
         },
         {
+            "id": 238304,
+            "name": "SS Bunnie Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [It's My Year!] Bunnie.",
+            "icon": 238304,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 238501,
+            "name": "S Mukchar Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [Sleeping Cutie] Mukchar.",
+            "icon": 238501,
+            "selling_price": 60,
+            "exchange_cost": 150
+        },
+        {
+            "id": 238502,
+            "name": "SS Mukchar Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Who's Gonna Put the Ears?!] Mukchar.",
+            "icon": 238502,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 239001,
             "name": "SS Dream Eater Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Dream On] Dream Eater.",
@@ -4827,6 +4883,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 310504,
+            "name": "SS Emelia Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Think You Can Win?] Emelia.",
+            "icon": 310504,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 310508,
             "name": "SS Emelia Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Lethal Commando] Emelia.",
@@ -5031,6 +5095,14 @@
             "name": "SS Rabbit (SF1) Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Bit Shot!] Rabbit (SF1).",
             "icon": 311503,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 311504,
+            "name": "SS Rabbit (SF1) Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Undercover Mission!] Rabbit (SF1).",
+            "icon": 311504,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -6219,6 +6291,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 322108,
+            "name": "SS Cordelia Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Be Right With You!] Cordelia.",
+            "icon": 322108,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 322201,
             "name": "SS Narcisse Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Count On Me] Narcisse.",
@@ -6575,6 +6655,14 @@
             "name": "SS Silver Emperor Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Entrusting the Future] Silver Emperor.",
             "icon": 510103,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 510104,
+            "name": "SS Silver Emperor Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Beyond the Darkness of War] Silver Emperor.",
+            "icon": 510104,
             "selling_price": 100,
             "exchange_cost": 250
         },

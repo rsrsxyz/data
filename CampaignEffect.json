@@ -40119,6 +40119,85 @@
                 1000097655,
                 1000097656
             ]
+        },
+        {
+            "id": 1000002763,
+            "ribbon": "Gold Piece Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097657
+            ]
+        },
+        {
+            "id": 1000002764,
+            "ribbon": "Promotion Scroll Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097658
+            ]
+        },
+        {
+            "id": 1000002765,
+            "ribbon": "Testament of the Mighty Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097659
+            ]
+        },
+        {
+            "id": 1000002766,
+            "ribbon": "Forging Material/Aurum Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097544,
+                1000097544,
+                1000097544,
+                1000097544,
+                1000097549,
+                1000097568,
+                1000097550,
+                1000097579,
+                1000097551
+            ]
+        },
+        {
+            "id": 1000002767,
+            "ribbon": "Forging Material/Aurum Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097660,
+                1000097661,
+                1000097662,
+                1000097663,
+                1000097664,
+                1000097665
+            ]
+        },
+        {
+            "id": 1000002768,
+            "ribbon": "SS Rabbit (SF1) Piece Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097666
+            ]
         }
     ]
 }

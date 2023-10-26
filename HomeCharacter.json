@@ -15213,6 +15213,198 @@
             ],
             "reward_text": "Magic is different in every world.",
             "position": 10
+        },
+        {
+            "id": 1000000653,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Rocbouquet",
+            "dot_id": 229316,
+            "illust_id": 229316,
+            "texts": [
+                "What's the year of the rabbit?",
+                "Is it the year rabbits were born?",
+                "These ears are for the year of the rabbit, huh? But I'm cuter than bunnies, right?"
+            ],
+            "reward_text": "What's the year of the rabbit?",
+            "position": 8
+        },
+        {
+            "id": 1000000654,
+            "reward_type": 12,
+            "reward_id": 840203,
+            "reward_quantity": 15,
+            "name": "Emelia",
+            "dot_id": 310504,
+            "illust_id": 310504,
+            "texts": [
+                "What's your hand?",
+                "Are you going to hit?",
+                "I'm getting close to a Blackjack. Do you think I'll hit?"
+            ],
+            "reward_text": "What's your hand?",
+            "position": 7
+        },
+        {
+            "id": 1000000655,
+            "reward_type": 8,
+            "reward_id": 810066,
+            "reward_quantity": 25,
+            "name": "Cordelia",
+            "dot_id": 322108,
+            "illust_id": 322108,
+            "texts": [
+                "Are you having a good time?",
+                "Sorry for the wait!",
+                "Respond cutely and with gusto! That Anima will make it through to the guests."
+            ],
+            "reward_text": "Are you having a good time?",
+            "position": 1
+        },
+        {
+            "id": 1000000656,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Professor",
+            "dot_id": 234106,
+            "illust_id": 234106,
+            "texts": [
+                "Maybe I should turn everyone into rabbits?",
+                "Should I turn myself into a rabbit?",
+                "It's such a hassle to transform everyone every year. I'll settle for costumes."
+            ],
+            "reward_text": "Maybe I should turn everyone into rabbits?",
+            "position": 3
+        },
+        {
+            "id": 1000000657,
+            "reward_type": 12,
+            "reward_id": 840203,
+            "reward_quantity": 15,
+            "name": "Bunnie",
+            "dot_id": 238304,
+            "illust_id": 238304,
+            "texts": [
+                "I want to be able to help everyone out!",
+                "I wanna make everyone happy!",
+                "Mukchar took everything. But what can I do? The thing's so strong."
+            ],
+            "reward_text": "I want to be able to help everyone out!",
+            "position": 6
+        },
+        {
+            "id": 1000000658,
+            "reward_type": 8,
+            "reward_id": 810066,
+            "reward_quantity": 25,
+            "name": "Mukchar",
+            "dot_id": 238500,
+            "illust_id": 238502,
+            "texts": [
+                "Fang!",
+                "Scalding Gas!",
+                "Scalding Gas! Scalding Gas! Scalding Gas! Scalding Gas! Scalding Gas! Scalding Gas!"
+            ],
+            "reward_text": "Fang!",
+            "position": 10
+        },
+        {
+            "id": 1000000659,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Rocbouquet",
+            "dot_id": 229316,
+            "illust_id": 229316,
+            "texts": [
+                "What's the year of the rabbit?",
+                "Is it the year rabbits were born?",
+                "These ears are for the year of the rabbit, huh? But I'm cuter than bunnies, right?"
+            ],
+            "reward_text": "What's the year of the rabbit?",
+            "position": 8
+        },
+        {
+            "id": 1000000660,
+            "reward_type": 12,
+            "reward_id": 840203,
+            "reward_quantity": 2,
+            "name": "Emelia",
+            "dot_id": 310504,
+            "illust_id": 310504,
+            "texts": [
+                "What's your hand?",
+                "Are you going to hit?",
+                "I'm getting close to a Blackjack. Do you think I'll hit?"
+            ],
+            "reward_text": "What's your hand?",
+            "position": 7
+        },
+        {
+            "id": 1000000661,
+            "reward_type": 8,
+            "reward_id": 810066,
+            "reward_quantity": 2,
+            "name": "Cordelia",
+            "dot_id": 322108,
+            "illust_id": 322108,
+            "texts": [
+                "Are you having a good time?",
+                "Sorry for the wait!",
+                "Respond cutely and with gusto! That Anima will make it through to the guests."
+            ],
+            "reward_text": "Are you having a good time?",
+            "position": 1
+        },
+        {
+            "id": 1000000662,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Professor",
+            "dot_id": 234106,
+            "illust_id": 234106,
+            "texts": [
+                "Maybe I should turn everyone into rabbits?",
+                "Should I turn myself into a rabbit?",
+                "It's such a hassle to transform everyone every year. I'll settle for costumes."
+            ],
+            "reward_text": "Maybe I should turn everyone into rabbits?",
+            "position": 3
+        },
+        {
+            "id": 1000000663,
+            "reward_type": 12,
+            "reward_id": 840203,
+            "reward_quantity": 2,
+            "name": "Bunnie",
+            "dot_id": 238304,
+            "illust_id": 238304,
+            "texts": [
+                "I want to be able to help everyone out!",
+                "I wanna make everyone happy!",
+                "Mukchar took everything. But what can I do? The thing's so strong."
+            ],
+            "reward_text": "I want to be able to help everyone out!",
+            "position": 6
+        },
+        {
+            "id": 1000000664,
+            "reward_type": 8,
+            "reward_id": 810066,
+            "reward_quantity": 2,
+            "name": "Mukchar",
+            "dot_id": 238500,
+            "illust_id": 238502,
+            "texts": [
+                "Fang!",
+                "Scalding Gas!",
+                "Scalding Gas! Scalding Gas! Scalding Gas! Scalding Gas! Scalding Gas! Scalding Gas!"
+            ],
+            "reward_text": "Fang!",
+            "position": 10
         }
     ]
 }
