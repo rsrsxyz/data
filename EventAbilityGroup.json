@@ -4169,6 +4169,36 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 434
+        },
+        {
+            "id": 1000000657,
+            "event_ability_category_id": 1000000408,
+            "name": "Golden Tour: Solo Trip I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Romancing Saga Golden Tour: Solo Trip<br>・Bonus Saga Postcard drops in Romancing Saga Golden Tour: Solo Trip",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 435
+        },
+        {
+            "id": 1000000658,
+            "event_ability_category_id": 1000000409,
+            "name": "Golden Tour: Solo Trip II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Romancing Saga Golden Tour: Solo Trip<br>・Bonus Saga Postcard drops in Romancing Saga Golden Tour: Solo Trip",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 436
+        },
+        {
+            "id": 1000000659,
+            "event_ability_category_id": 1000000410,
+            "name": "Golden Tour: Solo Trip III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Romancing Saga Golden Tour: Solo Trip<br>・Bonus Saga Postcard/Prismatic Metal Chunk/Prismatic G. Sword Mold Piece/Prismatic Staff Mold Piece drops in Romancing Saga Golden Tour: Solo Trip",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 437
         }
     ]
 }

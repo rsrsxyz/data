@@ -40198,6 +40198,50 @@
             "drop_group_ids": [
                 1000097666
             ]
+        },
+        {
+            "id": 1000002769,
+            "ribbon": "S Final Empress Piece Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097667
+            ]
+        },
+        {
+            "id": 1000002770,
+            "ribbon": "Forging Material/Aurum Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097544,
+                1000097544,
+                1000097544,
+                1000097546,
+                1000097550,
+                1000097550,
+                1000097551,
+                1000097551,
+                1000097551
+            ]
+        },
+        {
+            "id": 1000002771,
+            "ribbon": "Forging Material/Aurum Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097668,
+                1000097669,
+                1000097670,
+                1000097671
+            ]
         }
     ]
 }

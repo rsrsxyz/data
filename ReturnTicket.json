@@ -161,6 +161,16 @@
             "selling_price": 0
         },
         {
+            "id": 830022,
+            "name": "Saga Golden Destinations Instant Expedition Ticket [Ltd. Time]",
+            "flavor_text": "[Limited Time] A ticket that allows you to instantly complete and return from an Expedition. (Until [1702601999] <tz>)",
+            "icon": 830022,
+            "max_quantity": 99999,
+            "expired_at": 1702601999,
+            "sort_order": 23110225,
+            "selling_price": 0
+        },
+        {
             "id": 1000830001,
             "name": "New Year's Instant Expedition Ticket [Ltd. Time]",
             "flavor_text": "[Limited Time] A ticket that allows you to instantly complete and return from an Expedition. (Until [1614473999] <tz>)",

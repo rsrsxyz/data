@@ -1811,6 +1811,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 220411,
+            "name": "SS Final Empress Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [To Defend this Castle] Final Empress.",
+            "icon": 220411,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 220501,
             "name": "S Coppelia Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Liberated Automaton] Coppelia.",
@@ -6963,6 +6971,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 615204,
+            "name": "SS Elysed Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Power of Flowers] Elysed.",
+            "icon": 615204,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 615401,
             "name": "S Ogniana Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Leave All Ya Got] Ogniana.",
@@ -6983,6 +6999,14 @@
             "name": "SS Sasha Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Water Faerie Incarnate] Sasha.",
             "icon": 615501,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 615503,
+            "name": "SS Sasha Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [How Much Is This?] Sasha.",
+            "icon": 615503,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -8089,6 +8113,14 @@
             "icon": 1000220401,
             "selling_price": 100,
             "exchange_cost": 250
+        },
+        {
+            "id": 1000220402,
+            "name": "S Final Empress Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [Hopes Unleashed] Final Empress.",
+            "icon": 1000220402,
+            "selling_price": 60,
+            "exchange_cost": 150
         },
         {
             "id": 1000220501,

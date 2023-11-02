@@ -3713,6 +3713,24 @@
             "optional_draw_count": 1
         },
         {
+            "id": 2175,
+            "name": "Paid Jewels Only!",
+            "discounts": [],
+            "optional_draw_count": 0
+        },
+        {
+            "id": 2176,
+            "name": "",
+            "discounts": [],
+            "optional_draw_count": 0
+        },
+        {
+            "id": 2177,
+            "name": "1 S Guaranteed!",
+            "discounts": [],
+            "optional_draw_count": 0
+        },
+        {
             "id": 1000001001,
             "name": "1 S Guaranteed!",
             "discounts": [],
@@ -6615,6 +6633,12 @@
             "name": "1 S Guaranteed!",
             "discounts": [],
             "optional_draw_count": 0
+        },
+        {
+            "id": 1000001487,
+            "name": "",
+            "discounts": [],
+            "optional_draw_count": 1
         }
     ]
 }

@@ -1911,6 +1911,16 @@
             "selling_price": 0
         },
         {
+            "id": 800261,
+            "name": "Romancing Festival Medal 128",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800261,
+            "max_quantity": 99999999,
+            "expired_at": 1701392399,
+            "sort_order": 23110260,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -7198,6 +7208,66 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 23092110,
+            "selling_price": 0
+        },
+        {
+            "id": 1100840,
+            "name": "Saga Golden Destinations Style Exchange Ticket [Ltd. Time]",
+            "flavor_text": "Can be exchanged for Styles or Gold Pieces at the Saga Golden Destinations Style Exchange. (Until [1702601999] <tz>)",
+            "icon": 1100840,
+            "max_quantity": 99999999,
+            "expired_at": 1702601999,
+            "sort_order": 23110265,
+            "selling_price": 0
+        },
+        {
+            "id": 1100841,
+            "name": "Saga Postcard",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100841,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23110251,
+            "selling_price": 0
+        },
+        {
+            "id": 1100842,
+            "name": "Saga Stamp 1",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100842,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23110252,
+            "selling_price": 0
+        },
+        {
+            "id": 1100843,
+            "name": "Saga Stamp 2",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100843,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23110253,
+            "selling_price": 0
+        },
+        {
+            "id": 1100844,
+            "name": "Saga Stamp 3",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100844,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23110254,
+            "selling_price": 0
+        },
+        {
+            "id": 1100845,
+            "name": "Saga Stamp 4",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100845,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23110255,
             "selling_price": 0
         },
         {

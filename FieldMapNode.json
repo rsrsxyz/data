@@ -5941,7 +5941,7 @@
             "field_map_visibility_effect_type": 1,
             "next_field_map_node_id": 0,
             "is_notable": 0,
-            "flavor_text": "Exquisitely marbled beef. Product of nature-rich Saga Prefecture and cattle-fattening farmers. Only A4 and A5 beef with a 7 or higher Beef Marbling Score can be named Saga Beef®. The first frost of the year is likened to a \"majestic fatty slice of beef\"."
+            "flavor_text": "Exquisitely marbled beef. Product of the nature-rich Saga Prefecture and cattle-fattening farmers. Only A4 and A5 beef with a Beef Marbling Score of 7 or higher can be called Saga Beef®. The first frost of the year is likened to a \"majestic fatty slice of beef\"."
         },
         {
             "id": 10104081,
@@ -5998,7 +5998,7 @@
             "field_map_visibility_effect_type": 1,
             "next_field_map_node_id": 0,
             "is_notable": 0,
-            "flavor_text": "Located in the Genkai Sea. The warm Tsushima Current makes it a good place for catching squid. A great deal of swordtip squid endemic to certain areas of Japan are found here. Yobuko in Karatsu City got its fame for serving live squid."
+            "flavor_text": "The Genkai Sea lies in the north of Saga Prefecture and is home to the warm Tsushima Current, a good place for squid fishing. Many swordtip squid, endemic to certain areas of Japan, are found here. Yobuko in Karatsu City got its fame for serving live squid."
         },
         {
             "id": 10104084,
@@ -6150,7 +6150,7 @@
             "field_map_visibility_effect_type": 0,
             "next_field_map_node_id": 0,
             "is_notable": 0,
-            "flavor_text": "Romancing headquarters in Saga Prefecture. From the building, the view of the land and skies opens up before you. Watch the setting sun stain the streets red while enjoying a nice meal at the visitor's restaurant."
+            "flavor_text": "Romancing headquarters of Saga Prefecture. From the building, the sky and horizon open up before you. Watch the setting sun turn the streets red while enjoying a nice meal at the restaurant in the observation hall."
         },
         {
             "id": 10104093,
@@ -6207,7 +6207,7 @@
             "field_map_visibility_effect_type": 0,
             "next_field_map_node_id": 0,
             "is_notable": 0,
-            "flavor_text": "Moat settlement ruins from the Yayoi Period. The watchtower and pit dwellings have been restored to their original likeness. When first opened to the public in 1989, a sighting of Queen Himiko, ruler of Yamatai, was a popular topic of conversation."
+            "flavor_text": "Moat settlement ruins from the Yayoi Period. The watchtower and pit dwellings have been restored to their original likeness. When first opened to the public in 1989, it attracted much attention as it was reminiscent of Yamatai, ruled by Queen Himiko."
         },
         {
             "id": 10104096,
@@ -6321,7 +6321,7 @@
             "field_map_visibility_effect_type": 0,
             "next_field_map_node_id": 0,
             "is_notable": 0,
-            "flavor_text": "One of the Seven Heroes-- no, Sages-- of Saga. Was Prime Minister of Japan and founded Waseda University. Okuma Memorial Museum holds his statue and other valuable relics. The museum also preserves the look of his hometown samurai village."
+            "flavor_text": "One of the Seven Heroes--no, Seven Wise Men--of Saga. Was Prime Minister of Japan twice and founded Waseda University. The Okuma Shigenobu Memorial Museum displays precious artifacts and documents and in one of its corners lies the samurai residence he once called home."
         },
         {
             "id": 10105000,
@@ -26776,6 +26776,612 @@
             "field_map_visibility_effect_type": 1,
             "next_field_map_node_id": 0,
             "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129080,
+            "name": "Saga Beef®",
+            "field_map_id": 1012901,
+            "field_map_node_type": 6,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1
+            ],
+            "x": 5.211696147918701,
+            "y": 2.5769360065460205,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": "Exquisitely marbled beef. Product of the nature-rich Saga Prefecture and cattle-fattening farmers. Only A4 and A5 beef with a Beef Marbling Score of 7 or higher can be called Saga Beef®. The first frost of the year is likened to a \"majestic fatty slice of beef\"."
+        },
+        {
+            "id": 10129082,
+            "name": "Kashima Gatalympics",
+            "field_map_id": 1012901,
+            "field_map_node_type": 6,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                3
+            ],
+            "x": -1.27121102809906,
+            "y": -10.956270217895508,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": "Located in the Ariake Sea, which has the largest tidal range in Japan. A festival for getting covered in mud while competing in unique events such as the mud board competition, a bike race in the mud flats, and a human mudskipper race."
+        },
+        {
+            "id": 10129083,
+            "name": "Yobuko Squid",
+            "field_map_id": 1012901,
+            "field_map_node_type": 6,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                4
+            ],
+            "x": -8.451319694519043,
+            "y": 15.097949981689453,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": "The Genkai Sea lies in the north of Saga Prefecture and is home to the warm Tsushima Current, a good place for squid fishing. Many swordtip squid, endemic to certain areas of Japan, are found here. Yobuko in Karatsu City got its fame for serving live squid."
+        },
+        {
+            "id": 10129084,
+            "name": "Karatsu Kunchi",
+            "field_map_id": 1012901,
+            "field_map_node_type": 6,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                5
+            ],
+            "x": -10.705789566040039,
+            "y": 8.022566795349121,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": "3-day \"Yama, Hoko and Yatai Float Festival\" at the Karatsu Shrine. Shouts of \"Enya, enya!\" and \"Yoisa, yoisa!\" follow hikiyama festival floats through the old castle town. On UNESCO's Representative List of the Intangible Cultural Heritage of Humanity."
+        },
+        {
+            "id": 10129086,
+            "name": "Sagan Tosu FC",
+            "field_map_id": 1012901,
+            "field_map_node_type": 6,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                7
+            ],
+            "x": 15.403940200805664,
+            "y": 4.474225997924805,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": "Football club located in Tosu and currently playing in the J1 League. On the team logo is written \"True champions in the hearts of all who love Sagantosu.\""
+        },
+        {
+            "id": 10129088,
+            "name": "Arita Ware",
+            "field_map_id": 1012901,
+            "field_map_node_type": 6,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                9
+            ],
+            "x": -13.411870002746582,
+            "y": -1.8312469720840454,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": "The prime example of Saga artisanry. Give it as a present to others or keep it for yourself. The gorgeous luster and richly-detailed designs make it perfect for any use."
+        },
+        {
+            "id": 10129089,
+            "name": "Nanatsugama",
+            "field_map_id": 1012901,
+            "field_map_node_type": 6,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                10
+            ],
+            "x": -10.687729835510254,
+            "y": 12.325810432434082,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": "This group of caverns formed by marine erosion has been dubbed a national natural monument. Take in the mystical landscape of the seven blue grottoes that inspired their name. The sightseeing boat out of Yobuko brings you up-close and personal with these seven wonders."
+        },
+        {
+            "id": 10129090,
+            "name": "Niji No Matsubara",
+            "field_map_id": 1012901,
+            "field_map_node_type": 6,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                11
+            ],
+            "x": -5.174397945404053,
+            "y": 7.633047103881836,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": "One of the three great pine groves of Japan. 4.5 km long and 0.5 km wide, roughly 1 million Japanese black pines have been planted here. Take in the scenery of the entire grove from the top of Mount Kagami. Said to feature its own set of Seven Wonders."
+        },
+        {
+            "id": 10129091,
+            "name": "Saga Prefectural Government Office",
+            "field_map_id": 1012901,
+            "field_map_node_type": 6,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                12
+            ],
+            "x": 3.120258092880249,
+            "y": -3.4995110034942627,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": "Romancing headquarters of Saga Prefecture. From the building, the sky and horizon open up before you. Watch the setting sun turn the streets red while enjoying a nice meal at the restaurant in the observation hall."
+        },
+        {
+            "id": 10129093,
+            "name": "Ekimae Real Estate Stadium",
+            "field_map_id": 1012901,
+            "field_map_node_type": 6,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                14
+            ],
+            "x": 13.905320167541504,
+            "y": 3.6974740028381348,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": "The home stadium for Sagan Tosu FC of the J1 League. Local fans have come to calling it by a shorter name, \"Ekisuta\"."
+        },
+        {
+            "id": 10129094,
+            "name": "Takeo Onsen",
+            "field_map_id": 1012901,
+            "field_map_node_type": 6,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                15
+            ],
+            "x": -5.424111843109131,
+            "y": -4.253979206085205,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": "Reportedly visited by Miyamoto Musashi and Philipp Franz von Siebold. Ideal spot to help revitalize the mind and body. The red-lacquered gate designed by Tatsuno Kingo, architect of Tokyo Station, resembles the Ryugo-jo, a legendary undersea palace."
+        },
+        {
+            "id": 10129095,
+            "name": "Yoshinogari Ruins",
+            "field_map_id": 1012901,
+            "field_map_node_type": 6,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                16
+            ],
+            "x": 8.133420944213867,
+            "y": 1.4748270511627197,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": "Moat settlement ruins from the Yayoi Period. The watchtower and pit dwellings have been restored to their original likeness. When first opened to the public in 1989, it attracted much attention as it was reminiscent of Yamatai, ruled by Queen Himiko."
+        },
+        {
+            "id": 10129101,
+            "name": "Lake Kitayama",
+            "field_map_id": 1012901,
+            "field_map_node_type": 6,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                18
+            ],
+            "x": 4.860230922698975,
+            "y": 7.451548099517822,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": "Largest artificial lake in Saga Prefecture. A favorite fishing spot for many and one of the few fishing lakes in Kyushu. Features a 6 km bike path, tennis courts, a lakeside camping area, an exercise park, and many other facilities for enjoying the great outdoors."
+        },
+        {
+            "id": 10129104,
+            "name": "Statue of Okuma Shigenobu",
+            "field_map_id": 1012901,
+            "field_map_node_type": 6,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                19
+            ],
+            "x": 4.887007236480713,
+            "y": -2.4682910442352295,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": "One of the Seven Heroes--no, Seven Wise Men--of Saga. Was Prime Minister of Japan twice and founded Waseda University. The Okuma Shigenobu Memorial Museum displays precious artifacts and documents and in one of its corners lies the samurai residence he once called home."
+        },
+        {
+            "id": 10129106,
+            "name": "Kyushu Saga International Airport",
+            "field_map_id": 1012901,
+            "field_map_node_type": 5,
+            "start_at": 1698973200,
+            "end_at": 0,
+            "illust_ids": [],
+            "x": 6.289186954498291,
+            "y": -6.832643985748291,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129107,
+            "name": "Higatayoka Park",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1698973200,
+            "end_at": 0,
+            "illust_ids": [
+                1991381
+            ],
+            "x": 4.837697982788086,
+            "y": -4.6127190589904785,
+            "field_map_size": 4,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129108,
+            "name": "Saga Station",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1698973200,
+            "end_at": 0,
+            "illust_ids": [
+                1140311
+            ],
+            "x": 3.471587896347046,
+            "y": -1.9943439960479736,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129109,
+            "name": "Champon Road",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1698973200,
+            "end_at": 0,
+            "illust_ids": [
+                1060101
+            ],
+            "x": -2.476675033569336,
+            "y": -3.6450579166412354,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129110,
+            "name": "Hizen Inuyama Castle Observatory",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1699059600,
+            "end_at": 0,
+            "illust_ids": [
+                1040591
+            ],
+            "x": -2.049765110015869,
+            "y": -6.03574800491333,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129111,
+            "name": "Floating Torii Gate of Oouo Shrine",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1699059600,
+            "end_at": 0,
+            "illust_ids": [
+                1100371
+            ],
+            "x": 0.2876797020435333,
+            "y": -12.723219871520996,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129112,
+            "name": "Taratakezaki Onsen",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1699059600,
+            "end_at": 0,
+            "illust_ids": [
+                1110021
+            ],
+            "x": 2.3219540119171143,
+            "y": -16.17167091369629,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129113,
+            "name": "Yutoku Inari Shrine",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1699146000,
+            "end_at": 0,
+            "illust_ids": [
+                1991291
+            ],
+            "x": -3.125554084777832,
+            "y": -10.321310043334961,
+            "field_map_size": 4,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129114,
+            "name": "Ninja Village Hizenyumekaidou",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1699146000,
+            "end_at": 0,
+            "illust_ids": [
+                1011271
+            ],
+            "x": -6.385985851287842,
+            "y": -9.720789909362793,
+            "field_map_size": 4,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129115,
+            "name": "Takeo Onsen",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1699146000,
+            "end_at": 0,
+            "illust_ids": [
+                1050051
+            ],
+            "x": -7.298034191131592,
+            "y": -3.6306629180908203,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129116,
+            "name": "Arita Ceramic Fair",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1699232400,
+            "end_at": 0,
+            "illust_ids": [
+                1993771
+            ],
+            "x": -12.181909561157227,
+            "y": -5.4547600746154785,
+            "field_map_size": 4,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129117,
+            "name": "Takenokoba Park",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1699232400,
+            "end_at": 0,
+            "illust_ids": [
+                1060061
+            ],
+            "x": -15.153420448303223,
+            "y": -0.3355211913585663,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129122,
+            "name": "Yamamoto Station",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1699232400,
+            "end_at": 0,
+            "illust_ids": [
+                1040091
+            ],
+            "x": -7.854132175445557,
+            "y": 4.650876998901367,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129123,
+            "name": "Imari Station",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1699232400,
+            "end_at": 0,
+            "illust_ids": [
+                1140021
+            ],
+            "x": -12.866950035095215,
+            "y": -0.6925973892211914,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129124,
+            "name": "Karatsu Station",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1699232400,
+            "end_at": 0,
+            "illust_ids": [
+                1090041
+            ],
+            "x": -8.795601844787598,
+            "y": 8.710963249206543,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129125,
+            "name": "Karatsu Castle",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1699232400,
+            "end_at": 0,
+            "illust_ids": [
+                1090061
+            ],
+            "x": -6.559613227844238,
+            "y": 7.269338130950928,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129126,
+            "name": "Kawakami Gorge Spring Festival",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1699232400,
+            "end_at": 0,
+            "illust_ids": [
+                1070201
+            ],
+            "x": 3.2375500202178955,
+            "y": 2.561992883682251,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10129127,
+            "name": "Yoshinogari Historical Park",
+            "field_map_id": 1012901,
+            "field_map_node_type": 1,
+            "start_at": 1699232400,
+            "end_at": 0,
+            "illust_ids": [
+                1011301
+            ],
+            "x": 9.945517539978027,
+            "y": 1.9147330522537231,
+            "field_map_size": 4,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
             "flavor_text": ""
         }
     ]

@@ -13206,7 +13206,7 @@
         {
             "id": 702101887,
             "name": "Super Lightning Spike",
-            "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).<br><br>[After activating an OD attack*]<br><skill=125200266>Lightning Spike</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).<br><br>[After activating an OD attack*]<br><skill=125200266>Lightning Spike</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042185,
@@ -54043,7 +54043,7 @@
         {
             "id": 1702100281,
             "name": "Follow-Up on OD Attack",
-            "flavor_text": "[After activating an OD attack*]<br><skill=1125600039>Darkness Bolt</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[After activating an OD attack*]<br><skill=1125600039>Darkness Bolt</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 1802040588,
@@ -54170,7 +54170,7 @@
         {
             "id": 1702100289,
             "name": "Encore Noir",
-            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=1125600040>Darkbolt Shot</skill> will be activated.<br>(Activates using spell Rank 1).<br><skill=125600291>Ampoule Noir</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=1125600040>Darkbolt Shot</skill> will be activated.<br>(Activates using spell Rank 1).<br><skill=125600291>Ampoule Noir</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041252,
@@ -54185,7 +54185,7 @@
         {
             "id": 1702100290,
             "name": "Follow-Up on Attack",
-            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=1125600040>Darkbolt Shot</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=1125600040>Darkbolt Shot</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 1802040619,
@@ -54200,7 +54200,7 @@
         {
             "id": 1702100291,
             "name": "Follow-Up on Attack",
-            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=125600291>Ampoule Noir</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=125600291>Ampoule Noir</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 1802040622,
@@ -54329,6 +54329,78 @@
             ],
             "ability_when": 6,
             "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100300,
+            "name": "Karatsu Wisteria Ward",
+            "flavor_text": "Reduces damage taken for all allies (large effect).<br><br>[Start of battle]<br>Recovers own BP (+1).<br><br>[Start of turn]<br>Increases all surviving allies' END/WIL (medium effect).<br>Increases all surviving allies' confusion/unconsciousness resistance (very large effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040323,
+                802041859,
+                1802040632,
+                802042184
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100301,
+            "name": "Turn Start: END/WIL Up",
+            "flavor_text": "[Start of turn]<br>Increases all surviving allies' END/WIL (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040633,
+                1802040634
+            ],
+            "ability_when": 3,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100302,
+            "name": "Selective Buyer",
+            "flavor_text": "[End of turn]<br>Recovers own HP (very small effect).<br>Recovers own BP (+2).<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=125200262>Arita Pneuma</skill> by 1 (Number of uses will not exceed the use limit at start of battle).<br>Recovers own BP (+3).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041224,
+                802041315,
+                1802040635,
+                1802040636
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100303,
+            "name": "End of Every 5 Turns: Restore Use Limit",
+            "flavor_text": "[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=125200262>Arita Pneuma</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040637
+            ],
+            "ability_when": 4,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100304,
+            "name": "End of Every 5 Turns: Recover BP",
+            "flavor_text": "[At the end of every 5 turns counting from the start of battle]<br>Recovers own BP (+3).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040755
+            ],
+            "ability_when": 4,
+            "icon": 4010,
             "rarity": 0,
             "sort_order": 0
         },

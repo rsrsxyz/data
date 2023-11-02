@@ -2766,7 +2766,7 @@
             "id": 800000220,
             "state_change_id": 900030001,
             "name": "Super Lightning Spike",
-            "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).<br><br>[After activating an OD attack*]<br><skill=125200266>Lightning Spike</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).<br><br>[After activating an OD attack*]<br><skill=125200266>Lightning Spike</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "target_area": 1,
             "state_vars": [],
             "text_pop": "",
@@ -91010,7 +91010,7 @@
             "id": 1800000023,
             "state_change_id": 900030001,
             "name": "Recharge",
-            "flavor_text": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>[After activating an OD attack*]<br><skill=1125600039>Darkness Bolt</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>[After activating an OD attack*]<br><skill=1125600039>Darkness Bolt</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "target_area": 1,
             "state_vars": [],
             "text_pop": "",
@@ -107664,6 +107664,111 @@
             "applying_effect_condition_ids": [
                 24502
             ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040632,
+            "state_change_id": 900050113,
+            "name": "Turn Start: END/WIL Up",
+            "flavor_text": "[Start of turn]<br>Increases all surviving allies' END/WIL (medium effect).",
+            "target_area": 1,
+            "state_vars": [
+                1702100301
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040633,
+            "state_change_id": 900010013,
+            "name": "END Up",
+            "flavor_text": "Increases END.",
+            "target_area": 3,
+            "state_vars": [],
+            "text_pop": "END/WIL↑",
+            "text_color": "65D2FF",
+            "enchantment_effect_id": "Buff",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 2001
+        },
+        {
+            "id": 1802040634,
+            "state_change_id": 900010017,
+            "name": "WIL Up",
+            "flavor_text": "Increases WIL.",
+            "target_area": 3,
+            "state_vars": [],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 2001
+        },
+        {
+            "id": 1802040635,
+            "state_change_id": 900050113,
+            "name": "End of Every 5 Turns: Restore Use Limit",
+            "flavor_text": "[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=125200262>Arita Pneuma</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "target_area": 1,
+            "state_vars": [
+                1702100303
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040636,
+            "state_change_id": 900050113,
+            "name": "End of Every 5 Turns: Recover BP",
+            "flavor_text": "[At the end of every 5 turns counting from the start of battle]<br>Recovers own BP (+3).",
+            "target_area": 1,
+            "state_vars": [
+                1702100304
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040637,
+            "state_change_id": 900050219,
+            "name": "Restore Use Limit",
+            "flavor_text": "Restores use limit.",
+            "target_area": 1,
+            "state_vars": [
+                1,
+                3
+            ],
+            "text_pop": "Times+",
+            "text_color": "5BFF24",
+            "enchantment_effect_id": "Heal",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [],
             "triggering_effect_condition_ids": [],
             "state_icon": 3001
         },

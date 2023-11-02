@@ -33215,6 +33215,15 @@
             ]
         },
         {
+            "id": 6526,
+            "event_ability_type": 4,
+            "rate": 0.0,
+            "reward_bonuses": [],
+            "drop_group_ids": [
+                105900
+            ]
+        },
+        {
             "id": 10001,
             "event_ability_type": 1,
             "rate": 0.0,
@@ -54271,6 +54280,17 @@
             "reward_bonuses": [],
             "drop_group_ids": [
                 1000097544,
+                1000097544,
+                1000097544,
+                1000097544
+            ]
+        },
+        {
+            "id": 1000003313,
+            "event_ability_type": 4,
+            "rate": 0.0,
+            "reward_bonuses": [],
+            "drop_group_ids": [
                 1000097544,
                 1000097544,
                 1000097544

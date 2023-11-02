@@ -15405,6 +15405,102 @@
             ],
             "reward_text": "Fang!",
             "position": 10
+        },
+        {
+            "id": 1000000665,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 30,
+            "name": "Final Empress",
+            "dot_id": 220411,
+            "illust_id": 220411,
+            "texts": [
+                "We shall protect the castle ourselves!",
+                "Delicious things serve to calm the heart.",
+                "When you look up at something, you get optimistic. I will reach that peak."
+            ],
+            "reward_text": "We shall protect the castle ourselves!",
+            "position": 8
+        },
+        {
+            "id": 1000000666,
+            "reward_type": 12,
+            "reward_id": 840207,
+            "reward_quantity": 30,
+            "name": "Elysed",
+            "dot_id": 615204,
+            "illust_id": 615204,
+            "texts": [
+                "The colors of flowers lift your spirits.",
+                "The scent of flowers warms your heart.",
+                "Flowers have calming powers. This is such a nice place to spend some time with you."
+            ],
+            "reward_text": "The colors of flowers lift your spirits.",
+            "position": 7
+        },
+        {
+            "id": 1000000667,
+            "reward_type": 8,
+            "reward_id": 810071,
+            "reward_quantity": 50,
+            "name": "Sasha",
+            "dot_id": 615503,
+            "illust_id": 615503,
+            "texts": [
+                "This is an exquisite vessel.",
+                "This vessel is fascinating.",
+                "Without my purse, I'm out of luck at a time like this."
+            ],
+            "reward_text": "This is an exquisite vessel.",
+            "position": 1
+        },
+        {
+            "id": 1000000668,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 6,
+            "name": "Final Empress",
+            "dot_id": 220411,
+            "illust_id": 220411,
+            "texts": [
+                "We shall protect the castle ourselves!",
+                "Delicious things serve to calm the heart.",
+                "When you look up at something, you get optimistic. I will reach that peak."
+            ],
+            "reward_text": "We shall protect the castle ourselves!",
+            "position": 8
+        },
+        {
+            "id": 1000000669,
+            "reward_type": 12,
+            "reward_id": 840207,
+            "reward_quantity": 4,
+            "name": "Elysed",
+            "dot_id": 615204,
+            "illust_id": 615204,
+            "texts": [
+                "The colors of flowers lift your spirits.",
+                "The scent of flowers warms your heart.",
+                "Flowers have calming powers. This is such a nice place to spend some time with you."
+            ],
+            "reward_text": "The colors of flowers lift your spirits.",
+            "position": 7
+        },
+        {
+            "id": 1000000670,
+            "reward_type": 8,
+            "reward_id": 810071,
+            "reward_quantity": 4,
+            "name": "Sasha",
+            "dot_id": 615503,
+            "illust_id": 615503,
+            "texts": [
+                "This is an exquisite vessel.",
+                "This vessel is fascinating.",
+                "Without my purse, I'm out of luck at a time like this."
+            ],
+            "reward_text": "This is an exquisite vessel.",
+            "position": 1
         }
     ]
 }

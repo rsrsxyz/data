@@ -1547,6 +1547,14 @@
             "priority": 10400
         },
         {
+            "id": 403,
+            "name": "Romancing Saga Golden Tour: Solo Trip",
+            "start_at": 1698973200,
+            "end_at": 1700182799,
+            "is_daily": 0,
+            "priority": 10409
+        },
+        {
             "id": 1000000001,
             "name": "New Year",
             "start_at": 1596157200,
@@ -2441,6 +2449,14 @@
             "end_at": 1698886799,
             "is_daily": 1,
             "priority": 10405
+        },
+        {
+            "id": 1000000116,
+            "name": "Remembrance Battle",
+            "start_at": 1698973200,
+            "end_at": 1700182799,
+            "is_daily": 1,
+            "priority": 10410
         }
     ]
 }
