@@ -1891,6 +1891,16 @@
             "selling_price": 0
         },
         {
+            "id": 800256,
+            "name": "Romancing Festival Medal 129",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800256,
+            "max_quantity": 99999999,
+            "expired_at": 1701997199,
+            "sort_order": 23110950,
+            "selling_price": 0
+        },
+        {
             "id": 800257,
             "name": "Romancing Festival Medal 118",
             "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -1918,6 +1928,16 @@
             "max_quantity": 99999999,
             "expired_at": 1701392399,
             "sort_order": 23110260,
+            "selling_price": 0
+        },
+        {
+            "id": 800265,
+            "name": "SaGa Soul Medal 16",
+            "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+            "icon": 800265,
+            "max_quantity": 99999999,
+            "expired_at": 1701997199,
+            "sort_order": 23110955,
             "selling_price": 0
         },
         {
@@ -7201,6 +7221,26 @@
             "selling_price": 0
         },
         {
+            "id": 1100832,
+            "name": "Broken Armor",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100832,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23111329,
+            "selling_price": 0
+        },
+        {
+            "id": 1100833,
+            "name": "Steel Soldier's Spearhead",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100833,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23111330,
+            "selling_price": 0
+        },
+        {
             "id": 1100834,
             "name": "Valor Fest. Trophy",
             "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -7268,6 +7308,56 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 23110255,
+            "selling_price": 0
+        },
+        {
+            "id": 1100861,
+            "name": "Mudflat Delicacy",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100861,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23110900,
+            "selling_price": 0
+        },
+        {
+            "id": 1100862,
+            "name": "Razor Clams",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100862,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23110905,
+            "selling_price": 0
+        },
+        {
+            "id": 1100863,
+            "name": "Fiddler Crab",
+            "flavor_text": "Tally item for Seafood Jumble! Mudflat Uproar Co-op Missions.",
+            "icon": 1100863,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23110910,
+            "selling_price": 0
+        },
+        {
+            "id": 1100864,
+            "name": "Mudhopper",
+            "flavor_text": "Tally item for Seafood Jumble! Mudflat Uproar Co-op Missions.",
+            "icon": 1100864,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23110915,
+            "selling_price": 0
+        },
+        {
+            "id": 1100865,
+            "name": "Eel Goby",
+            "flavor_text": "Tally item for Seafood Jumble! Mudflat Uproar Co-op Missions.",
+            "icon": 1100865,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23110920,
             "selling_price": 0
         },
         {

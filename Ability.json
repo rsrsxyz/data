@@ -54405,6 +54405,148 @@
             "sort_order": 0
         },
         {
+            "id": 1702100305,
+            "name": "Overlord's False Name",
+            "flavor_text": "Attacks' damage increases (medium effect).<br>When attacked, damage taken will be reduced (medium effect).<br><br>[Start of turn]<br>Activates the following (Max times: 5 times per battle):<br>・Grants all surviving allies <special_effect=800000095>Heat Up</special_effect> (medium effect).<br>・Grants all surviving allies <special_effect=800000096>Defense Up</special_effect> (small effect).<br>・1 random surviving ally takes recoil damage (30% of Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040002,
+                802042014,
+                802041018
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100306,
+            "name": "Club Instructions Ⅱ",
+            "flavor_text": "Increases attack damage for all allies (medium effect).<br>Reduces damage taken for all allies (medium effect).<br>When an ally attacks with club, damage increases (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041514,
+                802041515,
+                802042016
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100307,
+            "name": "Marine Banquet",
+            "flavor_text": "[On odd turns counting from the start of battle]<br>Recovers own BP (+1).<br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).<br><br>[On even turns counting from the start of battle]<br>Recovers all surviving allies' BP (+1).<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1801040238,
+                1801040239
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100308,
+            "name": "Odd Turn Start: Recover BP/Attributes Up",
+            "flavor_text": "[On odd turns counting from the start of battle]<br>Recovers own BP (+1).<br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040812,
+                802010769,
+                802010770,
+                802010771,
+                802010772,
+                802010773,
+                802010774,
+                802010775,
+                802010776
+            ],
+            "ability_when": 3,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100309,
+            "name": "Even Turn Start: Recover BP/Attributes Up",
+            "flavor_text": "[On even turns counting from the start of battle]<br>Recovers all surviving allies' BP (+1).<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040745,
+                802011172,
+                802011173,
+                802011174,
+                802011175,
+                802011176,
+                802011177,
+                802011178,
+                802011179
+            ],
+            "ability_when": 3,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100310,
+            "name": "Tidal Nourishment",
+            "flavor_text": "[When attacking]<br>Recovers all surviving allies' HP (very high chance/very small effect).<br><br>[When being attacked]<br>Recovers all surviving allies' HP (very high chance/very small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1801040240,
+                1801040241
+            ],
+            "ability_when": 1,
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100311,
+            "name": "Recover HP on Attack",
+            "flavor_text": "[When attacking]<br>Recovers all surviving allies' HP (very high chance/very small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042207
+            ],
+            "ability_when": 6,
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100312,
+            "name": "Recover HP When Attacked",
+            "flavor_text": "[When being attacked]<br>Recovers all surviving allies' HP (very high chance/very small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802010016
+            ],
+            "ability_when": 6,
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100313,
+            "name": "Action Switch",
+            "flavor_text": "When attacking with pierce attacks, grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/3 turn(s)), and recovers own BP (+2).<br>When attacking with cold attacks, grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/3 turn(s)), and recovers own HP (very small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040495,
+                1802040496,
+                1802040199,
+                1802040200
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
             "id": 1702200002,
             "name": "Cover of Night",
             "flavor_text": "[Start of round]<br>Has oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).",

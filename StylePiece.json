@@ -1891,6 +1891,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 220606,
+            "name": "SS Victor Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Imperial Flag Bearer] Victor.",
+            "icon": 220606,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 220701,
             "name": "A Sekishusai Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of A [Paving the Path] Sekishusai.",
@@ -2275,6 +2283,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 223312,
+            "name": "SS Natalie Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Mornin', Mudhoppers] Natalie.",
+            "icon": 223312,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 223321,
             "name": "S Mariah Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Sea Is My Friend] Mariah. ",
@@ -2457,6 +2473,14 @@
             "icon": 224112,
             "selling_price": 60,
             "exchange_cost": 150
+        },
+        {
+            "id": 224172,
+            "name": "SS Sao Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Sea Is the Best] Sao.",
+            "icon": 224172,
+            "selling_price": 100,
+            "exchange_cost": 250
         },
         {
             "id": 224211,
@@ -2695,6 +2719,14 @@
             "name": "SS Narwhal's Daughter Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Teeny-Tiny Puddle] Narwhal's Daughter.",
             "icon": 229006,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 229007,
+            "name": "SS Narwhal's Daughter Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Keeper of the Bountiful Sea] Narwhal's Daughter.",
+            "icon": 229007,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -5067,6 +5099,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 311301,
+            "name": "SS Silence Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Proud Mystic] Silence.",
+            "icon": 311301,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 311302,
             "name": "A Silence Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of A [Stays Out of the Way] Silence.",
@@ -6115,6 +6155,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 320411,
+            "name": "SS Ginny Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [What a Find!] Ginny.",
+            "icon": 320411,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 321101,
             "name": "SS Kelvin Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [My Duty as a Noble] Kelvin.",
@@ -6239,6 +6287,14 @@
             "name": "SS Ventarbre Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Master Cielmer's Teachings] Ventarbre.",
             "icon": 321702,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 321801,
+            "name": "SS Sargon Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [He'll Lead Us to Tomorrow] Sargon.",
+            "icon": 321801,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -6451,6 +6507,22 @@
             "exchange_cost": 250
         },
         {
+            "id": 323404,
+            "name": "SS Gustaf Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Anima Cleaver] Gustaf.",
+            "icon": 323404,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 323501,
+            "name": "SS Fake Gustave Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Gather Under My Banner!] Fake Gustave.",
+            "icon": 323501,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 323601,
             "name": "SS Misty Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Take the Egg] Misty.",
@@ -6575,6 +6647,14 @@
             "name": "SS Ruby Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Higher! Higher!] Ruby.",
             "icon": 410502,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 410503,
+            "name": "SS Ruby Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [It All Worked Out, Right?] Ruby.",
+            "icon": 410503,
             "selling_price": 100,
             "exchange_cost": 250
         },

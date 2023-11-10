@@ -1531,12 +1531,28 @@
             "priority": 10407
         },
         {
+            "id": 391,
+            "name": "Showdown! False Successor",
+            "start_at": 1699837200,
+            "end_at": 1701392399,
+            "is_daily": 0,
+            "priority": 10411
+        },
+        {
             "id": 392,
             "name": "Holy Wrath! Valdor's Kendo Fierce Training!",
             "start_at": 1695603600,
             "end_at": 1696813199,
             "is_daily": 0,
             "priority": 10401
+        },
+        {
+            "id": 393,
+            "name": "Resist! Fake Gustave's Elite Army",
+            "start_at": 1699837200,
+            "end_at": 1701392399,
+            "is_daily": 0,
+            "priority": 10412
         },
         {
             "id": 395,
@@ -1553,6 +1569,14 @@
             "end_at": 1700182799,
             "is_daily": 0,
             "priority": 10409
+        },
+        {
+            "id": 405,
+            "name": "Seafood Jumble! Mudflat Uproar",
+            "start_at": 1699578000,
+            "end_at": 1701392399,
+            "is_daily": 0,
+            "priority": 10413
         },
         {
             "id": 1000000001,

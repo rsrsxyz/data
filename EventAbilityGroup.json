@@ -4199,6 +4199,66 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 437
+        },
+        {
+            "id": 1000000660,
+            "event_ability_category_id": 1000000411,
+            "name": "Seafood Jumble! Mudflat Uproar I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Seafood Jumble! Mudflat Uproar<br>・Bonus Razor Clams drops in Seafood Jumble! Mudflat Uproar",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 438
+        },
+        {
+            "id": 1000000661,
+            "event_ability_category_id": 1000000412,
+            "name": "Seafood Jumble! Mudflat Uproar II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Seafood Jumble! Mudflat Uproar<br>・Bonus Razor Clams drops in Seafood Jumble! Mudflat Uproar",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 439
+        },
+        {
+            "id": 1000000662,
+            "event_ability_category_id": 1000000413,
+            "name": "Seafood Jumble! Mudflat Uproar III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Seafood Jumble! Mudflat Uproar・Bonus Razor Clams/Prismatic Metal Chunk/Prismatic G. Sword Mold Piece/Prismatic Hammer Mold Piece/Prismatic S. Sword Mold Piece/Prismatic Staff Mold Piece/Prismatic Spear Mold Piece drops in Seafood Jumble! Mudflat Uproar",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 440
+        },
+        {
+            "id": 1000000663,
+            "event_ability_category_id": 1000000414,
+            "name": "Resist! Fake Gustave's Elite Army I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Resist! Fake Gustave's Elite Army",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 441
+        },
+        {
+            "id": 1000000664,
+            "event_ability_category_id": 1000000415,
+            "name": "Resist! Fake Gustave's Elite Army II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Resist! Fake Gustave's Elite Army",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 442
+        },
+        {
+            "id": 1000000665,
+            "event_ability_category_id": 1000000416,
+            "name": "Resist! Fake Gustave's Elite Army III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Resist! Fake Gustave's Elite Army・Bonus Prismatic Metal Chunk/Prismatic G. Sword Mold Piece/Prismatic Hammer Mold Piece/Prismatic S. Sword Mold Piece/Prismatic Staff Mold Piece/Prismatic Spear Mold Piece drops in Resist! Fake Gustave's Elite Army",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 443
         }
     ]
 }

@@ -15501,6 +15501,246 @@
             ],
             "reward_text": "This is an exquisite vessel.",
             "position": 1
+        },
+        {
+            "id": 1000000671,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Ruby",
+            "dot_id": 410500,
+            "illust_id": 410503,
+            "texts": [
+                "It all works out in the end.",
+                "You could do worse than go off the rails once in a while.",
+                "Nothing will happen if you sit around. You just have to try to do something, anything."
+            ],
+            "reward_text": "It all works out in the end.",
+            "position": 8
+        },
+        {
+            "id": 1000000672,
+            "reward_type": 12,
+            "reward_id": 840207,
+            "reward_quantity": 15,
+            "name": "Victor",
+            "dot_id": 220606,
+            "illust_id": 220606,
+            "texts": [
+                "Fear not!",
+                "Go forth!",
+                "If I fall, Gerard is there. He may not look dependable, but he has an iron will."
+            ],
+            "reward_text": "Fear not!",
+            "position": 7
+        },
+        {
+            "id": 1000000673,
+            "reward_type": 8,
+            "reward_id": 810071,
+            "reward_quantity": 25,
+            "name": "Silence",
+            "dot_id": 311300,
+            "illust_id": 311301,
+            "texts": [
+                "...",
+                "......",
+                "..."
+            ],
+            "reward_text": "...",
+            "position": 1
+        },
+        {
+            "id": 1000000674,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Narwhal's Daughter",
+            "dot_id": 229000,
+            "illust_id": 229007,
+            "texts": [
+                "Let's go swimming.",
+                "Quite romancing, swimming with the saba mackerels!",
+                "Pretending to be human is fun, but I feel most comfortable in this form."
+            ],
+            "reward_text": "Let's go swimming.",
+            "position": 3
+        },
+        {
+            "id": 1000000675,
+            "reward_type": 12,
+            "reward_id": 840207,
+            "reward_quantity": 15,
+            "name": "Natalie",
+            "dot_id": 223312,
+            "illust_id": 223312,
+            "texts": [
+                "You're so cute, mudhoppers!",
+                "You're so funny, fiddler crabs!",
+                "Everyone's trying hard to survive, both the eater and the eaten. So, don't pity them."
+            ],
+            "reward_text": "You're so cute, mudhoppers!",
+            "position": 6
+        },
+        {
+            "id": 1000000676,
+            "reward_type": 8,
+            "reward_id": 810071,
+            "reward_quantity": 25,
+            "name": "Sao",
+            "dot_id": 224172,
+            "illust_id": 224172,
+            "texts": [
+                "I just love salt water!",
+                "The sea goes on forever!",
+                "Fighting on land is tough. Still, I'm doing my best for the sake of the Emperor."
+            ],
+            "reward_text": "I just love salt water!",
+            "position": 10
+        },
+        {
+            "id": 1000000677,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Ruby",
+            "dot_id": 410500,
+            "illust_id": 410503,
+            "texts": [
+                "It all works out in the end.",
+                "You could do worse than go off the rails once in a while.",
+                "Nothing will happen if you sit around. You just have to try to do something, anything."
+            ],
+            "reward_text": "It all works out in the end.",
+            "position": 8
+        },
+        {
+            "id": 1000000678,
+            "reward_type": 12,
+            "reward_id": 840207,
+            "reward_quantity": 2,
+            "name": "Victor",
+            "dot_id": 220606,
+            "illust_id": 220606,
+            "texts": [
+                "Fear not!",
+                "Go forth!",
+                "If I fall, Gerard is there. He may not look dependable, but he has an iron will."
+            ],
+            "reward_text": "Fear not!",
+            "position": 7
+        },
+        {
+            "id": 1000000679,
+            "reward_type": 8,
+            "reward_id": 810071,
+            "reward_quantity": 2,
+            "name": "Silence",
+            "dot_id": 311300,
+            "illust_id": 311301,
+            "texts": [
+                "...",
+                "......",
+                "..."
+            ],
+            "reward_text": "...",
+            "position": 1
+        },
+        {
+            "id": 1000000680,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Narwhal's Daughter",
+            "dot_id": 229000,
+            "illust_id": 229007,
+            "texts": [
+                "Let's go swimming.",
+                "Quite romancing, swimming with the saba mackerels!",
+                "Pretending to be human is fun, but I feel most comfortable in this form."
+            ],
+            "reward_text": "Let's go swimming.",
+            "position": 3
+        },
+        {
+            "id": 1000000681,
+            "reward_type": 12,
+            "reward_id": 840207,
+            "reward_quantity": 2,
+            "name": "Natalie",
+            "dot_id": 223312,
+            "illust_id": 223312,
+            "texts": [
+                "You're so cute, mudhoppers!",
+                "You're so funny, fiddler crabs!",
+                "Everyone's trying hard to survive, both the eater and the eaten. So, don't pity them."
+            ],
+            "reward_text": "You're so cute, mudhoppers!",
+            "position": 6
+        },
+        {
+            "id": 1000000682,
+            "reward_type": 8,
+            "reward_id": 810071,
+            "reward_quantity": 2,
+            "name": "Sao",
+            "dot_id": 224172,
+            "illust_id": 224172,
+            "texts": [
+                "I just love salt water!",
+                "The sea goes on forever!",
+                "Fighting on land is tough. Still, I'm doing my best for the sake of the Emperor."
+            ],
+            "reward_text": "I just love salt water!",
+            "position": 10
+        },
+        {
+            "id": 1000000683,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 6,
+            "name": "Fake Gustave",
+            "dot_id": 323500,
+            "illust_id": 323501,
+            "texts": [
+                "To me, Steel Soldiers!",
+                "To me, casters!",
+                "I should've gotten closer to Gustave from the start. Why didn't I?"
+            ],
+            "reward_text": "To me, Steel Soldiers!",
+            "position": 8
+        },
+        {
+            "id": 1000000684,
+            "reward_type": 12,
+            "reward_id": 840207,
+            "reward_quantity": 4,
+            "name": "Gustaf",
+            "dot_id": 323404,
+            "illust_id": 323404,
+            "texts": [
+                "Steel is cool to the touch.",
+                "Fire is warm.",
+                "Even if you have two amazing swords, you swing one at a time. One body, one Anima."
+            ],
+            "reward_text": "Fire is warm.",
+            "position": 7
+        },
+        {
+            "id": 1000000685,
+            "reward_type": 8,
+            "reward_id": 810071,
+            "reward_quantity": 4,
+            "name": "Ginny",
+            "dot_id": 320411,
+            "illust_id": 320411,
+            "texts": [
+                "Training's really important. You come across lots of different Anima!",
+                "Sleep well. The number one enemy of Anima detection is sleep deprivation.",
+                "It's like a smell or a feeling, but not quite. It's hard to put into words."
+            ],
+            "reward_text": "Training's really important. You come across lots of different Anima!",
+            "position": 1
         }
     ]
 }

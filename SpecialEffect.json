@@ -96227,6 +96227,116 @@
             "state_icon": 3001
         },
         {
+            "id": 1801040236,
+            "state_change_id": 900040048,
+            "name": "Elemental Enhance (Blunt)",
+            "flavor_text": "When attacking with blunt attacks, increases damage.",
+            "target_area": 3,
+            "state_vars": [],
+            "text_pop": "Blunt ATK↑",
+            "text_color": "65D2FF",
+            "enchantment_effect_id": "Buff",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [
+                22002
+            ],
+            "state_icon": 3001
+        },
+        {
+            "id": 1801040237,
+            "state_change_id": 900040062,
+            "name": "Nullify Damage (Cold)",
+            "flavor_text": "Nullifies attacks which have cold damage.",
+            "target_area": 10,
+            "state_vars": [
+                0
+            ],
+            "text_pop": "Karatsu Ocean Splash",
+            "text_color": "FFFFFF",
+            "enchantment_effect_id": "bishamon145200144",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [
+                23005
+            ],
+            "state_icon": 3001
+        },
+        {
+            "id": 1801040238,
+            "state_change_id": 900050113,
+            "name": "Odd Turn Start: Recover BP/Attributes Up",
+            "flavor_text": "[On odd turns counting from the start of battle]<br>Recovers own BP (+1).<br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).",
+            "target_area": 1,
+            "state_vars": [
+                1702100308
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1801040239,
+            "state_change_id": 900050113,
+            "name": "Even Turn Start: Recover BP/Attributes Up",
+            "flavor_text": "[On even turns counting from the start of battle]<br>Recovers all surviving allies' BP (+1).<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).",
+            "target_area": 1,
+            "state_vars": [
+                1702100309
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1801040240,
+            "state_change_id": 900050113,
+            "name": "Recover HP on Attack",
+            "flavor_text": "[When attacking]<br>Recovers all surviving allies' HP (very high chance/very small effect).",
+            "target_area": 1,
+            "state_vars": [
+                1702100311
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1801040241,
+            "state_change_id": 900050113,
+            "name": "Recover HP When Attacked",
+            "flavor_text": "[When being attacked]<br>Recovers all surviving allies' HP (very high chance/very small effect).",
+            "target_area": 1,
+            "state_vars": [
+                1702100312
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
             "id": 1801040335,
             "state_change_id": 900040062,
             "name": "Defense Boost (small)",
