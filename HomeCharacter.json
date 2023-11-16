@@ -15741,6 +15741,198 @@
             ],
             "reward_text": "Training's really important. You come across lots of different Anima!",
             "position": 1
+        },
+        {
+            "id": 1000000686,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Labelle",
+            "dot_id": 322706,
+            "illust_id": 322706,
+            "texts": [
+                "The warmth is rather nice.",
+                "Isn't it nice to watch a beautiful sunset?",
+                "Just letting time pass is such a luxury. Can't do it often, you know."
+            ],
+            "reward_text": "Isn't it nice to watch a beautiful sunset?",
+            "position": 8
+        },
+        {
+            "id": 1000000687,
+            "reward_type": 12,
+            "reward_id": 840207,
+            "reward_quantity": 15,
+            "name": "Misty",
+            "dot_id": 323604,
+            "illust_id": 323604,
+            "texts": [
+                "This land has powerful Anima.",
+                "A lot of Anima gather here.",
+                "Strong emotions excite Anima. I can't have people wishing others well."
+            ],
+            "reward_text": "This land has powerful Anima.",
+            "position": 7
+        },
+        {
+            "id": 1000000688,
+            "reward_type": 8,
+            "reward_id": 810071,
+            "reward_quantity": 25,
+            "name": "Johan",
+            "dot_id": 321606,
+            "illust_id": 321606,
+            "texts": [
+                "It's hard to pick where to go.",
+                "It's hard to decide what to do.",
+                "Balloons, festivals, pottery, and the ninja house. The fun I never had starts now."
+            ],
+            "reward_text": "It's hard to pick where to go.",
+            "position": 1
+        },
+        {
+            "id": 1000000689,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Fuyo",
+            "dot_id": 224452,
+            "illust_id": 224452,
+            "texts": [
+                "Ninja house! Let's go!",
+                "Ninja stars! Swish, swoosh!",
+                "Ninjas are so much fun. It's awesome to do the shadow clone thing."
+            ],
+            "reward_text": "Ninja house! Let's go!",
+            "position": 3
+        },
+        {
+            "id": 1000000690,
+            "reward_type": 12,
+            "reward_id": 840207,
+            "reward_quantity": 15,
+            "name": "Elisabeth",
+            "dot_id": 611205,
+            "illust_id": 611205,
+            "texts": [
+                "Ships are nice because they save you from walking.",
+                "Horses are nice because you can see far.",
+                "I don't hate adventuring, it's just draining. It's best when it's easy."
+            ],
+            "reward_text": "Ships are nice because they save you from walking.",
+            "position": 6
+        },
+        {
+            "id": 1000000691,
+            "reward_type": 8,
+            "reward_id": 810071,
+            "reward_quantity": 25,
+            "name": "Sumire",
+            "dot_id": 716104,
+            "illust_id": 716104,
+            "texts": [
+                "Enya, enya!",
+                "Yoisa, yoisa!",
+                "Let's enjoy the festival together! Just don't step in front of the floats!"
+            ],
+            "reward_text": "Enya, enya!",
+            "position": 10
+        },
+        {
+            "id": 1000000692,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Labelle",
+            "dot_id": 322706,
+            "illust_id": 322706,
+            "texts": [
+                "The warmth is rather nice.",
+                "Isn't it nice to watch a beautiful sunset?",
+                "Just letting time pass is such a luxury. Can't do it often, you know."
+            ],
+            "reward_text": "Isn't it nice to watch a beautiful sunset?",
+            "position": 8
+        },
+        {
+            "id": 1000000693,
+            "reward_type": 12,
+            "reward_id": 840207,
+            "reward_quantity": 2,
+            "name": "Misty",
+            "dot_id": 323604,
+            "illust_id": 323604,
+            "texts": [
+                "This land has powerful Anima.",
+                "A lot of Anima gather here.",
+                "Strong emotions excite Anima. I can't have people wishing others well."
+            ],
+            "reward_text": "This land has powerful Anima.",
+            "position": 7
+        },
+        {
+            "id": 1000000694,
+            "reward_type": 8,
+            "reward_id": 810071,
+            "reward_quantity": 2,
+            "name": "Johan",
+            "dot_id": 321606,
+            "illust_id": 321606,
+            "texts": [
+                "It's hard to pick where to go.",
+                "It's hard to decide what to do.",
+                "Balloons, festivals, pottery, and the ninja house. The fun I never had starts now."
+            ],
+            "reward_text": "It's hard to pick where to go.",
+            "position": 1
+        },
+        {
+            "id": 1000000695,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Fuyo",
+            "dot_id": 224452,
+            "illust_id": 224452,
+            "texts": [
+                "Ninja house! Let's go!",
+                "Ninja stars! Swish, swoosh!",
+                "Ninjas are so much fun. It's awesome to do the shadow clone thing."
+            ],
+            "reward_text": "Ninja house! Let's go!",
+            "position": 3
+        },
+        {
+            "id": 1000000696,
+            "reward_type": 12,
+            "reward_id": 840207,
+            "reward_quantity": 2,
+            "name": "Elisabeth",
+            "dot_id": 611205,
+            "illust_id": 611205,
+            "texts": [
+                "Ships are nice because they save you from walking.",
+                "Horses are nice because you can see far.",
+                "I don't hate adventuring, it's just draining. It's best when it's easy."
+            ],
+            "reward_text": "Ships are nice because they save you from walking.",
+            "position": 6
+        },
+        {
+            "id": 1000000697,
+            "reward_type": 8,
+            "reward_id": 810071,
+            "reward_quantity": 2,
+            "name": "Sumire",
+            "dot_id": 716104,
+            "illust_id": 716104,
+            "texts": [
+                "Enya, enya!",
+                "Yoisa, yoisa!",
+                "Let's enjoy the festival together! Just don't step in front of the floats!"
+            ],
+            "reward_text": "Enya, enya!",
+            "position": 10
         }
     ]
 }

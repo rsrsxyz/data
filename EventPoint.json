@@ -1931,6 +1931,16 @@
             "selling_price": 0
         },
         {
+            "id": 800263,
+            "name": "Romancing Festival Medal 130",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800263,
+            "max_quantity": 99999999,
+            "expired_at": 1702601999,
+            "sort_order": 23111660,
+            "selling_price": 0
+        },
+        {
             "id": 800265,
             "name": "SaGa Soul Medal 16",
             "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
@@ -7308,6 +7318,146 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 23110255,
+            "selling_price": 0
+        },
+        {
+            "id": 1100847,
+            "name": "Saga Postcard 2",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100847,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23111602,
+            "selling_price": 0
+        },
+        {
+            "id": 1100848,
+            "name": "Golden Tour Towel",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100848,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23111603,
+            "selling_price": 0
+        },
+        {
+            "id": 1100849,
+            "name": "Saga Souvenir Bag",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100849,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23111604,
+            "selling_price": 0
+        },
+        {
+            "id": 1100850,
+            "name": "Hot Air Balloon",
+            "flavor_text": "The Saga Balloon Fiesta is the biggest hot air balloon competition in Asia, bringing together over 100 balloons from around the world. Great fun for young and old alike.",
+            "icon": 1100850,
+            "max_quantity": 1,
+            "expired_at": 0,
+            "sort_order": 23111605,
+            "selling_price": 0
+        },
+        {
+            "id": 1100851,
+            "name": "Saga Craft Sake",
+            "flavor_text": "Japanese sake is produced in several places in Saga. One of them is Hizen Hamashuku, a.k.a. \"Sakagura Dori\" or Sake Street, which is popular for sake tasting, sweets, and brewery tours.",
+            "icon": 1100851,
+            "max_quantity": 1,
+            "expired_at": 0,
+            "sort_order": 23111606,
+            "selling_price": 0
+        },
+        {
+            "id": 1100852,
+            "name": "Eel Goby",
+            "flavor_text": "A rare fish found only in the Ariake Sea. It's sometimes called the Sea Alien due to its face that features a mouth full of monstrous teeth.",
+            "icon": 1100852,
+            "max_quantity": 1,
+            "expired_at": 0,
+            "sort_order": 23111607,
+            "selling_price": 0
+        },
+        {
+            "id": 1100853,
+            "name": "Takezaki Crab",
+            "flavor_text": "This prized crab is a Saga Prefecture local specialty. They live like kings in the rich environment of the Ariake Sea Mudflat, making them equally rich and delicious.",
+            "icon": 1100853,
+            "max_quantity": 1,
+            "expired_at": 0,
+            "sort_order": 23111608,
+            "selling_price": 0
+        },
+        {
+            "id": 1100854,
+            "name": "Ureshino Tea",
+            "flavor_text": "Japanese tea produced in the town of Ureshino. Characterized by its strong aroma and flavor, it is popular as a tea that allows you to enjoy the transition from one flavor to another.",
+            "icon": 1100854,
+            "max_quantity": 1,
+            "expired_at": 0,
+            "sort_order": 23111609,
+            "selling_price": 0
+        },
+        {
+            "id": 1100855,
+            "name": "Arita Ware",
+            "flavor_text": "Porcelain produced in and around the town of Arita. In the Edo period, it was known as Imari ware or Hizen ware.",
+            "icon": 1100855,
+            "max_quantity": 1,
+            "expired_at": 0,
+            "sort_order": 23111610,
+            "selling_price": 0
+        },
+        {
+            "id": 1100856,
+            "name": "Saga Beef",
+            "flavor_text": "Only A4 and A5 beef produced in Saga Prefecture with a Beef Marbling Score of 7 or higher can be called Saga Beef.",
+            "icon": 1100856,
+            "max_quantity": 1,
+            "expired_at": 0,
+            "sort_order": 23111611,
+            "selling_price": 0
+        },
+        {
+            "id": 1100857,
+            "name": "Karatsu Kunchi Hikiyama",
+            "flavor_text": "A thrilling festival where Hikiyama festival floats run through the streets of the castle town to the calls of \"Enya, enya!\" and \"Yoisa, yoisa!\"",
+            "icon": 1100857,
+            "max_quantity": 1,
+            "expired_at": 0,
+            "sort_order": 23111612,
+            "selling_price": 0
+        },
+        {
+            "id": 1100858,
+            "name": "Q Saba Mackerel",
+            "flavor_text": "Joint research by Karatsu City and Kyushu University created this farm-raised mackerel. The technology of complete aquaculture and thorough feed management allows it to be enjoyed as sashimi.",
+            "icon": 1100858,
+            "max_quantity": 1,
+            "expired_at": 0,
+            "sort_order": 23111613,
+            "selling_price": 0
+        },
+        {
+            "id": 1100859,
+            "name": "Yobuko Squid",
+            "flavor_text": "The town of Yobuko in Karatsu City has become famous in Japan as the birthplace of fresh \"ikizuri\" squid sashimi.",
+            "icon": 1100859,
+            "max_quantity": 1,
+            "expired_at": 0,
+            "sort_order": 23111614,
+            "selling_price": 0
+        },
+        {
+            "id": 1100860,
+            "name": "Saga Golden Tour Trophy",
+            "flavor_text": "A trophy awarded to those who collect all 10 Saga Specialties.",
+            "icon": 1100860,
+            "max_quantity": 1,
+            "expired_at": 0,
+            "sort_order": 23111615,
             "selling_price": 0
         },
         {

@@ -107883,6 +107883,186 @@
             "state_icon": 3001
         },
         {
+            "id": 1802040638,
+            "state_change_id": 900050113,
+            "name": "End of Every 5 Turns: Restore Use Limit",
+            "flavor_text": "[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=125400234>Breezy Footbath</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "target_area": 1,
+            "state_vars": [
+                1702100315
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040639,
+            "state_change_id": 900040035,
+            "name": "Bestest Festival",
+            "flavor_text": "Counters direct enemy attacks with <skill=1110100076>Brusque Slice+</skill> and decreases damage taken.",
+            "target_area": 1,
+            "state_vars": [
+                1110100076,
+                65
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040640,
+            "state_change_id": 900040035,
+            "name": "Bestest Festival",
+            "flavor_text": "Counters direct enemy attacks with <skill=1110100077>Hissatsu: Sakura Chaos</skill> (medium chance) and decreases damage taken.",
+            "target_area": 1,
+            "state_vars": [
+                1110100077,
+                65
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040641,
+            "state_change_id": 900050113,
+            "name": "Defense Boost on Attack",
+            "flavor_text": "When landing an attack, grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).",
+            "target_area": 1,
+            "state_vars": [
+                1702100319
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040642,
+            "state_change_id": 900040062,
+            "name": "Defense Boost (small)",
+            "flavor_text": "Decreases damage taken.",
+            "target_area": 3,
+            "state_vars": [
+                90
+            ],
+            "text_pop": "DEF↑",
+            "text_color": "65D2FF",
+            "enchantment_effect_id": "Buff",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                4
+            ],
+            "triggering_effect_condition_ids": [
+                14
+            ],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040643,
+            "state_change_id": 900050113,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=1110400031>Competitive Roar</skill> will be activated (very high chance).",
+            "target_area": 1,
+            "state_vars": [
+                1702100320
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040644,
+            "state_change_id": 900050073,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "When landing an attack with either skill 1, skill 2, or skill 3, Competitive Roar will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1110400031
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                24509,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040645,
+            "state_change_id": 900050073,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "When landing an inherited skill, Competitive Roar will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1110400031
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                31,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040646,
+            "state_change_id": 900050073,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "When landing a normal attack, Competitive Roar will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1110400031
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [
+                30,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
             "id": 1808010002,
             "state_change_id": 900010016,
             "name": "INT Up",

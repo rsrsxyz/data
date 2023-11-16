@@ -13523,7 +13523,7 @@
         {
             "id": 702101922,
             "name": "Onsen Convalescence",
-            "flavor_text": "[When attacking]<br>Recovers all surviving allies' HP (very small effect).<br><br>[After activating Multishot: Tara Water]<br>Restores the use limit of Breezy Footbath by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "flavor_text": "[When attacking]<br>Recovers all surviving allies' HP (very small effect).<br><br>[After activating Multishot: Tara Water]<br>Restores the use limit of <skill=125400234>Breezy Footbath</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042207,
@@ -54540,6 +54540,111 @@
                 1802040496,
                 1802040199,
                 1802040200
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100314,
+            "name": "Relaxed & Happy",
+            "flavor_text": "[End of turn]<br>Recovers own HP (very small effect).<br>Recovers own BP (+2).<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=125400234>Breezy Footbath</skill> by 1 (Number of uses will not exceed the use limit at start of battle).<br>Recovers own BP (+3).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041224,
+                802041315,
+                1802040638,
+                1802040636
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100315,
+            "name": "End of Every 5 Turns: Restore Use Limit",
+            "flavor_text": "[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=125400234>Breezy Footbath</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040533
+            ],
+            "ability_when": 4,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100316,
+            "name": "Bestest Festival",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>[Start of turn]<br>Increases own WIL (large effect).<br><br>[When being directly attacked]<br>Reduces damage and counterattacks with <skill=1110100076>Brusque Slice+</skill>.<br>(Activates using skill Rank 1).<br>Reduces damage and counterattacks with <skill=1110100077>Hissatsu: Sakura Chaos</skill> (medium chance).<br>(Activates using skill Rank 1).<br><br>[When attacked and HP reaches 0]<br>Returns to 50% of Max HP (Max times: 1 time per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040520,
+                802042159,
+                1802040639,
+                1802040640,
+                802042125
+            ],
+            "ability_when": 1,
+            "icon": 4005,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100317,
+            "name": "Lady's Cheer",
+            "flavor_text": "Increases attack damage for all allies (medium effect), and reduces damage taken for all allies (medium effect).<br><br>[Start of turn]<br>Recovers own BP (+2).<br>Has oneself enter a <special_effect=800000074>stealth</special_effect> stance (medium effect/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041514,
+                802041515,
+                802041830,
+                802042222
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100318,
+            "name": "In One Go",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=1110400031>Competitive Roar</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041252,
+                1802040641,
+                1802040643
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100319,
+            "name": "Defense Boost on Attack",
+            "flavor_text": "When landing an attack, grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040642
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100320,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=1110400031>Competitive Roar</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040644,
+                1802040645,
+                1802040646
             ],
             "ability_when": 6,
             "icon": 4010,
