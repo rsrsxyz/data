@@ -40483,6 +40483,87 @@
                 1000097690,
                 1000097691
             ]
+        },
+        {
+            "id": 1000002778,
+            "ribbon": "Gold Piece Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097657
+            ]
+        },
+        {
+            "id": 1000002779,
+            "ribbon": "Promotion Scroll Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097658
+            ]
+        },
+        {
+            "id": 1000002780,
+            "ribbon": "Testament of the Mighty Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097659
+            ]
+        },
+        {
+            "id": 1000002781,
+            "ribbon": "Forging Material/Aurum Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097544,
+                1000097544,
+                1000097544,
+                1000097544,
+                1000097544,
+                1000097544,
+                1000097544,
+                1000097544,
+                1000097544,
+                1000097549,
+                1000097547,
+                1000097643,
+                1000097643,
+                1000097579,
+                1000097579,
+                1000097568,
+                1000097644,
+                1000097545,
+                1000097551
+            ]
+        },
+        {
+            "id": 1000002782,
+            "ribbon": "Forging Material/Aurum Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097692,
+                1000097693,
+                1000097694,
+                1000097695,
+                1000097696,
+                1000097697,
+                1000097698,
+                1000097699,
+                1000097700
+            ]
         }
     ]
 }

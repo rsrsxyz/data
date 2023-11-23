@@ -10420,7 +10420,7 @@
         {
             "id": 702101648,
             "name": "United Hope Ⅱ",
-            "flavor_text": "When all allies are still surviving, reduces damage taken for all allies (medium effect).<br>When attacked and HP reaches 0, recovers all surviving allies' HP (medium effect).",
+            "flavor_text": "When all allies are still surviving, reduces damage taken for all allies (medium effect).<br><br>When attacked and HP reaches 0, recovers all surviving allies' HP (medium effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041724,
@@ -54645,6 +54645,200 @@
                 1802040644,
                 1802040645,
                 1802040646
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100321,
+            "name": "Leadership (DEX/WIL)",
+            "flavor_text": "[Start of turn]<br>Increases all surviving allies' DEX/WIL (medium effect).<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040647,
+                802011177,
+                802040754
+            ],
+            "ability_when": 3,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100322,
+            "name": "Honest Conviction",
+            "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>[End of turn]<br>Recovers own HP (very small effect), cures oneself from all status ailments, and removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.<br><br>[When attacked and HP reaches 0]<br>Returns to 50% of Max HP (Max times: 1 time per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040448,
+                802041224,
+                802041107,
+                802041188,
+                802042125
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100323,
+            "name": "Moving Forward",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>[Start of round]<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).<br><br>[When landing an attack]<br>Increases all surviving allies' STR/DEX/INT (small effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110700271>Gritfall</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040520,
+                1802040648,
+                802041999
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100324,
+            "name": "Round Start: All Attributes Up",
+            "flavor_text": "[Start of round]<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802011172,
+                802011173,
+                802011174,
+                802011175,
+                802011176,
+                802011177,
+                802011178,
+                802011179
+            ],
+            "ability_when": 2,
+            "icon": 4001,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100325,
+            "name": "New Encounters",
+            "flavor_text": "[When attacking]<br>Recovers own BP (+1).<br><br>[When attacking with skill attacks]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/3 turn(s)).<br>Increases all surviving allies' END (medium effect).<br><br>[When attacking with spell attacks]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/3 turn(s)).<br>Increases all surviving allies' WIL (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040649,
+                1802040650,
+                1802040651
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100326,
+            "name": "Recover BP on Attack",
+            "flavor_text": "[When attacking]<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040652
+            ],
+            "ability_when": 6,
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100327,
+            "name": "Attack Boost/END Up on Skill Atk",
+            "flavor_text": "[When attacking with skill attacks]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/3 turn(s)).<br>Increases all surviving allies' END (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040653,
+                1802040655
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100328,
+            "name": "Defense Boost/WIL Up on Spell Atk",
+            "flavor_text": "[When attacking with spell attacks]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/3 turn(s)).<br>Increases all surviving allies' WIL (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040654,
+                1802040656
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100329,
+            "name": "Vampiric Instinct",
+            "flavor_text": "[Start of turn]<br>Has oneself enter a <special_effect=800000074>stealth</special_effect> stance (medium effect/1 turn(s)).<br><br>[When another surviving ally is being attacked*]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/2 turn(s)).<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br>*Number of activation will not be affected even if multiple allies are being attacked.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042222,
+                802042276,
+                1802040657
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100330,
+            "name": "Defense Boost When Ally Is Attacked",
+            "flavor_text": "[When another surviving ally is being attacked]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040658
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100331,
+            "name": "Bloody Banquet",
+            "flavor_text": "[When attacking]<br>Recovers own BP (+1).<br><br>[When attacking with Normal attacks]<br>Activates <skill=125600313>Withering+</skill> and <skill=110500442>Black Pearl</skill> in that order.<br>(Activates using skill/spell Rank 1).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=1125600041>Euthanize+</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040649,
+                1802040659,
+                1802040660
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100332,
+            "name": "Follow-Up on Normal Atk",
+            "flavor_text": "[When attacking with Normal attacks]<br>Activates <skill=125600313>Withering+</skill> and <skill=110500442>Black Pearl</skill> in that order.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042278
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100333,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=1125600041>Euthanize+</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040661,
+                1802040662,
+                1802040663
             ],
             "ability_when": 6,
             "icon": 4010,

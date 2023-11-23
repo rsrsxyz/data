@@ -5354,6 +5354,243 @@
             "quest_clear_bundle": 0
         },
         {
+            "id": 951640010,
+            "name": "3.5 Anniv.! Countdown Quest: 3 Days to Go",
+            "sort_order": 1,
+            "growth_count": 1,
+            "clear_limit": 1,
+            "banner": 901221,
+            "stamina": 0,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 200
+                },
+                {
+                    "type": 32,
+                    "id": 950001,
+                    "quantity": 30
+                },
+                {
+                    "type": 4,
+                    "id": 303001,
+                    "quantity": 3
+                },
+                {
+                    "type": 4,
+                    "id": 304001,
+                    "quantity": 4
+                },
+                {
+                    "type": 4,
+                    "id": 305001,
+                    "quantity": 3
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 500
+                },
+                {
+                    "type": 12,
+                    "id": 840003,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 10
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 30
+                },
+                {
+                    "type": 8,
+                    "id": 810003,
+                    "quantity": 50
+                },
+                {
+                    "type": 1,
+                    "id": 100003,
+                    "quantity": 500000
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "area_id": 1640,
+            "battle_id": 200100031,
+            "prev_quest_ids": [],
+            "is_required_for_area_clear": 1,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "quest_clear_bundle": 0
+        },
+        {
+            "id": 951641010,
+            "name": "3.5 Anniv.! Countdown Quest: 2 Days to Go",
+            "sort_order": 1,
+            "growth_count": 1,
+            "clear_limit": 1,
+            "banner": 901222,
+            "stamina": 0,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 200
+                },
+                {
+                    "type": 32,
+                    "id": 950001,
+                    "quantity": 30
+                },
+                {
+                    "type": 4,
+                    "id": 303001,
+                    "quantity": 3
+                },
+                {
+                    "type": 4,
+                    "id": 304001,
+                    "quantity": 4
+                },
+                {
+                    "type": 4,
+                    "id": 305001,
+                    "quantity": 3
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 500
+                },
+                {
+                    "type": 12,
+                    "id": 840003,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 10
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 30
+                },
+                {
+                    "type": 8,
+                    "id": 810003,
+                    "quantity": 50
+                },
+                {
+                    "type": 1,
+                    "id": 100003,
+                    "quantity": 500000
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "area_id": 1641,
+            "battle_id": 200100041,
+            "prev_quest_ids": [],
+            "is_required_for_area_clear": 1,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "quest_clear_bundle": 0
+        },
+        {
+            "id": 951642010,
+            "name": "3.5 Anniv.! Countdown Quest: 1 Day to Go",
+            "sort_order": 1,
+            "growth_count": 1,
+            "clear_limit": 1,
+            "banner": 901223,
+            "stamina": 0,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 200
+                },
+                {
+                    "type": 32,
+                    "id": 950001,
+                    "quantity": 30
+                },
+                {
+                    "type": 4,
+                    "id": 303001,
+                    "quantity": 3
+                },
+                {
+                    "type": 4,
+                    "id": 304001,
+                    "quantity": 4
+                },
+                {
+                    "type": 4,
+                    "id": 305001,
+                    "quantity": 3
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 500
+                },
+                {
+                    "type": 12,
+                    "id": 840003,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 10
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 30
+                },
+                {
+                    "type": 8,
+                    "id": 810003,
+                    "quantity": 50
+                },
+                {
+                    "type": 1,
+                    "id": 100003,
+                    "quantity": 500000
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "area_id": 1642,
+            "battle_id": 200100051,
+            "prev_quest_ids": [],
+            "is_required_for_area_clear": 1,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "quest_clear_bundle": 0
+        },
+        {
             "id": 981070010,
             "name": "1. Intensive Course - Advanced (Slash Rec.)",
             "sort_order": 1,

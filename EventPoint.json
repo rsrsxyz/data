@@ -1891,6 +1891,16 @@
             "selling_price": 0
         },
         {
+            "id": 800255,
+            "name": "Romancing Festival Medal 132",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800255,
+            "max_quantity": 99999999,
+            "expired_at": 1703206799,
+            "sort_order": 23112365,
+            "selling_price": 0
+        },
+        {
             "id": 800256,
             "name": "Romancing Festival Medal 129",
             "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -1948,6 +1958,16 @@
             "max_quantity": 99999999,
             "expired_at": 1701997199,
             "sort_order": 23110955,
+            "selling_price": 0
+        },
+        {
+            "id": 800267,
+            "name": "Romancing Festival Medal 131",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800267,
+            "max_quantity": 99999999,
+            "expired_at": 1703206799,
+            "sort_order": 23112360,
             "selling_price": 0
         },
         {
@@ -7228,6 +7248,16 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 23101944,
+            "selling_price": 0
+        },
+        {
+            "id": 1100830,
+            "name": "Shard of Memories",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100830,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23112350,
             "selling_price": 0
         },
         {

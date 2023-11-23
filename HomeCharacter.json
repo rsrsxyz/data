@@ -15933,6 +15933,214 @@
             ],
             "reward_text": "Enya, enya!",
             "position": 10
+        },
+        {
+            "id": 1000000698,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Liam",
+            "dot_id": 711605,
+            "illust_id": 711605,
+            "texts": [
+                "I want to be able to do more to help.",
+                "I now have an idea of what the others are doing.",
+                "It's fun to get it moving little by little--addictive, even."
+            ],
+            "reward_text": "I want to be able to do more to help.",
+            "position": 8
+        },
+        {
+            "id": 1000000699,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 30,
+            "name": "Anya",
+            "dot_id": 711704,
+            "illust_id": 711704,
+            "texts": [
+                "I've grown fond of meeting new people.",
+                "Guess my world's gotten a little bigger.",
+                "Stepping out is still scary, but now I can take the first step. I know I'm not alone."
+            ],
+            "reward_text": "I've grown fond of meeting new people.",
+            "position": 7
+        },
+        {
+            "id": 1000000700,
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 50,
+            "name": "Darius",
+            "dot_id": 711904,
+            "illust_id": 711904,
+            "texts": [
+                "Heads!",
+                "Tails!",
+                "I'm a gambler, and I'm damn good at it. I should go and make a killing!"
+            ],
+            "reward_text": "Heads!",
+            "position": 1
+        },
+        {
+            "id": 1000000701,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Candy",
+            "dot_id": 711805,
+            "illust_id": 711805,
+            "texts": [
+                "Mewt kyuee!",
+                "Mee mew kyu shee!",
+                "Mew Glabish new bosshu, myan mee shoon shoon shmewn. Mew kyu mew!"
+            ],
+            "reward_text": "Mee mew kyu shee!",
+            "position": 3
+        },
+        {
+            "id": 1000000702,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Liam",
+            "dot_id": 711605,
+            "illust_id": 711605,
+            "texts": [
+                "I want to be able to do more to help.",
+                "I now have an idea of what the others are doing.",
+                "It's fun to get it moving little by little--addictive, even."
+            ],
+            "reward_text": "I want to be able to do more to help.",
+            "position": 8
+        },
+        {
+            "id": 1000000703,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 4,
+            "name": "Anya",
+            "dot_id": 711704,
+            "illust_id": 711704,
+            "texts": [
+                "I've grown fond of meeting new people.",
+                "Guess my world's gotten a little bigger.",
+                "Stepping out is still scary, but now I can take the first step. I know I'm not alone."
+            ],
+            "reward_text": "I've grown fond of meeting new people.",
+            "position": 7
+        },
+        {
+            "id": 1000000704,
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 4,
+            "name": "Darius",
+            "dot_id": 711904,
+            "illust_id": 711904,
+            "texts": [
+                "Heads!",
+                "Tails!",
+                "I'm a gambler, and I'm damn good at it. I should go and make a killing!"
+            ],
+            "reward_text": "Heads!",
+            "position": 1
+        },
+        {
+            "id": 1000000705,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Candy",
+            "dot_id": 711805,
+            "illust_id": 711805,
+            "texts": [
+                "Mewt kyuee!",
+                "Mee mew kyu shee!",
+                "Mew Glabish new bosshu, myan mee shoon shoon shmewn. Mew kyu mew!"
+            ],
+            "reward_text": "Mee mew kyu shee!",
+            "position": 3
+        },
+        {
+            "id": 1000000706,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Julian",
+            "dot_id": 230107,
+            "illust_id": 230107,
+            "texts": [
+                "Do I look sharp or what?",
+                "Why am I so cool?",
+                "I get that you want to get wild at parties, but you gotta have a sense of composure here."
+            ],
+            "reward_text": "Why am I so cool?",
+            "position": 8
+        },
+        {
+            "id": 1000000707,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 4,
+            "name": "Thomas",
+            "dot_id": 230205,
+            "illust_id": 230205,
+            "texts": [
+                "Let's dance.",
+                "Follow my lead.",
+                "A lot can happen in a long time. I'm happy to help behind the scenes. I'm okay with that."
+            ],
+            "reward_text": "Let's dance.",
+            "position": 7
+        },
+        {
+            "id": 1000000708,
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 2,
+            "name": "Ellen",
+            "dot_id": 230613,
+            "illust_id": 230613,
+            "texts": [
+                "No worries. I'm fine.",
+                "It's been so long! How are you doing?",
+                "I'm struggling with what to do now. The peppy big sister thing is exhausting."
+            ],
+            "reward_text": "No worries. I'm fine.",
+            "position": 1
+        },
+        {
+            "id": 1000000709,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Sarah",
+            "dot_id": 230507,
+            "illust_id": 230507,
+            "texts": [
+                "I'll try to dance.",
+                "Is my dancing any good?",
+                "I wonder if our efforts helped a little. I'm glad we didn't give up during that fight."
+            ],
+            "reward_text": "Is my dancing any good?",
+            "position": 3
+        },
+        {
+            "id": 1000000710,
+            "reward_type": 8,
+            "reward_id": 810003,
+            "reward_quantity": 2,
+            "name": "Leonid",
+            "dot_id": 233208,
+            "illust_id": 233208,
+            "texts": [
+                "A gathering of fresh blood.",
+                "I cannot wait to see what happens.",
+                "We immortals are not prone to mood swings, but we're no strangers to excitement."
+            ],
+            "reward_text": "I cannot wait to see what happens.",
+            "position": 6
         }
     ]
 }

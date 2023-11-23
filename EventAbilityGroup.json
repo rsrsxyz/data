@@ -4289,6 +4289,36 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 446
+        },
+        {
+            "id": 1000000669,
+            "event_ability_category_id": 1000000420,
+            "name": "Liam Arc Memory Panels I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Main quests and Memories of Encounters: Liam Arc Memory Panels<br>・Bonus Shard of Memories drops in Memories of Encounters: Liam Arc Memory Panels",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 447
+        },
+        {
+            "id": 1000000670,
+            "event_ability_category_id": 1000000421,
+            "name": "Liam Arc Memory Panels II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Memories of Encounters: Liam Arc Memory Panels<br>・Bonus Shard of Memories drops in Memories of Encounters: Liam Arc Memory Panels",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 448
+        },
+        {
+            "id": 1000000671,
+            "event_ability_category_id": 1000000422,
+            "name": "Liam Arc Memory Panels III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Memories of Encounters: Liam Arc Memory Panels・Bonus Shard of Memories/Prismatic Metal Chunk/Prismatic Sword/Gun/S. Sword/Spear/Gauntlets/Axe/Bow Mold Piece drops in Memories of Encounters: Liam Arc Memory Panels",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 449
         }
     ]
 }

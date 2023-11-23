@@ -108063,6 +108063,334 @@
             "state_icon": 3001
         },
         {
+            "id": 1802040647,
+            "state_change_id": 900010014,
+            "name": "DEX Up",
+            "flavor_text": "Increases DEX.",
+            "target_area": 3,
+            "state_vars": [],
+            "text_pop": "DEX/WIL↑",
+            "text_color": "65D2FF",
+            "enchantment_effect_id": "Buff",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 2001
+        },
+        {
+            "id": 1802040648,
+            "state_change_id": 900050113,
+            "name": "Round Start: All Attributes Up",
+            "flavor_text": "[Start of round]<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).",
+            "target_area": 1,
+            "state_vars": [
+                1702100324
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040649,
+            "state_change_id": 900050113,
+            "name": "Recover BP on Attack",
+            "flavor_text": "[When attacking]<br>Recovers own BP (+1).",
+            "target_area": 1,
+            "state_vars": [
+                1702100326
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040650,
+            "state_change_id": 900050113,
+            "name": "Attack Boost/END Up on Skill Atk",
+            "flavor_text": "[When attacking with skill attacks]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/3 turn(s)).<br>Increases all surviving allies' END (medium effect).",
+            "target_area": 1,
+            "state_vars": [
+                1702100327
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040651,
+            "state_change_id": 900050113,
+            "name": "Defense Boost/WIL Up on Spell Atk",
+            "flavor_text": "[When attacking with spell attacks]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/3 turn(s)).<br>Increases all surviving allies' WIL (medium effect).",
+            "target_area": 1,
+            "state_vars": [
+                1702100328
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040652,
+            "state_change_id": 900050055,
+            "name": "BP Recovery",
+            "flavor_text": "Recovers own BP.",
+            "target_area": 1,
+            "state_vars": [
+                1
+            ],
+            "text_pop": "BP+",
+            "text_color": "5BFF24",
+            "enchantment_effect_id": "Heal",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                24408
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040653,
+            "state_change_id": 900040048,
+            "name": "Attack Boost (large)",
+            "flavor_text": "Increases damage dealt to enemies.",
+            "target_area": 1,
+            "state_vars": [],
+            "text_pop": "ATK↑",
+            "text_color": "65D2FF",
+            "enchantment_effect_id": "Buff",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                24409,
+                24408
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040654,
+            "state_change_id": 900040062,
+            "name": "Defense Boost (medium)",
+            "flavor_text": "Decreases damage taken.",
+            "target_area": 1,
+            "state_vars": [
+                80
+            ],
+            "text_pop": "DEF↑",
+            "text_color": "65D2FF",
+            "enchantment_effect_id": "Buff",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                24410,
+                24408
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040655,
+            "state_change_id": 900010013,
+            "name": "END Up",
+            "flavor_text": "Increases END.",
+            "target_area": 3,
+            "state_vars": [],
+            "text_pop": "END↑",
+            "text_color": "65D2FF",
+            "enchantment_effect_id": "Buff",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                24409,
+                24408
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 2001
+        },
+        {
+            "id": 1802040656,
+            "state_change_id": 900010017,
+            "name": "WIL Up",
+            "flavor_text": "Increases WIL.",
+            "target_area": 3,
+            "state_vars": [],
+            "text_pop": "WIL↑",
+            "text_color": "65D2FF",
+            "enchantment_effect_id": "Buff",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                24410,
+                24408
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 2001
+        },
+        {
+            "id": 1802040657,
+            "state_change_id": 900050113,
+            "name": "Defense Boost When Ally Is Attacked",
+            "flavor_text": "[When another surviving ally is being attacked*]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br>*Number of activation will not be affected even if multiple allies are being attacked.",
+            "target_area": 1,
+            "state_vars": [
+                1702100330
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040658,
+            "state_change_id": 900040062,
+            "name": "Defense Boost (medium)",
+            "flavor_text": "Decreases damage taken.",
+            "target_area": 1,
+            "state_vars": [
+                80
+            ],
+            "text_pop": "DEF↑",
+            "text_color": "65D2FF",
+            "enchantment_effect_id": "Buff",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                17
+            ],
+            "triggering_effect_condition_ids": [
+                14
+            ],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040659,
+            "state_change_id": 900050113,
+            "name": "Follow-Up on Normal Atk",
+            "flavor_text": "[When attacking with Normal attacks]<br>Activates <skill=125600313>Withering+</skill> and <skill=110500442>Black Pearl</skill> in that order.",
+            "target_area": 1,
+            "state_vars": [
+                1702100332
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040660,
+            "state_change_id": 900050113,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=1125600041>Euthanize+</skill> will be activated (very high chance).",
+            "target_area": 1,
+            "state_vars": [
+                1702100333
+            ],
+            "text_pop": "",
+            "text_color": "",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 0,
+            "applying_effect_condition_ids": [],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3003
+        },
+        {
+            "id": 1802040661,
+            "state_change_id": 900050073,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "When landing an attack with either skill 1, skill 2, or skill 3, Euthanize+ will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1125600041
+            ],
+            "text_pop": "Bloody Banquet",
+            "text_color": "FFFFFF",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                24509,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040662,
+            "state_change_id": 900050073,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "When landing an inherited skill, Euthanize+ will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1125600041
+            ],
+            "text_pop": "Bloody Banquet",
+            "text_color": "FFFFFF",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                31,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
+            "id": 1802040663,
+            "state_change_id": 900050073,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "When landing a normal attack, Euthanize+ will be activated.",
+            "target_area": 1,
+            "state_vars": [
+                1125600041
+            ],
+            "text_pop": "Bloody Banquet",
+            "text_color": "FFFFFF",
+            "enchantment_effect_id": "",
+            "ignition_effect_id": "",
+            "display_flag": 1,
+            "applying_effect_condition_ids": [
+                30,
+                4,
+                24600
+            ],
+            "triggering_effect_condition_ids": [],
+            "state_icon": 3001
+        },
+        {
             "id": 1808010002,
             "state_change_id": 900010016,
             "name": "INT Up",
