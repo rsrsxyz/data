@@ -25,7 +25,7 @@
             "flavor_text": "A ticket for exploring the Forest of Mystery.",
             "icon": 821001,
             "max_quantity": 9999,
-            "expired_at": 0,
+            "expired_at": 1685588399,
             "sort_order": 986
         },
         {
@@ -259,7 +259,7 @@
             "flavor_text": "Use to attempt Cave of Holy Stones (Holy Stone)/Cave of Holy Stones (Holy Stone Shard). *Home>Sub Quests>Event>Excavation",
             "icon": 821025,
             "max_quantity": 99999,
-            "expired_at": 0,
+            "expired_at": 1685588399,
             "sort_order": 1090
         },
         {
@@ -835,7 +835,7 @@
             "flavor_text": "Use to attempt Cave of Holy Stones (Gold). *Home>Sub Quests>Event>Excavation",
             "icon": 821095,
             "max_quantity": 9999,
-            "expired_at": 0,
+            "expired_at": 1685588399,
             "sort_order": 3132
         },
         {
@@ -1141,7 +1141,7 @@
             "flavor_text": "Use to attempt Get diggin'! Mining Caves.",
             "icon": 821154,
             "max_quantity": 99999999,
-            "expired_at": 0,
+            "expired_at": 1685588399,
             "sort_order": 22022460
         },
         {
@@ -1186,7 +1186,7 @@
             "flavor_text": "Use to attempt Cave of Holy Stones (Changing Ore: Weapon). *Home>Sub Quests>Event>Excavation",
             "icon": 821160,
             "max_quantity": 99999,
-            "expired_at": 0,
+            "expired_at": 1685588399,
             "sort_order": 22031115
         },
         {
@@ -1413,6 +1413,42 @@
             "max_quantity": 99999,
             "expired_at": 1698886799,
             "sort_order": 23100510
+        },
+        {
+            "id": 821196,
+            "name": "Collecting Quest Ticket",
+            "flavor_text": "Use to attempt quests in Cave of Collecting Quests.",
+            "icon": 821196,
+            "max_quantity": 99999,
+            "expired_at": 0,
+            "sort_order": 23060120
+        },
+        {
+            "id": 821198,
+            "name": "One-Hit Dojo Ticket",
+            "flavor_text": "Use to attempt One-Hit Dojo! *Home>Free Quests>General Records",
+            "icon": 821181,
+            "max_quantity": 99999,
+            "expired_at": 0,
+            "sort_order": 23060126
+        },
+        {
+            "id": 821199,
+            "name": "[SS] 3.5 Anniv. Appreciation Ticket [Ltd. Time]",
+            "flavor_text": "Use to attempt Thank You Gift (Gold). (Until [1703033999] <tz>)",
+            "icon": 821199,
+            "max_quantity": 99999,
+            "expired_at": 1703033999,
+            "sort_order": 23120110
+        },
+        {
+            "id": 821200,
+            "name": "3.5 Anniv. Appreciation Ticket [Ltd. Time]",
+            "flavor_text": "Use to attempt Thank You Gift. (Until [1703033999] <tz>)",
+            "icon": 821200,
+            "max_quantity": 99999,
+            "expired_at": 1703033999,
+            "sort_order": 23120105
         },
         {
             "id": 1000821001,

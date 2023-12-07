@@ -16141,6 +16141,422 @@
             ],
             "reward_text": "I cannot wait to see what happens.",
             "position": 6
+        },
+        {
+            "id": 1000000711,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Jo",
+            "dot_id": 711112,
+            "illust_id": 711112,
+            "texts": [
+                "I'm back here again.",
+                "It smells nostalgic here.",
+                "I'm not alone anymore. There's Mom, Polka, Bert, Genny, and everyone else!"
+            ],
+            "reward_text": "I'm back here again.",
+            "position": 8
+        },
+        {
+            "id": 1000000712,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 15,
+            "name": "Igomahl",
+            "dot_id": 711503,
+            "illust_id": 711503,
+            "texts": [
+                "Who is the protagonist this time?",
+                "They could be the ones who die...",
+                "There is no such thing as a plot. I know that better than anyone."
+            ],
+            "reward_text": "Who is the protagonist this time?",
+            "position": 7
+        },
+        {
+            "id": 1000000713,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 15,
+            "name": "Barthelemy",
+            "dot_id": 715306,
+            "illust_id": 715306,
+            "texts": [
+                "Ladies and gentlemen, thank you for waiting!",
+                "No need to rush. We've plenty of seats available.",
+                "I can't believe this is happening. It's Prakity Prakian's biggest show ever!"
+            ],
+            "reward_text": "Ladies and gentlemen, thank you for waiting!",
+            "position": 1
+        },
+        {
+            "id": 1000000714,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 25,
+            "name": "Polka Lynn Wood",
+            "dot_id": 710113,
+            "illust_id": 710113,
+            "texts": [
+                "I'm the lead, right?",
+                "I'm the protagonist!",
+                "Maybe I'm being fooled again. Like, I'm just gonna get beaten up by Brownie?"
+            ],
+            "reward_text": "I'm the lead, right?",
+            "position": 2
+        },
+        {
+            "id": 1000000715,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Liz Lynn Wood",
+            "dot_id": 710211,
+            "illust_id": 710211,
+            "texts": [
+                "I'm Polka's sister, Liz.",
+                "I'm Liz. Jo and Bert are my children.",
+                "A sister, a mother... What role do I play next? The possibilities are endless."
+            ],
+            "reward_text": "I'm Polka's sister, Liz.",
+            "position": 3
+        },
+        {
+            "id": 1000000716,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 15,
+            "name": "Faerie (Brownie)",
+            "dot_id": 710507,
+            "illust_id": 710507,
+            "texts": [
+                "Faeries are just the cutest.",
+                "Is this really me?",
+                "I'm worried that I'm being put in the wrong role. I can't use my charm on some kids!"
+            ],
+            "reward_text": "Faeries are just the cutest.",
+            "position": 6
+        },
+        {
+            "id": 1000000717,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 25,
+            "name": "Shirei",
+            "dot_id": 712700,
+            "illust_id": 712702,
+            "texts": [
+                "If you're going to fight, at least do it where I can see you!",
+                "I have many songs to sing. That's what makes me a minstrel!",
+                "Life is short. Doing everything you want to do will keep you busy. "
+            ],
+            "reward_text": "If you're going to fight, at least do it where I can see you!",
+            "position": 10
+        },
+        {
+            "id": 1000000718,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Jo",
+            "dot_id": 711112,
+            "illust_id": 711112,
+            "texts": [
+                "I'm back here again.",
+                "It smells nostalgic here.",
+                "I'm not alone anymore. There's Mom, Polka, Bert, Genny, and everyone else!"
+            ],
+            "reward_text": "I'm back here again.",
+            "position": 8
+        },
+        {
+            "id": 1000000719,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 2,
+            "name": "Igomahl",
+            "dot_id": 711503,
+            "illust_id": 711503,
+            "texts": [
+                "Who is the protagonist this time?",
+                "They could be the ones who die...",
+                "There is no such thing as a plot. I know that better than anyone."
+            ],
+            "reward_text": "Who is the protagonist this time?",
+            "position": 7
+        },
+        {
+            "id": 1000000720,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 2,
+            "name": "Barthelemy",
+            "dot_id": 715306,
+            "illust_id": 715306,
+            "texts": [
+                "Ladies and gentlemen, thank you for waiting!",
+                "No need to rush. We've plenty of seats available.",
+                "I can't believe this is happening. It's Prakity Prakian's biggest show ever!"
+            ],
+            "reward_text": "Ladies and gentlemen, thank you for waiting!",
+            "position": 1
+        },
+        {
+            "id": 1000000721,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 2,
+            "name": "Polka Lynn Wood",
+            "dot_id": 710113,
+            "illust_id": 710113,
+            "texts": [
+                "I'm the lead, right?",
+                "I'm the protagonist!",
+                "Maybe I'm being fooled again. Like, I'm just gonna get beaten up by Brownie?"
+            ],
+            "reward_text": "I'm the lead, right?",
+            "position": 2
+        },
+        {
+            "id": 1000000722,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Liz Lynn Wood",
+            "dot_id": 710211,
+            "illust_id": 710211,
+            "texts": [
+                "I'm Polka's sister, Liz.",
+                "I'm Liz. Jo and Bert are my children.",
+                "A sister, a mother... What role do I play next? The possibilities are endless."
+            ],
+            "reward_text": "I'm Polka's sister, Liz.",
+            "position": 3
+        },
+        {
+            "id": 1000000723,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 2,
+            "name": "Faerie (Brownie)",
+            "dot_id": 710507,
+            "illust_id": 710507,
+            "texts": [
+                "Faeries are just the cutest.",
+                "Is this really me?",
+                "I'm worried that I'm being put in the wrong role. I can't use my charm on some kids!"
+            ],
+            "reward_text": "Faeries are just the cutest.",
+            "position": 6
+        },
+        {
+            "id": 1000000724,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 2,
+            "name": "Shirei",
+            "dot_id": 712700,
+            "illust_id": 712702,
+            "texts": [
+                "If you're going to fight, at least do it where I can see you!",
+                "I have many songs to sing. That's what makes me a minstrel!",
+                "Life is short. Doing everything you want to do will keep you busy. "
+            ],
+            "reward_text": "If you're going to fight, at least do it where I can see you!",
+            "position": 10
+        },
+        {
+            "id": 1000000725,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Aslana Melek",
+            "dot_id": 616000,
+            "illust_id": 616003,
+            "texts": [
+                "Wonderful. Your inner beauty overflows.",
+                "Amazing. Insecurity empowers you. I am ze same.",
+                "We are defined by what we are on ze inside. Zat reflects one's true self."
+            ],
+            "reward_text": "Wonderful. Your inner beauty overflows.",
+            "position": 8
+        },
+        {
+            "id": 1000000726,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 15,
+            "name": "Fullbright XXIII",
+            "dot_id": 232203,
+            "illust_id": 232203,
+            "texts": [
+                "Would you be interested in this bangle from the north?",
+                "Perhaps you'd fancy this necklace from the south.",
+                "You can acquire things from all over the world through trading. How marvelous."
+            ],
+            "reward_text": "Would you be interested in this bangle from the north?",
+            "position": 7
+        },
+        {
+            "id": 1000000727,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 25,
+            "name": "Bruni",
+            "dot_id": 224081,
+            "illust_id": 224081,
+            "texts": [
+                "Something's on the ground.",
+                "Something's shiny.",
+                "I just want to dig holes all throughout Vanguard. Call it my holey charge."
+            ],
+            "reward_text": "Something's on the ground.",
+            "position": 1
+        },
+        {
+            "id": 1000000728,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Ludwig",
+            "dot_id": 235803,
+            "illust_id": 235803,
+            "texts": [
+                "I've finally attained true power.",
+                "Submit to my greatness!",
+                "I was born 300 years ago, and now it all makes sense. I've surpassed you, Khalid."
+            ],
+            "reward_text": "I've finally attained true power.",
+            "position": 3
+        },
+        {
+            "id": 1000000729,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 15,
+            "name": "Madeleine",
+            "dot_id": 710707,
+            "illust_id": 710707,
+            "texts": [
+                "What is my role?",
+                "Should I get active?",
+                "I shouldn't stand out too much, but I'll let the Khamsin decide."
+            ],
+            "reward_text": "What is my role?",
+            "position": 6
+        },
+        {
+            "id": 1000000730,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 25,
+            "name": "Evelyn",
+            "dot_id": 715505,
+            "illust_id": 715505,
+            "texts": [
+                "I am a wicked witch after all.",
+                "You see, I am entranced by death.",
+                "The demon that dwells in my heart can never be erased. No one sees it, not even me."
+            ],
+            "reward_text": "I am a wicked witch after all.",
+            "position": 10
+        },
+        {
+            "id": 1000000731,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Aslana Melek",
+            "dot_id": 616000,
+            "illust_id": 616003,
+            "texts": [
+                "Wonderful. Your inner beauty overflows.",
+                "Amazing. Insecurity empowers you. I am ze same.",
+                "We are defined by what we are on ze inside. Zat reflects one's true self."
+            ],
+            "reward_text": "Wonderful. Your inner beauty overflows.",
+            "position": 8
+        },
+        {
+            "id": 1000000732,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 2,
+            "name": "Fullbright XXIII",
+            "dot_id": 232203,
+            "illust_id": 232203,
+            "texts": [
+                "Would you be interested in this bangle from the north?",
+                "Perhaps you'd fancy this necklace from the south.",
+                "You can acquire things from all over the world through trading. How marvelous."
+            ],
+            "reward_text": "Would you be interested in this bangle from the north?",
+            "position": 7
+        },
+        {
+            "id": 1000000733,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 2,
+            "name": "Bruni",
+            "dot_id": 224081,
+            "illust_id": 224081,
+            "texts": [
+                "Something's on the ground.",
+                "Something's shiny.",
+                "I just want to dig holes all throughout Vanguard. Call it my holey charge."
+            ],
+            "reward_text": "Something's on the ground.",
+            "position": 1
+        },
+        {
+            "id": 1000000734,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Ludwig",
+            "dot_id": 235803,
+            "illust_id": 235803,
+            "texts": [
+                "I've finally attained true power.",
+                "Submit to my greatness!",
+                "I was born 300 years ago, and now it all makes sense. I've surpassed you, Khalid."
+            ],
+            "reward_text": "I've finally attained true power.",
+            "position": 3
+        },
+        {
+            "id": 1000000735,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 2,
+            "name": "Madeleine",
+            "dot_id": 710707,
+            "illust_id": 710707,
+            "texts": [
+                "What is my role?",
+                "Should I get active?",
+                "I shouldn't stand out too much, but I'll let the Khamsin decide."
+            ],
+            "reward_text": "What is my role?",
+            "position": 6
+        },
+        {
+            "id": 1000000736,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 2,
+            "name": "Evelyn",
+            "dot_id": 715505,
+            "illust_id": 715505,
+            "texts": [
+                "I am a wicked witch after all.",
+                "You see, I am entranced by death.",
+                "The demon that dwells in my heart can never be erased. No one sees it, not even me."
+            ],
+            "reward_text": "I am a wicked witch after all.",
+            "position": 10
         }
     ]
 }

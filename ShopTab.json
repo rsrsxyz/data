@@ -11,6 +11,20 @@
     "m_Name": "ShopTab",
     "objectArray": [
         {
+            "id": 10022,
+            "shop_id": 4900508,
+            "name": "Styles",
+            "shop_filter_type": 1,
+            "priority": 9999
+        },
+        {
+            "id": 10023,
+            "shop_id": 4900508,
+            "name": "Misc.",
+            "shop_filter_type": 2,
+            "priority": 9998
+        },
+        {
             "id": 10113,
             "shop_id": 4900555,
             "name": "Styles",
@@ -23,6 +37,90 @@
             "name": "Items",
             "shop_filter_type": 0,
             "priority": 9998
+        },
+        {
+            "id": 10141,
+            "shop_id": 4900569,
+            "name": "Pickup Styles",
+            "shop_filter_type": 1,
+            "priority": 9999
+        },
+        {
+            "id": 10142,
+            "shop_id": 4900569,
+            "name": "Other Styles",
+            "shop_filter_type": 1,
+            "priority": 9998
+        },
+        {
+            "id": 10143,
+            "shop_id": 4900569,
+            "name": "Misc.",
+            "shop_filter_type": 2,
+            "priority": 9997
+        },
+        {
+            "id": 10144,
+            "shop_id": 4900570,
+            "name": "Pickup Styles",
+            "shop_filter_type": 1,
+            "priority": 9999
+        },
+        {
+            "id": 10145,
+            "shop_id": 4900570,
+            "name": "Other Styles",
+            "shop_filter_type": 1,
+            "priority": 9998
+        },
+        {
+            "id": 10146,
+            "shop_id": 4900570,
+            "name": "Misc.",
+            "shop_filter_type": 2,
+            "priority": 9997
+        },
+        {
+            "id": 10153,
+            "shop_id": 4900575,
+            "name": "Pickup Styles",
+            "shop_filter_type": 1,
+            "priority": 9999
+        },
+        {
+            "id": 10154,
+            "shop_id": 4900575,
+            "name": "Other Styles",
+            "shop_filter_type": 1,
+            "priority": 9998
+        },
+        {
+            "id": 10155,
+            "shop_id": 4900575,
+            "name": "Misc.",
+            "shop_filter_type": 2,
+            "priority": 9997
+        },
+        {
+            "id": 10162,
+            "shop_id": 4900578,
+            "name": "Pickup Styles",
+            "shop_filter_type": 1,
+            "priority": 9999
+        },
+        {
+            "id": 10163,
+            "shop_id": 4900578,
+            "name": "Other Styles",
+            "shop_filter_type": 1,
+            "priority": 9998
+        },
+        {
+            "id": 10164,
+            "shop_id": 4900578,
+            "name": "Misc.",
+            "shop_filter_type": 2,
+            "priority": 9997
         },
         {
             "id": 1000010001,
@@ -940,6 +1038,55 @@
             "name": "Misc.",
             "shop_filter_type": 2,
             "priority": 9997
+        },
+        {
+            "id": 1000010132,
+            "shop_id": 1004900132,
+            "name": "Pickup Styles",
+            "shop_filter_type": 1,
+            "priority": 9999
+        },
+        {
+            "id": 1000010133,
+            "shop_id": 1004900132,
+            "name": "Other Styles",
+            "shop_filter_type": 1,
+            "priority": 9998
+        },
+        {
+            "id": 1000010134,
+            "shop_id": 1004900132,
+            "name": "Misc.",
+            "shop_filter_type": 2,
+            "priority": 9997
+        },
+        {
+            "id": 1000010135,
+            "shop_id": 1004900134,
+            "name": "Romancing Fest.",
+            "shop_filter_type": 1,
+            "priority": 9999
+        },
+        {
+            "id": 1000010136,
+            "shop_id": 1004900134,
+            "name": "UDX Summon",
+            "shop_filter_type": 1,
+            "priority": 9998
+        },
+        {
+            "id": 1000010137,
+            "shop_id": 1004900134,
+            "name": "SaGa Soul",
+            "shop_filter_type": 1,
+            "priority": 9997
+        },
+        {
+            "id": 1000010138,
+            "shop_id": 1004900134,
+            "name": "Items",
+            "shop_filter_type": 2,
+            "priority": 9996
         }
     ]
 }

@@ -16,20 +16,20 @@
             "required_quest_id": 0,
             "required_player_rank": 0,
             "required_hours": 2,
-            "difficulty": 1,
+            "difficulty": 0,
             "growth_difficulty": 10,
-            "recommended_status": 10,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 1,
             "drop_group_ids": [
                 880000001,
                 880000002
             ],
-            "flavor_text": "Recommended for characters with up to 100 HP and up to 10 in all attributes",
+            "flavor_text": "",
             "background_id": 700000020,
             "sort_order": 99,
             "open_at": 0,
-            "close_at": 0
+            "close_at": 1683485999
         },
         {
             "id": 6700002,
@@ -37,20 +37,20 @@
             "required_quest_id": 100104101,
             "required_player_rank": 45,
             "required_hours": 6,
-            "difficulty": 2,
+            "difficulty": 0,
             "growth_difficulty": 15,
-            "recommended_status": 20,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 4,
             "drop_group_ids": [
                 880000003,
                 880000004
             ],
-            "flavor_text": "Recommended for characters with up to 200 HP and up to 20 in all attributes",
+            "flavor_text": "",
             "background_id": 700000003,
             "sort_order": 97,
             "open_at": 0,
-            "close_at": 0
+            "close_at": 1683485999
         },
         {
             "id": 6700003,
@@ -58,20 +58,20 @@
             "required_quest_id": 100104102,
             "required_player_rank": 60,
             "required_hours": 12,
-            "difficulty": 3,
+            "difficulty": 0,
             "growth_difficulty": 25,
-            "recommended_status": 30,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 6,
             "drop_group_ids": [
                 880000005,
                 880000006
             ],
-            "flavor_text": "Recommended for characters with up to 300 HP and up to 30 in all attributes",
+            "flavor_text": "",
             "background_id": 700000002,
             "sort_order": 96,
             "open_at": 0,
-            "close_at": 0
+            "close_at": 1683485999
         },
         {
             "id": 6700004,
@@ -79,20 +79,20 @@
             "required_quest_id": 0,
             "required_player_rank": 0,
             "required_hours": 4,
-            "difficulty": 1,
+            "difficulty": 0,
             "growth_difficulty": 10,
-            "recommended_status": 10,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 2,
             "drop_group_ids": [
                 880000007,
                 880000008
             ],
-            "flavor_text": "Recommended for characters with up to 100 HP and up to 10 in all attributes",
+            "flavor_text": "",
             "background_id": 700000015,
             "sort_order": 98,
             "open_at": 0,
-            "close_at": 0
+            "close_at": 1683485999
         },
         {
             "id": 6700005,
@@ -100,20 +100,20 @@
             "required_quest_id": 100106053,
             "required_player_rank": 75,
             "required_hours": 18,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 38,
-            "recommended_status": 40,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 8,
             "drop_group_ids": [
                 880000009,
                 880000010
             ],
-            "flavor_text": "Recommended for characters with up to 400 HP and up to 40 in all attributes",
+            "flavor_text": "",
             "background_id": 700000004,
             "sort_order": 95,
             "open_at": 0,
-            "close_at": 0
+            "close_at": 1683485999
         },
         {
             "id": 6700006,
@@ -121,20 +121,20 @@
             "required_quest_id": 100107103,
             "required_player_rank": 90,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 43,
-            "recommended_status": 45,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 9,
             "drop_group_ids": [
                 880000011,
                 880000012
             ],
-            "flavor_text": "Recommended for characters with up to 550 HP and up to 45 in all attributes",
+            "flavor_text": "",
             "background_id": 700000004,
             "sort_order": 94,
             "open_at": 0,
-            "close_at": 0
+            "close_at": 1683485999
         },
         {
             "id": 6700007,
@@ -142,20 +142,20 @@
             "required_quest_id": 100110103,
             "required_player_rank": 95,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 48,
-            "recommended_status": 50,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 12,
             "drop_group_ids": [
                 880000013,
                 880000014
             ],
-            "flavor_text": "Recommended for characters with up to 600 HP and up to 50 in all attributes",
+            "flavor_text": "",
             "background_id": 700000008,
             "sort_order": 93,
             "open_at": 0,
-            "close_at": 0
+            "close_at": 1683485999
         },
         {
             "id": 6700008,
@@ -163,20 +163,20 @@
             "required_quest_id": 100113103,
             "required_player_rank": 100,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 58,
-            "recommended_status": 60,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 16,
             "drop_group_ids": [
                 880000015,
                 880000016
             ],
-            "flavor_text": "Recommended for characters with up to 700 HP and up to 60 in all attributes",
+            "flavor_text": "",
             "background_id": 700000006,
             "sort_order": 92,
             "open_at": 0,
-            "close_at": 0
+            "close_at": 1683485999
         },
         {
             "id": 6700009,
@@ -184,20 +184,20 @@
             "required_quest_id": 100114113,
             "required_player_rank": 110,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 63,
-            "recommended_status": 65,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 18,
             "drop_group_ids": [
                 880000017,
                 880000018
             ],
-            "flavor_text": "Recommended for characters with up to 750 HP and up to 65 in all attributes",
+            "flavor_text": "",
             "background_id": 700000007,
             "sort_order": 91,
             "open_at": 0,
-            "close_at": 0
+            "close_at": 1683485999
         },
         {
             "id": 6700010,
@@ -205,20 +205,20 @@
             "required_quest_id": 100201103,
             "required_player_rank": 120,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 73,
-            "recommended_status": 75,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 21,
             "drop_group_ids": [
                 880000019,
                 880000020
             ],
-            "flavor_text": "Recommended for characters with up to 850 HP and up to 75 in all attributes",
+            "flavor_text": "",
             "background_id": 700000024,
             "sort_order": 90,
             "open_at": 0,
-            "close_at": 0
+            "close_at": 1683485999
         },
         {
             "id": 6700012,
@@ -226,20 +226,20 @@
             "required_quest_id": 100209151,
             "required_player_rank": 130,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 83,
-            "recommended_status": 85,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 50,
             "drop_group_ids": [
                 880000021,
                 880000022
             ],
-            "flavor_text": "Recommended for characters with up to 950 HP and up to 85 in all attributes",
+            "flavor_text": "",
             "background_id": 700000022,
             "sort_order": 89,
             "open_at": 0,
-            "close_at": 0
+            "close_at": 1683485999
         },
         {
             "id": 6700013,
@@ -247,20 +247,20 @@
             "required_quest_id": 100206103,
             "required_player_rank": 140,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 93,
-            "recommended_status": 95,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 54,
             "drop_group_ids": [
                 880000024,
                 880000025
             ],
-            "flavor_text": "Recommended for characters with up to 1,050 HP and up to 95 in all attributes",
+            "flavor_text": "",
             "background_id": 700000078,
             "sort_order": 88,
             "open_at": 0,
-            "close_at": 0
+            "close_at": 1683485999
         },
         {
             "id": 6700014,
@@ -268,16 +268,16 @@
             "required_quest_id": 100210181,
             "required_player_rank": 0,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 133,
-            "recommended_status": 135,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 58,
             "drop_group_ids": [
                 880000026,
                 880000027
             ],
-            "flavor_text": "Recommended for characters with up to 1,450 HP and up to 135 in all attributes",
+            "flavor_text": "",
             "background_id": 700000124,
             "sort_order": 87,
             "open_at": 1660266000,
@@ -289,20 +289,20 @@
             "required_quest_id": 100208203,
             "required_player_rank": 145,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 103,
-            "recommended_status": 105,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 58,
             "drop_group_ids": [
                 880000028,
                 880000029
             ],
-            "flavor_text": "Recommended for characters with up to 1,150 HP and up to 105 in all attributes",
+            "flavor_text": "",
             "background_id": 700000009,
             "sort_order": 86,
-            "open_at": 1660870800,
-            "close_at": 0
+            "open_at": 0,
+            "close_at": 1683485999
         },
         {
             "id": 6700016,
@@ -310,20 +310,20 @@
             "required_quest_id": 120101103,
             "required_player_rank": 150,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 113,
-            "recommended_status": 115,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 62,
             "drop_group_ids": [
                 880000030,
                 880000031
             ],
-            "flavor_text": "Recommended for characters with up to 1,250 HP and up to 115 in all attributes",
+            "flavor_text": "",
             "background_id": 700000082,
             "sort_order": 85,
-            "open_at": 1663462800,
-            "close_at": 0
+            "open_at": 0,
+            "close_at": 1683485999
         },
         {
             "id": 6700017,
@@ -331,20 +331,20 @@
             "required_quest_id": 120102103,
             "required_player_rank": 160,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 123,
-            "recommended_status": 125,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 66,
             "drop_group_ids": [
                 880000032,
                 880000033
             ],
-            "flavor_text": "Recommended for characters with up to 1,350 HP and up to 125 in all attributes",
+            "flavor_text": "",
             "background_id": 700000023,
             "sort_order": 84,
-            "open_at": 1669856400,
-            "close_at": 0
+            "open_at": 0,
+            "close_at": 1683485999
         },
         {
             "id": 6700018,
@@ -352,20 +352,20 @@
             "required_quest_id": 120103103,
             "required_player_rank": 170,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 133,
-            "recommended_status": 135,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 70,
             "drop_group_ids": [
                 880000034,
                 880000035
             ],
-            "flavor_text": "Recommended for characters with up to 1,450 HP and up to 135 in all attributes",
+            "flavor_text": "",
             "background_id": 700000138,
             "sort_order": 83,
-            "open_at": 1680138000,
-            "close_at": 0
+            "open_at": 0,
+            "close_at": 1683485999
         },
         {
             "id": 6700019,
@@ -373,20 +373,20 @@
             "required_quest_id": 120104103,
             "required_player_rank": 180,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 148,
-            "recommended_status": 150,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 74,
             "drop_group_ids": [
                 880000036,
                 880000037
             ],
-            "flavor_text": "Recommended for characters with up to 1,600 HP and up to 150 in all attributes",
+            "flavor_text": "",
             "background_id": 700000095,
             "sort_order": 82,
-            "open_at": 1685581200,
-            "close_at": 0
+            "open_at": 0,
+            "close_at": 1683485999
         },
         {
             "id": 6700020,
@@ -394,16 +394,16 @@
             "required_quest_id": 0,
             "required_player_rank": 0,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 188,
-            "recommended_status": 190,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 82,
             "drop_group_ids": [
                 880000038,
                 880000039
             ],
-            "flavor_text": "Recommended for characters with up to 2,000 HP and up to 190 in all attributes",
+            "flavor_text": "",
             "background_id": 700000145,
             "sort_order": 81,
             "open_at": 1693530000,
@@ -415,20 +415,20 @@
             "required_quest_id": 120106103,
             "required_player_rank": 200,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 178,
-            "recommended_status": 180,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 82,
             "drop_group_ids": [
                 880000040,
                 880000041
             ],
-            "flavor_text": "Recommended for characters with up to 1,900 HP and up to 180 in all attributes",
+            "flavor_text": "",
             "background_id": 700000036,
             "sort_order": 80,
-            "open_at": 1696467600,
-            "close_at": 0
+            "open_at": 0,
+            "close_at": 1683485999
         },
         {
             "id": 6700022,
@@ -436,20 +436,20 @@
             "required_quest_id": 120110013,
             "required_player_rank": 200,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 203,
-            "recommended_status": 205,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 90,
             "drop_group_ids": [
                 880000042,
                 880000043
             ],
-            "flavor_text": "Recommended for characters with up to 2,150 HP and up to 205 in all attributes",
+            "flavor_text": "",
             "background_id": 700000098,
             "sort_order": 79,
-            "open_at": 1698282000,
-            "close_at": 0
+            "open_at": 0,
+            "close_at": 1683485999
         },
         {
             "id": 6700023,
@@ -457,20 +457,83 @@
             "required_quest_id": 0,
             "required_player_rank": 0,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 218,
-            "recommended_status": 220,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 94,
             "drop_group_ids": [
                 880000044,
                 880000045
             ],
-            "flavor_text": "Recommended for characters with up to 2,300 HP and up to 220 in all attributes",
+            "flavor_text": "",
             "background_id": 700000158,
             "sort_order": 78,
             "open_at": 1698973200,
             "close_at": 1701392399
+        },
+        {
+            "id": 6700030,
+            "name": "The Plains",
+            "required_quest_id": 0,
+            "required_player_rank": 8,
+            "required_hours": 21,
+            "difficulty": 0,
+            "growth_difficulty": 110,
+            "recommended_status": 0,
+            "jewel_cost": 0,
+            "ticket_cost": 40,
+            "drop_group_ids": [
+                880000003,
+                880000004
+            ],
+            "flavor_text": "",
+            "background_id": 700000002,
+            "sort_order": 999,
+            "open_at": 0,
+            "close_at": 0
+        },
+        {
+            "id": 6700031,
+            "name": "The Caves",
+            "required_quest_id": 0,
+            "required_player_rank": 50,
+            "required_hours": 21,
+            "difficulty": 0,
+            "growth_difficulty": 0,
+            "recommended_status": 0,
+            "jewel_cost": 0,
+            "ticket_cost": 100,
+            "drop_group_ids": [
+                880000015,
+                880000016
+            ],
+            "flavor_text": "",
+            "background_id": 700000020,
+            "sort_order": 998,
+            "open_at": 0,
+            "close_at": 0
+        },
+        {
+            "id": 6700032,
+            "name": "The Jungle",
+            "required_quest_id": 0,
+            "required_player_rank": 200,
+            "required_hours": 21,
+            "difficulty": 0,
+            "growth_difficulty": 0,
+            "recommended_status": 0,
+            "jewel_cost": 0,
+            "ticket_cost": 100,
+            "drop_group_ids": [
+                880000042,
+                880000043
+            ],
+            "flavor_text": "",
+            "background_id": 700000004,
+            "sort_order": 997,
+            "open_at": 0,
+            "close_at": 0
         },
         {
             "id": 1006700001,
@@ -478,16 +541,16 @@
             "required_quest_id": 0,
             "required_player_rank": 0,
             "required_hours": 21,
-            "difficulty": 4,
+            "difficulty": 0,
             "growth_difficulty": 158,
-            "recommended_status": 160,
+            "recommended_status": 0,
             "jewel_cost": 0,
             "ticket_cost": 70,
             "drop_group_ids": [
                 1000096457,
                 1000096458
             ],
-            "flavor_text": "Recommended for characters with up to 1,700 HP and up to 160 in all attributes",
+            "flavor_text": "",
             "background_id": 1700000001,
             "sort_order": 70,
             "open_at": 1677805200,

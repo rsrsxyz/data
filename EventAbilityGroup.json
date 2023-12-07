@@ -4319,6 +4319,96 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 449
+        },
+        {
+            "id": 1000000672,
+            "event_ability_category_id": 1000000423,
+            "name": "Shirei Arc Grand Opening I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 450
+        },
+        {
+            "id": 1000000673,
+            "event_ability_category_id": 1000000424,
+            "name": "Shirei Arc Grand Opening II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 451
+        },
+        {
+            "id": 1000000674,
+            "event_ability_category_id": 1000000425,
+            "name": "Shirei Arc Grand Opening III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 452
+        },
+        {
+            "id": 1000000675,
+            "event_ability_category_id": 1000000426,
+            "name": "3.5 Anniversary Round 1 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Alpine Ore and Evil Aura drops in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 453
+        },
+        {
+            "id": 1000000676,
+            "event_ability_category_id": 1000000427,
+            "name": "3.5 Anniversary Round 1 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Alpine Ore and Evil Aura drops in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 454
+        },
+        {
+            "id": 1000000677,
+            "event_ability_category_id": 1000000428,
+            "name": "3.5 Anniversary Round 1 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Alpine Ore and Evil Aura drops in Free Quests<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 455
+        },
+        {
+            "id": 1000000678,
+            "event_ability_category_id": 1000000429,
+            "name": "3.5 Anniversary Round 2 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Cave Moss and Bone Fragments drops in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 456
+        },
+        {
+            "id": 1000000679,
+            "event_ability_category_id": 1000000430,
+            "name": "3.5 Anniversary Round 2 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Cave Moss and Bone Fragments drops in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 457
+        },
+        {
+            "id": 1000000680,
+            "event_ability_category_id": 1000000431,
+            "name": "3.5 Anniversary Round 2 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Cave Moss and Bone Fragments drops in Free Quests<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 458
         }
     ]
 }

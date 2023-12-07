@@ -11,6 +11,50 @@
     "m_Name": "ShopShare",
     "objectArray": [
         {
+            "id": 10041,
+            "shop_id": 4900569,
+            "shared_shop_id": 1004900131,
+            "shop_tab_id": 10142,
+            "currency": 4,
+            "currency_item_id": 800268,
+            "price_rate": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 10042,
+            "shop_id": 4900570,
+            "shared_shop_id": 1004900131,
+            "shop_tab_id": 10145,
+            "currency": 4,
+            "currency_item_id": 800269,
+            "price_rate": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 10045,
+            "shop_id": 4900575,
+            "shared_shop_id": 1004900131,
+            "shop_tab_id": 10154,
+            "currency": 4,
+            "currency_item_id": 800272,
+            "price_rate": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 10048,
+            "shop_id": 4900578,
+            "shared_shop_id": 1004900135,
+            "shop_tab_id": 10163,
+            "currency": 4,
+            "currency_item_id": 800275,
+            "price_rate": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
             "id": 1000010001,
             "shop_id": 4900480,
             "shared_shop_id": 1004900117,
@@ -479,6 +523,17 @@
             "shop_tab_id": 1000010130,
             "currency": 4,
             "currency_item_id": 800267,
+            "price_rate": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000010044,
+            "shop_id": 1004900132,
+            "shared_shop_id": 1004900133,
+            "shop_tab_id": 1000010133,
+            "currency": 4,
+            "currency_item_id": 800271,
             "price_rate": 1,
             "start_at": 0,
             "end_at": 0

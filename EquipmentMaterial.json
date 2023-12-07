@@ -233,7 +233,7 @@
         {
             "id": 663001,
             "name": "[A] Tri Glowstone",
-            "flavor_text": "Material for evolving Weapons, Armor, and Gear. Can be combined into S-rank stones at the Forge. Obtained from Ruins Exploration quests (Home>Sub Quests>Daily).",
+            "flavor_text": "Material for evolving Weapons, Armor, and Gear.",
             "equipment_material_category_id": 7,
             "icon": 663001,
             "selling_price": 10,
@@ -243,7 +243,7 @@
         {
             "id": 664001,
             "name": "[S] Tri Glowstone",
-            "flavor_text": "Material for evolving Weapons, Armor, and Gear. Can be combined into SS-rank stones at the Forge. Obtained from Ruins Exploration quests (Home>Sub Quests>Daily).",
+            "flavor_text": "Material for evolving Weapons, Armor, and Gear.",
             "equipment_material_category_id": 7,
             "icon": 664001,
             "selling_price": 20,
@@ -253,7 +253,7 @@
         {
             "id": 665001,
             "name": "[SS] Tri Glowstone",
-            "flavor_text": "Material for evolving Weapons, Armor, and Gear. Obtained from Ruins Exploration quests (Home>Sub Quests>Daily).",
+            "flavor_text": "Material for evolving Weapons, Armor, and Gear.",
             "equipment_material_category_id": 7,
             "icon": 665001,
             "selling_price": 50,
@@ -263,7 +263,7 @@
         {
             "id": 674001,
             "name": "[S] Modstone I",
-            "flavor_text": "Material used to evolve SS weapons. Can be used in the Forge. Obtainable from events.",
+            "flavor_text": "Material for evolving SS weapons.",
             "equipment_material_category_id": 0,
             "icon": 674001,
             "selling_price": 20,
@@ -273,7 +273,7 @@
         {
             "id": 675001,
             "name": "[SS] Modstone II",
-            "flavor_text": "Material used to evolve SS weapons. Can be used in the Forge. Obtainable from events.",
+            "flavor_text": "Material for evolving SS weapons.",
             "equipment_material_category_id": 0,
             "icon": 675001,
             "selling_price": 50,
@@ -503,12 +503,32 @@
         {
             "id": 690024,
             "name": "[SS] Flashstone",
-            "flavor_text": "Material used to evolve SS weapons. Can be used in the Forge. Obtainable from events.",
+            "flavor_text": "Material for evolving SS weapons.",
             "equipment_material_category_id": 7,
             "icon": 690024,
             "selling_price": 50,
             "rarity": 5,
             "sort_order": 1006
+        },
+        {
+            "id": 690025,
+            "name": "[SSS] Celestial Crystal",
+            "flavor_text": "Material for evolving certain SS weapons.",
+            "equipment_material_category_id": 0,
+            "icon": 690025,
+            "selling_price": 100,
+            "rarity": 6,
+            "sort_order": 23060105
+        },
+        {
+            "id": 690026,
+            "name": "Remembrance Cube",
+            "flavor_text": "Material for evolving Remembrance Weapons. Obtained from Remembrance Battle.",
+            "equipment_material_category_id": 0,
+            "icon": 690026,
+            "selling_price": 50,
+            "rarity": 5,
+            "sort_order": 21112748
         }
     ]
 }

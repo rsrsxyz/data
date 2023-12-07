@@ -17,12 +17,6 @@
             "push_alert_condition_type": 1
         },
         {
-            "id": 12000001,
-            "text": "You don't have enough energy. Replenish your energy to acquire pieces!",
-            "start_at": 946666800,
-            "push_alert_condition_type": 2
-        },
-        {
             "id": 13000001,
             "text": "Expedition completed!",
             "start_at": 946666800,
@@ -33,24 +27,6 @@
             "text": "Spiral Corridor will reset soon! Get Spiral Summon Tickets!",
             "start_at": 946666800,
             "push_alert_condition_type": 4
-        },
-        {
-            "id": 15000001,
-            "text": "Zweig Battle Coliseum is underway! Get Zweig Medals!",
-            "start_at": 946666800,
-            "push_alert_condition_type": 5
-        },
-        {
-            "id": 16000001,
-            "text": "Get jewels from Monika!",
-            "start_at": 1701478800,
-            "push_alert_condition_type": 6
-        },
-        {
-            "id": 17000001,
-            "text": "Get Instant Expedition Tickets from Monika!",
-            "start_at": 1701478800,
-            "push_alert_condition_type": 7
         },
         {
             "id": 19000001,

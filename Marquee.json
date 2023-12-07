@@ -138,7 +138,7 @@
         {
             "id": 26,
             "name": "Lesson_Style_Energy",
-            "text": "Replenish your energy (NRG) supply and select characters to begin training."
+            "text": "Select characters to begin training."
         },
         {
             "id": 27,
@@ -148,7 +148,7 @@
         {
             "id": 28,
             "name": "Expedition_Place_Choice",
-            "text": "Select an Expedition destination. Recommended attributes and items that can be obtained vary depending on location."
+            "text": "Select an Expedition location and characters. Recommended attributes and items that can be obtained vary depending on location."
         },
         {
             "id": 29,
@@ -274,6 +274,16 @@
             "id": 53,
             "name": "Smith_Evolve_confirm",
             "text": "Tap Evolve to do one evolution. Tap 1-Tap Enhance to move to the 1-Tap Enhance screen."
+        },
+        {
+            "id": 54,
+            "name": "SSS_Evolve_Choice",
+            "text": "Select equipment for Super Evolution."
+        },
+        {
+            "id": 55,
+            "name": "SSS_Evolve_confirm",
+            "text": "Tap Super Evolve to do one Super Evolution."
         }
     ]
 }

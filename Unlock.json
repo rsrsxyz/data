@@ -11,49 +11,14 @@
     "m_Name": "Unlock",
     "objectArray": [
         {
-            "id": 1,
-            "feature_to_unlock": "Quest_Daily_301",
-            "trigger_quest_id": 100101071,
-            "trigger_player_rank": 6,
-            "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": ""
-        },
-        {
-            "id": 2,
-            "feature_to_unlock": "Quest_Daily_302",
-            "trigger_quest_id": 100102101,
-            "trigger_player_rank": 13,
-            "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": ""
-        },
-        {
-            "id": 3,
-            "feature_to_unlock": "Quest_Event_501",
-            "trigger_quest_id": 100104201,
-            "trigger_player_rank": 30,
-            "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": ""
-        },
-        {
-            "id": 4,
-            "feature_to_unlock": "Quest_Challenge_504",
-            "trigger_quest_id": 100102201,
-            "trigger_player_rank": 16,
-            "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": ""
-        },
-        {
             "id": 5,
             "feature_to_unlock": "Smith_EquipmentGrow",
             "trigger_quest_id": 100101211,
             "trigger_player_rank": 10,
             "scenario_script_name": "",
             "lock_text": "",
-            "lock_rank_text": ""
+            "lock_rank_text": "",
+            "lock_feature_name": "Forge"
         },
         {
             "id": 6,
@@ -62,7 +27,8 @@
             "trigger_player_rank": 40,
             "scenario_script_name": "",
             "lock_text": "",
-            "lock_rank_text": ""
+            "lock_rank_text": "",
+            "lock_feature_name": "Awaken Skills/Spells"
         },
         {
             "id": 7,
@@ -71,7 +37,8 @@
             "trigger_player_rank": 8,
             "scenario_script_name": "",
             "lock_text": "",
-            "lock_rank_text": ""
+            "lock_rank_text": "",
+            "lock_feature_name": "Expedition"
         },
         {
             "id": 8,
@@ -80,43 +47,18 @@
             "trigger_player_rank": 20,
             "scenario_script_name": "",
             "lock_text": "",
-            "lock_rank_text": ""
-        },
-        {
-            "id": 9,
-            "feature_to_unlock": "Shop_Daily",
-            "trigger_quest_id": 100102041,
-            "trigger_player_rank": 0,
-            "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": ""
-        },
-        {
-            "id": 10,
-            "feature_to_unlock": "Shop_Weekly",
-            "trigger_quest_id": 100102141,
-            "trigger_player_rank": 0,
-            "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": ""
-        },
-        {
-            "id": 12,
-            "feature_to_unlock": "UraDojo",
-            "trigger_quest_id": 100103103,
-            "trigger_player_rank": 65,
-            "scenario_script_name": "90001-010",
-            "lock_text": "Clear Polka Arc<br>Ch. 1, 3-2-4<br>Very Hard<br>to unlock",
-            "lock_rank_text": "Reach<br>Player Rank 65<br>to unlock"
+            "lock_rank_text": "",
+            "lock_feature_name": "Training"
         },
         {
             "id": 13,
             "feature_to_unlock": "Dojo_UraNouryoku",
             "trigger_quest_id": 0,
-            "trigger_player_rank": 0,
+            "trigger_player_rank": 65,
             "scenario_script_name": "",
             "lock_text": "",
-            "lock_rank_text": ""
+            "lock_rank_text": "",
+            "lock_feature_name": "Unlock Hidden Attribute Caps"
         },
         {
             "id": 15,
@@ -125,16 +67,8 @@
             "trigger_player_rank": 70,
             "scenario_script_name": "",
             "lock_text": "",
-            "lock_rank_text": ""
-        },
-        {
-            "id": 16,
-            "feature_to_unlock": "Quest_Challenge_505",
-            "trigger_quest_id": 100102201,
-            "trigger_player_rank": 16,
-            "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": ""
+            "lock_rank_text": "",
+            "lock_feature_name": "Enhance/Fuse/Sell Holy Stones"
         },
         {
             "id": 18,
@@ -143,34 +77,18 @@
             "trigger_player_rank": 60,
             "scenario_script_name": "",
             "lock_text": "",
-            "lock_rank_text": ""
-        },
-        {
-            "id": 19,
-            "feature_to_unlock": "LimitIsland",
-            "trigger_quest_id": 100201053,
-            "trigger_player_rank": 75,
-            "scenario_script_name": "90008-010",
-            "lock_text": "Clear Polka Arc<br>Ch. 2, 1-1-5<br>Very Hard<br>to unlock",
-            "lock_rank_text": "Reach<br>Player Rank 75<br>to unlock"
-        },
-        {
-            "id": 21,
-            "feature_to_unlock": "Quest_Challenge_508",
-            "trigger_quest_id": 100102201,
-            "trigger_player_rank": 16,
-            "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": ""
+            "lock_rank_text": "",
+            "lock_feature_name": "Amplify"
         },
         {
             "id": 22,
-            "feature_to_unlock": "Quest_Challenge_509",
+            "feature_to_unlock": "Trial_Quest",
             "trigger_quest_id": 100102201,
             "trigger_player_rank": 16,
             "scenario_script_name": "",
             "lock_text": "",
-            "lock_rank_text": ""
+            "lock_rank_text": "",
+            "lock_feature_name": "Spiral Corridor"
         },
         {
             "id": 23,
@@ -179,7 +97,8 @@
             "trigger_player_rank": 150,
             "scenario_script_name": "90011-010",
             "lock_text": "Clear Liam Arc<br>1-2-5<br>Very Hard<br>to unlock",
-            "lock_rank_text": "Reach<br>Player Rank 150<br>to unlock"
+            "lock_rank_text": "Reach<br>Player Rank 150<br>to unlock",
+            "lock_feature_name": "Remembrance Battle"
         },
         {
             "id": 24,
@@ -188,7 +107,38 @@
             "trigger_player_rank": 10,
             "scenario_script_name": "",
             "lock_text": "",
-            "lock_rank_text": ""
+            "lock_rank_text": "",
+            "lock_feature_name": "Promotion Exam"
+        },
+        {
+            "id": 25,
+            "feature_to_unlock": "Mission_Daily",
+            "trigger_quest_id": 0,
+            "trigger_player_rank": 0,
+            "scenario_script_name": "",
+            "lock_text": "",
+            "lock_rank_text": "",
+            "lock_feature_name": "Daily Missions"
+        },
+        {
+            "id": 26,
+            "feature_to_unlock": "Mission_Weekly",
+            "trigger_quest_id": 0,
+            "trigger_player_rank": 0,
+            "scenario_script_name": "",
+            "lock_text": "",
+            "lock_rank_text": "",
+            "lock_feature_name": "Weekly Missions"
+        },
+        {
+            "id": 27,
+            "feature_to_unlock": "Mission_Event",
+            "trigger_quest_id": 0,
+            "trigger_player_rank": 0,
+            "scenario_script_name": "",
+            "lock_text": "",
+            "lock_rank_text": "",
+            "lock_feature_name": "Special Missions"
         }
     ]
 }

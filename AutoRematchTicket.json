@@ -38,6 +38,15 @@
             "sort_order": 23120400
         },
         {
+            "id": 950014,
+            "name": "Auto Rematch Ticket",
+            "flavor_text": "A ticket for performing an auto rematch in some quests.",
+            "icon": 950014,
+            "max_quantity": 999999,
+            "expired_at": 0,
+            "sort_order": 23052530
+        },
+        {
             "id": 950015,
             "name": "Saga Golden Destinations Auto Rematch Ticket [Ltd. Time]",
             "flavor_text": "A ticket for performing an auto rematch in some quests. (Until [1702601999] <tz>)",

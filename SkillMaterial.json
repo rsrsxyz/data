@@ -13,7 +13,7 @@
         {
             "id": 303001,
             "name": "Book of Secrets: Volume 1",
-            "flavor_text": "Material used to awaken skills/spells at the Dojo. Obtainable from weekly missions or events.",
+            "flavor_text": "Material used to awaken skills/spells at the Dojo.",
             "icon": 303001,
             "selling_price": 1000,
             "sort_order": 997
@@ -21,7 +21,7 @@
         {
             "id": 304001,
             "name": "Book of Secrets: Volume 2",
-            "flavor_text": "Material used to awaken skills/spells at the Dojo. Obtainable from weekly missions or events.",
+            "flavor_text": "Material used to awaken skills/spells at the Dojo.",
             "icon": 304001,
             "selling_price": 10000,
             "sort_order": 998
@@ -29,7 +29,7 @@
         {
             "id": 305001,
             "name": "Book of Secrets: Volume 3",
-            "flavor_text": "Material used to awaken skills/spells at the Dojo. Obtainable from weekly missions or events.",
+            "flavor_text": "Material used to awaken skills/spells at the Dojo.",
             "icon": 305001,
             "selling_price": 100000,
             "sort_order": 999
@@ -99,6 +99,14 @@
             "sort_order": 973
         },
         {
+            "id": 403030,
+            "name": "Awakening Sand",
+            "flavor_text": "A-rank material used to awaken skills/spells at the Dojo.",
+            "icon": 403030,
+            "selling_price": 500,
+            "sort_order": 970
+        },
+        {
             "id": 404002,
             "name": "Black Stone",
             "flavor_text": "S-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Main Quests and other venues.",
@@ -163,6 +171,14 @@
             "sort_order": 981
         },
         {
+            "id": 404030,
+            "name": "Awakening Stone",
+            "flavor_text": "S-rank material used to awaken skills/spells at the Dojo.",
+            "icon": 404030,
+            "selling_price": 1000,
+            "sort_order": 971
+        },
+        {
             "id": 405003,
             "name": "Black Gem",
             "flavor_text": "SS-rank material used to awaken skills/spells at the Dojo. Can be obtained from events and other special venues.",
@@ -225,6 +241,14 @@
             "icon": 405024,
             "selling_price": 2000,
             "sort_order": 989
+        },
+        {
+            "id": 405030,
+            "name": "Awakening Gem",
+            "flavor_text": "SS-rank material used to awaken skills/spells at the Dojo.",
+            "icon": 405030,
+            "selling_price": 2000,
+            "sort_order": 972
         }
     ]
 }

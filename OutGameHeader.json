@@ -212,7 +212,7 @@
             "id": 310,
             "title_name": "Expeditions",
             "marquee_id": 28,
-            "help_id": 16
+            "help_id": 891
         },
         {
             "id": 311,
@@ -350,6 +350,18 @@
             "id": 414,
             "title_name": "Confirm Forge",
             "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 415,
+            "title_name": "Super Evol. Equipment",
+            "marquee_id": 54,
+            "help_id": 917
+        },
+        {
+            "id": 416,
+            "title_name": "Super Evolution",
+            "marquee_id": 55,
             "help_id": 0
         },
         {
@@ -657,6 +669,84 @@
             "title_name": "Encounter Log",
             "marquee_id": 0,
             "help_id": 817
+        },
+        {
+            "id": 1901,
+            "title_name": "Free Quests",
+            "marquee_id": 0,
+            "help_id": 890
+        },
+        {
+            "id": 2001,
+            "title_name": "Challenge",
+            "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 2002,
+            "title_name": "Spiral Corridor",
+            "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 2003,
+            "title_name": "Attacks",
+            "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 2004,
+            "title_name": "Limited Time",
+            "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 2005,
+            "title_name": "Select Quest",
+            "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 2101,
+            "title_name": "Main Story",
+            "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 2102,
+            "title_name": "Select Stage",
+            "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 2103,
+            "title_name": "Stage",
+            "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 2104,
+            "title_name": "Treasure Chest",
+            "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 2105,
+            "title_name": "Results",
+            "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 2106,
+            "title_name": "Select Stage",
+            "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 2201,
+            "title_name": "Conquest",
+            "marquee_id": 0,
+            "help_id": 0
         }
     ]
 }

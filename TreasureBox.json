@@ -13,7 +13,7 @@
         {
             "id": 900003,
             "name": "The Final Treasure - Small",
-            "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston Pieces, Silver Pieces, Orb Medals, and more.",
+            "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston Pieces, Silver Pieces, Hidden Attribute Orbs, and more.",
             "rarity": 4,
             "max_quantity": 9999,
             "expired_at": 0,
@@ -22,12 +22,13 @@
             "drop_group_ids": [
                 400000068,
                 400000069
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900004,
             "name": "The Final Treasure - Large",
-            "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston, SS [From World's End] Boston Pieces, Testaments of the Mighty: Rank 1/Rank 2, Orb Medals, Stamina Potions (Large), and more.",
+            "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston, SS [From World's End] Boston Pieces, Testaments of the Mighty: Rank 1/Rank 2, Hidden Attribute Orbs, Stamina Potions (Large), and more.",
             "rarity": 5,
             "max_quantity": 9999,
             "expired_at": 0,
@@ -37,7 +38,8 @@
                 400000070,
                 400000071,
                 400000072
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900006,
@@ -51,7 +53,8 @@
             "drop_group_ids": [
                 92829,
                 92845
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900007,
@@ -65,7 +68,8 @@
             "drop_group_ids": [
                 92830,
                 92846
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900008,
@@ -79,7 +83,8 @@
             "drop_group_ids": [
                 92831,
                 92847
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900009,
@@ -104,7 +109,8 @@
                 93136,
                 93137,
                 93138
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900011,
@@ -122,7 +128,8 @@
                 93297,
                 93298,
                 1000090513
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900014,
@@ -138,7 +145,8 @@
                 95234,
                 95234,
                 95234
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900015,
@@ -160,7 +168,8 @@
                 95284,
                 95285,
                 95286
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900016,
@@ -182,7 +191,8 @@
                 95274,
                 95275,
                 95276
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900017,
@@ -204,7 +214,8 @@
                 95264,
                 95265,
                 95266
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900020,
@@ -226,7 +237,8 @@
                 102252,
                 102252,
                 102252
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900025,
@@ -248,7 +260,8 @@
                 103471,
                 103471,
                 103471
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900026,
@@ -261,7 +274,8 @@
             "sort_order": 22010130,
             "drop_group_ids": [
                 21008000
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900027,
@@ -283,7 +297,8 @@
                 21008008,
                 21008009,
                 21008010
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900028,
@@ -305,7 +320,8 @@
                 21008018,
                 21008019,
                 21008020
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900029,
@@ -327,12 +343,13 @@
                 21008028,
                 21008029,
                 21008030
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900030,
             "name": "The Final Treasure II - Small",
-            "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston Pieces, Silver Pieces, Orb Medals, and more.",
+            "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston Pieces, Silver Pieces, Hidden Attribute Orbs, and more.",
             "rarity": 4,
             "max_quantity": 9999,
             "expired_at": 0,
@@ -342,12 +359,13 @@
                 400000068,
                 400000069,
                 400000221
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900031,
             "name": "The Final Treasure II - Large",
-            "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston, SS [From World's End] Boston Pieces, Testaments of the Mighty: Rank 1/Rank 2, Orb Medals, Stamina Potions (Large), and more.",
+            "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston, SS [From World's End] Boston Pieces, Testaments of the Mighty: Rank 1/Rank 2, Hidden Attribute Orbs, Stamina Potions (Large), and more.",
             "rarity": 5,
             "max_quantity": 9999,
             "expired_at": 0,
@@ -358,7 +376,8 @@
                 400000071,
                 400000072,
                 400000222
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900044,
@@ -382,7 +401,8 @@
                 21012341,
                 21012342,
                 21012376
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900045,
@@ -406,7 +426,8 @@
                 21012352,
                 21012353,
                 21012376
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900046,
@@ -430,7 +451,8 @@
                 21012363,
                 21012364,
                 21012376
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900047,
@@ -454,7 +476,8 @@
                 21012374,
                 21012375,
                 21012376
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900048,
@@ -469,7 +492,8 @@
                 400000225,
                 400000069,
                 400000221
-            ]
+            ],
+            "is_message_invisible": 0
         },
         {
             "id": 900049,
@@ -485,7 +509,22 @@
                 400000071,
                 400000072,
                 400000222
-            ]
+            ],
+            "is_message_invisible": 0
+        },
+        {
+            "id": 900055,
+            "name": "Jewel Chest",
+            "description": "Contains uncollected jewels from content that is no longer available after 12/1/2023 PST.<br>Open from Items>Treasure Box.<br>*The maximum number of Jewel Chest drops depends on the jewel acquisition status of relevant content.",
+            "rarity": 5,
+            "max_quantity": 99999,
+            "expired_at": 0,
+            "icon": 900055,
+            "sort_order": 23060140,
+            "drop_group_ids": [
+                500000004
+            ],
+            "is_message_invisible": 1
         },
         {
             "id": 1000900001,
@@ -517,7 +556,8 @@
                 21012911,
                 21012912,
                 21012913
-            ]
+            ],
+            "is_message_invisible": 0
         }
     ]
 }

@@ -20,7 +20,7 @@
                 {
                     "id": 100003,
                     "type": 1,
-                    "quantity": 5000
+                    "quantity": 50000
                 }
             ]
         },
@@ -34,7 +34,7 @@
                 {
                     "id": 100003,
                     "type": 1,
-                    "quantity": 5000
+                    "quantity": 50000
                 }
             ]
         },
@@ -48,7 +48,7 @@
                 {
                     "id": 100003,
                     "type": 1,
-                    "quantity": 5000
+                    "quantity": 50000
                 }
             ]
         },
@@ -76,7 +76,7 @@
                 {
                     "id": 100003,
                     "type": 1,
-                    "quantity": 5000
+                    "quantity": 50000
                 }
             ]
         },
@@ -90,7 +90,7 @@
                 {
                     "id": 100003,
                     "type": 1,
-                    "quantity": 5000
+                    "quantity": 50000
                 }
             ]
         },
@@ -3641,10 +3641,346 @@
             ]
         },
         {
+            "id": 7034,
+            "login_bonus_id": 11683,
+            "day": 1,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 5000
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                },
+                {
+                    "id": 100003,
+                    "type": 1,
+                    "quantity": 1000000
+                }
+            ]
+        },
+        {
+            "id": 7035,
+            "login_bonus_id": 11683,
+            "day": 2,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 810001,
+                    "type": 8,
+                    "quantity": 1
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 2000
+                },
+                {
+                    "id": 840001,
+                    "type": 12,
+                    "quantity": 10
+                }
+            ]
+        },
+        {
+            "id": 7036,
+            "login_bonus_id": 11683,
+            "day": 3,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 500
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 2000
+                },
+                {
+                    "id": 100003,
+                    "type": 1,
+                    "quantity": 1000000
+                }
+            ]
+        },
+        {
+            "id": 7037,
+            "login_bonus_id": 11683,
+            "day": 4,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 501300100,
+                    "type": 26,
+                    "quantity": 30
+                },
+                {
+                    "id": 502300100,
+                    "type": 26,
+                    "quantity": 30
+                },
+                {
+                    "id": 503300100,
+                    "type": 26,
+                    "quantity": 30
+                }
+            ]
+        },
+        {
+            "id": 7038,
+            "login_bonus_id": 11683,
+            "day": 5,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 500
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 2000
+                },
+                {
+                    "id": 840001,
+                    "type": 12,
+                    "quantity": 10
+                }
+            ]
+        },
+        {
+            "id": 7039,
+            "login_bonus_id": 11683,
+            "day": 6,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100003,
+                    "type": 1,
+                    "quantity": 3000000
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 2000
+                },
+                {
+                    "id": 840001,
+                    "type": 12,
+                    "quantity": 10
+                }
+            ]
+        },
+        {
+            "id": 7040,
+            "login_bonus_id": 11683,
+            "day": 7,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 500
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 2000
+                },
+                {
+                    "id": 840001,
+                    "type": 12,
+                    "quantity": 10
+                }
+            ]
+        },
+        {
+            "id": 7041,
+            "login_bonus_id": 11683,
+            "day": 8,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 501400100,
+                    "type": 26,
+                    "quantity": 30
+                },
+                {
+                    "id": 502400100,
+                    "type": 26,
+                    "quantity": 30
+                },
+                {
+                    "id": 503400100,
+                    "type": 26,
+                    "quantity": 30
+                }
+            ]
+        },
+        {
+            "id": 7042,
+            "login_bonus_id": 11683,
+            "day": 9,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 200
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 2000
+                },
+                {
+                    "id": 840001,
+                    "type": 12,
+                    "quantity": 10
+                }
+            ]
+        },
+        {
+            "id": 7043,
+            "login_bonus_id": 11683,
+            "day": 10,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 500
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 3000
+                },
+                {
+                    "id": 840001,
+                    "type": 12,
+                    "quantity": 30
+                }
+            ]
+        },
+        {
+            "id": 7044,
+            "login_bonus_id": 11683,
+            "day": 11,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 400
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 4000
+                },
+                {
+                    "id": 840001,
+                    "type": 12,
+                    "quantity": 30
+                }
+            ]
+        },
+        {
+            "id": 7045,
+            "login_bonus_id": 11683,
+            "day": 12,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 501500100,
+                    "type": 26,
+                    "quantity": 30
+                },
+                {
+                    "id": 502500100,
+                    "type": 26,
+                    "quantity": 30
+                },
+                {
+                    "id": 503500100,
+                    "type": 26,
+                    "quantity": 30
+                }
+            ]
+        },
+        {
+            "id": 7046,
+            "login_bonus_id": 11683,
+            "day": 13,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100003,
+                    "type": 1,
+                    "quantity": 5000000
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 4000
+                },
+                {
+                    "id": 840001,
+                    "type": 12,
+                    "quantity": 30
+                }
+            ]
+        },
+        {
+            "id": 7047,
+            "login_bonus_id": 11683,
+            "day": 14,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 1000
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 4000
+                },
+                {
+                    "id": 840001,
+                    "type": 12,
+                    "quantity": 30
+                }
+            ]
+        },
+        {
             "id": 1000000008,
             "login_bonus_id": 1000000004,
             "day": 1,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3658,7 +3994,7 @@
             "id": 1000000009,
             "login_bonus_id": 1000000004,
             "day": 2,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3672,7 +4008,7 @@
             "id": 1000000010,
             "login_bonus_id": 1000000004,
             "day": 3,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3686,7 +4022,7 @@
             "id": 1000000011,
             "login_bonus_id": 1000000004,
             "day": 4,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3700,7 +4036,7 @@
             "id": 1000000012,
             "login_bonus_id": 1000000004,
             "day": 5,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3714,7 +4050,7 @@
             "id": 1000000013,
             "login_bonus_id": 1000000004,
             "day": 6,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3728,7 +4064,7 @@
             "id": 1000000014,
             "login_bonus_id": 1000000004,
             "day": 7,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3742,7 +4078,7 @@
             "id": 1000000015,
             "login_bonus_id": 1000000004,
             "day": 8,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3756,7 +4092,7 @@
             "id": 1000000016,
             "login_bonus_id": 1000000004,
             "day": 9,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3770,7 +4106,7 @@
             "id": 1000000017,
             "login_bonus_id": 1000000004,
             "day": 10,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3784,7 +4120,7 @@
             "id": 1000000018,
             "login_bonus_id": 1000000004,
             "day": 11,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3798,7 +4134,7 @@
             "id": 1000000019,
             "login_bonus_id": 1000000004,
             "day": 12,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3812,7 +4148,7 @@
             "id": 1000000020,
             "login_bonus_id": 1000000004,
             "day": 13,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3826,7 +4162,7 @@
             "id": 1000000021,
             "login_bonus_id": 1000000004,
             "day": 14,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3840,7 +4176,7 @@
             "id": 1000000022,
             "login_bonus_id": 1000000004,
             "day": 15,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3854,7 +4190,7 @@
             "id": 1000000023,
             "login_bonus_id": 1000000004,
             "day": 16,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3868,7 +4204,7 @@
             "id": 1000000024,
             "login_bonus_id": 1000000004,
             "day": 17,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3882,7 +4218,7 @@
             "id": 1000000025,
             "login_bonus_id": 1000000004,
             "day": 18,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3896,7 +4232,7 @@
             "id": 1000000026,
             "login_bonus_id": 1000000004,
             "day": 19,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3910,7 +4246,7 @@
             "id": 1000000027,
             "login_bonus_id": 1000000004,
             "day": 20,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3924,7 +4260,7 @@
             "id": 1000000028,
             "login_bonus_id": 1000000004,
             "day": 21,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3938,7 +4274,7 @@
             "id": 1000000029,
             "login_bonus_id": 1000000004,
             "day": 22,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3952,7 +4288,7 @@
             "id": 1000000030,
             "login_bonus_id": 1000000004,
             "day": 23,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3966,7 +4302,7 @@
             "id": 1000000031,
             "login_bonus_id": 1000000004,
             "day": 24,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3980,7 +4316,7 @@
             "id": 1000000032,
             "login_bonus_id": 1000000004,
             "day": 25,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -3994,7 +4330,7 @@
             "id": 1000000033,
             "login_bonus_id": 1000000004,
             "day": 26,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -4008,7 +4344,7 @@
             "id": 1000000034,
             "login_bonus_id": 1000000004,
             "day": 27,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -4022,7 +4358,7 @@
             "id": 1000000035,
             "login_bonus_id": 1000000004,
             "day": 28,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -4036,7 +4372,7 @@
             "id": 1000000036,
             "login_bonus_id": 1000000004,
             "day": 29,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -4050,7 +4386,7 @@
             "id": 1000000037,
             "login_bonus_id": 1000000004,
             "day": 30,
-            "message": "Here's your last gift!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14266,7 +14602,7 @@
             "id": 1000000696,
             "login_bonus_id": 1000000085,
             "day": 1,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14280,7 +14616,7 @@
             "id": 1000000697,
             "login_bonus_id": 1000000085,
             "day": 2,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14294,7 +14630,7 @@
             "id": 1000000698,
             "login_bonus_id": 1000000085,
             "day": 3,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14308,7 +14644,7 @@
             "id": 1000000699,
             "login_bonus_id": 1000000085,
             "day": 4,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14322,7 +14658,7 @@
             "id": 1000000700,
             "login_bonus_id": 1000000085,
             "day": 5,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14336,7 +14672,7 @@
             "id": 1000000701,
             "login_bonus_id": 1000000085,
             "day": 6,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14350,7 +14686,7 @@
             "id": 1000000702,
             "login_bonus_id": 1000000085,
             "day": 7,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14364,7 +14700,7 @@
             "id": 1000000703,
             "login_bonus_id": 1000000085,
             "day": 8,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14378,7 +14714,7 @@
             "id": 1000000704,
             "login_bonus_id": 1000000085,
             "day": 9,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14392,7 +14728,7 @@
             "id": 1000000705,
             "login_bonus_id": 1000000085,
             "day": 10,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14406,7 +14742,7 @@
             "id": 1000000706,
             "login_bonus_id": 1000000085,
             "day": 11,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14420,7 +14756,7 @@
             "id": 1000000707,
             "login_bonus_id": 1000000085,
             "day": 12,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14434,7 +14770,7 @@
             "id": 1000000708,
             "login_bonus_id": 1000000085,
             "day": 13,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14448,7 +14784,7 @@
             "id": 1000000709,
             "login_bonus_id": 1000000085,
             "day": 14,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14462,7 +14798,7 @@
             "id": 1000000710,
             "login_bonus_id": 1000000085,
             "day": 15,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14476,7 +14812,7 @@
             "id": 1000000711,
             "login_bonus_id": 1000000085,
             "day": 16,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14490,7 +14826,7 @@
             "id": 1000000712,
             "login_bonus_id": 1000000085,
             "day": 17,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14504,7 +14840,7 @@
             "id": 1000000713,
             "login_bonus_id": 1000000085,
             "day": 18,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14518,7 +14854,7 @@
             "id": 1000000714,
             "login_bonus_id": 1000000085,
             "day": 19,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14532,7 +14868,7 @@
             "id": 1000000715,
             "login_bonus_id": 1000000085,
             "day": 20,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14546,7 +14882,7 @@
             "id": 1000000716,
             "login_bonus_id": 1000000085,
             "day": 21,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14560,7 +14896,7 @@
             "id": 1000000717,
             "login_bonus_id": 1000000085,
             "day": 22,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14574,7 +14910,7 @@
             "id": 1000000718,
             "login_bonus_id": 1000000085,
             "day": 23,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14588,7 +14924,7 @@
             "id": 1000000719,
             "login_bonus_id": 1000000085,
             "day": 24,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14602,7 +14938,7 @@
             "id": 1000000720,
             "login_bonus_id": 1000000085,
             "day": 25,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14616,7 +14952,7 @@
             "id": 1000000721,
             "login_bonus_id": 1000000085,
             "day": 26,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14630,7 +14966,7 @@
             "id": 1000000722,
             "login_bonus_id": 1000000085,
             "day": 27,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14644,7 +14980,7 @@
             "id": 1000000723,
             "login_bonus_id": 1000000085,
             "day": 28,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14658,7 +14994,7 @@
             "id": 1000000724,
             "login_bonus_id": 1000000085,
             "day": 29,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -14672,7 +15008,7 @@
             "id": 1000000725,
             "login_bonus_id": 1000000085,
             "day": 30,
-            "message": "Here's your last gift!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -17404,7 +17740,7 @@
             "id": 1000000893,
             "login_bonus_id": 1000000109,
             "day": 1,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -17428,7 +17764,7 @@
             "id": 1000000894,
             "login_bonus_id": 1000000109,
             "day": 2,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -17452,7 +17788,7 @@
             "id": 1000000895,
             "login_bonus_id": 1000000109,
             "day": 3,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -17476,7 +17812,7 @@
             "id": 1000000896,
             "login_bonus_id": 1000000109,
             "day": 4,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -17500,7 +17836,7 @@
             "id": 1000000897,
             "login_bonus_id": 1000000109,
             "day": 5,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -17524,7 +17860,7 @@
             "id": 1000000898,
             "login_bonus_id": 1000000109,
             "day": 6,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -17548,7 +17884,7 @@
             "id": 1000000899,
             "login_bonus_id": 1000000109,
             "day": 7,
-            "message": "Here's your last gift!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23747,7 +24083,7 @@
             "id": 1000001250,
             "login_bonus_id": 1000000169,
             "day": 1,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23761,7 +24097,7 @@
             "id": 1000001251,
             "login_bonus_id": 1000000169,
             "day": 2,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23775,7 +24111,7 @@
             "id": 1000001252,
             "login_bonus_id": 1000000169,
             "day": 3,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23789,7 +24125,7 @@
             "id": 1000001253,
             "login_bonus_id": 1000000169,
             "day": 4,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23803,7 +24139,7 @@
             "id": 1000001254,
             "login_bonus_id": 1000000169,
             "day": 5,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23817,7 +24153,7 @@
             "id": 1000001255,
             "login_bonus_id": 1000000169,
             "day": 6,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23831,7 +24167,7 @@
             "id": 1000001256,
             "login_bonus_id": 1000000169,
             "day": 7,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23845,7 +24181,7 @@
             "id": 1000001257,
             "login_bonus_id": 1000000169,
             "day": 8,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23859,7 +24195,7 @@
             "id": 1000001258,
             "login_bonus_id": 1000000169,
             "day": 9,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23873,7 +24209,7 @@
             "id": 1000001259,
             "login_bonus_id": 1000000169,
             "day": 10,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23887,7 +24223,7 @@
             "id": 1000001260,
             "login_bonus_id": 1000000169,
             "day": 11,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23901,7 +24237,7 @@
             "id": 1000001261,
             "login_bonus_id": 1000000169,
             "day": 12,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23915,7 +24251,7 @@
             "id": 1000001262,
             "login_bonus_id": 1000000169,
             "day": 13,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23929,7 +24265,7 @@
             "id": 1000001263,
             "login_bonus_id": 1000000169,
             "day": 14,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23943,7 +24279,7 @@
             "id": 1000001264,
             "login_bonus_id": 1000000169,
             "day": 15,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23957,7 +24293,7 @@
             "id": 1000001265,
             "login_bonus_id": 1000000169,
             "day": 16,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23971,7 +24307,7 @@
             "id": 1000001266,
             "login_bonus_id": 1000000169,
             "day": 17,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23985,7 +24321,7 @@
             "id": 1000001267,
             "login_bonus_id": 1000000169,
             "day": 18,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -23999,7 +24335,7 @@
             "id": 1000001268,
             "login_bonus_id": 1000000169,
             "day": 19,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -24013,7 +24349,7 @@
             "id": 1000001269,
             "login_bonus_id": 1000000169,
             "day": 20,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -24027,7 +24363,7 @@
             "id": 1000001270,
             "login_bonus_id": 1000000169,
             "day": 21,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -24041,7 +24377,7 @@
             "id": 1000001271,
             "login_bonus_id": 1000000169,
             "day": 22,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -24055,7 +24391,7 @@
             "id": 1000001272,
             "login_bonus_id": 1000000169,
             "day": 23,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -24069,7 +24405,7 @@
             "id": 1000001273,
             "login_bonus_id": 1000000169,
             "day": 24,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -24083,7 +24419,7 @@
             "id": 1000001274,
             "login_bonus_id": 1000000169,
             "day": 25,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -24097,7 +24433,7 @@
             "id": 1000001275,
             "login_bonus_id": 1000000169,
             "day": 26,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -24111,7 +24447,7 @@
             "id": 1000001276,
             "login_bonus_id": 1000000169,
             "day": 27,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -24125,7 +24461,7 @@
             "id": 1000001277,
             "login_bonus_id": 1000000169,
             "day": 28,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -24139,7 +24475,7 @@
             "id": 1000001278,
             "login_bonus_id": 1000000169,
             "day": 29,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -24153,7 +24489,7 @@
             "id": 1000001279,
             "login_bonus_id": 1000000169,
             "day": 30,
-            "message": "Here's your last gift!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -37513,7 +37849,7 @@
             "id": 1000002071,
             "login_bonus_id": 1000000287,
             "day": 1,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -37527,7 +37863,7 @@
             "id": 1000002072,
             "login_bonus_id": 1000000287,
             "day": 2,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -37541,7 +37877,7 @@
             "id": 1000002073,
             "login_bonus_id": 1000000287,
             "day": 3,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -37555,7 +37891,7 @@
             "id": 1000002074,
             "login_bonus_id": 1000000287,
             "day": 4,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -37569,7 +37905,7 @@
             "id": 1000002075,
             "login_bonus_id": 1000000287,
             "day": 5,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -37583,7 +37919,7 @@
             "id": 1000002076,
             "login_bonus_id": 1000000287,
             "day": 6,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -37597,7 +37933,7 @@
             "id": 1000002077,
             "login_bonus_id": 1000000287,
             "day": 7,
-            "message": "Here's your last gift!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50365,7 +50701,7 @@
             "id": 1000002839,
             "login_bonus_id": 1000000396,
             "day": 1,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50379,7 +50715,7 @@
             "id": 1000002840,
             "login_bonus_id": 1000000396,
             "day": 2,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50393,7 +50729,7 @@
             "id": 1000002841,
             "login_bonus_id": 1000000396,
             "day": 3,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50407,7 +50743,7 @@
             "id": 1000002842,
             "login_bonus_id": 1000000396,
             "day": 4,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50421,7 +50757,7 @@
             "id": 1000002843,
             "login_bonus_id": 1000000396,
             "day": 5,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50435,7 +50771,7 @@
             "id": 1000002844,
             "login_bonus_id": 1000000396,
             "day": 6,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50449,7 +50785,7 @@
             "id": 1000002845,
             "login_bonus_id": 1000000396,
             "day": 7,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50463,7 +50799,7 @@
             "id": 1000002846,
             "login_bonus_id": 1000000396,
             "day": 8,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50477,7 +50813,7 @@
             "id": 1000002847,
             "login_bonus_id": 1000000396,
             "day": 9,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50491,7 +50827,7 @@
             "id": 1000002848,
             "login_bonus_id": 1000000396,
             "day": 10,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50505,7 +50841,7 @@
             "id": 1000002849,
             "login_bonus_id": 1000000396,
             "day": 11,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50519,7 +50855,7 @@
             "id": 1000002850,
             "login_bonus_id": 1000000396,
             "day": 12,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50533,7 +50869,7 @@
             "id": 1000002851,
             "login_bonus_id": 1000000396,
             "day": 13,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50547,7 +50883,7 @@
             "id": 1000002852,
             "login_bonus_id": 1000000396,
             "day": 14,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50561,7 +50897,7 @@
             "id": 1000002853,
             "login_bonus_id": 1000000396,
             "day": 15,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50575,7 +50911,7 @@
             "id": 1000002854,
             "login_bonus_id": 1000000396,
             "day": 16,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50589,7 +50925,7 @@
             "id": 1000002855,
             "login_bonus_id": 1000000396,
             "day": 17,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50603,7 +50939,7 @@
             "id": 1000002856,
             "login_bonus_id": 1000000396,
             "day": 18,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50617,7 +50953,7 @@
             "id": 1000002857,
             "login_bonus_id": 1000000396,
             "day": 19,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50631,7 +50967,7 @@
             "id": 1000002858,
             "login_bonus_id": 1000000396,
             "day": 20,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50645,7 +50981,7 @@
             "id": 1000002859,
             "login_bonus_id": 1000000396,
             "day": 21,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50659,7 +50995,7 @@
             "id": 1000002860,
             "login_bonus_id": 1000000396,
             "day": 22,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50673,7 +51009,7 @@
             "id": 1000002861,
             "login_bonus_id": 1000000396,
             "day": 23,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50687,7 +51023,7 @@
             "id": 1000002862,
             "login_bonus_id": 1000000396,
             "day": 24,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50701,7 +51037,7 @@
             "id": 1000002863,
             "login_bonus_id": 1000000396,
             "day": 25,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50715,7 +51051,7 @@
             "id": 1000002864,
             "login_bonus_id": 1000000396,
             "day": 26,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50729,7 +51065,7 @@
             "id": 1000002865,
             "login_bonus_id": 1000000396,
             "day": 27,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50743,7 +51079,7 @@
             "id": 1000002866,
             "login_bonus_id": 1000000396,
             "day": 28,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50757,7 +51093,7 @@
             "id": 1000002867,
             "login_bonus_id": 1000000396,
             "day": 29,
-            "message": "Use Gold Pieces to unlock the limits of your favorite Styles!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -50771,7 +51107,7 @@
             "id": 1000002868,
             "login_bonus_id": 1000000396,
             "day": 30,
-            "message": "Here's your last gift!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -64880,7 +65216,7 @@
             "id": 1000003664,
             "login_bonus_id": 1000000511,
             "day": 1,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -64894,7 +65230,7 @@
             "id": 1000003665,
             "login_bonus_id": 1000000511,
             "day": 2,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -64908,7 +65244,7 @@
             "id": 1000003666,
             "login_bonus_id": 1000000511,
             "day": 3,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -64922,7 +65258,7 @@
             "id": 1000003667,
             "login_bonus_id": 1000000511,
             "day": 4,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -64936,7 +65272,7 @@
             "id": 1000003668,
             "login_bonus_id": 1000000511,
             "day": 5,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -64950,7 +65286,7 @@
             "id": 1000003669,
             "login_bonus_id": 1000000511,
             "day": 6,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -64964,7 +65300,7 @@
             "id": 1000003670,
             "login_bonus_id": 1000000511,
             "day": 7,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -64978,7 +65314,7 @@
             "id": 1000003671,
             "login_bonus_id": 1000000511,
             "day": 8,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -64992,7 +65328,7 @@
             "id": 1000003672,
             "login_bonus_id": 1000000511,
             "day": 9,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65006,7 +65342,7 @@
             "id": 1000003673,
             "login_bonus_id": 1000000511,
             "day": 10,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65020,7 +65356,7 @@
             "id": 1000003674,
             "login_bonus_id": 1000000511,
             "day": 11,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65034,7 +65370,7 @@
             "id": 1000003675,
             "login_bonus_id": 1000000511,
             "day": 12,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65048,7 +65384,7 @@
             "id": 1000003676,
             "login_bonus_id": 1000000511,
             "day": 13,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65062,7 +65398,7 @@
             "id": 1000003677,
             "login_bonus_id": 1000000511,
             "day": 14,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65076,7 +65412,7 @@
             "id": 1000003678,
             "login_bonus_id": 1000000511,
             "day": 15,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65090,7 +65426,7 @@
             "id": 1000003679,
             "login_bonus_id": 1000000511,
             "day": 16,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65104,7 +65440,7 @@
             "id": 1000003680,
             "login_bonus_id": 1000000511,
             "day": 17,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65118,7 +65454,7 @@
             "id": 1000003681,
             "login_bonus_id": 1000000511,
             "day": 18,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65132,7 +65468,7 @@
             "id": 1000003682,
             "login_bonus_id": 1000000511,
             "day": 19,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65146,7 +65482,7 @@
             "id": 1000003683,
             "login_bonus_id": 1000000511,
             "day": 20,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65160,7 +65496,7 @@
             "id": 1000003684,
             "login_bonus_id": 1000000511,
             "day": 21,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65174,7 +65510,7 @@
             "id": 1000003685,
             "login_bonus_id": 1000000511,
             "day": 22,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65188,7 +65524,7 @@
             "id": 1000003686,
             "login_bonus_id": 1000000511,
             "day": 23,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65202,7 +65538,7 @@
             "id": 1000003687,
             "login_bonus_id": 1000000511,
             "day": 24,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65216,7 +65552,7 @@
             "id": 1000003688,
             "login_bonus_id": 1000000511,
             "day": 25,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65230,7 +65566,7 @@
             "id": 1000003689,
             "login_bonus_id": 1000000511,
             "day": 26,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65244,7 +65580,7 @@
             "id": 1000003690,
             "login_bonus_id": 1000000511,
             "day": 27,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65258,7 +65594,7 @@
             "id": 1000003691,
             "login_bonus_id": 1000000511,
             "day": 28,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65272,7 +65608,7 @@
             "id": 1000003692,
             "login_bonus_id": 1000000511,
             "day": 29,
-            "message": "Here you go! Enjoy your free jewels!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65286,7 +65622,7 @@
             "id": 1000003693,
             "login_bonus_id": 1000000511,
             "day": 30,
-            "message": "Here's your last gift!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65300,7 +65636,7 @@
             "id": 1000003694,
             "login_bonus_id": 1000000512,
             "day": 1,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65314,7 +65650,7 @@
             "id": 1000003695,
             "login_bonus_id": 1000000512,
             "day": 2,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65328,7 +65664,7 @@
             "id": 1000003696,
             "login_bonus_id": 1000000512,
             "day": 3,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65342,7 +65678,7 @@
             "id": 1000003697,
             "login_bonus_id": 1000000512,
             "day": 4,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65356,7 +65692,7 @@
             "id": 1000003698,
             "login_bonus_id": 1000000512,
             "day": 5,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65370,7 +65706,7 @@
             "id": 1000003699,
             "login_bonus_id": 1000000512,
             "day": 6,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -65384,7 +65720,7 @@
             "id": 1000003700,
             "login_bonus_id": 1000000512,
             "day": 7,
-            "message": "Here's your last gift!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -80500,7 +80836,7 @@
             "id": 1000004551,
             "login_bonus_id": 1000000636,
             "day": 1,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -80519,7 +80855,7 @@
             "id": 1000004552,
             "login_bonus_id": 1000000636,
             "day": 2,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -80538,7 +80874,7 @@
             "id": 1000004553,
             "login_bonus_id": 1000000636,
             "day": 3,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -80557,7 +80893,7 @@
             "id": 1000004554,
             "login_bonus_id": 1000000636,
             "day": 4,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -80576,7 +80912,7 @@
             "id": 1000004555,
             "login_bonus_id": 1000000636,
             "day": 5,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -80595,7 +80931,7 @@
             "id": 1000004556,
             "login_bonus_id": 1000000636,
             "day": 6,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -80614,7 +80950,7 @@
             "id": 1000004557,
             "login_bonus_id": 1000000636,
             "day": 7,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -80633,7 +80969,7 @@
             "id": 1000004558,
             "login_bonus_id": 1000000636,
             "day": 8,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -80652,7 +80988,7 @@
             "id": 1000004559,
             "login_bonus_id": 1000000636,
             "day": 9,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -80671,7 +81007,7 @@
             "id": 1000004560,
             "login_bonus_id": 1000000636,
             "day": 10,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -80690,7 +81026,7 @@
             "id": 1000004561,
             "login_bonus_id": 1000000636,
             "day": 11,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -80709,7 +81045,7 @@
             "id": 1000004562,
             "login_bonus_id": 1000000636,
             "day": 12,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -80728,7 +81064,7 @@
             "id": 1000004563,
             "login_bonus_id": 1000000636,
             "day": 13,
-            "message": "Don't forget to claim your gift tomorrow, too!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -80747,7 +81083,7 @@
             "id": 1000004564,
             "login_bonus_id": 1000000636,
             "day": 14,
-            "message": "Here's your last gift!",
+            "message": "",
             "thumbnail_image_path": "",
             "rewards": [
                 {
@@ -96534,6 +96870,1516 @@
                     "id": 840003,
                     "type": 12,
                     "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005524,
+            "login_bonus_id": 1000000758,
+            "day": 1,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 711606,
+                    "type": 14,
+                    "quantity": 1
+                },
+                {
+                    "id": 711705,
+                    "type": 14,
+                    "quantity": 1
+                },
+                {
+                    "id": 711806,
+                    "type": 14,
+                    "quantity": 1
+                },
+                {
+                    "id": 711905,
+                    "type": 14,
+                    "quantity": 1
+                },
+                {
+                    "id": 712001,
+                    "type": 14,
+                    "quantity": 1
+                },
+                {
+                    "id": 712101,
+                    "type": 14,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "id": 1000005525,
+            "login_bonus_id": 1000000758,
+            "day": 2,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 711606,
+                    "type": 3,
+                    "quantity": 300
+                },
+                {
+                    "id": 711705,
+                    "type": 3,
+                    "quantity": 300
+                },
+                {
+                    "id": 711806,
+                    "type": 3,
+                    "quantity": 300
+                },
+                {
+                    "id": 711905,
+                    "type": 3,
+                    "quantity": 300
+                },
+                {
+                    "id": 712001,
+                    "type": 3,
+                    "quantity": 300
+                },
+                {
+                    "id": 712101,
+                    "type": 3,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000005526,
+            "login_bonus_id": 1000000758,
+            "day": 3,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 711606,
+                    "type": 3,
+                    "quantity": 300
+                },
+                {
+                    "id": 711705,
+                    "type": 3,
+                    "quantity": 300
+                },
+                {
+                    "id": 711806,
+                    "type": 3,
+                    "quantity": 300
+                },
+                {
+                    "id": 711905,
+                    "type": 3,
+                    "quantity": 300
+                },
+                {
+                    "id": 712001,
+                    "type": 3,
+                    "quantity": 300
+                },
+                {
+                    "id": 712101,
+                    "type": 3,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000005527,
+            "login_bonus_id": 1000000759,
+            "day": 1,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 10000,
+                    "type": 37,
+                    "quantity": 1000
+                }
+            ]
+        },
+        {
+            "id": 1000005528,
+            "login_bonus_id": 1000000759,
+            "day": 2,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 10000,
+                    "type": 37,
+                    "quantity": 1000
+                }
+            ]
+        },
+        {
+            "id": 1000005529,
+            "login_bonus_id": 1000000759,
+            "day": 3,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 10000,
+                    "type": 37,
+                    "quantity": 1000
+                }
+            ]
+        },
+        {
+            "id": 1000005530,
+            "login_bonus_id": 1000000759,
+            "day": 4,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 10000,
+                    "type": 37,
+                    "quantity": 1000
+                }
+            ]
+        },
+        {
+            "id": 1000005531,
+            "login_bonus_id": 1000000759,
+            "day": 5,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 10000,
+                    "type": 37,
+                    "quantity": 1000
+                }
+            ]
+        },
+        {
+            "id": 1000005532,
+            "login_bonus_id": 1000000759,
+            "day": 6,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 10000,
+                    "type": 37,
+                    "quantity": 1000
+                }
+            ]
+        },
+        {
+            "id": 1000005533,
+            "login_bonus_id": 1000000759,
+            "day": 7,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 10000,
+                    "type": 37,
+                    "quantity": 1000
+                }
+            ]
+        },
+        {
+            "id": 1000005534,
+            "login_bonus_id": 1000000760,
+            "day": 1,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 5
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 500
+                }
+            ]
+        },
+        {
+            "id": 1000005535,
+            "login_bonus_id": 1000000760,
+            "day": 2,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 5
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 500
+                }
+            ]
+        },
+        {
+            "id": 1000005536,
+            "login_bonus_id": 1000000760,
+            "day": 3,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 5
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 500
+                }
+            ]
+        },
+        {
+            "id": 1000005537,
+            "login_bonus_id": 1000000761,
+            "day": 1,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 102600100,
+                    "type": 15,
+                    "quantity": 1
+                },
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005538,
+            "login_bonus_id": 1000000761,
+            "day": 2,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005539,
+            "login_bonus_id": 1000000761,
+            "day": 3,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005540,
+            "login_bonus_id": 1000000761,
+            "day": 4,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005541,
+            "login_bonus_id": 1000000761,
+            "day": 5,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005542,
+            "login_bonus_id": 1000000761,
+            "day": 6,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005543,
+            "login_bonus_id": 1000000761,
+            "day": 7,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005544,
+            "login_bonus_id": 1000000761,
+            "day": 8,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005545,
+            "login_bonus_id": 1000000761,
+            "day": 9,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005546,
+            "login_bonus_id": 1000000761,
+            "day": 10,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005547,
+            "login_bonus_id": 1000000761,
+            "day": 11,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005548,
+            "login_bonus_id": 1000000761,
+            "day": 12,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005549,
+            "login_bonus_id": 1000000761,
+            "day": 13,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005550,
+            "login_bonus_id": 1000000761,
+            "day": 14,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005551,
+            "login_bonus_id": 1000000761,
+            "day": 15,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005552,
+            "login_bonus_id": 1000000761,
+            "day": 16,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005553,
+            "login_bonus_id": 1000000761,
+            "day": 17,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005554,
+            "login_bonus_id": 1000000761,
+            "day": 18,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005555,
+            "login_bonus_id": 1000000761,
+            "day": 19,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005556,
+            "login_bonus_id": 1000000761,
+            "day": 20,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005557,
+            "login_bonus_id": 1000000761,
+            "day": 21,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005558,
+            "login_bonus_id": 1000000761,
+            "day": 22,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005559,
+            "login_bonus_id": 1000000761,
+            "day": 23,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005560,
+            "login_bonus_id": 1000000761,
+            "day": 24,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005561,
+            "login_bonus_id": 1000000761,
+            "day": 25,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005562,
+            "login_bonus_id": 1000000761,
+            "day": 26,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005563,
+            "login_bonus_id": 1000000761,
+            "day": 27,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005564,
+            "login_bonus_id": 1000000761,
+            "day": 28,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005565,
+            "login_bonus_id": 1000000761,
+            "day": 29,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005566,
+            "login_bonus_id": 1000000761,
+            "day": 30,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 300
+                },
+                {
+                    "id": 950014,
+                    "type": 32,
+                    "quantity": 100
+                }
+            ]
+        },
+        {
+            "id": 1000005567,
+            "login_bonus_id": 1000000762,
+            "day": 1,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 881006,
+                    "type": 20,
+                    "quantity": 8
+                },
+                {
+                    "id": 880009,
+                    "type": 20,
+                    "quantity": 4
+                },
+                {
+                    "id": 100003,
+                    "type": 1,
+                    "quantity": 2000000
+                }
+            ]
+        },
+        {
+            "id": 1000005568,
+            "login_bonus_id": 1000000762,
+            "day": 2,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 881006,
+                    "type": 20,
+                    "quantity": 8
+                },
+                {
+                    "id": 880009,
+                    "type": 20,
+                    "quantity": 8
+                },
+                {
+                    "id": 100003,
+                    "type": 1,
+                    "quantity": 2000000
+                }
+            ]
+        },
+        {
+            "id": 1000005569,
+            "login_bonus_id": 1000000762,
+            "day": 3,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 881006,
+                    "type": 20,
+                    "quantity": 8
+                },
+                {
+                    "id": 880009,
+                    "type": 20,
+                    "quantity": 4
+                },
+                {
+                    "id": 100003,
+                    "type": 1,
+                    "quantity": 2000000
+                }
+            ]
+        },
+        {
+            "id": 1000005570,
+            "login_bonus_id": 1000000763,
+            "day": 1,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 1100868,
+                    "type": 7,
+                    "quantity": 10000
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "id": 1000005571,
+            "login_bonus_id": 1000000763,
+            "day": 2,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 1100868,
+                    "type": 7,
+                    "quantity": 10000
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "id": 1000005572,
+            "login_bonus_id": 1000000763,
+            "day": 3,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 1100868,
+                    "type": 7,
+                    "quantity": 10000
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "id": 1000005573,
+            "login_bonus_id": 1000000764,
+            "day": 1,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 5000
+                },
+                {
+                    "id": 1001100256,
+                    "type": 7,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "id": 1000005574,
+            "login_bonus_id": 1000000764,
+            "day": 2,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 5000
+                },
+                {
+                    "id": 1001100256,
+                    "type": 7,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "id": 1000005575,
+            "login_bonus_id": 1000000764,
+            "day": 3,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 100002,
+                    "type": 1,
+                    "quantity": 5000
+                },
+                {
+                    "id": 1001100256,
+                    "type": 7,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "id": 1000005576,
+            "login_bonus_id": 1000000765,
+            "day": 1,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 810072,
+                    "type": 8,
+                    "quantity": 100
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 15
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005577,
+            "login_bonus_id": 1000000765,
+            "day": 2,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 810072,
+                    "type": 8,
+                    "quantity": 100
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 15
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005578,
+            "login_bonus_id": 1000000765,
+            "day": 3,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 810072,
+                    "type": 8,
+                    "quantity": 100
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 15
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005579,
+            "login_bonus_id": 1000000765,
+            "day": 4,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 810072,
+                    "type": 8,
+                    "quantity": 100
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 15
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005580,
+            "login_bonus_id": 1000000765,
+            "day": 5,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 810072,
+                    "type": 8,
+                    "quantity": 100
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 15
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005581,
+            "login_bonus_id": 1000000765,
+            "day": 6,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 810072,
+                    "type": 8,
+                    "quantity": 100
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 15
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005582,
+            "login_bonus_id": 1000000765,
+            "day": 7,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 810072,
+                    "type": 8,
+                    "quantity": 100
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 15
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005583,
+            "login_bonus_id": 1000000766,
+            "day": 1,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "id": 1000005584,
+            "login_bonus_id": 1000000766,
+            "day": 2,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "id": 1000005585,
+            "login_bonus_id": 1000000766,
+            "day": 3,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 5
+                }
+            ]
+        },
+        {
+            "id": 1000005586,
+            "login_bonus_id": 1000000767,
+            "day": 1,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 105001,
+                    "type": 2,
+                    "quantity": 25
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 15
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005587,
+            "login_bonus_id": 1000000767,
+            "day": 2,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 105001,
+                    "type": 2,
+                    "quantity": 25
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 15
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005588,
+            "login_bonus_id": 1000000767,
+            "day": 3,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 105001,
+                    "type": 2,
+                    "quantity": 25
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 15
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005589,
+            "login_bonus_id": 1000000767,
+            "day": 4,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 105001,
+                    "type": 2,
+                    "quantity": 25
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 15
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005590,
+            "login_bonus_id": 1000000767,
+            "day": 5,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 105001,
+                    "type": 2,
+                    "quantity": 25
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 15
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005591,
+            "login_bonus_id": 1000000767,
+            "day": 6,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 105001,
+                    "type": 2,
+                    "quantity": 25
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 15
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005592,
+            "login_bonus_id": 1000000767,
+            "day": 7,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 105001,
+                    "type": 2,
+                    "quantity": 25
+                },
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 15
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000005593,
+            "login_bonus_id": 1000000768,
+            "day": 1,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 5
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 500
+                }
+            ]
+        },
+        {
+            "id": 1000005594,
+            "login_bonus_id": 1000000768,
+            "day": 2,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 5
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 500
+                }
+            ]
+        },
+        {
+            "id": 1000005595,
+            "login_bonus_id": 1000000768,
+            "day": 3,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 840002,
+                    "type": 12,
+                    "quantity": 5
+                },
+                {
+                    "id": 830001,
+                    "type": 11,
+                    "quantity": 500
+                }
+            ]
+        },
+        {
+            "id": 1000005596,
+            "login_bonus_id": 1000000769,
+            "day": 1,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 920001,
+                    "type": 7,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "id": 1000005597,
+            "login_bonus_id": 1000000769,
+            "day": 2,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 920001,
+                    "type": 7,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "id": 1000005598,
+            "login_bonus_id": 1000000769,
+            "day": 3,
+            "message": "",
+            "thumbnail_image_path": "",
+            "rewards": [
+                {
+                    "id": 920001,
+                    "type": 7,
+                    "quantity": 1
                 }
             ]
         }

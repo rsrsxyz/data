@@ -1971,6 +1971,56 @@
             "selling_price": 0
         },
         {
+            "id": 800268,
+            "name": "Romancing Festival Medal 134",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800268,
+            "max_quantity": 99999999,
+            "expired_at": 1703811599,
+            "sort_order": 23120150,
+            "selling_price": 0
+        },
+        {
+            "id": 800269,
+            "name": "Romancing Festival Medal 133",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800269,
+            "max_quantity": 99999999,
+            "expired_at": 1703811599,
+            "sort_order": 23120155,
+            "selling_price": 0
+        },
+        {
+            "id": 800271,
+            "name": "Romancing Festival Medal 135",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800271,
+            "max_quantity": 99999999,
+            "expired_at": 1705193999,
+            "sort_order": 23120160,
+            "selling_price": 0
+        },
+        {
+            "id": 800272,
+            "name": "Romancing Festival Medal 136",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800272,
+            "max_quantity": 99999999,
+            "expired_at": 1704416399,
+            "sort_order": 23120760,
+            "selling_price": 0
+        },
+        {
+            "id": 800275,
+            "name": "Ultra Deluxe Summon Medal 33",
+            "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+            "icon": 800275,
+            "max_quantity": 99999999,
+            "expired_at": 1704416399,
+            "sort_order": 23120755,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -1995,7 +2045,7 @@
             "name": "Zweig Medal",
             "flavor_text": "Medal obtained from the Zweig Battle Coliseum. Can be exchanged for weapons and items.",
             "icon": 860004,
-            "max_quantity": 9999,
+            "max_quantity": 999999,
             "expired_at": 0,
             "sort_order": 983,
             "selling_price": 0
@@ -2061,11 +2111,21 @@
             "selling_price": 0
         },
         {
+            "id": 860015,
+            "name": "Romancing Medal",
+            "flavor_text": "Can be exchanged for items at the Romancing Shop.",
+            "icon": 860015,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 49999500,
+            "selling_price": 0
+        },
+        {
             "id": 882001,
             "name": "Hidden Dojo Emblem: Purple",
             "flavor_text": "Proof of victory in the Hidden Dojo. Can be exchanged for items.",
             "icon": 882001,
-            "max_quantity": 99999,
+            "max_quantity": 999999,
             "expired_at": 0,
             "sort_order": 49999695,
             "selling_price": 0
@@ -2075,7 +2135,7 @@
             "name": "Hidden Dojo Emblem: Green",
             "flavor_text": "Proof of victory in the Hidden Dojo. Can be exchanged for items.",
             "icon": 882002,
-            "max_quantity": 99999,
+            "max_quantity": 999999,
             "expired_at": 0,
             "sort_order": 49999690,
             "selling_price": 0
@@ -2085,7 +2145,7 @@
             "name": "Final Isle Emblem (Blue)",
             "flavor_text": "Proof of victory in The Final Isle. Can be exchanged for items.",
             "icon": 910001,
-            "max_quantity": 99999,
+            "max_quantity": 999999,
             "expired_at": 0,
             "sort_order": 49999680,
             "selling_price": 0
@@ -2095,7 +2155,7 @@
             "name": "Final Isle Emblem (Yellow)",
             "flavor_text": "Proof of victory in The Final Isle. Can be exchanged for items.",
             "icon": 910002,
-            "max_quantity": 99999,
+            "max_quantity": 999999,
             "expired_at": 0,
             "sort_order": 49999679,
             "selling_price": 0
@@ -2105,7 +2165,7 @@
             "name": "Final Isle Emblem (Red)",
             "flavor_text": "Proof of victory in The Final Isle. Can be exchanged for items.",
             "icon": 910003,
-            "max_quantity": 99999,
+            "max_quantity": 999999,
             "expired_at": 0,
             "sort_order": 49999678,
             "selling_price": 0
@@ -2115,7 +2175,7 @@
             "name": "Final Isle Emblem (Green)",
             "flavor_text": "Proof of victory in The Final Isle. Can be exchanged for items.",
             "icon": 910004,
-            "max_quantity": 99999,
+            "max_quantity": 999999,
             "expired_at": 0,
             "sort_order": 49999677,
             "selling_price": 0
@@ -4933,7 +4993,7 @@
         {
             "id": 1100552,
             "name": "Ancient Metal Chunk",
-            "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "Material for forging equipment.",
             "icon": 1100532,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -4943,7 +5003,7 @@
         {
             "id": 1100553,
             "name": "Ancient Sword Mold Piece",
-            "flavor_text": "[Weapon: Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Sword] Material for forging equipment.",
             "icon": 1100537,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -4953,7 +5013,7 @@
         {
             "id": 1100554,
             "name": "Ancient G. Sword Mold Piece",
-            "flavor_text": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: G. Sword] Material for forging equipment.",
             "icon": 1100538,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -4963,7 +5023,7 @@
         {
             "id": 1100555,
             "name": "Ancient Axe Mold Piece",
-            "flavor_text": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Axe] Material for forging equipment.",
             "icon": 1100539,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -4973,7 +5033,7 @@
         {
             "id": 1100556,
             "name": "Ancient Club Mold Piece",
-            "flavor_text": "[Weapon: Club] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Club] Material for forging equipment.",
             "icon": 1100540,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -4983,7 +5043,7 @@
         {
             "id": 1100557,
             "name": "Ancient M. Arts Mold Piece",
-            "flavor_text": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: M. Arts] Material for forging equipment.",
             "icon": 1100541,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -4993,7 +5053,7 @@
         {
             "id": 1100558,
             "name": "Ancient Gun Mold Piece",
-            "flavor_text": "[Weapon: Gun] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Gun] Material for forging equipment.",
             "icon": 1100542,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5003,7 +5063,7 @@
         {
             "id": 1100559,
             "name": "Ancient S. Sword Mold Piece",
-            "flavor_text": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: S. Sword] Material for forging equipment.",
             "icon": 1100543,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5013,7 +5073,7 @@
         {
             "id": 1100560,
             "name": "Ancient Spear Mold Piece",
-            "flavor_text": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Spear] Material for forging equipment.",
             "icon": 1100544,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5023,7 +5083,7 @@
         {
             "id": 1100561,
             "name": "Ancient Bow Mold Piece",
-            "flavor_text": "[Weapon: Bow] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Bow] Material for forging equipment.",
             "icon": 1100545,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5033,7 +5093,7 @@
         {
             "id": 1100562,
             "name": "Ancient Staff Mold Piece",
-            "flavor_text": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Staff] Material for forging equipment.",
             "icon": 1100546,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5193,7 +5253,7 @@
         {
             "id": 1100582,
             "name": "Black Iron Chunk",
-            "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "Material for forging equipment.",
             "icon": 1100582,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5203,7 +5263,7 @@
         {
             "id": 1100583,
             "name": "Black Iron Sword Mold Piece",
-            "flavor_text": "[Weapon: Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Sword] Material for forging equipment.",
             "icon": 1100583,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5213,7 +5273,7 @@
         {
             "id": 1100584,
             "name": "Black Iron G. Sword Mold Piece",
-            "flavor_text": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: G. Sword] Material for forging equipment.",
             "icon": 1100584,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5223,7 +5283,7 @@
         {
             "id": 1100585,
             "name": "Black Iron Axe Mold Piece",
-            "flavor_text": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Axe] Material for forging equipment.",
             "icon": 1100585,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5233,7 +5293,7 @@
         {
             "id": 1100586,
             "name": "Black Iron Maul Mold Piece",
-            "flavor_text": "[Weapon: Club] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Club] Material for forging equipment.",
             "icon": 1100586,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5243,7 +5303,7 @@
         {
             "id": 1100587,
             "name": "Black Iron Claws Mold Piece",
-            "flavor_text": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: M. Arts] Material for forging equipment.",
             "icon": 1100587,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5253,7 +5313,7 @@
         {
             "id": 1100588,
             "name": "Black Iron Gun Mold Piece",
-            "flavor_text": "[Weapon: Gun] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Gun] Material for forging equipment.",
             "icon": 1100588,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5263,7 +5323,7 @@
         {
             "id": 1100589,
             "name": "Black Iron S. Sword Mold Piece",
-            "flavor_text": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: S. Sword] Material for forging equipment.",
             "icon": 1100589,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5273,7 +5333,7 @@
         {
             "id": 1100590,
             "name": "Black Iron Spear Mold Piece",
-            "flavor_text": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Spear] Material for forging equipment.",
             "icon": 1100590,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5283,7 +5343,7 @@
         {
             "id": 1100591,
             "name": "Black Iron Bow Mold Piece",
-            "flavor_text": "[Weapon: Bow] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Bow] Material for forging equipment.",
             "icon": 1100591,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5293,7 +5353,7 @@
         {
             "id": 1100592,
             "name": "Black Iron Staff Mold Piece",
-            "flavor_text": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Staff] Material for forging equipment.",
             "icon": 1100592,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5463,7 +5523,7 @@
         {
             "id": 1100623,
             "name": "Bronze Metal Chunk",
-            "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "Material for forging equipment.",
             "icon": 1100626,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5473,7 +5533,7 @@
         {
             "id": 1100624,
             "name": "Bronze Sword Mold Piece",
-            "flavor_text": "[Weapon: Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Sword] Material for forging equipment.",
             "icon": 1100627,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5483,7 +5543,7 @@
         {
             "id": 1100625,
             "name": "Bronze S. Sword Mold Piece",
-            "flavor_text": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: S. Sword] Material for forging equipment.",
             "icon": 1100628,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5493,7 +5553,7 @@
         {
             "id": 1100626,
             "name": "Bronze Knuckles Mold Piece",
-            "flavor_text": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: M. Arts] Material for forging equipment.",
             "icon": 1100629,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5503,7 +5563,7 @@
         {
             "id": 1100627,
             "name": "Bronze Pistol Mold Piece",
-            "flavor_text": "[Weapon: Gun] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Gun] Material for forging equipment.",
             "icon": 1100630,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5513,7 +5573,7 @@
         {
             "id": 1100628,
             "name": "Bronze Bow Mold Piece",
-            "flavor_text": "[Weapon: Bow] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Bow] Material for forging equipment.",
             "icon": 1100631,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5593,7 +5653,7 @@
         {
             "id": 1100636,
             "name": "Bronze G. Sword Mold Piece",
-            "flavor_text": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: G. Sword] Material for forging equipment.",
             "icon": 1100636,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5603,7 +5663,7 @@
         {
             "id": 1100637,
             "name": "Bronze Axe Mold Piece",
-            "flavor_text": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Axe] Material for forging equipment.",
             "icon": 1100637,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5613,7 +5673,7 @@
         {
             "id": 1100638,
             "name": "Bronze Mace Mold Piece",
-            "flavor_text": "[Weapon: Club] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Club] Material for forging equipment.",
             "icon": 1100638,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5623,7 +5683,7 @@
         {
             "id": 1100639,
             "name": "Bronze Spear Mold Piece",
-            "flavor_text": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Spear] Material for forging equipment.",
             "icon": 1100639,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5633,7 +5693,7 @@
         {
             "id": 1100640,
             "name": "Bronze Staff Mold Piece",
-            "flavor_text": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Staff] Material for forging equipment.",
             "icon": 1100640,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5933,7 +5993,7 @@
         {
             "id": 1100673,
             "name": "Teal Metal Chunk",
-            "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "Material for forging equipment.",
             "icon": 1100673,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5943,7 +6003,7 @@
         {
             "id": 1100674,
             "name": "Teal Sword Mold Piece",
-            "flavor_text": "[Weapon: Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Sword] Material for forging equipment.",
             "icon": 1100674,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5953,7 +6013,7 @@
         {
             "id": 1100675,
             "name": "Teal G. Sword Mold Piece",
-            "flavor_text": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: G. Sword] Material for forging equipment.",
             "icon": 1100675,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5963,7 +6023,7 @@
         {
             "id": 1100676,
             "name": "Teal Axe Mold Piece",
-            "flavor_text": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Axe] Material for forging equipment.",
             "icon": 1100676,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5973,7 +6033,7 @@
         {
             "id": 1100677,
             "name": "Teal War Mace Mold Piece",
-            "flavor_text": "[Weapon: Club] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Club] Material for forging equipment.",
             "icon": 1100677,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5983,7 +6043,7 @@
         {
             "id": 1100678,
             "name": "Teal Gauntlets Mold Piece",
-            "flavor_text": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: M. Arts] Material for forging equipment.",
             "icon": 1100678,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -5993,7 +6053,7 @@
         {
             "id": 1100679,
             "name": "Teal Gun Mold Piece",
-            "flavor_text": "[Weapon: Gun] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Gun] Material for forging equipment.",
             "icon": 1100679,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6003,7 +6063,7 @@
         {
             "id": 1100680,
             "name": "Teal S. Sword Mold Piece",
-            "flavor_text": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: S. Sword] Material for forging equipment.",
             "icon": 1100680,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6013,7 +6073,7 @@
         {
             "id": 1100681,
             "name": "Teal Lance Mold Piece",
-            "flavor_text": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Spear] Material for forging equipment.",
             "icon": 1100681,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6023,7 +6083,7 @@
         {
             "id": 1100682,
             "name": "Teal Bow Mold Piece",
-            "flavor_text": "[Weapon: Bow] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Bow] Material for forging equipment.",
             "icon": 1100682,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6033,7 +6093,7 @@
         {
             "id": 1100683,
             "name": "Teal Staff Mold Piece",
-            "flavor_text": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Staff] Material for forging equipment.",
             "icon": 1100683,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6123,7 +6183,7 @@
         {
             "id": 1100693,
             "name": "Lapis Chunk",
-            "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "Material for forging equipment.",
             "icon": 1100693,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6133,7 +6193,7 @@
         {
             "id": 1100694,
             "name": "Lapis Sword Mold Piece",
-            "flavor_text": "[Weapon: Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Sword] Material for forging equipment.",
             "icon": 1100694,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6143,7 +6203,7 @@
         {
             "id": 1100695,
             "name": "Lapis G. Sword Mold Piece",
-            "flavor_text": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: G. Sword] Material for forging equipment.",
             "icon": 1100695,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6153,7 +6213,7 @@
         {
             "id": 1100696,
             "name": "Lapis Axe Mold Piece",
-            "flavor_text": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Axe] Material for forging equipment.",
             "icon": 1100696,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6163,7 +6223,7 @@
         {
             "id": 1100697,
             "name": "Lapis Hammer Mold Piece",
-            "flavor_text": "[Weapon: Club] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Club] Material for forging equipment.",
             "icon": 1100697,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6173,7 +6233,7 @@
         {
             "id": 1100698,
             "name": "Lapis Gauntlets Mold Piece",
-            "flavor_text": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: M. Arts] Material for forging equipment.",
             "icon": 1100698,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6183,7 +6243,7 @@
         {
             "id": 1100699,
             "name": "Lapis Gun Mold Piece",
-            "flavor_text": "[Weapon: Gun] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Gun] Material for forging equipment.",
             "icon": 1100699,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6193,7 +6253,7 @@
         {
             "id": 1100700,
             "name": "Lapis S. Sword Mold Piece",
-            "flavor_text": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: S. Sword] Material for forging equipment.",
             "icon": 1100700,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6203,7 +6263,7 @@
         {
             "id": 1100701,
             "name": "Lapis Spear Mold Piece",
-            "flavor_text": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Spear] Material for forging equipment.",
             "icon": 1100701,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6213,7 +6273,7 @@
         {
             "id": 1100702,
             "name": "Lapis Bow Mold Piece",
-            "flavor_text": "[Weapon: Bow] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Bow] Material for forging equipment.",
             "icon": 1100702,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6223,7 +6283,7 @@
         {
             "id": 1100703,
             "name": "Lapis Staff Mold Piece",
-            "flavor_text": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Staff] Material for forging equipment.",
             "icon": 1100703,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6733,7 +6793,7 @@
         {
             "id": 1100763,
             "name": "Citrine Chunk",
-            "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "Material for forging equipment.",
             "icon": 1100763,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6743,7 +6803,7 @@
         {
             "id": 1100764,
             "name": "Citrine Sword Mold Piece",
-            "flavor_text": "[Weapon: Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Sword] Material for forging equipment.",
             "icon": 1100764,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6753,7 +6813,7 @@
         {
             "id": 1100765,
             "name": "Citrine G. Sword Mold Piece",
-            "flavor_text": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: G. Sword] Material for forging equipment.",
             "icon": 1100765,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6763,7 +6823,7 @@
         {
             "id": 1100766,
             "name": "Citrine Axe Mold Piece",
-            "flavor_text": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Axe] Material for forging equipment.",
             "icon": 1100766,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6773,7 +6833,7 @@
         {
             "id": 1100767,
             "name": "Citrine Hammer Mold Piece",
-            "flavor_text": "[Weapon: Club] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Club] Material for forging equipment.",
             "icon": 1100767,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6783,7 +6843,7 @@
         {
             "id": 1100768,
             "name": "Citrine War Gloves Mold Piece",
-            "flavor_text": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: M. Arts] Material for forging equipment.",
             "icon": 1100768,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6793,7 +6853,7 @@
         {
             "id": 1100769,
             "name": "Citrine Gun Mold Piece",
-            "flavor_text": "[Weapon: Gun] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Gun] Material for forging equipment.",
             "icon": 1100769,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6803,7 +6863,7 @@
         {
             "id": 1100770,
             "name": "Citrine S. Sword Mold Piece",
-            "flavor_text": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: S. Sword] Material for forging equipment.",
             "icon": 1100770,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6813,7 +6873,7 @@
         {
             "id": 1100771,
             "name": "Citrine Spear Mold Piece",
-            "flavor_text": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Spear] Material for forging equipment.",
             "icon": 1100771,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6823,7 +6883,7 @@
         {
             "id": 1100772,
             "name": "Citrine Bow Mold Piece",
-            "flavor_text": "[Weapon: Bow] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Bow] Material for forging equipment.",
             "icon": 1100772,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6833,7 +6893,7 @@
         {
             "id": 1100773,
             "name": "Citrine Staff Mold Piece",
-            "flavor_text": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Staff] Material for forging equipment.",
             "icon": 1100773,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -6971,6 +7031,16 @@
             "selling_price": 0
         },
         {
+            "id": 1100789,
+            "name": "Event Style Medal",
+            "flavor_text": "Can be exchanged for Styles and other items at the Event Style Exchange.",
+            "icon": 1100789,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 22120910,
+            "selling_price": 0
+        },
+        {
             "id": 1100790,
             "name": "Quartz Shard",
             "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -7093,7 +7163,7 @@
         {
             "id": 1100809,
             "name": "Prismatic Metal Chunk",
-            "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "Material for forging equipment.",
             "icon": 1100809,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -7103,7 +7173,7 @@
         {
             "id": 1100810,
             "name": "Prismatic Sword Mold Piece",
-            "flavor_text": "[Weapon: Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Sword] Material for forging equipment.",
             "icon": 1100810,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -7113,7 +7183,7 @@
         {
             "id": 1100811,
             "name": "Prismatic G. Sword Mold Piece",
-            "flavor_text": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: G. Sword] Material for forging equipment.",
             "icon": 1100811,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -7123,7 +7193,7 @@
         {
             "id": 1100812,
             "name": "Prismatic Axe Mold Piece",
-            "flavor_text": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Axe] Material for forging equipment.",
             "icon": 1100812,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -7133,7 +7203,7 @@
         {
             "id": 1100813,
             "name": "Prismatic Hammer Mold Piece",
-            "flavor_text": "[Weapon: Club] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Club] Material for forging equipment.",
             "icon": 1100813,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -7143,7 +7213,7 @@
         {
             "id": 1100814,
             "name": "Prismatic Gauntlets Mold Piece",
-            "flavor_text": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: M. Arts] Material for forging equipment.",
             "icon": 1100814,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -7153,7 +7223,7 @@
         {
             "id": 1100815,
             "name": "Prismatic Gun Mold Piece",
-            "flavor_text": "[Weapon: Gun] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Gun] Material for forging equipment.",
             "icon": 1100815,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -7163,7 +7233,7 @@
         {
             "id": 1100816,
             "name": "Prismatic S. Sword Mold Piece",
-            "flavor_text": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: S. Sword] Material for forging equipment.",
             "icon": 1100816,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -7173,7 +7243,7 @@
         {
             "id": 1100817,
             "name": "Prismatic Spear Mold Piece",
-            "flavor_text": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Spear] Material for forging equipment.",
             "icon": 1100817,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -7183,7 +7253,7 @@
         {
             "id": 1100818,
             "name": "Prismatic Bow Mold Piece",
-            "flavor_text": "[Weapon: Bow] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Bow] Material for forging equipment.",
             "icon": 1100818,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -7193,7 +7263,7 @@
         {
             "id": 1100819,
             "name": "Prismatic Staff Mold Piece",
-            "flavor_text": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
+            "flavor_text": "[Weapon: Staff] Material for forging equipment.",
             "icon": 1100819,
             "max_quantity": 99999999,
             "expired_at": 0,
@@ -7538,6 +7608,86 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 23110920,
+            "selling_price": 0
+        },
+        {
+            "id": 1100867,
+            "name": "Proof Piece",
+            "flavor_text": "Material for forging equipment.",
+            "icon": 1100867,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 42000010,
+            "selling_price": 1
+        },
+        {
+            "id": 1100868,
+            "name": "Mirage Flower Crystal",
+            "flavor_text": "Material for forging equipment.",
+            "icon": 1100868,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 42000011,
+            "selling_price": 1
+        },
+        {
+            "id": 1100872,
+            "name": "Armor Medal (Red) [Ltd. Time]",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for SS armor/gear and more. (Until [1705193999] <tz>)",
+            "icon": 1100872,
+            "max_quantity": 99999999,
+            "expired_at": 1705193999,
+            "sort_order": 23120120,
+            "selling_price": 0
+        },
+        {
+            "id": 1100877,
+            "name": "Alpine Ore",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100874,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23120110,
+            "selling_price": 0
+        },
+        {
+            "id": 1100878,
+            "name": "Evil Aura",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100875,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23120115,
+            "selling_price": 0
+        },
+        {
+            "id": 1100879,
+            "name": "Cave Moss",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100879,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23120710,
+            "selling_price": 0
+        },
+        {
+            "id": 1100880,
+            "name": "Bone Fragments",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100880,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23120715,
+            "selling_price": 0
+        },
+        {
+            "id": 1100882,
+            "name": "3.5 Anniv. Red Crescent Medal",
+            "flavor_text": "Tally item for 3.5 Anniversary Co-op Missions Round 1. Obtained from corresponding events. ",
+            "icon": 1100882,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23120720,
             "selling_price": 0
         },
         {
@@ -8758,6 +8908,16 @@
             "max_quantity": 99999999,
             "expired_at": 1694825999,
             "sort_order": 23081800,
+            "selling_price": 0
+        },
+        {
+            "id": 1001100256,
+            "name": "3.5 Anniv.! SS Style Exchange Ticket",
+            "flavor_text": "Can be exchanged for a Style at the 3.5 Anniv.! SS Style Exchange. (Until [1705193999] <tz>)",
+            "icon": 1001100256,
+            "max_quantity": 99999999,
+            "expired_at": 1705193999,
+            "sort_order": 99999999,
             "selling_price": 0
         }
     ]

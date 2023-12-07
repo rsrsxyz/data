@@ -1971,6 +1971,42 @@
             "dialog_type": 1,
             "button2": "",
             "button1": "OK"
+        },
+        {
+            "id": 222,
+            "name": "Trial_Quest_Not_Held",
+            "title": "Unavailable",
+            "text": "Spiral Corridor is currently unavailable.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "Close"
+        },
+        {
+            "id": 223,
+            "name": "Stage_Expired_Confirm",
+            "title": "Expired",
+            "text": "The availability period for this event has ended.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "Close"
+        },
+        {
+            "id": 224,
+            "name": "FreeQuest_Area_Open",
+            "title": "Record Unlocked",
+            "text": "A new record has been unlocked.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 226,
+            "name": "FreeQuest_Stage_Open",
+            "title": "Stage Unlocked",
+            "text": "A new stage has been unlocked.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
         }
     ]
 }
