@@ -101,6 +101,21 @@
             "lock_text": ""
         },
         {
+            "id": 14,
+            "multi_mission_group_id": 8,
+            "title": "3.5 Anniversary Co-op Missions Round 2",
+            "summary": "Round 2: Get 3.5 Anniv. Blue Crescent Medals",
+            "description": "Get 3.5 Anniv. Blue Crescent Medals in Crescent Records",
+            "area_id": 10001,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1702602000,
+            "end_at": 1703206799,
+            "priority": 10000,
+            "lock_text": ""
+        },
+        {
             "id": 1000000001,
             "multi_mission_group_id": 1000000001,
             "title": "Fight Together! Fateful Showdown Co-op Missions",

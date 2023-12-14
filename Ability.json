@@ -61152,6 +61152,107 @@
             "sort_order": 0
         },
         {
+            "id": 1702100343,
+            "name": "Maiden's Thorns",
+            "flavor_text": "[When landing an attack]<br>Recovers own BP (+2) and recovers own HP (very small effect).<br>Grants the target <special_effect=1800000025>Binding of Thorns (3x)</special_effect> (no turn limit).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040961,
+                802040622,
+                1802040675
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100344,
+            "name": "Binding of Thorns (7x)",
+            "flavor_text": "When attacked, reduces own INT/AGI (small effect) (Max times: 7).<br>*Only activates when hit by an attack.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041758,
+                802041759
+            ],
+            "ability_when": 6,
+            "icon": 4003,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100345,
+            "name": "Binding of Thorns (3x)",
+            "flavor_text": "When attacked, reduces own INT/AGI (small effect) (Max times: 3).<br>*Only activates when hit by an attack.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041758,
+                802041759
+            ],
+            "ability_when": 6,
+            "icon": 4003,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100346,
+            "name": "Ice-Sealed Heart",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (very large effect).<br><br>[When being directly attacked]<br>Reduces damage and counterattacks with <skill=125200248>Ice Stalagmite</skill> (very high chance).<br>(Activates using spell Rank 1).<br><br>[When attacking with skill attacks]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)).<br>Increases own STR/DEX/AGI/INT (medium effect).<br><br>[When attacking with spell attacks]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br>Increases own END/WIL/LOV/CHA (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040520,
+                802011957,
+                802011430,
+                802011431,
+                802011432,
+                802011433,
+                802011434,
+                802011435,
+                802011436,
+                1802040676,
+                1802040677,
+                1802040678
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100347,
+            "name": "Attack Boost/Attributes Up on Skill Atk",
+            "flavor_text": "[When attacking with skill attacks]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)).<br>Increases own STR/DEX/AGI/INT (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040679,
+                1802040680,
+                1802040681,
+                1802040682,
+                1802040683
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100348,
+            "name": "Defense Boost/Attributes Up on Spell Atk",
+            "flavor_text": "[When attacking with spell attacks]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br>Increases own END/WIL/LOV/CHA (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040684,
+                1802040685,
+                1802040686,
+                1802040687,
+                1802040688
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
             "id": 1702200002,
             "name": "Cover of Night",
             "flavor_text": "[Start of round]<br>Has oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).",
@@ -62889,6 +62990,20 @@
             "sort_order": 0
         },
         {
+            "id": 1708400007,
+            "name": "Pale Nymph's Call",
+            "flavor_text": "At the end of even turns counting from the start of round, summons Arachne.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1808040039,
+                1808040040
+            ],
+            "ability_when": 4,
+            "icon": 4014,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
             "id": 1708600001,
             "name": "Breath of the Void",
             "flavor_text": "When landing an attack that defeats the target, removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
@@ -63008,6 +63123,45 @@
                 1808040031,
                 1808040032,
                 1808040033
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1708600011,
+            "name": "Body of Thorns",
+            "flavor_text": "[When being attacked]<br>All enemies take a portion of damage (5% of target's Max HP).<br>*Proportional Damage can't be reduced by effects that reduce damage taken.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1808040036
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1708600012,
+            "name": "Immunity Down Ⅲ (Poison)",
+            "flavor_text": "When landing an attack, reduces target's poison resistance (large effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1808040037
+            ],
+            "ability_when": 6,
+            "icon": 4004,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1708600013,
+            "name": "Last Words",
+            "flavor_text": "When attacked and HP reaches 0, grants all surviving allies <special_effect=800000095>Heat Up</special_effect> (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1808040038
             ],
             "ability_when": 6,
             "icon": 4010,

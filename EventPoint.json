@@ -1841,6 +1841,16 @@
             "selling_price": 0
         },
         {
+            "id": 800245,
+            "name": "Romancing Festival Medal 137",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800245,
+            "max_quantity": 99999999,
+            "expired_at": 1705021199,
+            "sort_order": 23121460,
+            "selling_price": 0
+        },
+        {
             "id": 800248,
             "name": "Romancing Festival Medal 122",
             "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -7688,6 +7698,36 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 23120720,
+            "selling_price": 0
+        },
+        {
+            "id": 1100883,
+            "name": "3.5 Anniv. Blue Crescent Medal",
+            "flavor_text": "Tally item for 3.5 Anniversary Co-op Missions Round 2. Obtained from corresponding events. ",
+            "icon": 1100883,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23121401,
+            "selling_price": 0
+        },
+        {
+            "id": 1100884,
+            "name": "3.5 Anniv. Training Medal",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100884,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23121410,
+            "selling_price": 0
+        },
+        {
+            "id": 1100885,
+            "name": "3.5 Anniv. Training Proof",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100885,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23121415,
             "selling_price": 0
         },
         {

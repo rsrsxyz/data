@@ -1111,6 +1111,16 @@
             "priority": 9999
         },
         {
+            "id": 1207,
+            "event_ability_category_id": 856,
+            "name": "3.5 Anniv. Training Secrets [Ltd. Time]",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains and 2x skill/spell rank up amount in battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 461
+        },
+        {
             "id": 1000000101,
             "event_ability_category_id": 1000000002,
             "name": "[Limited Time] Seven Heroes Pickup Summon",
@@ -4409,6 +4419,26 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 458
+        },
+        {
+            "id": 1000000681,
+            "event_ability_category_id": 1000000432,
+            "name": "3.5 Anniversary Round 3 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Cave Moss and Bone Fragments drops in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 459
+        },
+        {
+            "id": 1000000682,
+            "event_ability_category_id": 1000000433,
+            "name": "3.5 Anniversary Round 3 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Cave Moss and Bone Fragments drops in Free Quests<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 460
         }
     ]
 }

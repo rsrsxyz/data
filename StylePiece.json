@@ -1467,6 +1467,22 @@
             "exchange_cost": 250
         },
         {
+            "id": 217201,
+            "name": "S Furfur Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [Freeze It All!] Furfur.",
+            "icon": 217201,
+            "selling_price": 60,
+            "exchange_cost": 150
+        },
+        {
+            "id": 217202,
+            "name": "SS Furfur Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Melt Me Away] Furfur.",
+            "icon": 217202,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 217801,
             "name": "SS Scorn Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Plan in Hand] Scorn.",
@@ -2663,6 +2679,14 @@
             "name": "SS Vampire Lady Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Ghastly But Cute] Vampire Lady.",
             "icon": 228107,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 228108,
+            "name": "SS Vampire Lady Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Open Wide] Vampire Lady.",
+            "icon": 228108,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -4481,6 +4505,22 @@
             "icon": 235901,
             "selling_price": 60,
             "exchange_cost": 150
+        },
+        {
+            "id": 236401,
+            "name": "S Pale Nymph Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [Come See Me] Pale Nymph.",
+            "icon": 236401,
+            "selling_price": 60,
+            "exchange_cost": 150
+        },
+        {
+            "id": 236402,
+            "name": "SS Pale Nymph Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Trying a New Look] Pale Nymph.",
+            "icon": 236402,
+            "selling_price": 100,
+            "exchange_cost": 250
         },
         {
             "id": 237201,

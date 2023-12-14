@@ -16557,6 +16557,102 @@
             ],
             "reward_text": "I am a wicked witch after all.",
             "position": 10
+        },
+        {
+            "id": 1000000737,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 30,
+            "name": "Furfur",
+            "dot_id": 217202,
+            "illust_id": 217202,
+            "texts": [
+                "Freeze it all!",
+                "Won't be melting this heart!",
+                "I'd melt into nothingness if I gave in to Amut's power. A moment of bliss."
+            ],
+            "reward_text": "Won't be melting this heart!",
+            "position": 8
+        },
+        {
+            "id": 1000000738,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 30,
+            "name": "Vampire Lady",
+            "dot_id": 228108,
+            "illust_id": 228108,
+            "texts": [
+                "Come on, have a chocolate!",
+                "It's really good, you know!",
+                "I'm being sweet this year. No more condescension. So come on, eat my chocolate!"
+            ],
+            "reward_text": "Come on, have a chocolate!",
+            "position": 7
+        },
+        {
+            "id": 1000000739,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 50,
+            "name": "Pale Nymph",
+            "dot_id": 236402,
+            "illust_id": 236402,
+            "texts": [
+                "I'll give you everything.",
+                "Take it all.",
+                "Was that too much? Sorry if that wasn't your style. I'm trying out different things."
+            ],
+            "reward_text": "I'll give you everything.",
+            "position": 1
+        },
+        {
+            "id": 1000000740,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 6,
+            "name": "Furfur",
+            "dot_id": 217202,
+            "illust_id": 217202,
+            "texts": [
+                "Freeze it all!",
+                "Won't be melting this heart!",
+                "I'd melt into nothingness if I gave in to Amut's power. A moment of bliss."
+            ],
+            "reward_text": "Won't be melting this heart!",
+            "position": 8
+        },
+        {
+            "id": 1000000741,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 4,
+            "name": "Vampire Lady",
+            "dot_id": 228108,
+            "illust_id": 228108,
+            "texts": [
+                "Come on, have a chocolate!",
+                "It's really good, you know!",
+                "I'm being sweet this year. No more condescension. So come on, eat my chocolate!"
+            ],
+            "reward_text": "Come on, have a chocolate!",
+            "position": 7
+        },
+        {
+            "id": 1000000742,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 4,
+            "name": "Pale Nymph",
+            "dot_id": 236402,
+            "illust_id": 236402,
+            "texts": [
+                "I'll give you everything.",
+                "Take it all.",
+                "Was that too much? Sorry if that wasn't your style. I'm trying out different things."
+            ],
+            "reward_text": "I'll give you everything.",
+            "position": 1
         }
     ]
 }
