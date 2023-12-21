@@ -2031,6 +2031,26 @@
             "selling_price": 0
         },
         {
+            "id": 800276,
+            "name": "Romancing Festival Medal 139",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800276,
+            "max_quantity": 99999999,
+            "expired_at": 1705625999,
+            "sort_order": 23122160,
+            "selling_price": 0
+        },
+        {
+            "id": 800277,
+            "name": "Romancing Festival Medal 138",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800277,
+            "max_quantity": 99999999,
+            "expired_at": 1705625999,
+            "sort_order": 23122150,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -7728,6 +7748,16 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 23121415,
+            "selling_price": 0
+        },
+        {
+            "id": 1100886,
+            "name": "Tower Candle Bowl",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100886,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 23122105,
             "selling_price": 0
         },
         {

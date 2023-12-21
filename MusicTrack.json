@@ -4001,6 +4001,16 @@
             "start_at": 1659056400
         },
         {
+            "id": 10190150,
+            "flavor_text": "",
+            "price": 1,
+            "is_free": 0,
+            "sound_id": 120284,
+            "composer": "Kenji Ito",
+            "sort_order": 150,
+            "start_at": 1703206800
+        },
+        {
             "id": 10190170,
             "flavor_text": "",
             "price": 1,
@@ -4038,7 +4048,17 @@
             "sound_id": 120136,
             "composer": "Nobuo Uematsu",
             "sort_order": 220,
-            "start_at": 1691024400
+            "start_at": 1703206800
+        },
+        {
+            "id": 10190230,
+            "flavor_text": "",
+            "price": 1,
+            "is_free": 0,
+            "sound_id": 120142,
+            "composer": "Nobuo Uematsu",
+            "sort_order": 230,
+            "start_at": 1703206800
         },
         {
             "id": 10200020,

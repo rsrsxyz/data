@@ -20590,6 +20590,30 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7398,
+            "ribbon": "",
+            "campaign_type": 10,
+            "rate": 1.5,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7399,
+            "ribbon": "",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013767
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7401,
             "ribbon": "Exploration Point Increased!",
             "campaign_type": 3,
@@ -20599,6 +20623,45 @@
             "drop_group_ids": [],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 50
+        },
+        {
+            "id": 7409,
+            "ribbon": "",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013774
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7410,
+            "ribbon": "",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013775
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7411,
+            "ribbon": "",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013776
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
         },
         {
             "id": 50001,

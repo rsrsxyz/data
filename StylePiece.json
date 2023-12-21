@@ -51,6 +51,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 110106,
+            "name": "SS Human Male Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A New Journey] Human Male.",
+            "icon": 110106,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 110201,
             "name": "S Human Female Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Expert Climber] Human Female.",
@@ -79,6 +87,22 @@
             "name": "SS Human Female Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [White Witch: Battle Mode!] Human Female.",
             "icon": 110205,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 110206,
+            "name": "SS Human Female Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [It's My Turn!] Human Female.",
+            "icon": 110206,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 110302,
+            "name": "SS Esper Boy Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Got Awesome Powers!] Esper Boy.",
+            "icon": 110302,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -119,6 +143,14 @@
             "name": "SS Esper Gal Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Follow Me!] Esper Gal.",
             "icon": 110406,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 110407,
+            "name": "SS Esper Gal Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A World I've Never Seen] Esper Gal.",
+            "icon": 110407,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -185,6 +217,14 @@
             "icon": 119107,
             "selling_price": 100,
             "exchange_cost": 250
+        },
+        {
+            "id": 119202,
+            "name": "S Ashura Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [Hand Over the MAGI!] Ashura.",
+            "icon": 119202,
+            "selling_price": 60,
+            "exchange_cost": 150
         },
         {
             "id": 120501,
@@ -267,6 +307,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 121204,
+            "name": "SS Mask Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Why Don't We Work Together?] Mask.",
+            "icon": 121204,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 121301,
             "name": "S Goddess Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Call Me Goddess!] Goddess.",
@@ -331,6 +379,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 121602,
+            "name": "SS Ki Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The MAGI Within] Ki.",
+            "icon": 121602,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 129101,
             "name": "SS Arsenal Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Executing Smasher] Arsenal.",
@@ -387,6 +443,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 129302,
+            "name": "S Odin Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [God of Fallen Heroes] Odin.",
+            "icon": 129302,
+            "selling_price": 60,
+            "exchange_cost": 150
+        },
+        {
             "id": 129401,
             "name": "S Haniwa Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [What Is This?] Haniwa.",
@@ -417,6 +481,14 @@
             "icon": 129404,
             "selling_price": 100,
             "exchange_cost": 250
+        },
+        {
+            "id": 129502,
+            "name": "S Venus Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [Ugliness Is Not Needed!] Venus.",
+            "icon": 129502,
+            "selling_price": 60,
+            "exchange_cost": 150
         },
         {
             "id": 130101,
@@ -7233,6 +7305,14 @@
             "icon": 615503,
             "selling_price": 100,
             "exchange_cost": 250
+        },
+        {
+            "id": 616002,
+            "name": "S Aslana Melek Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [I Am Perfect] Aslana Melek.",
+            "icon": 616002,
+            "selling_price": 60,
+            "exchange_cost": 150
         },
         {
             "id": 616003,

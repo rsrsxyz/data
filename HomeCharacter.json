@@ -16653,6 +16653,198 @@
             ],
             "reward_text": "I'll give you everything.",
             "position": 1
+        },
+        {
+            "id": 1000000743,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Esper Boy",
+            "dot_id": 110302,
+            "illust_id": 110302,
+            "texts": [
+                "Ice is essential.",
+                "I've had Charm since birth.",
+                "You do sometimes get an X, but that's a risk all espers take!"
+            ],
+            "reward_text": "Ice is essential.",
+            "position": 8
+        },
+        {
+            "id": 1000000744,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 15,
+            "name": "Esper Gal",
+            "dot_id": 110407,
+            "illust_id": 110407,
+            "texts": [
+                "Look at you! You're beautiful!",
+                "You look so cool!",
+                "Everything looks amazing. I'm getting so much out of this."
+            ],
+            "reward_text": "Look at you! You're beautiful!",
+            "position": 7
+        },
+        {
+            "id": 1000000745,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 25,
+            "name": "Ki",
+            "dot_id": 121602,
+            "illust_id": 121602,
+            "texts": [
+                "Let me get you patched up.",
+                "May you all find joy.",
+                "I do not know why I am host to a MAGI."
+            ],
+            "reward_text": "Let me get you patched up.",
+            "position": 1
+        },
+        {
+            "id": 1000000746,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Human Female",
+            "dot_id": 110206,
+            "illust_id": 110206,
+            "texts": [
+                "I can do just about anything!",
+                "Just make sure you gear me well, okay?!",
+                "I'll accomplish something someday. Not sure what, but I'm on my way."
+            ],
+            "reward_text": "I can do just about anything!",
+            "position": 3
+        },
+        {
+            "id": 1000000747,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 15,
+            "name": "Human Male",
+            "dot_id": 110106,
+            "illust_id": 110106,
+            "texts": [
+                "Dad, I'm going to find you.",
+                "What is MAGI, exactly?",
+                "There are infinite roads, but they all lead to you, Dad. I can feel it."
+            ],
+            "reward_text": "Dad, I'm going to find you.",
+            "position": 6
+        },
+        {
+            "id": 1000000748,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 25,
+            "name": "Mask",
+            "dot_id": 121204,
+            "illust_id": 121204,
+            "texts": [
+                "Didn't you always want to have a mask?",
+                "When I take the mask off, I transform. No, of course I don't.",
+                "I always carry a couple of extra masks. Nothing like good hygiene."
+            ],
+            "reward_text": "Didn't you always want to have a mask?",
+            "position": 10
+        },
+        {
+            "id": 1000000749,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Esper Boy",
+            "dot_id": 110302,
+            "illust_id": 110302,
+            "texts": [
+                "Ice is essential.",
+                "I've had Charm since birth.",
+                "You do sometimes get an X, but that's a risk all espers take!"
+            ],
+            "reward_text": "Ice is essential.",
+            "position": 8
+        },
+        {
+            "id": 1000000750,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 2,
+            "name": "Esper Gal",
+            "dot_id": 110407,
+            "illust_id": 110407,
+            "texts": [
+                "Look at you! You're beautiful!",
+                "You look so cool!",
+                "Everything looks amazing. I'm getting so much out of this."
+            ],
+            "reward_text": "Look at you! You're beautiful!",
+            "position": 7
+        },
+        {
+            "id": 1000000751,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 2,
+            "name": "Ki",
+            "dot_id": 121602,
+            "illust_id": 121602,
+            "texts": [
+                "Let me get you patched up.",
+                "May you all find joy.",
+                "I do not know why I am host to a MAGI."
+            ],
+            "reward_text": "Let me get you patched up.",
+            "position": 1
+        },
+        {
+            "id": 1000000752,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Human Female",
+            "dot_id": 110206,
+            "illust_id": 110206,
+            "texts": [
+                "I can do just about anything!",
+                "Just make sure you gear me well, okay?!",
+                "I'll accomplish something someday. Not sure what, but I'm on my way."
+            ],
+            "reward_text": "I can do just about anything!",
+            "position": 3
+        },
+        {
+            "id": 1000000753,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 2,
+            "name": "Human Male",
+            "dot_id": 110106,
+            "illust_id": 110106,
+            "texts": [
+                "Dad, I'm going to find you.",
+                "What is MAGI, exactly?",
+                "There are infinite roads, but they all lead to you, Dad. I can feel it."
+            ],
+            "reward_text": "Dad, I'm going to find you.",
+            "position": 6
+        },
+        {
+            "id": 1000000754,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 2,
+            "name": "Mask",
+            "dot_id": 121204,
+            "illust_id": 121204,
+            "texts": [
+                "Didn't you always want to have a mask?",
+                "When I take the mask off, I transform. No, of course I don't.",
+                "I always carry a couple of extra masks. Nothing like good hygiene."
+            ],
+            "reward_text": "Didn't you always want to have a mask?",
+            "position": 10
         }
     ]
 }

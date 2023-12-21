@@ -4439,6 +4439,36 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 460
+        },
+        {
+            "id": 1000000684,
+            "event_ability_category_id": 1000000435,
+            "name": "3.5 Anniversary Round 4 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Tower Candle Bowl drops in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 462
+        },
+        {
+            "id": 1000000685,
+            "event_ability_category_id": 1000000436,
+            "name": "3.5 Anniversary Round 4 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Tower Candle Bowl drops in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 463
+        },
+        {
+            "id": 1000000686,
+            "event_ability_category_id": 1000000437,
+            "name": "3.5 Anniversary Round 4 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Tower Candle Bowl drops in Free Quests<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 464
         }
     ]
 }
