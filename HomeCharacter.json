@@ -16845,6 +16845,198 @@
             ],
             "reward_text": "Didn't you always want to have a mask?",
             "position": 10
+        },
+        {
+            "id": 1000000755,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Ashura",
+            "dot_id": 119200,
+            "illust_id": 119201,
+            "texts": [
+                "I am Ashura from Final Fantasy Legend II.",
+                "I am the new god Ashura.",
+                "I get more screen time than the Ashura in FFL, but I dislike being defeated so quickly."
+            ],
+            "reward_text": "I am Ashura from Final Fantasy Legend II.",
+            "position": 8
+        },
+        {
+            "id": 1000000756,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 15,
+            "name": "Venus",
+            "dot_id": 129500,
+            "illust_id": 129501,
+            "texts": [
+                "Behold!",
+                "Feel it!",
+                "Time for you to learn about beauty. If it is not beautiful, it is not worth existing."
+            ],
+            "reward_text": "Behold!",
+            "position": 7
+        },
+        {
+            "id": 1000000757,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 25,
+            "name": "Odin",
+            "dot_id": 129300,
+            "illust_id": 129301,
+            "texts": [
+                "You're alive.",
+                "You're the winner.",
+                "I have no use for a mere living victor. My opponents are those who advance despite defeat."
+            ],
+            "reward_text": "You're alive.",
+            "position": 1
+        },
+        {
+            "id": 1000000758,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 15,
+            "name": "Dread Queen",
+            "dot_id": 228805,
+            "illust_id": 228805,
+            "texts": [
+                "No more laying eggs!",
+                "No more breeding!",
+                "All life energy shall be spent on me. What a feeling!"
+            ],
+            "reward_text": "No more laying eggs!",
+            "position": 3
+        },
+        {
+            "id": 1000000759,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 15,
+            "name": "Yama",
+            "dot_id": 238601,
+            "illust_id": 238601,
+            "texts": [
+                "Nightmare!",
+                "Corpse Moss!",
+                "Despair. Despair. Despair!"
+            ],
+            "reward_text": "Nightmare!",
+            "position": 6
+        },
+        {
+            "id": 1000000760,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 25,
+            "name": "Jewel Beast",
+            "dot_id": 219600,
+            "illust_id": 219601,
+            "texts": [
+                "Giev em...",
+                "Jweles...",
+                "Hpi hpi hoyoar hlia Srainu... Giev em jweles ro eesl..."
+            ],
+            "reward_text": "Giev em...",
+            "position": 10
+        },
+        {
+            "id": 1000000761,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Ashura",
+            "dot_id": 119200,
+            "illust_id": 119201,
+            "texts": [
+                "I am Ashura from Final Fantasy Legend II.",
+                "I am the new god Ashura.",
+                "I get more screen time than the Ashura in FFL, but I dislike being defeated so quickly."
+            ],
+            "reward_text": "I am Ashura from Final Fantasy Legend II.",
+            "position": 8
+        },
+        {
+            "id": 1000000762,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 2,
+            "name": "Venus",
+            "dot_id": 129500,
+            "illust_id": 129501,
+            "texts": [
+                "Behold!",
+                "Feel it!",
+                "Time for you to learn about beauty. If it is not beautiful, it is not worth existing."
+            ],
+            "reward_text": "Behold!",
+            "position": 7
+        },
+        {
+            "id": 1000000763,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 2,
+            "name": "Odin",
+            "dot_id": 129300,
+            "illust_id": 129301,
+            "texts": [
+                "You're alive.",
+                "You're the winner.",
+                "I have no use for a mere living victor. My opponents are those who advance despite defeat."
+            ],
+            "reward_text": "You're alive.",
+            "position": 1
+        },
+        {
+            "id": 1000000764,
+            "reward_type": 2,
+            "reward_id": 105001,
+            "reward_quantity": 3,
+            "name": "Dread Queen",
+            "dot_id": 228805,
+            "illust_id": 228805,
+            "texts": [
+                "No more laying eggs!",
+                "No more breeding!",
+                "All life energy shall be spent on me. What a feeling!"
+            ],
+            "reward_text": "No more laying eggs!",
+            "position": 3
+        },
+        {
+            "id": 1000000765,
+            "reward_type": 12,
+            "reward_id": 840001,
+            "reward_quantity": 2,
+            "name": "Yama",
+            "dot_id": 238601,
+            "illust_id": 238601,
+            "texts": [
+                "Nightmare!",
+                "Corpse Moss!",
+                "Despair. Despair. Despair!"
+            ],
+            "reward_text": "Nightmare!",
+            "position": 6
+        },
+        {
+            "id": 1000000766,
+            "reward_type": 32,
+            "reward_id": 950014,
+            "reward_quantity": 2,
+            "name": "Jewel Beast",
+            "dot_id": 219600,
+            "illust_id": 219601,
+            "texts": [
+                "Giev em...",
+                "Jweles...",
+                "Hpi hpi hoyoar hlia Srainu... Giev em jweles ro eesl..."
+            ],
+            "reward_text": "Giev em...",
+            "position": 10
         }
     ]
 }

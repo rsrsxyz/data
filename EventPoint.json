@@ -2021,6 +2021,16 @@
             "selling_price": 0
         },
         {
+            "id": 800274,
+            "name": "SaGa Soul Medal 18",
+            "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+            "icon": 800274,
+            "max_quantity": 99999999,
+            "expired_at": 1706230799,
+            "sort_order": 23062260,
+            "selling_price": 0
+        },
+        {
             "id": 800275,
             "name": "Ultra Deluxe Summon Medal 33",
             "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
@@ -2048,6 +2058,16 @@
             "max_quantity": 99999999,
             "expired_at": 1705625999,
             "sort_order": 23122150,
+            "selling_price": 0
+        },
+        {
+            "id": 800278,
+            "name": "SaGa Soul Medal 17",
+            "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+            "icon": 800278,
+            "max_quantity": 99999999,
+            "expired_at": 1706230799,
+            "sort_order": 23062250,
             "selling_price": 0
         },
         {
@@ -7758,6 +7778,16 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 23122105,
+            "selling_price": 0
+        },
+        {
+            "id": 1100887,
+            "name": "Helmet Records Coin [Ltd. Time]",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for SS armor/gear and other items. (Until [1706230799] <tz>)",
+            "icon": 1100887,
+            "max_quantity": 99999999,
+            "expired_at": 1706230799,
+            "sort_order": 23062205,
             "selling_price": 0
         },
         {

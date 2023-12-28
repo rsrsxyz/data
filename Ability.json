@@ -61253,6 +61253,51 @@
             "sort_order": 0
         },
         {
+            "id": 1702100349,
+            "name": "Queen of Termites",
+            "flavor_text": "[Start of battle]<br>Fills up own OD gauge.<br><br>[Start of round]<br>Reduces all enemies' STR/AGI/INT (large effect).<br><br>[When landing an attack]<br>Grants the target <special_effect=1800000026>Fear of the Queen</special_effect> (1 turn(s)).<br><br>[After activating an OD attack*]<br><skill=110500436>Hell Scratch</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Increases own OD gauge (extreme effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041344,
+                802042367,
+                1802040692,
+                802042369,
+                802041918
+            ],
+            "ability_when": 1,
+            "icon": 4003,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100350,
+            "name": "Fear of the Queen on Attack",
+            "flavor_text": "[When landing an attack]<br>Grants the target <special_effect=1800000026>Fear of the Queen</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040693
+            ],
+            "ability_when": 6,
+            "icon": 4003,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100351,
+            "name": "Fear of the Queen",
+            "flavor_text": "When attacking, reduces own STR/AGI/INT (small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040689,
+                1802040690,
+                1802040691
+            ],
+            "ability_when": 6,
+            "icon": 4003,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
             "id": 1702200002,
             "name": "Cover of Night",
             "flavor_text": "[Start of round]<br>Has oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).",

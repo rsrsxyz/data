@@ -219,6 +219,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 119201,
+            "name": "SS Ashura Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Don't Flatter Yourself!] Ashura.",
+            "icon": 119201,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 119202,
             "name": "S Ashura Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Hand Over the MAGI!] Ashura.",
@@ -443,6 +451,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 129301,
+            "name": "SS Odin Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Time to Fulfill Our Promise] Odin.",
+            "icon": 129301,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 129302,
             "name": "S Odin Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [God of Fallen Heroes] Odin.",
@@ -479,6 +495,14 @@
             "name": "SS Haniwa Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Porcelain Haniwa] Haniwa.",
             "icon": 129404,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 129501,
+            "name": "SS Venus Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Beauty Is Who I Am!] Venus.",
+            "icon": 129501,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -1723,6 +1747,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 219601,
+            "name": "SS Jewel Beast Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Legendary Monster] Jewel Beast.",
+            "icon": 219601,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 220101,
             "name": "S Leon Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Who Am I?] Leon. ",
@@ -2799,6 +2831,14 @@
             "name": "SS Real Queen Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Devouring Avalon] Real Queen.",
             "icon": 228804,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 228805,
+            "name": "SS Dread Queen Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Egg-Laying Has Ended] Dread Queen.",
+            "icon": 228805,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -4703,6 +4743,14 @@
             "name": "SS Mukchar Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Who's Gonna Put the Ears?!] Mukchar.",
             "icon": 238502,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 238601,
+            "name": "SS Yama Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Bringer of Despair] Yama.",
+            "icon": 238601,
             "selling_price": 100,
             "exchange_cost": 250
         },
