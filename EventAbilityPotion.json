@@ -139,6 +139,19 @@
             "event_ability_group_id": 1000000628,
             "duration_seconds": 86400,
             "event_ability_potion_type": 2
+        },
+        {
+            "id": 1000940008,
+            "name": "New Year Carnival Skill/Spell Rank Booster [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 2x skill/spell rank up amount for a character in all battle quests for 24 hours after use. (Until [1708649999] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1708649999,
+            "icon": 940028,
+            "sort_order": 24010450,
+            "style_event_ability_id": 0,
+            "event_ability_group_id": 1000000693,
+            "duration_seconds": 86400,
+            "event_ability_potion_type": 2
         }
     ]
 }

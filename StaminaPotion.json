@@ -1045,6 +1045,39 @@
             "selling_price": 0
         },
         {
+            "id": 840197,
+            "name": "New Year Carnival Stamina Potion (Sm.) [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1708649999] <tz>)",
+            "icon": 840197,
+            "max_quantity": 99999,
+            "value": 30,
+            "sort_order": 24022330,
+            "expired_at": 1708649999,
+            "selling_price": 0
+        },
+        {
+            "id": 840198,
+            "name": "New Year Carnival Stamina Potion (Med.) [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1708649999] <tz>)",
+            "icon": 840198,
+            "max_quantity": 99999,
+            "value": 60,
+            "sort_order": 24022360,
+            "expired_at": 1708649999,
+            "selling_price": 0
+        },
+        {
+            "id": 840199,
+            "name": "New Year Carnival Stamina Potion (Lg.) [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1708649999] <tz>)",
+            "icon": 840199,
+            "max_quantity": 99999,
+            "value": 90,
+            "sort_order": 24022390,
+            "expired_at": 1708649999,
+            "selling_price": 0
+        },
+        {
             "id": 840203,
             "name": "Liam Arc Battle Festival Stamina Potion (Sm.) [Ltd. Time]",
             "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1701651599] <tz>)",

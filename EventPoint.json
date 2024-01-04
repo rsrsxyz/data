@@ -1811,6 +1811,16 @@
             "selling_price": 0
         },
         {
+            "id": 800239,
+            "name": "Romancing Festival Medal 140",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800239,
+            "max_quantity": 99999999,
+            "expired_at": 1706835599,
+            "sort_order": 24010460,
+            "selling_price": 0
+        },
+        {
             "id": 800240,
             "name": "Romancing Festival Medal 117",
             "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -7158,6 +7168,36 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 23092820,
+            "selling_price": 0
+        },
+        {
+            "id": 1100797,
+            "name": "Lucky Fan",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100797,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24010420,
+            "selling_price": 0
+        },
+        {
+            "id": 1100798,
+            "name": "Footman Kite",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100798,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24010425,
+            "selling_price": 0
+        },
+        {
+            "id": 1100799,
+            "name": "New Year's Fish",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100799,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24010430,
             "selling_price": 0
         },
         {

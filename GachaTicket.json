@@ -352,6 +352,17 @@
             "shop_id": 0
         },
         {
+            "id": 810061,
+            "name": "New Year Carnival Platinum Ticket [Ltd. Time]",
+            "flavor_text": "Collect 5 tickets to perform 1 New Year Carnival Platinum Ticket Summon. (Until [1709254799] <tz>)",
+            "icon": 810061,
+            "max_quantity": 9999,
+            "expired_at": 1709254799,
+            "sort_order": 24010425,
+            "shop_type": 0,
+            "shop_id": 0
+        },
+        {
             "id": 810066,
             "name": "Liam Arc Battle Festival Platinum Ticket [Ltd. Time]",
             "flavor_text": "Collect 5 tickets to perform 1 Liam Arc Battle Festival Platinum Ticket Summon. (Until [1701392399] <tz>)",

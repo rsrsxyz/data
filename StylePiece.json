@@ -1547,6 +1547,22 @@
             "exchange_cost": 250
         },
         {
+            "id": 216102,
+            "name": "SS Strom Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Folding Screen Panel: Water] Strom.",
+            "icon": 216102,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 216202,
+            "name": "SS Adyllis Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Folding Screen Panel: Earth] Adyllis.",
+            "icon": 216202,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 216301,
             "name": "SS Avi Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Tiny Feather] Avi.",
@@ -1555,10 +1571,26 @@
             "exchange_cost": 250
         },
         {
+            "id": 216302,
+            "name": "SS Avi Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Folding Screen Panel: Wind] Avi.",
+            "icon": 216302,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 216401,
             "name": "SS Pyrix Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Flame Tyrant] Pyrix.",
             "icon": 216401,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 216402,
+            "name": "SS Pyrix Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Folding Screen Panel: Fire] Pyrix.",
+            "icon": 216402,
             "selling_price": 100,
             "exchange_cost": 250
         },

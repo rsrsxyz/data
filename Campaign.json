@@ -74366,6 +74366,26 @@
             ],
             "start_at": 1701421200,
             "end_at": 1893373199
+        },
+        {
+            "id": 1000002631,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                2022
+            ],
+            "difficulties": [],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                1000002783,
+                1000002784,
+                1000002785,
+                1000002786
+            ],
+            "start_at": 1704416400,
+            "end_at": 1705625999
         }
     ]
 }

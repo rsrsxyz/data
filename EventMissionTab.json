@@ -1475,6 +1475,14 @@
             "priority": 10408
         },
         {
+            "id": 373,
+            "name": "New Year's! Elemental Lords Conquest II",
+            "start_at": 1704416400,
+            "end_at": 1705625999,
+            "is_daily": 0,
+            "priority": 10426
+        },
+        {
             "id": 375,
             "name": "Main Story Support Missions",
             "start_at": 1694998800,
@@ -2577,6 +2585,14 @@
             "end_at": 1701392399,
             "is_daily": 1,
             "priority": 10415
+        },
+        {
+            "id": 1000000118,
+            "name": "New Year's! Elemental Lords Conquest I",
+            "start_at": 1704416400,
+            "end_at": 1705625999,
+            "is_daily": 1,
+            "priority": 10427
         }
     ]
 }

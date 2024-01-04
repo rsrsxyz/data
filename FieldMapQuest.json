@@ -79442,6 +79442,6042 @@
             "is_adventurer_rank_drop_enabled": 0
         },
         {
+            "id": 972022001,
+            "quest_type": 1,
+            "name": "Crystal City: West",
+            "sort_order": 1,
+            "field_map_node_id": 10127001,
+            "battle_id": 700005331,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022002,
+            "quest_type": 1,
+            "name": "Taralian Camp",
+            "sort_order": 2,
+            "field_map_node_id": 10127002,
+            "battle_id": 700005231,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022003,
+            "quest_type": 1,
+            "name": "Crystal City: North",
+            "sort_order": 3,
+            "field_map_node_id": 10127003,
+            "battle_id": 700005361,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022004,
+            "quest_type": 1,
+            "name": "Taralian Camp: North",
+            "sort_order": 4,
+            "field_map_node_id": 10127004,
+            "battle_id": 700005091,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022005,
+            "quest_type": 1,
+            "name": "Kaklim Desert: South 1",
+            "sort_order": 5,
+            "field_map_node_id": 10127005,
+            "battle_id": 700005441,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022006,
+            "quest_type": 1,
+            "name": "Kaklim Desert: West 1",
+            "sort_order": 6,
+            "field_map_node_id": 10127006,
+            "battle_id": 700005441,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022007,
+            "quest_type": 1,
+            "name": "Kaklim Desert: West 2",
+            "sort_order": 7,
+            "field_map_node_id": 10127007,
+            "battle_id": 700005441,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022008,
+            "quest_type": 1,
+            "name": "Kaklim Desert: Central 1",
+            "sort_order": 8,
+            "field_map_node_id": 10127008,
+            "battle_id": 700005151,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022009,
+            "quest_type": 1,
+            "name": "Kaklim Desert: Central 2",
+            "sort_order": 9,
+            "field_map_node_id": 10127009,
+            "battle_id": 700005441,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022010,
+            "quest_type": 1,
+            "name": "Kaklim Desert: South 2",
+            "sort_order": 10,
+            "field_map_node_id": 10127010,
+            "battle_id": 700005441,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022011,
+            "quest_type": 1,
+            "name": "Uso: South",
+            "sort_order": 11,
+            "field_map_node_id": 10127011,
+            "battle_id": 700005361,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022012,
+            "quest_type": 1,
+            "name": "Kaklim Desert: East 1",
+            "sort_order": 12,
+            "field_map_node_id": 10127012,
+            "battle_id": 700005441,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022013,
+            "quest_type": 1,
+            "name": "Kaklim Desert: East 2",
+            "sort_order": 13,
+            "field_map_node_id": 10127013,
+            "battle_id": 700005151,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022014,
+            "quest_type": 1,
+            "name": "Kaklim Desert: Central 3",
+            "sort_order": 14,
+            "field_map_node_id": 10127014,
+            "battle_id": 700005451,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022015,
+            "quest_type": 1,
+            "name": "Kaklim Desert: North 1",
+            "sort_order": 15,
+            "field_map_node_id": 10127015,
+            "battle_id": 700005451,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022016,
+            "quest_type": 1,
+            "name": "Kaklim Desert: North 2",
+            "sort_order": 16,
+            "field_map_node_id": 10127016,
+            "battle_id": 700005451,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104324,
+                104325,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022017,
+            "quest_type": 1,
+            "name": "Northpoint: West",
+            "sort_order": 17,
+            "field_map_node_id": 10127017,
+            "battle_id": 700005011,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104334,
+                104335,
+                104592,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 10
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022018,
+            "quest_type": 1,
+            "name": "Altours: East",
+            "sort_order": 18,
+            "field_map_node_id": 10127018,
+            "battle_id": 700005361,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022019,
+            "quest_type": 1,
+            "name": "Yeoville: East",
+            "sort_order": 19,
+            "field_map_node_id": 10127019,
+            "battle_id": 700005331,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022020,
+            "quest_type": 1,
+            "name": "Inner Sea: Loban",
+            "sort_order": 20,
+            "field_map_node_id": 10127020,
+            "battle_id": 700005251,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022021,
+            "quest_type": 1,
+            "name": "Loban: North",
+            "sort_order": 21,
+            "field_map_node_id": 10127021,
+            "battle_id": 700005091,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022022,
+            "quest_type": 1,
+            "name": "Loban: East",
+            "sort_order": 22,
+            "field_map_node_id": 10127022,
+            "battle_id": 700005331,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022023,
+            "quest_type": 1,
+            "name": "Aurefont",
+            "sort_order": 23,
+            "field_map_node_id": 10127023,
+            "battle_id": 700005201,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022024,
+            "quest_type": 1,
+            "name": "Aurefont: North",
+            "sort_order": 24,
+            "field_map_node_id": 10127024,
+            "battle_id": 700005361,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022025,
+            "quest_type": 1,
+            "name": "Mazewood: North",
+            "sort_order": 25,
+            "field_map_node_id": 10127025,
+            "battle_id": 700005111,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022026,
+            "quest_type": 1,
+            "name": "Mazewood: South 1",
+            "sort_order": 26,
+            "field_map_node_id": 10127026,
+            "battle_id": 700005331,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022027,
+            "quest_type": 1,
+            "name": "Mazewood: South 2",
+            "sort_order": 27,
+            "field_map_node_id": 10127027,
+            "battle_id": 700005331,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022028,
+            "quest_type": 1,
+            "name": "Jelton: West",
+            "sort_order": 28,
+            "field_map_node_id": 10127028,
+            "battle_id": 700005421,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022029,
+            "quest_type": 1,
+            "name": "Jelton: South",
+            "sort_order": 29,
+            "field_map_node_id": 10127029,
+            "battle_id": 700005131,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022030,
+            "quest_type": 1,
+            "name": "Jelton",
+            "sort_order": 30,
+            "field_map_node_id": 10127030,
+            "battle_id": 700005371,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022031,
+            "quest_type": 1,
+            "name": "Melvir: South",
+            "sort_order": 31,
+            "field_map_node_id": 10127031,
+            "battle_id": 700005351,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022032,
+            "quest_type": 1,
+            "name": "Melvir: East",
+            "sort_order": 32,
+            "field_map_node_id": 10127032,
+            "battle_id": 700005431,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022033,
+            "quest_type": 1,
+            "name": "Melvir: North",
+            "sort_order": 33,
+            "field_map_node_id": 10127033,
+            "battle_id": 700005431,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104326,
+                104327,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022034,
+            "quest_type": 1,
+            "name": "Melvir",
+            "sort_order": 34,
+            "field_map_node_id": 10127034,
+            "battle_id": 700005021,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104336,
+                104337,
+                104592,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 10
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022035,
+            "quest_type": 1,
+            "name": "Altours: South",
+            "sort_order": 35,
+            "field_map_node_id": 10127035,
+            "battle_id": 700005361,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022036,
+            "quest_type": 1,
+            "name": "North Estamir 1",
+            "sort_order": 36,
+            "field_map_node_id": 10127036,
+            "battle_id": 700005221,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022037,
+            "quest_type": 1,
+            "name": "South Estamir",
+            "sort_order": 37,
+            "field_map_node_id": 10127037,
+            "battle_id": 700005221,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022038,
+            "quest_type": 1,
+            "name": "Knights Dominion: North 1",
+            "sort_order": 38,
+            "field_map_node_id": 10127038,
+            "battle_id": 700005141,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022039,
+            "quest_type": 1,
+            "name": "Knights Dominion: North 2",
+            "sort_order": 39,
+            "field_map_node_id": 10127039,
+            "battle_id": 700005381,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022040,
+            "quest_type": 1,
+            "name": "Mirsaburg: West",
+            "sort_order": 40,
+            "field_map_node_id": 10127040,
+            "battle_id": 700005381,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022041,
+            "quest_type": 1,
+            "name": "Abandoned Keep: North",
+            "sort_order": 41,
+            "field_map_node_id": 10127041,
+            "battle_id": 700005421,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022042,
+            "quest_type": 1,
+            "name": "Abandoned Keep: South",
+            "sort_order": 42,
+            "field_map_node_id": 10127042,
+            "battle_id": 700005141,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022043,
+            "quest_type": 1,
+            "name": "Eugenstadt: North",
+            "sort_order": 43,
+            "field_map_node_id": 10127043,
+            "battle_id": 700005421,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022044,
+            "quest_type": 1,
+            "name": "Eugenstadt: South",
+            "sort_order": 44,
+            "field_map_node_id": 10127044,
+            "battle_id": 700005411,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022045,
+            "quest_type": 1,
+            "name": "Drachenvale",
+            "sort_order": 45,
+            "field_map_node_id": 10127045,
+            "battle_id": 700005401,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022046,
+            "quest_type": 1,
+            "name": "Lake Malar: South 1",
+            "sort_order": 46,
+            "field_map_node_id": 10127046,
+            "battle_id": 700005121,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022047,
+            "quest_type": 1,
+            "name": "Lake Malar: West 1",
+            "sort_order": 47,
+            "field_map_node_id": 10127047,
+            "battle_id": 700005351,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022048,
+            "quest_type": 1,
+            "name": "Lake Malar: West 2",
+            "sort_order": 48,
+            "field_map_node_id": 10127048,
+            "battle_id": 700005431,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022049,
+            "quest_type": 1,
+            "name": "Lake Malar: South 2",
+            "sort_order": 49,
+            "field_map_node_id": 10127049,
+            "battle_id": 700005351,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022050,
+            "quest_type": 1,
+            "name": "Weiserheim: West",
+            "sort_order": 50,
+            "field_map_node_id": 10127050,
+            "battle_id": 700005401,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104328,
+                104329,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022051,
+            "quest_type": 1,
+            "name": "Weiserheim",
+            "sort_order": 51,
+            "field_map_node_id": 10127051,
+            "battle_id": 700005041,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104338,
+                104339,
+                104592,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 10
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022052,
+            "quest_type": 1,
+            "name": "Altours: West",
+            "sort_order": 52,
+            "field_map_node_id": 10127052,
+            "battle_id": 700005361,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022053,
+            "quest_type": 1,
+            "name": "North Estamir: West",
+            "sort_order": 53,
+            "field_map_node_id": 10127053,
+            "battle_id": 700005361,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022054,
+            "quest_type": 1,
+            "name": "Estamir Vicinity",
+            "sort_order": 54,
+            "field_map_node_id": 10127054,
+            "battle_id": 700005241,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022055,
+            "quest_type": 1,
+            "name": "Tarmitta: West",
+            "sort_order": 55,
+            "field_map_node_id": 10127055,
+            "battle_id": 700005111,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022056,
+            "quest_type": 1,
+            "name": "Lake Malar: West 3",
+            "sort_order": 56,
+            "field_map_node_id": 10127056,
+            "battle_id": 700005361,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022057,
+            "quest_type": 1,
+            "name": "Lake Malar: West 4",
+            "sort_order": 57,
+            "field_map_node_id": 10127057,
+            "battle_id": 700005331,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022058,
+            "quest_type": 1,
+            "name": "New Road: West",
+            "sort_order": 58,
+            "field_map_node_id": 10127058,
+            "battle_id": 700005341,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022059,
+            "quest_type": 1,
+            "name": "New Road: South",
+            "sort_order": 59,
+            "field_map_node_id": 10127059,
+            "battle_id": 700005131,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022060,
+            "quest_type": 1,
+            "name": "New Road: Central",
+            "sort_order": 60,
+            "field_map_node_id": 10127060,
+            "battle_id": 700005371,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022061,
+            "quest_type": 1,
+            "name": "New Road: North",
+            "sort_order": 61,
+            "field_map_node_id": 10127061,
+            "battle_id": 700005371,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022062,
+            "quest_type": 1,
+            "name": "Weston",
+            "sort_order": 62,
+            "field_map_node_id": 10127062,
+            "battle_id": 700005211,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022063,
+            "quest_type": 1,
+            "name": "Weston: North 1",
+            "sort_order": 63,
+            "field_map_node_id": 10127063,
+            "battle_id": 700005121,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022064,
+            "quest_type": 1,
+            "name": "Saoki",
+            "sort_order": 64,
+            "field_map_node_id": 10127064,
+            "battle_id": 700005211,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022065,
+            "quest_type": 1,
+            "name": "Weston: North 2",
+            "sort_order": 65,
+            "field_map_node_id": 10127065,
+            "battle_id": 700005401,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022066,
+            "quest_type": 1,
+            "name": "Weston: North 3",
+            "sort_order": 66,
+            "field_map_node_id": 10127066,
+            "battle_id": 700005401,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022067,
+            "quest_type": 1,
+            "name": "Vampire's Den: South",
+            "sort_order": 67,
+            "field_map_node_id": 10127067,
+            "battle_id": 700005401,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104330,
+                104331,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022068,
+            "quest_type": 1,
+            "name": "Vampire's Den",
+            "sort_order": 68,
+            "field_map_node_id": 10127068,
+            "battle_id": 700005031,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104340,
+                104341,
+                104592,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 10
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022069,
+            "quest_type": 1,
+            "name": "North Estamir 2",
+            "sort_order": 69,
+            "field_map_node_id": 10127069,
+            "battle_id": 700005221,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104332,
+                104333,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022070,
+            "quest_type": 1,
+            "name": "Tarmitta: East",
+            "sort_order": 70,
+            "field_map_node_id": 10127070,
+            "battle_id": 700005331,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104332,
+                104333,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022071,
+            "quest_type": 1,
+            "name": "Water Dragon Temple",
+            "sort_order": 71,
+            "field_map_node_id": 10127071,
+            "battle_id": 700005051,
+            "max_turn": 5,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [],
+            "rewards": [],
+            "drop_group_ids": [
+                104508,
+                104509,
+                104510,
+                106183,
+                106181
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 10
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 202180000,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 10,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022072,
+            "quest_type": 1,
+            "name": "Yeoville",
+            "sort_order": 72,
+            "field_map_node_id": 10127072,
+            "battle_id": 700005201,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104332,
+                104333,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022073,
+            "quest_type": 1,
+            "name": "Loban: South",
+            "sort_order": 73,
+            "field_map_node_id": 10127073,
+            "battle_id": 700005331,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104332,
+                104333,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022074,
+            "quest_type": 1,
+            "name": "Great Pit",
+            "sort_order": 74,
+            "field_map_node_id": 10127074,
+            "battle_id": 700005061,
+            "max_turn": 5,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [],
+            "rewards": [],
+            "drop_group_ids": [
+                104508,
+                104509,
+                104510,
+                106183,
+                106181
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 10
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 202180000,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 10,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022075,
+            "quest_type": 1,
+            "name": "Crystal City: East",
+            "sort_order": 75,
+            "field_map_node_id": 10127075,
+            "battle_id": 700005361,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104332,
+                104333,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022076,
+            "quest_type": 1,
+            "name": "Coral Sea: West",
+            "sort_order": 76,
+            "field_map_node_id": 10127076,
+            "battle_id": 700005281,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104332,
+                104333,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022077,
+            "quest_type": 1,
+            "name": "Mt. Scurve: Summit",
+            "sort_order": 77,
+            "field_map_node_id": 10127077,
+            "battle_id": 700005071,
+            "max_turn": 5,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [],
+            "rewards": [],
+            "drop_group_ids": [
+                104508,
+                104509,
+                104510,
+                106183,
+                106181
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 10
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 202180000,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 10,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022078,
+            "quest_type": 1,
+            "name": "Inner Sea: Bruelle",
+            "sort_order": 78,
+            "field_map_node_id": 10127078,
+            "battle_id": 700005261,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104332,
+                104333,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022079,
+            "quest_type": 1,
+            "name": "Mt. Tomae Vicinity",
+            "sort_order": 79,
+            "field_map_node_id": 10127079,
+            "battle_id": 700005241,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                104332,
+                104333,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972022080,
+            "quest_type": 1,
+            "name": "Mt. Tomae",
+            "sort_order": 80,
+            "field_map_node_id": 10127080,
+            "battle_id": 700005081,
+            "max_turn": 5,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100797
+                },
+                {
+                    "type": 7,
+                    "id": 1100798
+                }
+            ],
+            "first_rewards": [],
+            "rewards": [],
+            "drop_group_ids": [
+                104508,
+                104509,
+                104510,
+                106183,
+                106181
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840197,
+                    "quantity": 10
+                }
+            ],
+            "adjusted_reward_group_id": 2023,
+            "raid_damage_reward_group_id": 202180000,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 10,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
             "id": 972023002,
             "quest_type": 1,
             "name": "Ice Prison 1",

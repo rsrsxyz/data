@@ -17263,6 +17263,19 @@
             "sort_order": 0
         },
         {
+            "id": 702102667,
+            "name": "Elemental Atk Blessings (Heat/Defense Boost)",
+            "flavor_text": "When attacking with heat attacks, grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043511
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
             "id": 702200060,
             "name": "Self-Regeneration Ⅲ",
             "flavor_text": "[Start of round]<br>Recovers own HP (medium chance/large effect).",
@@ -61294,6 +61307,192 @@
             ],
             "ability_when": 6,
             "icon": 4003,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100352,
+            "name": "Serpent of Water",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000168>Elemental Enhance (Cold)</special_effect> (extreme effect) (Max times: 3 times per battle).<br><br>[When landing an attack]<br>Recovers own HP (very small effect) and recovers own BP (+1).<br><br>[When landing an attack with Defense Liquid]<br><skill=110500387>Splash Beat</skill> will be activated (high chance).<br>(Activates using skill Rank 1).<br><br>[When landing an attack with Seabream Wave]<br><skill=110500387>Splash Beat</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br><br>[When landing an attack with Hydra Cannon]<br><skill=110500387>Splash Beat</skill> will be activated.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041756,
+                1802040244,
+                1802040694,
+                1802040695,
+                802041687
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100353,
+            "name": "Follow-Up on Defense Liquid",
+            "flavor_text": "When landing an attack with Defense Liquid, Splash Beat will be activated (high chance).<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040696
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100354,
+            "name": "Follow-Up on Seabream Wave",
+            "flavor_text": "When landing an attack with Seabream Wave, Splash Beat will be activated (very high chance).<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040697
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100355,
+            "name": "Ruler of Earth",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>[Start of turn]<br>Grants all surviving allies <special_effect=800000201>Elemental Enhance (Blunt)</special_effect> (very large effect) (Max times: 3 times per battle).<br>Grants all surviving allies <special_effect=800000163>Elemental Guard (blunt/medium)</special_effect> (1 turn(s)).<br><br>[When being directly attacked]<br>Reduces damage and counterattacks with <skill=110500397>Serpent Bite</skill>.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040520,
+                1802040698,
+                802041714,
+                802041661
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100356,
+            "name": "Turn Start: Elemental Enhance (Blunt)",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000201>Elemental Enhance (Blunt)</special_effect> (very large effect) (Max times: 3 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040699
+            ],
+            "ability_when": 3,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100357,
+            "name": "Lord of Flame",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br>Grants all surviving allies <special_effect=800000420>Elemental Atk Blessings (Heat/Defense Boost)</special_effect> (Effect: permanent in battle).<br><br>[Start of turn]<br>Grants all surviving allies <special_effect=800000209>Elemental Enhance (Heat)</special_effect> (very large effect) (Max times: 3 times per battle).<br>Grants all surviving allies <special_effect=800000225>Elemental Guard (heat/medium)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040520,
+                802043514,
+                1802040702,
+                1802040700
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100358,
+            "name": "Turn Start: Elemental Guard (heat/medium)",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies Elemental Guard (heat/medium) (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040701
+            ],
+            "ability_when": 3,
+            "icon": 4002,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100359,
+            "name": "Turn Start: Elemental Enhance (Heat)",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000209>Elemental Enhance (Heat)</special_effect> (very large effect) (Max times: 3 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043512
+            ],
+            "ability_when": 3,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100360,
+            "name": "Master of Wind",
+            "flavor_text": "Attacks' damage increases (very large effect).<br><br>[When being directly attacked]<br>Evades the attack and counterattacks with <skill=110500153>Liver Peck</skill> (very high chance).<br>(Activates using skill Rank 1)<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=1110500107>Force of Nature</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040346,
+                802041662,
+                1802040703
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100361,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=1110500107>Force of Nature</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040704,
+                1802040705,
+                1802040706
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100362,
+            "name": "Winged Defense",
+            "flavor_text": "[Start of turn]<br>Activates the following:<br>・Recovers own HP (very small effect).<br>・Increases own END/WIL (large effect).<br>・Grants oneself <special_effect=800000096>Defense Up</special_effect> (large effect) (Max times: 5 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041664,
+                1802040707,
+                1802040708
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100363,
+            "name": "Turn Start: Defense Up",
+            "flavor_text": "[Start of turn]<br>Grants oneself Defense Up (large effect) (Max times: 5 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041559
+            ],
+            "ability_when": 3,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100364,
+            "name": "Turn Start: END/WIL Up",
+            "flavor_text": "[Start of turn]<br>Increases own END/WIL (large effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040709,
+                1802040710
+            ],
+            "ability_when": 3,
+            "icon": 4001,
             "rarity": 0,
             "sort_order": 0
         },

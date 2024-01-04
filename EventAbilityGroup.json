@@ -4499,6 +4499,46 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 467
+        },
+        {
+            "id": 1000000690,
+            "event_ability_category_id": 1000000441,
+            "name": "New Year Carnival Round 1 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests and New Year's! Elemental Lords Conquest<br>・Bonus Lucky Fan and Footman Kite drops in Free Quests and New Year's! Elemental Lords Conquest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 468
+        },
+        {
+            "id": 1000000691,
+            "event_ability_category_id": 1000000442,
+            "name": "New Year Carnival Round 1 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests and New Year's! Elemental Lords Conquest<br>・Bonus Lucky Fan and Footman Kite drops in Free Quests and New Year's! Elemental Lords Conquest",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 469
+        },
+        {
+            "id": 1000000692,
+            "event_ability_category_id": 1000000443,
+            "name": "New Year Carnival Round 1 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests and New Year's! Elemental Lords Conquest<br>・Bonus Lucky Fan and Footman Kite drops in Free Quests and New Year's! Elemental Lords Conquest<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 470
+        },
+        {
+            "id": 1000000693,
+            "event_ability_category_id": 1000000444,
+            "name": "New Year Carnival Skill/Spell Rank Booster",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・2x skill/spell rank up amount in all battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 9999
         }
     ]
 }

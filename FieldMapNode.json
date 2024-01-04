@@ -25270,6 +25270,1543 @@
             "flavor_text": "3-day \"Yama, Hoko and Yatai Float Festival\" at the Karatsu Shrine. Shouts of \"Enya, enya!\" and \"Yoisa, yoisa!\" follow hikiyama festival floats through the old castle town. On UNESCO's Representative List of the Intangible Cultural Heritage of Humanity."
         },
         {
+            "id": 10127000,
+            "name": "Altours",
+            "field_map_id": 1012701,
+            "field_map_node_type": 5,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [],
+            "x": -2.5518031120300293,
+            "y": 4.605350017547607,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127001,
+            "name": "Crystal City: West",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704416400,
+            "end_at": 0,
+            "illust_ids": [
+                1020311
+            ],
+            "x": -3.801496982574463,
+            "y": 6.73445987701416,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127002,
+            "name": "Taralian Camp",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704416400,
+            "end_at": 0,
+            "illust_ids": [
+                1030391
+            ],
+            "x": -3.292362928390503,
+            "y": 9.233846664428711,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127003,
+            "name": "Crystal City: North",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704416400,
+            "end_at": 0,
+            "illust_ids": [
+                1030831
+            ],
+            "x": 1.2898470163345337,
+            "y": 9.326416969299316,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127004,
+            "name": "Taralian Camp: North",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704416400,
+            "end_at": 0,
+            "illust_ids": [
+                1030411
+            ],
+            "x": -3.1072230339050293,
+            "y": 11.918370246887207,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127005,
+            "name": "Kaklim Desert: South 1",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704416400,
+            "end_at": 0,
+            "illust_ids": [
+                1040481
+            ],
+            "x": -5.606608867645264,
+            "y": 13.445770263671875,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127006,
+            "name": "Kaklim Desert: West 1",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704416400,
+            "end_at": 0,
+            "illust_ids": [
+                1060251
+            ],
+            "x": -7.92085599899292,
+            "y": 15.667449951171875,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127007,
+            "name": "Kaklim Desert: West 2",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704416400,
+            "end_at": 0,
+            "illust_ids": [
+                1110401
+            ],
+            "x": -7.041441917419434,
+            "y": 17.75027084350586,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127008,
+            "name": "Kaklim Desert: Central 1",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704416400,
+            "end_at": 0,
+            "illust_ids": [
+                1040791
+            ],
+            "x": -4.171778202056885,
+            "y": 17.055999755859375,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127009,
+            "name": "Kaklim Desert: Central 2",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704459600,
+            "end_at": 0,
+            "illust_ids": [
+                1060381
+            ],
+            "x": -3.014652967453003,
+            "y": 14.417759895324707,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127010,
+            "name": "Kaklim Desert: South 2",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704459600,
+            "end_at": 0,
+            "illust_ids": [
+                1040511
+            ],
+            "x": -0.7466915249824524,
+            "y": 12.705220222473145,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127011,
+            "name": "Uso: South",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704459600,
+            "end_at": 0,
+            "illust_ids": [
+                1060371
+            ],
+            "x": 2.0304059982299805,
+            "y": 11.362950325012207,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127012,
+            "name": "Kaklim Desert: East 1",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704459600,
+            "end_at": 0,
+            "illust_ids": [
+                1060361
+            ],
+            "x": 3.881803035736084,
+            "y": 13.538339614868164,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127013,
+            "name": "Kaklim Desert: East 2",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704459600,
+            "end_at": 0,
+            "illust_ids": [
+                1110441
+            ],
+            "x": -0.09870243072509766,
+            "y": 14.880610466003418,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127014,
+            "name": "Kaklim Desert: Central 3",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704459600,
+            "end_at": 0,
+            "illust_ids": [
+                1060631
+            ],
+            "x": -1.5798189640045166,
+            "y": 17.28742027282715,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127015,
+            "name": "Kaklim Desert: North 1",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704459600,
+            "end_at": 0,
+            "illust_ids": [
+                1040811
+            ],
+            "x": 0.7807117104530334,
+            "y": 17.981700897216797,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127016,
+            "name": "Kaklim Desert: North 2",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704459600,
+            "end_at": 0,
+            "illust_ids": [
+                1120341
+            ],
+            "x": 2.6321089267730713,
+            "y": 15.436030387878418,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127017,
+            "name": "Northpoint: West",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704459600,
+            "end_at": 0,
+            "illust_ids": [
+                1020341
+            ],
+            "x": 4.2058000564575195,
+            "y": 17.3799991607666,
+            "field_map_size": 3,
+            "field_map_visibility_type": 2,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127018,
+            "name": "Altours: East",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704502800,
+            "end_at": 0,
+            "illust_ids": [
+                1020421
+            ],
+            "x": -0.468980610370636,
+            "y": 4.697920799255371,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127019,
+            "name": "Yeoville: East",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704502800,
+            "end_at": 0,
+            "illust_ids": [
+                1150581
+            ],
+            "x": 0.5955724716186523,
+            "y": 2.985379934310913,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127020,
+            "name": "Inner Sea: Loban",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704502800,
+            "end_at": 0,
+            "illust_ids": [
+                1040801
+            ],
+            "x": 1.6138420104980469,
+            "y": 0.6248466968536377,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127021,
+            "name": "Loban: North",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704502800,
+            "end_at": 0,
+            "illust_ids": [
+                1030421
+            ],
+            "x": 2.956104040145874,
+            "y": -1.6893999576568604,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127022,
+            "name": "Loban: East",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704502800,
+            "end_at": 0,
+            "illust_ids": [
+                1090331
+            ],
+            "x": 5.131494998931885,
+            "y": 0.16199679672718048,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127023,
+            "name": "Aurefont",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704502800,
+            "end_at": 0,
+            "illust_ids": [
+                1030831
+            ],
+            "x": 6.612617015838623,
+            "y": -2.3373899459838867,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127024,
+            "name": "Aurefont: North",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704502800,
+            "end_at": 0,
+            "illust_ids": [
+                1020311
+            ],
+            "x": 8.278873443603516,
+            "y": 1.5042599439620972,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127025,
+            "name": "Mazewood: North",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704502800,
+            "end_at": 0,
+            "illust_ids": [
+                1110441
+            ],
+            "x": 9.343425750732422,
+            "y": -1.9208250045776367,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127026,
+            "name": "Mazewood: South 1",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704546000,
+            "end_at": 0,
+            "illust_ids": [
+                1060631
+            ],
+            "x": 10.639399528503418,
+            "y": -4.096217155456543,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127027,
+            "name": "Mazewood: South 2",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704546000,
+            "end_at": 0,
+            "illust_ids": [
+                1110591
+            ],
+            "x": 13.138790130615234,
+            "y": -4.46649694442749,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127028,
+            "name": "Jelton: West",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704546000,
+            "end_at": 0,
+            "illust_ids": [
+                1120701
+            ],
+            "x": 17.026729583740234,
+            "y": -4.5590667724609375,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127029,
+            "name": "Jelton: South",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704546000,
+            "end_at": 0,
+            "illust_ids": [
+                1050671
+            ],
+            "x": 19.80381965637207,
+            "y": -2.9853789806365967,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127030,
+            "name": "Jelton",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704546000,
+            "end_at": 0,
+            "illust_ids": [
+                1110461
+            ],
+            "x": 17.535860061645508,
+            "y": -1.6893999576568604,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127031,
+            "name": "Melvir: South",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704546000,
+            "end_at": 0,
+            "illust_ids": [
+                1070631
+            ],
+            "x": 12.351949691772461,
+            "y": -0.9488415718078613,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127032,
+            "name": "Melvir: East",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704546000,
+            "end_at": 0,
+            "illust_ids": [
+                1120701
+            ],
+            "x": 14.805049896240234,
+            "y": 0.5785629749298096,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127033,
+            "name": "Melvir: North",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704546000,
+            "end_at": 0,
+            "illust_ids": [
+                1020411
+            ],
+            "x": 15.17533016204834,
+            "y": 3.3556571006774902,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127034,
+            "name": "Melvir",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704546000,
+            "end_at": 0,
+            "illust_ids": [
+                1993521
+            ],
+            "x": 11.889100074768066,
+            "y": 2.1985340118408203,
+            "field_map_size": 3,
+            "field_map_visibility_type": 2,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127035,
+            "name": "Altours: South",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704589200,
+            "end_at": 0,
+            "illust_ids": [
+                1050371
+            ],
+            "x": -3.153507947921753,
+            "y": 2.5225300788879395,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127036,
+            "name": "North Estamir 1",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704589200,
+            "end_at": 0,
+            "illust_ids": [
+                1070631
+            ],
+            "x": -3.014652967453003,
+            "y": 0.30085301399230957,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127037,
+            "name": "South Estamir",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704589200,
+            "end_at": 0,
+            "illust_ids": [
+                1150561
+            ],
+            "x": -4.63462495803833,
+            "y": -0.6711316704750061,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127038,
+            "name": "Knights Dominion: North 1",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704589200,
+            "end_at": 0,
+            "illust_ids": [
+                1030871
+            ],
+            "x": -3.3849329948425293,
+            "y": -2.8465240001678467,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127039,
+            "name": "Knights Dominion: North 2",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704589200,
+            "end_at": 0,
+            "illust_ids": [
+                1050681
+            ],
+            "x": -5.884318828582764,
+            "y": -3.6796529293060303,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127040,
+            "name": "Mirsaburg: West",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704589200,
+            "end_at": 0,
+            "illust_ids": [
+                1020311
+            ],
+            "x": -5.606608867645264,
+            "y": -6.225325107574463,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127041,
+            "name": "Abandoned Keep: North",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704589200,
+            "end_at": 0,
+            "illust_ids": [
+                1020411
+            ],
+            "x": -3.060939073562622,
+            "y": -5.068202018737793,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127042,
+            "name": "Abandoned Keep: South",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704589200,
+            "end_at": 0,
+            "illust_ids": [
+                1040531
+            ],
+            "x": -1.9500999450683594,
+            "y": -7.937867164611816,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127043,
+            "name": "Eugenstadt: North",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704632400,
+            "end_at": 0,
+            "illust_ids": [
+                1150541
+            ],
+            "x": -2.5980889797210693,
+            "y": -10.668680191040039,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127044,
+            "name": "Eugenstadt: South",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704632400,
+            "end_at": 0,
+            "illust_ids": [
+                1120351
+            ],
+            "x": -3.84778094291687,
+            "y": -14.093759536743164,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127045,
+            "name": "Drachenvale",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704632400,
+            "end_at": 0,
+            "illust_ids": [
+                1030401
+            ],
+            "x": -6.671164035797119,
+            "y": -12.520079612731934,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127046,
+            "name": "Lake Malar: South 1",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704632400,
+            "end_at": 0,
+            "illust_ids": [
+                1050831
+            ],
+            "x": -11.484800338745117,
+            "y": -13.399490356445312,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127047,
+            "name": "Lake Malar: West 1",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704632400,
+            "end_at": 0,
+            "illust_ids": [
+                1150521
+            ],
+            "x": -14.076749801635742,
+            "y": -12.334939956665039,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127048,
+            "name": "Lake Malar: West 2",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704632400,
+            "end_at": 0,
+            "illust_ids": [
+                1110421
+            ],
+            "x": -14.77103042602539,
+            "y": -9.326415061950684,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127049,
+            "name": "Lake Malar: South 2",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704632400,
+            "end_at": 0,
+            "illust_ids": [
+                1020331
+            ],
+            "x": -11.160799980163574,
+            "y": -10.900099754333496,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127050,
+            "name": "Weiserheim: West",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704632400,
+            "end_at": 0,
+            "illust_ids": [
+                1060631
+            ],
+            "x": -7.828286170959473,
+            "y": -9.465270042419434,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127051,
+            "name": "Weiserheim",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704632400,
+            "end_at": 0,
+            "illust_ids": [
+                1110431
+            ],
+            "x": -4.9123358726501465,
+            "y": -8.817281723022461,
+            "field_map_size": 3,
+            "field_map_visibility_type": 2,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127052,
+            "name": "Altours: West",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704675600,
+            "end_at": 0,
+            "illust_ids": [
+                1100251
+            ],
+            "x": -4.958620071411133,
+            "y": 5.345911026000977,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127053,
+            "name": "North Estamir: West",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704675600,
+            "end_at": 0,
+            "illust_ids": [
+                1050371
+            ],
+            "x": -7.041441917419434,
+            "y": 2.5225300788879395,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127054,
+            "name": "Estamir Vicinity",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704675600,
+            "end_at": 0,
+            "illust_ids": [
+                1080391
+            ],
+            "x": -10.42024040222168,
+            "y": 2.152250051498413,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127055,
+            "name": "Tarmitta: West",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704675600,
+            "end_at": 0,
+            "illust_ids": [
+                1060391
+            ],
+            "x": -10.97566032409668,
+            "y": -0.5785617232322693,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127056,
+            "name": "Lake Malar: West 3",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704675600,
+            "end_at": 0,
+            "illust_ids": [
+                1050341
+            ],
+            "x": -14.632169723510742,
+            "y": -6.04018497467041,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127057,
+            "name": "Lake Malar: West 4",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704675600,
+            "end_at": 0,
+            "illust_ids": [
+                1020421
+            ],
+            "x": -18.612680435180664,
+            "y": -7.3361639976501465,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127058,
+            "name": "New Road: West",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704675600,
+            "end_at": 0,
+            "illust_ids": [
+                1150521
+            ],
+            "x": -17.872119903564453,
+            "y": -4.929347038269043,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127059,
+            "name": "New Road: South",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704675600,
+            "end_at": 0,
+            "illust_ids": [
+                1100301
+            ],
+            "x": -14.909879684448242,
+            "y": -3.4019429683685303,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127060,
+            "name": "New Road: Central",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704718800,
+            "end_at": 0,
+            "illust_ids": [
+                1110611
+            ],
+            "x": -17.085269927978516,
+            "y": -0.7637016773223877,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127061,
+            "name": "New Road: North",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704718800,
+            "end_at": 0,
+            "illust_ids": [
+                1030831
+            ],
+            "x": -17.224130630493164,
+            "y": 1.8745399713516235,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127062,
+            "name": "Weston",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704718800,
+            "end_at": 0,
+            "illust_ids": [
+                1110451
+            ],
+            "x": -20.371509552001953,
+            "y": 2.5225300788879395,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127063,
+            "name": "Weston: North 1",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704718800,
+            "end_at": 0,
+            "illust_ids": [
+                1030871
+            ],
+            "x": -18.334970474243164,
+            "y": 4.420213222503662,
+            "field_map_size": 2,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127064,
+            "name": "Saoki",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704718800,
+            "end_at": 0,
+            "illust_ids": [
+                1150541
+            ],
+            "x": -21.806339263916016,
+            "y": 5.531050205230713,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127065,
+            "name": "Weston: North 2",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704718800,
+            "end_at": 0,
+            "illust_ids": [
+                1100261
+            ],
+            "x": -19.954940795898438,
+            "y": 7.289876937866211,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127066,
+            "name": "Weston: North 3",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704718800,
+            "end_at": 0,
+            "illust_ids": [
+                1120311
+            ],
+            "x": -16.52985954284668,
+            "y": 6.2253241539001465,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127067,
+            "name": "Vampire's Den: South",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704718800,
+            "end_at": 0,
+            "illust_ids": [
+                1050341
+            ],
+            "x": -13.336190223693848,
+            "y": 5.207056999206543,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127068,
+            "name": "Vampire's Den",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704718800,
+            "end_at": 0,
+            "illust_ids": [
+                1993511
+            ],
+            "x": -14.076749801635742,
+            "y": 7.845296859741211,
+            "field_map_size": 3,
+            "field_map_visibility_type": 2,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127069,
+            "name": "North Estamir 2",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704762000,
+            "end_at": 0,
+            "illust_ids": [
+                1070331
+            ],
+            "x": -5.93060302734375,
+            "y": 1.3191200494766235,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127070,
+            "name": "Tarmitta: East",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704762000,
+            "end_at": 0,
+            "illust_ids": [
+                1020331
+            ],
+            "x": -8.105997085571289,
+            "y": -2.2448201179504395,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127071,
+            "name": "Water Dragon Temple",
+            "field_map_id": 1012701,
+            "field_map_node_type": 7,
+            "start_at": 1704762000,
+            "end_at": 0,
+            "illust_ids": [
+                1994031
+            ],
+            "x": -10.929380416870117,
+            "y": -6.132754802703857,
+            "field_map_size": 4,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127072,
+            "name": "Yeoville",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704762000,
+            "end_at": 0,
+            "illust_ids": [
+                1050381
+            ],
+            "x": -0.19127200543880463,
+            "y": 0.5322766900062561,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127073,
+            "name": "Loban: South",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704762000,
+            "end_at": 0,
+            "illust_ids": [
+                1040801
+            ],
+            "x": 1.8915499448776245,
+            "y": -4.790492057800293,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127074,
+            "name": "Great Pit",
+            "field_map_id": 1012701,
+            "field_map_node_type": 7,
+            "start_at": 1704762000,
+            "end_at": 0,
+            "illust_ids": [
+                1994041
+            ],
+            "x": 7.260605812072754,
+            "y": -5.76247501373291,
+            "field_map_size": 4,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127075,
+            "name": "Crystal City: East",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704762000,
+            "end_at": 0,
+            "illust_ids": [
+                1030851
+            ],
+            "x": 2.1692609786987305,
+            "y": 7.104736804962158,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127076,
+            "name": "Coral Sea: West",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704762000,
+            "end_at": 0,
+            "illust_ids": [
+                1060371
+            ],
+            "x": 7.44574499130249,
+            "y": 7.567586898803711,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127077,
+            "name": "Mt. Scurve: Summit",
+            "field_map_id": 1012701,
+            "field_map_node_type": 7,
+            "start_at": 1704762000,
+            "end_at": 0,
+            "illust_ids": [
+                1994021
+            ],
+            "x": 6.427474021911621,
+            "y": 10.483539581298828,
+            "field_map_size": 4,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127078,
+            "name": "Inner Sea: Bruelle",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704762000,
+            "end_at": 0,
+            "illust_ids": [
+                1070231
+            ],
+            "x": 0.45671701431274414,
+            "y": -7.799012184143066,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127079,
+            "name": "Mt. Tomae Vicinity",
+            "field_map_id": 1012701,
+            "field_map_node_type": 1,
+            "start_at": 1704762000,
+            "end_at": 0,
+            "illust_ids": [
+                1080391
+            ],
+            "x": 10.037699699401855,
+            "y": -11.686949729919434,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10127080,
+            "name": "Mt. Tomae",
+            "field_map_id": 1012701,
+            "field_map_node_type": 7,
+            "start_at": 1704762000,
+            "end_at": 0,
+            "illust_ids": [
+                1994011
+            ],
+            "x": 18.230140686035156,
+            "y": -9.974405288696289,
+            "field_map_size": 4,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
             "id": 10128000,
             "name": "Before the Teleporter",
             "field_map_id": 1012801,

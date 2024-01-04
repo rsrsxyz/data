@@ -18677,6 +18677,44 @@
             "stage_released_reward_set_id": 0
         },
         {
+            "id": 2022,
+            "name": "New Year's! Elemental Lords Conquest",
+            "sort_order": 1,
+            "quest_category": 9,
+            "quest_sub_category_id": 0,
+            "list_banner": 940019,
+            "screen_in_help_id": 864,
+            "currency_items": [
+                {
+                    "currency": 4,
+                    "id": 1100797
+                }
+            ],
+            "shop_id": 4900522,
+            "panel_shop_id": 0,
+            "event_mission_tab_id": 373,
+            "fixed_status_id": 0,
+            "start_at": 1704416400,
+            "end_at": 1705625999,
+            "bgm": 130400,
+            "field_map_icon_id": 2021,
+            "event_box_gacha_id": 0,
+            "event_ability_potion_target": 1,
+            "auto_rematch_enabled": 1,
+            "part_id": 0,
+            "last_previous_synopsis_id": 0,
+            "add_cinema_start_at": 0,
+            "display_cinema_start_at": 0,
+            "cinema_banner_id": 0,
+            "story_mode_episode_name": "",
+            "cover_banner_id": 0,
+            "stage_gacha_id": 0,
+            "challenge_mode_banner_id": 0,
+            "gacha_ticket_id": 0,
+            "top_banner_id": 0,
+            "stage_released_reward_set_id": 0
+        },
+        {
             "id": 2023,
             "name": "Liam Arc Episode 13 They Who Were Born: Divine Realm Battles",
             "sort_order": 1,
