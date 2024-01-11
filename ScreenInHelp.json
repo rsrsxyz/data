@@ -7920,6 +7920,16 @@
             "info_id": 0
         },
         {
+            "id": 932,
+            "name": "Quest_Event_10002",
+            "title": "Threat Detected! Operation Anti-Virus",
+            "size": 3,
+            "banners": [
+                11373
+            ],
+            "info_id": 0
+        },
+        {
             "id": 933,
             "name": "Quest_Event_10002",
             "title": "All-Out Battle! Showdown with the Gods",
@@ -8512,6 +8522,16 @@
             "size": 3,
             "banners": [
                 1000000100
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 1000000053,
+            "name": "Quest_Event_1000001042",
+            "title": "New Year's! Battle with Avi",
+            "size": 3,
+            "banners": [
+                1000000101
             ],
             "info_id": 0
         }

@@ -20627,6 +20627,17 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7400,
+            "ribbon": "2x Stage EXP Campaign!",
+            "campaign_type": 10,
+            "rate": 2.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7401,
             "ribbon": "Exploration Point Increased!",
             "campaign_type": 3,
@@ -20636,6 +20647,19 @@
             "drop_group_ids": [],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 50
+        },
+        {
+            "id": 7402,
+            "ribbon": "Fragmented Data Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013768
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
         },
         {
             "id": 7403,
@@ -47272,6 +47296,19 @@
             "reward_id": 0,
             "drop_group_ids": [
                 1000097708
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 1000002787,
+            "ribbon": "[SSS] Celestial Crystal Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097711
             ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0

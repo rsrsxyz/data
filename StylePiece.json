@@ -5107,6 +5107,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 310306,
+            "name": "SS T260G Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Powerful Equipment] T260G.",
+            "icon": 310306,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 310401,
             "name": "SS Alkaiser Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Alkaiser's on the Scene!] Alkaiser. ",
@@ -5167,6 +5175,14 @@
             "name": "SS Red Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Conquer All the Food Stands!] Red.",
             "icon": 310410,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 310411,
+            "name": "SS Alkaiser Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Evil Will Not Go Unpunished!] Alkaiser.",
+            "icon": 310411,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -5295,6 +5311,14 @@
             "name": "SS Asellus Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Oh, to Be Excited] Asellus.",
             "icon": 310612,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 310614,
+            "name": "SS Asellus Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Accept This Power] Asellus.",
+            "icon": 310614,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -5611,6 +5635,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 312309,
+            "name": "SS Rouge Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Seeking Runes in Chaos] Rouge.",
+            "icon": 312309,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 312401,
             "name": "A Gen Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of A [I'm Gen, Put 'Er There] Gen. ",
@@ -5647,6 +5679,14 @@
             "name": "SS Gen Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'm Starting First] Gen.",
             "icon": 312405,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 312406,
+            "name": "SS Gen Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Soul-Soothing Swing] Gen.",
+            "icon": 312406,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -5871,6 +5911,14 @@
             "name": "SS Princess White Rose Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Awaiting Lady Asellus] Princess White Rose.",
             "icon": 313309,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 313310,
+            "name": "SS Princess White Rose Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Memories of a Distant Day] Princess White Rose.",
+            "icon": 313310,
             "selling_price": 100,
             "exchange_cost": 250
         },

@@ -4539,6 +4539,36 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 9999
+        },
+        {
+            "id": 1000000695,
+            "event_ability_category_id": 1000000446,
+            "name": "New Year Carnival Round 2 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Fragmented Data drops in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 471
+        },
+        {
+            "id": 1000000696,
+            "event_ability_category_id": 1000000447,
+            "name": "New Year Carnival Round 2 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Fragmented Data drops in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 472
+        },
+        {
+            "id": 1000000697,
+            "event_ability_category_id": 1000000448,
+            "name": "New Year Carnival Round 2 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Fragmented Data drops in Free Quests<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 473
         }
     ]
 }
