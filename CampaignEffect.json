@@ -20252,6 +20252,17 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7354,
+            "ribbon": "5x Style Enhancement EXP!",
+            "campaign_type": 8,
+            "rate": 5.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7357,
             "ribbon": "",
             "campaign_type": 9,
@@ -20709,6 +20720,30 @@
             "reward_id": 0,
             "drop_group_ids": [
                 21013776
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7414,
+            "ribbon": "2x Romancing Medal Drops!",
+            "campaign_type": 3,
+            "rate": 2.0,
+            "reward_type": 7,
+            "reward_id": 860015,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7417,
+            "ribbon": "SS Kihachi Style Release Coin Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013781
             ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0

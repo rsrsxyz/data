@@ -61589,6 +61589,70 @@
             "sort_order": 0
         },
         {
+            "id": 1702100371,
+            "name": "Laceration",
+            "flavor_text": "[When hit by Weak attacks*]<br>Grants oneself <special_effect=800000290>Weak Defense Down</special_effect> (large effect/1 turn(s)) (high chance).<br>*Only activates when hit by an attack.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040720
+            ],
+            "ability_when": 6,
+            "icon": 4003,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100372,
+            "name": "Laceration",
+            "flavor_text": "[When hit by Weak attacks*]<br>Grants oneself <special_effect=800000290>Weak Defense Down</special_effect> (large effect/1 turn(s)) (high chance).<br>*Only activates when hit by an attack.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040720
+            ],
+            "ability_when": 6,
+            "icon": 4003,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100373,
+            "name": "Like a Demon",
+            "flavor_text": "Attacks' damage increases (super extreme effect).<br><br>[Start of battle]<br>Recovers own BP (+5).<br>Fills up own OD gauge.<br><br>[End of turn]<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041182,
+                802041344,
+                1802040724,
+                802041748
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100374,
+            "name": "My Own Deadly Arts",
+            "flavor_text": "[When landing an OD attack*]<br>Grants the target <special_effect=1800000028>Laceration</special_effect> (2 turn(s)).<br><br>[When landing a Weak attack]<br>Recovers own BP (+2).<br><br>[When landing an OD Weak attack*]<br><skill=110100448>Eightfold Dual Blade</skill> will be activated 2 times.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041196,
+                802042696,
+                802042697,
+                802042698,
+                802042947,
+                802042948,
+                802042949,
+                1802040721,
+                1802040722,
+                1802040723
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
             "id": 1702200002,
             "name": "Cover of Night",
             "flavor_text": "[Start of round]<br>Has oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).",

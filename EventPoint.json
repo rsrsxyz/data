@@ -2101,6 +2101,16 @@
             "selling_price": 0
         },
         {
+            "id": 800289,
+            "name": "Ultra Deluxe Summon Medal 34",
+            "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+            "icon": 800289,
+            "max_quantity": 99999999,
+            "expired_at": 1708045199,
+            "sort_order": 24011860,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -7858,6 +7868,16 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 24011105,
+            "selling_price": 0
+        },
+        {
+            "id": 1100895,
+            "name": "SS Kihachi Style Release Coin [Ltd. Time]",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for SS armor/gear and other items. (Until [1708045199] <tz>)",
+            "icon": 1100895,
+            "max_quantity": 99999999,
+            "expired_at": 1708045199,
+            "sort_order": 24011805,
             "selling_price": 0
         },
         {

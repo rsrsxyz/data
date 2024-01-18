@@ -2675,6 +2675,22 @@
             "exchange_cost": 250
         },
         {
+            "id": 224311,
+            "name": "SS Seimei Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [On This Bridge] Seimei.",
+            "icon": 224311,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 224312,
+            "name": "S Seimei Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [Cleansing Impurity] Seimei.",
+            "icon": 224312,
+            "selling_price": 60,
+            "exchange_cost": 150
+        },
+        {
             "id": 224411,
             "name": "SS Azami Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Light Armor Is Important] Azami. ",
@@ -6811,6 +6827,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 323302,
+            "name": "SS Meythia Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Here, This Way] Meythia.",
+            "icon": 323302,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 323401,
             "name": "SS Gustaf Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Two Legendary Swords] Gustaf. ",
@@ -8423,6 +8447,22 @@
             "name": "SS Shirei Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Wandering Minstrel] Shirei.",
             "icon": 712702,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 712801,
+            "name": "S Kihachi Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [Dual Wielding Bodyguard] Kihachi.",
+            "icon": 712801,
+            "selling_price": 60,
+            "exchange_cost": 150
+        },
+        {
+            "id": 712802,
+            "name": "SS Kihachi Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Art Without Form] Kihachi.",
+            "icon": 712802,
             "selling_price": 100,
             "exchange_cost": 250
         },
