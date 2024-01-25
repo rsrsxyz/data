@@ -119,6 +119,26 @@
             "effect_name": "199145",
             "se_name": "se_apollon_transform02",
             "cue_sheet_name": "SE_APOLLON"
+        },
+        {
+            "id": 970000012,
+            "effect_offset_x": 0.0,
+            "effect_offset_y": 0.0,
+            "effect_offset_z": 0.0,
+            "effect_scale": 2.0,
+            "effect_name": "199446",
+            "se_name": "se_firebringer_transform",
+            "cue_sheet_name": "se_firebringer"
+        },
+        {
+            "id": 970000013,
+            "effect_offset_x": 0.0,
+            "effect_offset_y": 0.0,
+            "effect_offset_z": 0.0,
+            "effect_scale": 2.0,
+            "effect_name": "199446",
+            "se_name": "se_firebringer_transform",
+            "cue_sheet_name": "se_firebringer"
         }
     ]
 }

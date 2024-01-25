@@ -2641,6 +2641,26 @@
             "start_at": 0
         },
         {
+            "id": 10070360,
+            "flavor_text": "",
+            "price": 1,
+            "is_free": 0,
+            "sound_id": 120262,
+            "composer": "Kenji Ito<br>Tsuyoshi Sekito",
+            "sort_order": 360,
+            "start_at": 1706230800
+        },
+        {
+            "id": 10070361,
+            "flavor_text": "",
+            "price": 1,
+            "is_free": 0,
+            "sound_id": 120312,
+            "composer": "Kenji Ito",
+            "sort_order": 350,
+            "start_at": 1706230800
+        },
+        {
             "id": 10070400,
             "flavor_text": "",
             "price": 1,
@@ -2959,6 +2979,36 @@
             "composer": "Kenji Ito",
             "sort_order": 300,
             "start_at": 1652230800
+        },
+        {
+            "id": 10090340,
+            "flavor_text": "",
+            "price": 1,
+            "is_free": 0,
+            "sound_id": 120349,
+            "composer": "Kenji Ito<br>Tsutomu Narita",
+            "sort_order": 340,
+            "start_at": 1706230800
+        },
+        {
+            "id": 10090350,
+            "flavor_text": "",
+            "price": 1,
+            "is_free": 0,
+            "sound_id": 120350,
+            "composer": "Kenji Ito<br>Yoshitaka Hirota",
+            "sort_order": 350,
+            "start_at": 1706230800
+        },
+        {
+            "id": 10090360,
+            "flavor_text": "",
+            "price": 1,
+            "is_free": 0,
+            "sound_id": 120351,
+            "composer": "Kenji Ito<br>Tsutomu Narita",
+            "sort_order": 360,
+            "start_at": 1706230800
         },
         {
             "id": 10090370,
@@ -4548,7 +4598,7 @@
             "sound_id": 130454,
             "composer": "Kenji Ito",
             "sort_order": 240,
-            "start_at": 1692406800
+            "start_at": 1706230800
         },
         {
             "id": 10280250,
@@ -4568,7 +4618,17 @@
             "sound_id": 130449,
             "composer": "Kenji Ito",
             "sort_order": 310,
-            "start_at": 1692406800
+            "start_at": 1706230800
+        },
+        {
+            "id": 10280400,
+            "flavor_text": "",
+            "price": 1,
+            "is_free": 0,
+            "sound_id": 130451,
+            "composer": "Kenji Ito",
+            "sort_order": 400,
+            "start_at": 1706230800
         },
         {
             "id": 10280470,

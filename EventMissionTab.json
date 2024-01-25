@@ -1646,7 +1646,7 @@
             "id": 413,
             "name": "Threat Detected! Operation Anti-Virus",
             "start_at": 1705021200,
-            "end_at": 1706230799,
+            "end_at": 1706835599,
             "is_daily": 0,
             "priority": 10428
         },
@@ -1665,6 +1665,14 @@
             "end_at": 1705021199,
             "is_daily": 0,
             "priority": 10425
+        },
+        {
+            "id": 416,
+            "name": "Scarlet Grace: Scarlet Comet II",
+            "start_at": 1706230800,
+            "end_at": 1707094799,
+            "is_daily": 0,
+            "priority": 10430
         },
         {
             "id": 417,
@@ -2609,6 +2617,14 @@
             "end_at": 1706835599,
             "is_daily": 0,
             "priority": 10429
+        },
+        {
+            "id": 1000000120,
+            "name": "Scarlet Grace: Scarlet Comet I",
+            "start_at": 1706230800,
+            "end_at": 1707094799,
+            "is_daily": 1,
+            "priority": 10431
         }
     ]
 }

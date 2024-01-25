@@ -2086,7 +2086,7 @@
             "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
             "icon": 800279,
             "max_quantity": 99999999,
-            "expired_at": 1707440399,
+            "expired_at": 1708045199,
             "sort_order": 24011160,
             "selling_price": 0
         },
@@ -2096,8 +2096,18 @@
             "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
             "icon": 800280,
             "max_quantity": 99999999,
-            "expired_at": 1707440399,
+            "expired_at": 1708045199,
             "sort_order": 24011155,
+            "selling_price": 0
+        },
+        {
+            "id": 800281,
+            "name": "Romancing Festival Medal 143",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800281,
+            "max_quantity": 99999999,
+            "expired_at": 1708649999,
+            "sort_order": 24012560,
             "selling_price": 0
         },
         {
@@ -2108,6 +2118,16 @@
             "max_quantity": 99999999,
             "expired_at": 1708045199,
             "sort_order": 24011860,
+            "selling_price": 0
+        },
+        {
+            "id": 800290,
+            "name": "SaGa Soul Medal 19",
+            "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+            "icon": 800290,
+            "max_quantity": 99999999,
+            "expired_at": 1708995599,
+            "sort_order": 24013060,
             "selling_price": 0
         },
         {
@@ -7868,6 +7888,36 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 24011105,
+            "selling_price": 0
+        },
+        {
+            "id": 1100889,
+            "name": "Beast Lard",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100889,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24012545,
+            "selling_price": 0
+        },
+        {
+            "id": 1100890,
+            "name": "Dried Tuberous Roots",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100890,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24012550,
+            "selling_price": 0
+        },
+        {
+            "id": 1100891,
+            "name": "Flammable Quartz",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100891,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24012555,
             "selling_price": 0
         },
         {

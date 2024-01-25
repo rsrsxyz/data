@@ -9596,7 +9596,7 @@
         {
             "id": 702101566,
             "name": "Ninjutsu Present",
-            "flavor_text": "Starting from the next turn after entering this stance, after activating an attack*, <skill=110100289>Ninjutsu: Present Swiftblade</skill> will be activated.<br>(Activates using skill Rank 1).<br>Deactivates when knocked unconscious or when you proceed to the next round.<br>*Skills/Spells activated on Special Stances and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "On the next turn after entering this stance, after activating an attack*, <skill=110100289>Ninjutsu: Present Swiftblade</skill> will be activated.<br>(Activates using skill Rank 1).<br>Deactivates when knocked unconscious or when you proceed to the next turn.<br>*Skills/Spells activated on Special Stances and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041597,
@@ -15648,7 +15648,7 @@
         {
             "id": 702102079,
             "name": "Executioner's Resolve",
-            "flavor_text": "Increases attack damage for all allies (medium effect).<br>Reduces damage taken for all allies (medium effect).<br>When an ally attacks with axe, damage increases (very large effect).<br><br>[On odd turns counting from the start of battle]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).<br><br>[At the end of even turns counting from the start of battle]<br>Recovers all surviving allies' HP (very small effect).",
+            "flavor_text": "Increases attack damage for all allies (medium effect).<br>Reduces damage taken for all allies (medium effect).<br>When attacking with axes, damage increases (very large effect).<br><br>[On odd turns counting from the start of battle]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).<br><br>[At the end of even turns counting from the start of battle]<br>Recovers all surviving allies' HP (very small effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042522,
@@ -16907,7 +16907,7 @@
         {
             "id": 702102178,
             "name": "Weak Point Union Ⅴ",
-            "flavor_text": "When all allies are still surviving, activates the following for all allies:<br>・Weak attacks' damage increases (extreme effect).<br>When attacked by an attack that would cause Resist, reduces damage taken (large effect).",
+            "flavor_text": "When all allies are still surviving, activates the following for all allies:<br>・Weak attacks' damage increases (extreme effect).<br>・When attacked by an attack that would cause Resist, reduces damage taken (large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042693,
@@ -59992,7 +59992,7 @@
         {
             "id": 1702100266,
             "name": "Life Drain Seal",
-            "flavor_text": "Starting from the next turn after entering this stance, after activating an attack*, <skill=1110200087>Life Drain Sword</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>Deactivates when knocked unconscious or when you proceed to the next round.<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "On the next turn after entering this stance, after activating an attack*, <skill=1110200087>Life Drain Sword</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>Deactivates when knocked unconscious or when you proceed to the next turn.<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 1802040559,
@@ -61646,6 +61646,37 @@
                 1802040721,
                 1802040722,
                 1802040723
+            ],
+            "ability_when": 6,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100375,
+            "name": "Dual Wielding Swordstress",
+            "flavor_text": "OD attacks' damage increases (super extreme effect).<br><br>[Start of battle]<br>Recovers own BP (+4).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=1110100081>Dual Dragonfly</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=110100339>Dual Tempest</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041534,
+                802042513,
+                802042138,
+                1802040725
+            ],
+            "ability_when": 1,
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100376,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=1110100081>Dual Dragonfly</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040726,
+                1802040727,
+                1802040728
             ],
             "ability_when": 6,
             "icon": 4010,

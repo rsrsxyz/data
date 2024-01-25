@@ -4599,6 +4599,36 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 476
+        },
+        {
+            "id": 1000000701,
+            "event_ability_category_id": 1000000452,
+            "name": "New Year Carnival Round 4 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests and Scarlet Grace: Scarlet Comet<br>・Bonus Beast Lard and Dried Tuberous Roots drops in Scarlet Grace: Scarlet Comet",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 477
+        },
+        {
+            "id": 1000000702,
+            "event_ability_category_id": 1000000453,
+            "name": "New Year Carnival Round 4 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests and Scarlet Grace: Scarlet Comet<br>・Bonus Beast Lard and Dried Tuberous Roots drops in Scarlet Grace: Scarlet Comet",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 478
+        },
+        {
+            "id": 1000000703,
+            "event_ability_category_id": 1000000454,
+            "name": "New Year Carnival Round 4 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests and Scarlet Grace: Scarlet Comet<br>・Bonus Beast Lard and Dried Tuberous Roots drops in Scarlet Grace: Scarlet Comet<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 479
         }
     ]
 }

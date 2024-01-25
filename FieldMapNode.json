@@ -30438,6 +30438,1049 @@
             "next_field_map_node_id": 0,
             "is_notable": 0,
             "flavor_text": "This station in the heart of Saga Prefecture serves the Karatsu line. It is located near the community development center \"Aiparetto,\" which aims to create a vibrant community in a compact space near Taku Station. This name was chosen through public contributions as a lovable nickname."
+        },
+        {
+            "id": 10132000,
+            "name": "Start - Provincia Gradion: Testika",
+            "field_map_id": 1013201,
+            "field_map_node_type": 5,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [],
+            "x": 0.44667819142341614,
+            "y": 1.5784980058670044,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132001,
+            "name": "Provincia Rhonicum: Fort Kathrin",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1010681
+            ],
+            "x": 1.5551669597625732,
+            "y": 0.07454516738653183,
+            "field_map_size": 1,
+            "field_map_visibility_type": 1,
+            "field_map_visibility_effect_type": 0,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132002,
+            "name": "Provincia Rhonicum: Earth Serpent's Hole",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1100421
+            ],
+            "x": 2.6808528900146484,
+            "y": -2.124058961868286,
+            "field_map_size": 3,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132003,
+            "name": "Provincia Jusitania: Donseilla Mine",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1020421
+            ],
+            "x": 0.23600390553474426,
+            "y": -4.709619045257568,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132004,
+            "name": "Provincia Jusitania: Phoenix",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1040671
+            ],
+            "x": -2.6661529541015625,
+            "y": -2.4406590461730957,
+            "field_map_size": 3,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132005,
+            "name": "Provincia Jusitania: Lupagal Cave",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1110481
+            ],
+            "x": -5.093413829803467,
+            "y": -5.2724609375,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132006,
+            "name": "Provincia Jusitania: Bubbles",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1070421
+            ],
+            "x": -1.072195053100586,
+            "y": -7.642794132232666,
+            "field_map_size": 2,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132007,
+            "name": "Marchiam Bicyniro: Cave Stuffed with Treasure",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1060491
+            ],
+            "x": 6.709836006164551,
+            "y": -7.33505392074585,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132008,
+            "name": "Marchiam Bicyniro: Cave Crammed with Fiends",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1120521
+            ],
+            "x": 7.2902679443359375,
+            "y": -5.76964807510376,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132009,
+            "name": "Southeast Boundary: Blue Hole",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1070661
+            ],
+            "x": 13.225899696350098,
+            "y": -13.215999603271484,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132010,
+            "name": "Southeast Boundary: Enigma Jungle",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1050531
+            ],
+            "x": 16.567779541015625,
+            "y": -15.766380310058594,
+            "field_map_size": 2,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132011,
+            "name": "Southeast Boundary: Phoenix's Nest",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1040421
+            ],
+            "x": 10.763460159301758,
+            "y": -17.243850708007812,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132012,
+            "name": "Southeast Boundary: The Confounder",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1070791
+            ],
+            "x": 8.723158836364746,
+            "y": -13.690899848937988,
+            "field_map_size": 3,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132013,
+            "name": "Provincia Cerenaif: Labyrinth",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1010691
+            ],
+            "x": 11.763580322265625,
+            "y": -3.591671943664551,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132014,
+            "name": "Provincia Cerenaif: Roadblocker",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1150411
+            ],
+            "x": 6.15661096572876,
+            "y": -0.08440250158309937,
+            "field_map_size": 3,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132015,
+            "name": "Provincia Cerenaif: Castello Guscio",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1010751
+            ],
+            "x": 3.500696897506714,
+            "y": 1.0412830114364624,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132016,
+            "name": "Marchiam Ria: Fiends' Nest",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1120491
+            ],
+            "x": 6.877754211425781,
+            "y": 3.6092529296875,
+            "field_map_size": 2,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132017,
+            "name": "Marchiam Ria: Abandoned Village",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1011201
+            ],
+            "x": 7.651662826538086,
+            "y": 5.579203128814697,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132018,
+            "name": "Provincia Cindrea: Perrault Cave",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1150401
+            ],
+            "x": 0.7385901808738708,
+            "y": 4.7330169677734375,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132019,
+            "name": "Provincia Cindrea: Basile Hole",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1060491
+            ],
+            "x": 3.0325539112091064,
+            "y": 4.925967216491699,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132020,
+            "name": "Provincia Cindrea: Grimms Mine",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1120511
+            ],
+            "x": 1.2316839694976807,
+            "y": 7.112739086151123,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132021,
+            "name": "Provincia Maurehua: South Mine",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1100401
+            ],
+            "x": -0.733138918876648,
+            "y": 8.933961868286133,
+            "field_map_size": 2,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132022,
+            "name": "Provincia Maurehua: Hot Springs Rana",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1070461
+            ],
+            "x": -1.3548669815063477,
+            "y": 11.034979820251465,
+            "field_map_size": 3,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132023,
+            "name": "Provincia Maurehua: North Mine",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1110491
+            ],
+            "x": 1.8512619733810425,
+            "y": 12.25210952758789,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132024,
+            "name": "Marchiam Normi: Yokilis Shaft",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1020431
+            ],
+            "x": -3.6993720531463623,
+            "y": 13.49468994140625,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132025,
+            "name": "Marchiam Normi: Wild Monsters",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1150361
+            ],
+            "x": 6.825094223022461,
+            "y": 12.294989585876465,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132026,
+            "name": "Provincia Termina: Liuhuang Vent",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1010761
+            ],
+            "x": 4.147658824920654,
+            "y": 8.873543739318848,
+            "field_map_size": 2,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132027,
+            "name": "Provincia Thracini: Nugia Hollow",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1060481
+            ],
+            "x": 9.07861328125,
+            "y": 9.60246753692627,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132028,
+            "name": "Provincia Thracini: Yuaba Shaft",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1120561
+            ],
+            "x": 11.651280403137207,
+            "y": 9.109371185302734,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132029,
+            "name": "Northeast Boundary: Outpost",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1010781
+            ],
+            "x": 15.060070037841797,
+            "y": 11.317580223083496,
+            "field_map_size": 3,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132030,
+            "name": "Provincia Thracini: Mira Cave",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1020621
+            ],
+            "x": 9.293002128601074,
+            "y": 8.144619941711426,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132031,
+            "name": "Provincia Thracini: Rahol Knoll",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1110471
+            ],
+            "x": 11.115309715270996,
+            "y": 7.179868221282959,
+            "field_map_size": 2,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132032,
+            "name": "Mare Ilfee: Hazard Reef",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1070481
+            ],
+            "x": 12.830419540405273,
+            "y": 2.0130860805511475,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132033,
+            "name": "Mare Ilfee: Wanderer of the Seas",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1040951
+            ],
+            "x": 17.110509872436523,
+            "y": 7.578715801239014,
+            "field_map_size": 3,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132034,
+            "name": "Mare Ilfee: Spirit Coal Mine",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1120501
+            ],
+            "x": 14.36633014678955,
+            "y": 0.5896257758140564,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132035,
+            "name": "Mare Ilfee: Sugar Castle Lighthouse",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1010771
+            ],
+            "x": 16.274389266967773,
+            "y": 4.084170818328857,
+            "field_map_size": 3,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132036,
+            "name": "Provincia Kei: Great Arch",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1040641
+            ],
+            "x": -2.255199909210205,
+            "y": 6.338710784912109,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132037,
+            "name": "Provincia Kei: Pot Falls",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1060471
+            ],
+            "x": -3.6993720531463623,
+            "y": 7.413445949554443,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132038,
+            "name": "Provincia Kei: Rugged Mountain",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1011201
+            ],
+            "x": -6.688480854034424,
+            "y": 7.010419845581055,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132039,
+            "name": "Marchiam Yaxart: East Dungeon",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1150351
+            ],
+            "x": -5.546576023101807,
+            "y": 2.7314798831939697,
+            "field_map_size": 2,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132040,
+            "name": "Marchiam Yaxart: New Cave",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1050541
+            ],
+            "x": -8.03189754486084,
+            "y": 0.716353178024292,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132041,
+            "name": "Marchiam Yaxart: True Marigan Shrine",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1992421
+            ],
+            "x": -12.181839942932129,
+            "y": 5.267756938934326,
+            "field_map_size": 3,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132042,
+            "name": "Marchiam Yaxart: North Hole",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1110491
+            ],
+            "x": -11.199179649353027,
+            "y": 7.405043125152588,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132043,
+            "name": "Marchiam Yaxart: West Knoll",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1060701
+            ],
+            "x": -13.629910469055176,
+            "y": 3.4224720001220703,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132044,
+            "name": "Marchiam Yaxart: South Shaft",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1120561
+            ],
+            "x": -11.256110191345215,
+            "y": 1.0186229944229126,
+            "field_map_size": 2,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132045,
+            "name": "Marchiam Numadica: The Weakest of All",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1020451
+            ],
+            "x": -14.941920280456543,
+            "y": 0.8417530059814453,
+            "field_map_size": 3,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132046,
+            "name": "Marchiam Numadica: Giga Hive",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1060471
+            ],
+            "x": -15.978580474853516,
+            "y": 2.4732260704040527,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132047,
+            "name": "Marchiam Numadica: Coastal Keep",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1011211
+            ],
+            "x": -17.282190322875977,
+            "y": -0.6084765791893005,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132048,
+            "name": "Marchiam Megdasse: Spiritdrop Cave",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1020411
+            ],
+            "x": -10.48976993560791,
+            "y": 8.908683776855469,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132049,
+            "name": "Marchiam Megdasse: Highsha Observation Tower",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1010651
+            ],
+            "x": -8.468538284301758,
+            "y": 10.946009635925293,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132050,
+            "name": "Marchiam Megdasse: Walomir Quarters",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1991361
+            ],
+            "x": -12.474909782409668,
+            "y": 11.956629753112793,
+            "field_map_size": 3,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132051,
+            "name": "Marchiam Megdasse: Fragata Mine",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1100571
+            ],
+            "x": -6.030878067016602,
+            "y": 12.826390266418457,
+            "field_map_size": 2,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132052,
+            "name": "Marchiam Megdasse: Mono Dungeon",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1110501
+            ],
+            "x": -11.199139595031738,
+            "y": 10.068249702453613,
+            "field_map_size": 1,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 0,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132053,
+            "name": "Provincia Hibernia: Makulilkali",
+            "field_map_id": 1013201,
+            "field_map_node_type": 1,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1990821
+            ],
+            "x": -2.231760025024414,
+            "y": 0.5139914155006409,
+            "field_map_size": 3,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
+        },
+        {
+            "id": 10132054,
+            "name": "Urbs Azhuacan",
+            "field_map_id": 1013201,
+            "field_map_node_type": 7,
+            "start_at": 0,
+            "end_at": 0,
+            "illust_ids": [
+                1994461
+            ],
+            "x": -1.4155629873275757,
+            "y": 2.8816769123077393,
+            "field_map_size": 4,
+            "field_map_visibility_type": 3,
+            "field_map_visibility_effect_type": 1,
+            "next_field_map_node_id": 0,
+            "is_notable": 1,
+            "flavor_text": ""
         }
     ]
 }

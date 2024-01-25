@@ -95762,6 +95762,4239 @@
             "is_adventurer_rank_drop_enabled": 0
         },
         {
+            "id": 972026001,
+            "quest_type": 1,
+            "name": "Provincia Rhonicum: Fort Kathrin",
+            "sort_order": 1,
+            "field_map_node_id": 10132001,
+            "battle_id": 700009161,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105908,
+                105909,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026002,
+            "quest_type": 1,
+            "name": "Provincia Rhonicum: Earth Serpent's Hole",
+            "sort_order": 2,
+            "field_map_node_id": 10132002,
+            "battle_id": 700009011,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105914,
+                105915,
+                106164,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026003,
+            "quest_type": 1,
+            "name": "Provincia Jusitania: Donseilla Mine",
+            "sort_order": 3,
+            "field_map_node_id": 10132003,
+            "battle_id": 700009171,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105908,
+                105909,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026004,
+            "quest_type": 1,
+            "name": "Provincia Jusitania: Phoenix",
+            "sort_order": 4,
+            "field_map_node_id": 10132004,
+            "battle_id": 700009041,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105914,
+                105915,
+                106164,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026005,
+            "quest_type": 1,
+            "name": "Provincia Jusitania: Lupagal Cave",
+            "sort_order": 5,
+            "field_map_node_id": 10132005,
+            "battle_id": 700009181,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105908,
+                105909,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026006,
+            "quest_type": 1,
+            "name": "Provincia Jusitania: Bubbles",
+            "sort_order": 6,
+            "field_map_node_id": 10132006,
+            "battle_id": 700009191,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105908,
+                105909,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026007,
+            "quest_type": 1,
+            "name": "Marchiam Bicyniro: Cave Stuffed with Treasure",
+            "sort_order": 7,
+            "field_map_node_id": 10132007,
+            "battle_id": 700009201,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105908,
+                105909,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026008,
+            "quest_type": 1,
+            "name": "Marchiam Bicyniro: Cave Crammed with Fiends",
+            "sort_order": 8,
+            "field_map_node_id": 10132008,
+            "battle_id": 700009211,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105908,
+                105909,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026009,
+            "quest_type": 1,
+            "name": "Southeast Boundary: Blue Hole",
+            "sort_order": 9,
+            "field_map_node_id": 10132009,
+            "battle_id": 700009221,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105908,
+                105909,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026010,
+            "quest_type": 1,
+            "name": "Southeast Boundary: Enigma Jungle",
+            "sort_order": 10,
+            "field_map_node_id": 10132010,
+            "battle_id": 700009231,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105908,
+                105909,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026011,
+            "quest_type": 1,
+            "name": "Southeast Boundary: Phoenix's Nest",
+            "sort_order": 11,
+            "field_map_node_id": 10132011,
+            "battle_id": 700009241,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105908,
+                105909,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026012,
+            "quest_type": 1,
+            "name": "Southeast Boundary: The Confounder",
+            "sort_order": 12,
+            "field_map_node_id": 10132012,
+            "battle_id": 700009031,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105914,
+                105915,
+                106164,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026013,
+            "quest_type": 1,
+            "name": "Provincia Cerenaif: Labyrinth",
+            "sort_order": 13,
+            "field_map_node_id": 10132013,
+            "battle_id": 700009251,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105908,
+                105909,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026014,
+            "quest_type": 1,
+            "name": "Provincia Cerenaif: Roadblocker",
+            "sort_order": 14,
+            "field_map_node_id": 10132014,
+            "battle_id": 700009021,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105914,
+                105915,
+                106164,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026015,
+            "quest_type": 1,
+            "name": "Provincia Cerenaif: Castello Guscio",
+            "sort_order": 15,
+            "field_map_node_id": 10132015,
+            "battle_id": 700009261,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105908,
+                105909,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026016,
+            "quest_type": 1,
+            "name": "Marchiam Ria: Fiends' Nest",
+            "sort_order": 16,
+            "field_map_node_id": 10132016,
+            "battle_id": 700009271,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105908,
+                105909,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026017,
+            "quest_type": 1,
+            "name": "Marchiam Ria: Abandoned Village",
+            "sort_order": 17,
+            "field_map_node_id": 10132017,
+            "battle_id": 700009281,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105908,
+                105909,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026018,
+            "quest_type": 1,
+            "name": "Provincia Cindrea: Perrault Cave",
+            "sort_order": 18,
+            "field_map_node_id": 10132018,
+            "battle_id": 700009291,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105910,
+                105911,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026019,
+            "quest_type": 1,
+            "name": "Provincia Cindrea: Basile Hole",
+            "sort_order": 19,
+            "field_map_node_id": 10132019,
+            "battle_id": 700009301,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105910,
+                105911,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026020,
+            "quest_type": 1,
+            "name": "Provincia Cindrea: Grimms Mine",
+            "sort_order": 20,
+            "field_map_node_id": 10132020,
+            "battle_id": 700009311,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105910,
+                105911,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026021,
+            "quest_type": 1,
+            "name": "Provincia Maurehua: South Mine",
+            "sort_order": 21,
+            "field_map_node_id": 10132021,
+            "battle_id": 700009321,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105910,
+                105911,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026022,
+            "quest_type": 1,
+            "name": "Provincia Maurehua: Hot Springs Rana",
+            "sort_order": 22,
+            "field_map_node_id": 10132022,
+            "battle_id": 700009071,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105916,
+                105917,
+                106164,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026023,
+            "quest_type": 1,
+            "name": "Provincia Maurehua: North Mine",
+            "sort_order": 23,
+            "field_map_node_id": 10132023,
+            "battle_id": 700009331,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105910,
+                105911,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026024,
+            "quest_type": 1,
+            "name": "Marchiam Normi: Yokilis Shaft",
+            "sort_order": 24,
+            "field_map_node_id": 10132024,
+            "battle_id": 700009341,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105910,
+                105911,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026025,
+            "quest_type": 1,
+            "name": "Marchiam Normi: Wild Monsters",
+            "sort_order": 25,
+            "field_map_node_id": 10132025,
+            "battle_id": 700009351,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105910,
+                105911,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026026,
+            "quest_type": 1,
+            "name": "Provincia Termina: Liuhuang Vent",
+            "sort_order": 26,
+            "field_map_node_id": 10132026,
+            "battle_id": 700009361,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105910,
+                105911,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026027,
+            "quest_type": 1,
+            "name": "Provincia Thracini: Nugia Hollow",
+            "sort_order": 27,
+            "field_map_node_id": 10132027,
+            "battle_id": 700009371,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105910,
+                105911,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026028,
+            "quest_type": 1,
+            "name": "Provincia Thracini: Yuaba Shaft",
+            "sort_order": 28,
+            "field_map_node_id": 10132028,
+            "battle_id": 700009381,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105910,
+                105911,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026029,
+            "quest_type": 1,
+            "name": "Northeast Boundary: Outpost",
+            "sort_order": 29,
+            "field_map_node_id": 10132029,
+            "battle_id": 700009081,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105916,
+                105917,
+                106164,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026030,
+            "quest_type": 1,
+            "name": "Provincia Thracini: Mira Cave",
+            "sort_order": 30,
+            "field_map_node_id": 10132030,
+            "battle_id": 700009391,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105910,
+                105911,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026031,
+            "quest_type": 1,
+            "name": "Provincia Thracini: Rahol Knoll",
+            "sort_order": 31,
+            "field_map_node_id": 10132031,
+            "battle_id": 700009401,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105910,
+                105911,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026032,
+            "quest_type": 1,
+            "name": "Mare Ilfee: Hazard Reef",
+            "sort_order": 32,
+            "field_map_node_id": 10132032,
+            "battle_id": 700009411,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105910,
+                105911,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026033,
+            "quest_type": 1,
+            "name": "Mare Ilfee: Wanderer of the Seas",
+            "sort_order": 33,
+            "field_map_node_id": 10132033,
+            "battle_id": 700009051,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105916,
+                105917,
+                106164,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026034,
+            "quest_type": 1,
+            "name": "Mare Ilfee: Spirit Coal Mine",
+            "sort_order": 34,
+            "field_map_node_id": 10132034,
+            "battle_id": 700009421,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105910,
+                105911,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026035,
+            "quest_type": 1,
+            "name": "Mare Ilfee: Sugar Castle Lighthouse",
+            "sort_order": 35,
+            "field_map_node_id": 10132035,
+            "battle_id": 700009061,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105916,
+                105917,
+                106164,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026036,
+            "quest_type": 1,
+            "name": "Provincia Kei: Great Arch",
+            "sort_order": 36,
+            "field_map_node_id": 10132036,
+            "battle_id": 700009431,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105912,
+                105913,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026037,
+            "quest_type": 1,
+            "name": "Provincia Kei: Pot Falls",
+            "sort_order": 37,
+            "field_map_node_id": 10132037,
+            "battle_id": 700009441,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105912,
+                105913,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026038,
+            "quest_type": 1,
+            "name": "Provincia Kei: Rugged Mountain",
+            "sort_order": 38,
+            "field_map_node_id": 10132038,
+            "battle_id": 700009451,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105912,
+                105913,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026039,
+            "quest_type": 1,
+            "name": "Marchiam Yaxart: East Dungeon",
+            "sort_order": 39,
+            "field_map_node_id": 10132039,
+            "battle_id": 700009461,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105912,
+                105913,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026040,
+            "quest_type": 1,
+            "name": "Marchiam Yaxart: New Cave",
+            "sort_order": 40,
+            "field_map_node_id": 10132040,
+            "battle_id": 700009471,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105912,
+                105913,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026041,
+            "quest_type": 1,
+            "name": "Marchiam Yaxart: True Marigan Shrine",
+            "sort_order": 41,
+            "field_map_node_id": 10132041,
+            "battle_id": 700009091,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105918,
+                105919,
+                106164,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026042,
+            "quest_type": 1,
+            "name": "Marchiam Yaxart: North Hole",
+            "sort_order": 42,
+            "field_map_node_id": 10132042,
+            "battle_id": 700009481,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105912,
+                105913,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026043,
+            "quest_type": 1,
+            "name": "Marchiam Yaxart: West Knoll",
+            "sort_order": 43,
+            "field_map_node_id": 10132043,
+            "battle_id": 700009491,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105912,
+                105913,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026044,
+            "quest_type": 1,
+            "name": "Marchiam Yaxart: South Shaft",
+            "sort_order": 44,
+            "field_map_node_id": 10132044,
+            "battle_id": 700009501,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105912,
+                105913,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026045,
+            "quest_type": 1,
+            "name": "Marchiam Numadica: The Weakest of All",
+            "sort_order": 45,
+            "field_map_node_id": 10132045,
+            "battle_id": 700009121,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105918,
+                105919,
+                106164,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026046,
+            "quest_type": 1,
+            "name": "Marchiam Numadica: Giga Hive",
+            "sort_order": 46,
+            "field_map_node_id": 10132046,
+            "battle_id": 700009511,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105912,
+                105913,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026047,
+            "quest_type": 1,
+            "name": "Marchiam Numadica: Coastal Keep",
+            "sort_order": 47,
+            "field_map_node_id": 10132047,
+            "battle_id": 700009521,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105912,
+                105913,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026048,
+            "quest_type": 1,
+            "name": "Marchiam Megdasse: Spiritdrop Cave",
+            "sort_order": 48,
+            "field_map_node_id": 10132048,
+            "battle_id": 700009531,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105912,
+                105913,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026049,
+            "quest_type": 1,
+            "name": "Marchiam Megdasse: Highsha Observation Tower",
+            "sort_order": 49,
+            "field_map_node_id": 10132049,
+            "battle_id": 700009541,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105912,
+                105913,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026050,
+            "quest_type": 1,
+            "name": "Marchiam Megdasse: Walomir Quarters",
+            "sort_order": 50,
+            "field_map_node_id": 10132050,
+            "battle_id": 700009101,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105918,
+                105919,
+                106164,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026051,
+            "quest_type": 1,
+            "name": "Marchiam Megdasse: Fragata Mine",
+            "sort_order": 51,
+            "field_map_node_id": 10132051,
+            "battle_id": 700009551,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105912,
+                105913,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026052,
+            "quest_type": 1,
+            "name": "Marchiam Megdasse: Mono Dungeon",
+            "sort_order": 52,
+            "field_map_node_id": 10132052,
+            "battle_id": 700009561,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105912,
+                105913,
+                106184,
+                106168,
+                106174,
+                106188
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026053,
+            "quest_type": 1,
+            "name": "Provincia Hibernia: Makulilkali",
+            "sort_order": 53,
+            "field_map_node_id": 10132053,
+            "battle_id": 700009111,
+            "max_turn": 0,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                105918,
+                105919,
+                106164,
+                106185,
+                106186,
+                106187,
+                106189
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 0,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 5,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026054,
+            "quest_type": 1,
+            "name": "Urbs Azhuacan",
+            "sort_order": 54,
+            "field_map_node_id": 10132054,
+            "battle_id": 700009131,
+            "max_turn": 5,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [],
+            "rewards": [],
+            "drop_group_ids": [
+                106183,
+                106181,
+                106182,
+                106180
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 202300001,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 970000012,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 10,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026055,
+            "quest_type": 1,
+            "name": "Urbs Azhuacan",
+            "sort_order": 55,
+            "field_map_node_id": 10132054,
+            "battle_id": 700009141,
+            "max_turn": 5,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [],
+            "rewards": [],
+            "drop_group_ids": [
+                106183,
+                106181,
+                106182,
+                106180
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 202300002,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [
+                1994471
+            ],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 970000013,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 10,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
+            "id": 972026056,
+            "quest_type": 1,
+            "name": "Urbs Azhuacan",
+            "sort_order": 56,
+            "field_map_node_id": 10132054,
+            "battle_id": 700009151,
+            "max_turn": 5,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100889
+                },
+                {
+                    "type": 7,
+                    "id": 1100890
+                }
+            ],
+            "first_rewards": [],
+            "rewards": [],
+            "drop_group_ids": [
+                106183,
+                106181,
+                106182,
+                106180
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "adjusted_reward_group_id": 2027,
+            "raid_damage_reward_group_id": 202300003,
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [
+                1994481
+            ],
+            "field_map_size": 0,
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "adventurer_rank_exp": 10,
+            "is_adventurer_rank_drop_enabled": 1
+        },
+        {
             "id": 990041010,
             "quest_type": 2,
             "name": "To the Decisive Battle",
