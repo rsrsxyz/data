@@ -1111,6 +1111,16 @@
             "priority": 9999
         },
         {
+            "id": 1197,
+            "event_ability_category_id": 846,
+            "name": "Attribute Growth Booster V",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains in Battle Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 10001
+        },
+        {
             "id": 1207,
             "event_ability_category_id": 856,
             "name": "3.5 Anniv. Training Secrets [Ltd. Time]",
@@ -1119,6 +1129,36 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 461
+        },
+        {
+            "id": 1258,
+            "event_ability_category_id": 901,
+            "name": "Radiant Vacation Stage EXP Booster III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x Stage Lv EXP gains in battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 10003
+        },
+        {
+            "id": 1259,
+            "event_ability_category_id": 902,
+            "name": "Radiant Vacation Attribute Growth Booster V",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains in battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 10004
+        },
+        {
+            "id": 1260,
+            "event_ability_category_id": 903,
+            "name": "Radiant Vacation Skill/Spell Rank Booster",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x skills/spells rank up amount in battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 10005
         },
         {
             "id": 1000000101,
@@ -4629,6 +4669,36 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 479
+        },
+        {
+            "id": 1000000704,
+            "event_ability_category_id": 1000000455,
+            "name": "Radiant Vacation Round 1 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Jiggly Fruit drops in Eversummer Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 480
+        },
+        {
+            "id": 1000000705,
+            "event_ability_category_id": 1000000456,
+            "name": "Radiant Vacation Round 1 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Jiggly Fruit drops in Eversummer Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 481
+        },
+        {
+            "id": 1000000706,
+            "event_ability_category_id": 1000000457,
+            "name": "Radiant Vacation Round 1 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Jiggly Fruit drops in Eversummer Records<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 482
         }
     ]
 }

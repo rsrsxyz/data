@@ -2111,6 +2111,26 @@
             "selling_price": 0
         },
         {
+            "id": 800282,
+            "name": "Romancing Festival Medal 144",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800282,
+            "max_quantity": 99999999,
+            "expired_at": 1709513999,
+            "sort_order": 24020560,
+            "selling_price": 0
+        },
+        {
+            "id": 800283,
+            "name": "Romancing Festival Medal 145",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800283,
+            "max_quantity": 99999999,
+            "expired_at": 1709513999,
+            "sort_order": 24020555,
+            "selling_price": 0
+        },
+        {
             "id": 800289,
             "name": "Ultra Deluxe Summon Medal 34",
             "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
@@ -7928,6 +7948,16 @@
             "max_quantity": 99999999,
             "expired_at": 1708045199,
             "sort_order": 24011805,
+            "selling_price": 0
+        },
+        {
+            "id": 1100896,
+            "name": "Jiggly Fruit",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100896,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24020550,
             "selling_price": 0
         },
         {

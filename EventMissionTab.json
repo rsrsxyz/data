@@ -1691,6 +1691,14 @@
             "priority": 10422
         },
         {
+            "id": 420,
+            "name": "Eversummer Exploration Support Festival",
+            "start_at": 1707094800,
+            "end_at": 1708304399,
+            "is_daily": 0,
+            "priority": 10432
+        },
+        {
             "id": 1000000001,
             "name": "New Year",
             "start_at": 1596157200,
@@ -2625,6 +2633,14 @@
             "end_at": 1707094799,
             "is_daily": 1,
             "priority": 10431
+        },
+        {
+            "id": 1000000121,
+            "name": "Happy Lunar New Year 2024",
+            "start_at": 1707354000,
+            "end_at": 1708131599,
+            "is_daily": 1,
+            "priority": 10433
         }
     ]
 }

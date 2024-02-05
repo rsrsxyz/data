@@ -12,26 +12,38 @@
     "objectArray": [
         {
             "id": 3011,
+            "max_kakusei_count": 1,
+            "next_kakusei_count": 1,
             "cost": 75000
         },
         {
             "id": 3021,
+            "max_kakusei_count": 2,
+            "next_kakusei_count": 1,
             "cost": 28000
         },
         {
             "id": 3022,
+            "max_kakusei_count": 2,
+            "next_kakusei_count": 2,
             "cost": 67000
         },
         {
             "id": 3031,
+            "max_kakusei_count": 3,
+            "next_kakusei_count": 1,
             "cost": 15000
         },
         {
             "id": 3032,
+            "max_kakusei_count": 3,
+            "next_kakusei_count": 2,
             "cost": 30000
         },
         {
             "id": 3033,
+            "max_kakusei_count": 3,
+            "next_kakusei_count": 3,
             "cost": 90000
         }
     ]

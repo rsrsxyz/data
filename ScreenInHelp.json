@@ -1205,6 +1205,19 @@
             "info_id": 0
         },
         {
+            "id": 111,
+            "name": "Quest_Before",
+            "title": "Quest Briefing",
+            "size": 2,
+            "banners": [
+                9434,
+                9506,
+                1021,
+                1022
+            ],
+            "info_id": 0
+        },
+        {
             "id": 112,
             "name": "Quest_Event_959",
             "title": "Macha's Descent",
@@ -1598,7 +1611,7 @@
         },
         {
             "id": 148,
-            "name": "Quest_Before",
+            "name": "Disabled",
             "title": "Quest Briefing",
             "size": 2,
             "banners": [
@@ -7010,8 +7023,7 @@
             "title": "Get It! The Coveted Takeshita Ice Cream Bar",
             "size": 3,
             "banners": [
-                10998,
-                10999
+                10998
             ],
             "info_id": 0
         },
@@ -7589,7 +7601,7 @@
         },
         {
             "id": 891,
-            "name": "Dojo_Expedition",
+            "name": "Disabled",
             "title": "Expedition",
             "size": 2,
             "banners": [
@@ -7970,12 +7982,78 @@
             "info_id": 0
         },
         {
+            "id": 937,
+            "name": "Quest_Event_1646",
+            "title": "Battle with Water Dragon",
+            "size": 3,
+            "banners": [
+                11379
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 938,
+            "name": "Favorite_Quest",
+            "title": "Favorite Quests",
+            "size": 3,
+            "banners": [
+                8101
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 939,
+            "name": "Quest_Event_10003",
+            "title": "Spotted at the Beach! Monsters on Vacation",
+            "size": 3,
+            "banners": [
+                11380
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 940,
+            "name": "Quest_Event_10003",
+            "title": "Eversummer Exploration Support Festival",
+            "size": 3,
+            "banners": [
+                11381
+            ],
+            "info_id": 0
+        },
+        {
             "id": 941,
             "name": "Quest_Event_1648",
             "title": "Battle with Rat Mischief",
             "size": 3,
             "banners": [
                 11384
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 946,
+            "name": "Quest_Event_10003",
+            "title": "Eversummer Exploration Support Festival",
+            "size": 3,
+            "banners": [
+                11381
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 961,
+            "name": "Dojo_Expedition",
+            "title": "Expedition",
+            "size": 2,
+            "banners": [
+                1006,
+                11421,
+                1007,
+                1011,
+                1013,
+                11447,
+                1012
             ],
             "info_id": 0
         },

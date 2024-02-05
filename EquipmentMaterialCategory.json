@@ -6,44 +6,7 @@
     "m_Enabled": 1,
     "m_Script": {
         "m_FileID": 0,
-        "m_PathID": -2039972288416911082
+        "m_PathID": 0
     },
-    "m_Name": "EquipmentMaterialCategory",
-    "objectArray": [
-        {
-            "id": 1,
-            "name": "Slash",
-            "sort_order": 1
-        },
-        {
-            "id": 2,
-            "name": "Blunt",
-            "sort_order": 2
-        },
-        {
-            "id": 3,
-            "name": "Pierce",
-            "sort_order": 3
-        },
-        {
-            "id": 4,
-            "name": "Staff",
-            "sort_order": 4
-        },
-        {
-            "id": 5,
-            "name": "Armor",
-            "sort_order": 5
-        },
-        {
-            "id": 6,
-            "name": "Gear",
-            "sort_order": 6
-        },
-        {
-            "id": 7,
-            "name": "All",
-            "sort_order": 7
-        }
-    ]
+    "m_Name": "EquipmentMaterialCategory"
 }

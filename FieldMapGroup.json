@@ -15,12 +15,10 @@
             "area_id": 2001,
             "field_map_mode": 1,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -28,14 +26,10 @@
             "area_id": 2001,
             "field_map_mode": 2,
             "lock_text": "Clear Solo Mode to Unlock",
-            "prev_quest_ids": [
-                990041080
-            ],
             "frontier_drop_group_ids": [],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -43,12 +37,10 @@
             "area_id": 2002,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -56,7 +48,6 @@
             "area_id": 2003,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [
                 100122,
                 1000090355
@@ -64,7 +55,6 @@
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -72,7 +62,6 @@
             "area_id": 2004,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [
                 100141,
                 1000090586
@@ -80,7 +69,6 @@
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -88,12 +76,10 @@
             "area_id": 2005,
             "field_map_mode": 1,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -101,14 +87,10 @@
             "area_id": 2005,
             "field_map_mode": 2,
             "lock_text": "Co-op Mode is not available.",
-            "prev_quest_ids": [
-                972006001
-            ],
             "frontier_drop_group_ids": [],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -116,7 +98,6 @@
             "area_id": 2007,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [
                 100525,
                 1000092812
@@ -124,7 +105,6 @@
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -132,7 +112,6 @@
             "area_id": 2008,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [
                 100970,
                 1000092902
@@ -140,7 +119,6 @@
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -148,7 +126,6 @@
             "area_id": 2009,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [
                 101426,
                 101428
@@ -156,7 +133,6 @@
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -164,12 +140,10 @@
             "area_id": 2010,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -177,12 +151,10 @@
             "area_id": 2014,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -190,7 +162,6 @@
             "area_id": 2015,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [
                 102318,
                 102319
@@ -198,7 +169,6 @@
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -206,7 +176,6 @@
             "area_id": 2016,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [
                 102620,
                 1000093643,
@@ -220,7 +189,6 @@
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -228,12 +196,10 @@
             "area_id": 2017,
             "field_map_mode": 1,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -241,7 +207,6 @@
             "area_id": 2018,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [
                 103263,
                 1000095627
@@ -249,7 +214,6 @@
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -257,14 +221,10 @@
             "area_id": 2017,
             "field_map_mode": 2,
             "lock_text": "Co-op Mode is not available.",
-            "prev_quest_ids": [
-                972006001
-            ],
             "frontier_drop_group_ids": [],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -272,7 +232,6 @@
             "area_id": 2019,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [
                 103509,
                 103510,
@@ -281,7 +240,6 @@
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -289,12 +247,10 @@
             "area_id": 2020,
             "field_map_mode": 1,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -302,9 +258,6 @@
             "area_id": 2020,
             "field_map_mode": 2,
             "lock_text": "Clear Solo Mode to Unlock",
-            "prev_quest_ids": [
-                972020107
-            ],
             "frontier_drop_group_ids": [
                 103786,
                 1000096797,
@@ -313,7 +266,6 @@
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -321,12 +273,10 @@
             "area_id": 2021,
             "field_map_mode": 1,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -334,7 +284,6 @@
             "area_id": 2021,
             "field_map_mode": 2,
             "lock_text": "Co-op Mode is currently unavailable.",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [
                 104070,
                 104043,
@@ -350,7 +299,6 @@
             "start_at": 1686272400,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -358,14 +306,12 @@
             "area_id": 2022,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [
                 104342
             ],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -373,7 +319,6 @@
             "area_id": 2023,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [
                 104604,
                 1000097629
@@ -381,7 +326,6 @@
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 10313001,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -389,12 +333,10 @@
             "area_id": 2025,
             "field_map_mode": 1,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -402,14 +344,12 @@
             "area_id": 2024,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [
                 105520
             ],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -417,14 +357,10 @@
             "area_id": 2025,
             "field_map_mode": 2,
             "lock_text": "Co-op Mode is currently unavailable.",
-            "prev_quest_ids": [
-                972006001
-            ],
             "frontier_drop_group_ids": [],
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         },
         {
@@ -432,7 +368,6 @@
             "area_id": 2026,
             "field_map_mode": 2,
             "lock_text": "",
-            "prev_quest_ids": [],
             "frontier_drop_group_ids": [
                 105920,
                 106168,
@@ -441,7 +376,6 @@
             "start_at": 0,
             "start_node_id": 0,
             "opening_scenario_id": 0,
-            "display_currency_type": 0,
             "display_currency_id": 0
         }
     ]

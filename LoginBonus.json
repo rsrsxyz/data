@@ -12,4815 +12,3235 @@
     "objectArray": [
         {
             "id": 10001,
-            "login_bonus_type": 2,
-            "name": "Daily Login Bonus",
-            "display_priority": 2
+            "login_bonus_type": 2
         },
         {
             "id": 10002,
-            "login_bonus_type": 1,
-            "name": "Start Dash Login Bonus",
-            "display_priority": 900000
+            "login_bonus_type": 1
         },
         {
             "id": 10005,
-            "login_bonus_type": 4,
-            "name": "Returning Login Bonus",
-            "display_priority": 950000
+            "login_bonus_type": 4
         },
         {
             "id": 10006,
-            "login_bonus_type": 3,
-            "name": "Total Login Bonus",
-            "display_priority": 1
+            "login_bonus_type": 3
         },
         {
             "id": 10025,
-            "login_bonus_type": 1,
-            "name": "New Year's Login Bonus",
-            "display_priority": 1510
+            "login_bonus_type": 1
         },
         {
             "id": 10080,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1900
+            "login_bonus_type": 1
         },
         {
             "id": 10120,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1615
+            "login_bonus_type": 1
         },
         {
             "id": 11683,
-            "login_bonus_type": 1,
-            "name": "Start Dash Login Bonus",
-            "display_priority": 900001
+            "login_bonus_type": 1
         },
         {
             "id": 1000000004,
-            "login_bonus_type": 5,
-            "name": "Premium Jewel Pack",
-            "display_priority": 997
+            "login_bonus_type": 5
         },
         {
             "id": 1000000005,
-            "login_bonus_type": 1,
-            "name": "Aurum Giveaway Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000006,
-            "login_bonus_type": 1,
-            "name": "Grand Global Release Login Bonus",
-            "display_priority": 7000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000007,
-            "login_bonus_type": 1,
-            "name": "Grand Global Release Login Bonus Round 2",
-            "display_priority": 6999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000008,
-            "login_bonus_type": 1,
-            "name": "Grand Global Release Login Bonus Round 3",
-            "display_priority": 6998
+            "login_bonus_type": 1
         },
         {
             "id": 1000000009,
-            "login_bonus_type": 1,
-            "name": "July 2020 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000010,
-            "login_bonus_type": 1,
-            "name": "August 2020 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000011,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000012,
-            "login_bonus_type": 1,
-            "name": "Dantarg Attacks Grand Opening Login Bonus",
-            "display_priority": 1550
+            "login_bonus_type": 1
         },
         {
             "id": 1000000013,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000014,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 1700
+            "login_bonus_type": 1
         },
         {
             "id": 1000000015,
-            "login_bonus_type": 1,
-            "name": "Demon Tower: Rocbouquet Grand Opening Login Bonus",
-            "display_priority": 1600
+            "login_bonus_type": 1
         },
         {
             "id": 1000000016,
-            "login_bonus_type": 1,
-            "name": "25 Million Global DLs! Login Bonus",
-            "display_priority": 5000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000017,
-            "login_bonus_type": 1,
-            "name": "Battle League Returning Event Login Bonus",
-            "display_priority": 1502
+            "login_bonus_type": 1
         },
         {
             "id": 1000000018,
-            "login_bonus_type": 1,
-            "name": "25 Million Global DLs! Login Bonus Round 2",
-            "display_priority": 4000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000019,
-            "login_bonus_type": 1,
-            "name": "One Fateful White Day! Login Bonus",
-            "display_priority": 1501
+            "login_bonus_type": 1
         },
         {
             "id": 1000000020,
-            "login_bonus_type": 1,
-            "name": "Bokhohn Attacks Grand Opening Login Bonus",
-            "display_priority": 1600
+            "login_bonus_type": 1
         },
         {
             "id": 1000000021,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000022,
-            "login_bonus_type": 1,
-            "name": "Classes Begin at Marquisate University! Login Bonus",
-            "display_priority": 1605
+            "login_bonus_type": 1
         },
         {
             "id": 1000000023,
-            "login_bonus_type": 1,
-            "name": "Marquisate University Practical Exams Grand Opening! Login Bonus",
-            "display_priority": 1610
+            "login_bonus_type": 1
         },
         {
             "id": 1000000024,
-            "login_bonus_type": 1,
-            "name": "Vampire Lady Appears! Grand Opening Login Bonus",
-            "display_priority": 1620
+            "login_bonus_type": 1
         },
         {
             "id": 1000000025,
-            "login_bonus_type": 1,
-            "name": "Hidden Dojo Added! Login Bonus",
-            "display_priority": 1650
+            "login_bonus_type": 1
         },
         {
             "id": 1000000026,
-            "login_bonus_type": 1,
-            "name": "SaGa 30th Anniv. Sa・Ga Festival Login Bonus",
-            "display_priority": 6000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000027,
-            "login_bonus_type": 1,
-            "name": "Heir of the Silver Heart Login Bonus",
-            "display_priority": 1660
+            "login_bonus_type": 1
         },
         {
             "id": 1000000028,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000029,
-            "login_bonus_type": 1,
-            "name": "Divine Tower Asellus Grand Opening Login Bonus",
-            "display_priority": 1665
+            "login_bonus_type": 1
         },
         {
             "id": 1000000030,
-            "login_bonus_type": 1,
-            "name": "Moonlight Promise Login Bonus",
-            "display_priority": 3000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000031,
-            "login_bonus_type": 1,
-            "name": "Kzinssie Attacks Grand Opening Login Bonus",
-            "display_priority": 1666
+            "login_bonus_type": 1
         },
         {
             "id": 1000000032,
-            "login_bonus_type": 1,
-            "name": "Divine Tower: Khalid Grand Opening Login Bonus",
-            "display_priority": 1667
+            "login_bonus_type": 1
         },
         {
             "id": 1000000033,
-            "login_bonus_type": 1,
-            "name": "The Forgotten Chapel Grand Opening Login Bonus",
-            "display_priority": 1668
+            "login_bonus_type": 1
         },
         {
             "id": 1000000034,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1501
+            "login_bonus_type": 1
         },
         {
             "id": 1000000035,
-            "login_bonus_type": 1,
-            "name": "Battle with Dream Eater Grand Opening Login Bonus",
-            "display_priority": 1669
+            "login_bonus_type": 1
         },
         {
             "id": 1000000036,
-            "login_bonus_type": 1,
-            "name": "Operation: Bag a Pet! Grand Opening Login Bonus",
-            "display_priority": 1670
+            "login_bonus_type": 1
         },
         {
             "id": 1000000037,
-            "login_bonus_type": 1,
-            "name": "Tropical Paradise: Great Arch Grand Opening Login Bonus",
-            "display_priority": 1671
+            "login_bonus_type": 1
         },
         {
             "id": 1000000038,
-            "login_bonus_type": 1,
-            "name": "Battle with Genryu Grand Opening Login Bonus",
-            "display_priority": 1672
+            "login_bonus_type": 1
         },
         {
             "id": 1000000039,
-            "login_bonus_type": 1,
-            "name": "Wagnas Attacks Grand Opening Login Bonus",
-            "display_priority": 1502
+            "login_bonus_type": 1
         },
         {
             "id": 1000000040,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1501
+            "login_bonus_type": 1
         },
         {
             "id": 1000000041,
-            "login_bonus_type": 1,
-            "name": "Original Global Style Login Bonus",
-            "display_priority": 1673
+            "login_bonus_type": 1
         },
         {
             "id": 1000000042,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1674
+            "login_bonus_type": 1
         },
         {
             "id": 1000000043,
-            "login_bonus_type": 1,
-            "name": "Hidden Dojo Expansion Login Bonus",
-            "display_priority": 1675
+            "login_bonus_type": 1
         },
         {
             "id": 1000000044,
-            "login_bonus_type": 1,
-            "name": "A Pidona Night's Dream Grand Opening Login Bonus",
-            "display_priority": 1676
+            "login_bonus_type": 1
         },
         {
             "id": 1000000045,
-            "login_bonus_type": 1,
-            "name": "November 2020 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000046,
-            "login_bonus_type": 1,
-            "name": "Battle at Haunted Estate Grand Opening Login Bonus",
-            "display_priority": 1677
+            "login_bonus_type": 1
         },
         {
             "id": 1000000047,
-            "login_bonus_type": 1,
-            "name": "Narwhal's Daughter & Mermaid Potion Grand Opening Login Bonus",
-            "display_priority": 1678
+            "login_bonus_type": 1
         },
         {
             "id": 1000000048,
-            "login_bonus_type": 1,
-            "name": "Divine Tower: Coppelia Grand Opening Login Bonus",
-            "display_priority": 1600
+            "login_bonus_type": 1
         },
         {
             "id": 1000000049,
-            "login_bonus_type": 1,
-            "name": "Battle with Water Dragon Grand Opening Login Bonus",
-            "display_priority": 1679
+            "login_bonus_type": 1
         },
         {
             "id": 1000000050,
-            "login_bonus_type": 1,
-            "name": "Romancing Award - Round 1 Celebration Login Bonus",
-            "display_priority": 1700
+            "login_bonus_type": 1
         },
         {
             "id": 1000000051,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 1501
+            "login_bonus_type": 1
         },
         {
             "id": 1000000052,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000053,
-            "login_bonus_type": 1,
-            "name": "Romancing Award - Round 2 Celebration Login Bonus",
-            "display_priority": 1699
+            "login_bonus_type": 1
         },
         {
             "id": 1000000054,
-            "login_bonus_type": 1,
-            "name": "The Hero of Yarmouth! Grand Opening Login Bonus",
-            "display_priority": 1680
+            "login_bonus_type": 1
         },
         {
             "id": 1000000055,
-            "login_bonus_type": 1,
-            "name": "Battle with Lizardman Lord Grand Opening Login Bonus",
-            "display_priority": 1681
+            "login_bonus_type": 1
         },
         {
             "id": 1000000056,
-            "login_bonus_type": 1,
-            "name": "Romancing Award - Round 3 Celebration Login Bonus",
-            "display_priority": 1698
+            "login_bonus_type": 1
         },
         {
             "id": 1000000057,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000058,
-            "login_bonus_type": 1,
-            "name": "Divine Tower: Claudia Grand Opening Login Bonus",
-            "display_priority": 1682
+            "login_bonus_type": 1
         },
         {
             "id": 1000000059,
-            "login_bonus_type": 1,
-            "name": "Thanksgiving Feast Login Bonus",
-            "display_priority": 1683
+            "login_bonus_type": 1
         },
         {
             "id": 1000000060,
-            "login_bonus_type": 1,
-            "name": "Blue Trial Grand Opening Login Bonus",
-            "display_priority": 1685
+            "login_bonus_type": 1
         },
         {
             "id": 1000000061,
-            "login_bonus_type": 1,
-            "name": "Red Trial Grand Opening Login Bonus",
-            "display_priority": 1684
+            "login_bonus_type": 1
         },
         {
             "id": 1000000062,
-            "login_bonus_type": 1,
-            "name": "Robin Cup Grand Opening Login Bonus",
-            "display_priority": 1510
+            "login_bonus_type": 1
         },
         {
             "id": 1000000063,
-            "login_bonus_type": 1,
-            "name": "Spiral Corridor New Floors Added Login Bonus",
-            "display_priority": 1509
+            "login_bonus_type": 1
         },
         {
             "id": 1000000064,
-            "login_bonus_type": 1,
-            "name": "Ryblov's Hot Springs & Big-Time Dealer Grand Opening Login Bonus",
-            "display_priority": 1686
+            "login_bonus_type": 1
         },
         {
             "id": 1000000065,
-            "login_bonus_type": 1,
-            "name": "HALF ANNIVERSARY Login Bonus",
-            "display_priority": 6000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000066,
-            "login_bonus_type": 1,
-            "name": "Battle with Barbarian Grand Opening Login Bonus",
-            "display_priority": 1687
+            "login_bonus_type": 1
         },
         {
             "id": 1000000067,
-            "login_bonus_type": 1,
-            "name": "Half Anniversary Round 1 Login Bonus",
-            "display_priority": 5999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000068,
-            "login_bonus_type": 1,
-            "name": "Cave of Weapon Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1688
+            "login_bonus_type": 1
         },
         {
             "id": 1000000069,
-            "login_bonus_type": 1,
-            "name": "Half Anniversary Round 2 Login Bonus",
-            "display_priority": 5998
+            "login_bonus_type": 1
         },
         {
             "id": 1000000070,
-            "login_bonus_type": 1,
-            "name": "Unite! Defeat Sealord Forneus! Grand Opening Login Bonus",
-            "display_priority": 1699
+            "login_bonus_type": 1
         },
         {
             "id": 1000000071,
-            "login_bonus_type": 1,
-            "name": "COLLECTION of SaGa FINAL FANTASY LEGEND Release Login Bonus",
-            "display_priority": 1698
+            "login_bonus_type": 1
         },
         {
             "id": 1000000072,
-            "login_bonus_type": 1,
-            "name": "Half Anniversary Round 3 Login Bonus",
-            "display_priority": 5997
+            "login_bonus_type": 1
         },
         {
             "id": 1000000073,
-            "login_bonus_type": 1,
-            "name": "Merry Christmas Login Bonus",
-            "display_priority": 1700
+            "login_bonus_type": 1
         },
         {
             "id": 1000000074,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000075,
-            "login_bonus_type": 1,
-            "name": "New Year's 2021 Login Bonus",
-            "display_priority": 1701
+            "login_bonus_type": 1
         },
         {
             "id": 1000000076,
-            "login_bonus_type": 1,
-            "name": "2021 New Year's Wish Login Bonus",
-            "display_priority": 1705
+            "login_bonus_type": 1
         },
         {
             "id": 1000000077,
-            "login_bonus_type": 1,
-            "name": "Lucky White Cat & Final Emperor Grand Opening Login Bonus",
-            "display_priority": 1703
+            "login_bonus_type": 1
         },
         {
             "id": 1000000078,
-            "login_bonus_type": 1,
-            "name": "Battle with Gold Dragon Grand Opening Login Bonus",
-            "display_priority": 1706
+            "login_bonus_type": 1
         },
         {
             "id": 1000000079,
-            "login_bonus_type": 1,
-            "name": "January 2021 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000080,
-            "login_bonus_type": 1,
-            "name": "200 Days! Login Bonus",
-            "display_priority": 5000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000081,
-            "login_bonus_type": 1,
-            "name": "Cave of Armor Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1708
+            "login_bonus_type": 1
         },
         {
             "id": 1000000082,
-            "login_bonus_type": 1,
-            "name": "Divine Tower Gustave Grand Opening Login Bonus",
-            "display_priority": 1707
+            "login_bonus_type": 1
         },
         {
             "id": 1000000083,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000084,
-            "login_bonus_type": 1,
-            "name": "Get diggin'! Mining Caves Grand Opening Login Bonus",
-            "display_priority": 1709
+            "login_bonus_type": 1
         },
         {
             "id": 1000000085,
-            "login_bonus_type": 5,
-            "name": "Gold Piece Pack",
-            "display_priority": 999
+            "login_bonus_type": 5
         },
         {
             "id": 1000000086,
-            "login_bonus_type": 1,
-            "name": "Minstrel's Music & Valentine's Grand Opening Login Bonus",
-            "display_priority": 1710
+            "login_bonus_type": 1
         },
         {
             "id": 1000000087,
-            "login_bonus_type": 1,
-            "name": "Battle with Dullahan Grand Opening Login Bonus",
-            "display_priority": 1711
+            "login_bonus_type": 1
         },
         {
             "id": 1000000088,
-            "login_bonus_type": 1,
-            "name": "Death & The Minstrel Login Bonus",
-            "display_priority": 1713
+            "login_bonus_type": 1
         },
         {
             "id": 1000000089,
-            "login_bonus_type": 1,
-            "name": "Battle with Death Grand Opening Login Bonus",
-            "display_priority": 1712
+            "login_bonus_type": 1
         },
         {
             "id": 1000000090,
-            "login_bonus_type": 1,
-            "name": "February 2021 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000091,
-            "login_bonus_type": 1,
-            "name": "RS3 TC/KO Under Development Login Bonus",
-            "display_priority": 1714
+            "login_bonus_type": 1
         },
         {
             "id": 1000000092,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000093,
-            "login_bonus_type": 1,
-            "name": "Battle with Byunei Grand Opening Login Bonus",
-            "display_priority": 1715
+            "login_bonus_type": 1
         },
         {
             "id": 1000000094,
-            "login_bonus_type": 1,
-            "name": "New Formation Added Login Bonus",
-            "display_priority": 1717
+            "login_bonus_type": 1
         },
         {
             "id": 1000000095,
-            "login_bonus_type": 1,
-            "name": "Battle with Dragonlord Grand Opening Login Bonus",
-            "display_priority": 1716
+            "login_bonus_type": 1
         },
         {
             "id": 1000000096,
-            "login_bonus_type": 1,
-            "name": "Lunar New Year Best Wishes Login Bonus",
-            "display_priority": 6000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000097,
-            "login_bonus_type": 1,
-            "name": "Lunar New Year Login Bonus",
-            "display_priority": 5000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000098,
-            "login_bonus_type": 1,
-            "name": "Year of the Ox Login Bonus",
-            "display_priority": 7000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000099,
-            "login_bonus_type": 1,
-            "name": "Rally Against the Termites! Grand Opening Login Bonus",
-            "display_priority": 1718
+            "login_bonus_type": 1
         },
         {
             "id": 1000000100,
-            "login_bonus_type": 1,
-            "name": "Zweig Battle Coliseum Stage Ten Added! Login Bonus",
-            "display_priority": 1720
+            "login_bonus_type": 1
         },
         {
             "id": 1000000101,
-            "login_bonus_type": 1,
-            "name": "Pyrix: Commander of Fire Grand Opening Login Bonus",
-            "display_priority": 1721
+            "login_bonus_type": 1
         },
         {
             "id": 1000000102,
-            "login_bonus_type": 1,
-            "name": "Templar Galahad & The Ice Sword Login Bonus",
-            "display_priority": 1722
+            "login_bonus_type": 1
         },
         {
             "id": 1000000103,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000104,
-            "login_bonus_type": 1,
-            "name": "Cave of Gear Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1723
+            "login_bonus_type": 1
         },
         {
             "id": 1000000105,
-            "login_bonus_type": 1,
-            "name": "SaGa Frontier Remastered Release Date Announced Login Bonus",
-            "display_priority": 1719
+            "login_bonus_type": 1
         },
         {
             "id": 1000000106,
-            "login_bonus_type": 1,
-            "name": "March 2021 Login Bonus",
-            "display_priority": 1401
+            "login_bonus_type": 1
         },
         {
             "id": 1000000107,
-            "login_bonus_type": 1,
-            "name": "The Flame & The Four Adventurers Login Bonus",
-            "display_priority": 1725
+            "login_bonus_type": 1
         },
         {
             "id": 1000000108,
-            "login_bonus_type": 1,
-            "name": "Battle with Fire Lord Grand Opening Login Bonus",
-            "display_priority": 1724
+            "login_bonus_type": 1
         },
         {
             "id": 1000000109,
-            "login_bonus_type": 5,
-            "name": "7-Day Jewel Pack Login Bonus",
-            "display_priority": 998
+            "login_bonus_type": 5
         },
         {
             "id": 1000000110,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000111,
-            "login_bonus_type": 1,
-            "name": "Classes Begin at Marquisate University! Returning Event Login Bonus",
-            "display_priority": 1728
+            "login_bonus_type": 1
         },
         {
             "id": 1000000112,
-            "login_bonus_type": 1,
-            "name": "2nd Marquisate University Practical Exams Grand Opening Login Bonus",
-            "display_priority": 1729
+            "login_bonus_type": 1
         },
         {
             "id": 1000000113,
-            "login_bonus_type": 1,
-            "name": "Sensei's Intensive Course Grand Opening Login Bonus",
-            "display_priority": 1730
+            "login_bonus_type": 1
         },
         {
             "id": 1000000114,
-            "login_bonus_type": 1,
-            "name": "Battle with Tanzer Grand Opening Login Bonus",
-            "display_priority": 1731
+            "login_bonus_type": 1
         },
         {
             "id": 1000000115,
-            "login_bonus_type": 1,
-            "name": "Ruins Exploration Lv. 11 - 13 Added! Login Bonus",
-            "display_priority": 1726
+            "login_bonus_type": 1
         },
         {
             "id": 1000000116,
-            "login_bonus_type": 1,
-            "name": "Skill/Spell Amplification Added! Login Bonus",
-            "display_priority": 1735
+            "login_bonus_type": 1
         },
         {
             "id": 1000000117,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 1501
+            "login_bonus_type": 1
         },
         {
             "id": 1000000118,
-            "login_bonus_type": 1,
-            "name": "Spiral Corridor New Floors Added Login Bonus",
-            "display_priority": 1732
+            "login_bonus_type": 1
         },
         {
             "id": 1000000119,
-            "login_bonus_type": 1,
-            "name": "Cave of Weapon Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1733
+            "login_bonus_type": 1
         },
         {
             "id": 1000000120,
-            "login_bonus_type": 1,
-            "name": "Battle with Schirach Grand Opening Login Bonus",
-            "display_priority": 1737
+            "login_bonus_type": 1
         },
         {
             "id": 1000000121,
-            "login_bonus_type": 1,
-            "name": "Divine Tower Mirsa Grand Opening Login Bonus",
-            "display_priority": 1736
+            "login_bonus_type": 1
         },
         {
             "id": 1000000122,
-            "login_bonus_type": 1,
-            "name": "Cave of Armor Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1739
+            "login_bonus_type": 1
         },
         {
             "id": 1000000123,
-            "login_bonus_type": 1,
-            "name": "New Formation Added Login Bonus",
-            "display_priority": 1738
+            "login_bonus_type": 1
         },
         {
             "id": 1000000124,
-            "login_bonus_type": 1,
-            "name": "Conquer Romancing Saga Prefecture - Kzinssie & Subier Attack Login Bonus",
-            "display_priority": 1745
+            "login_bonus_type": 1
         },
         {
             "id": 1000000125,
-            "login_bonus_type": 1,
-            "name": "Conquer Romancing Saga Prefecture - Bokhohn Attacks Login Bonus",
-            "display_priority": 1744
+            "login_bonus_type": 1
         },
         {
             "id": 1000000126,
-            "login_bonus_type": 1,
-            "name": "Conquer Romancing Saga Prefecture - Noel Attacks Login Bonus",
-            "display_priority": 1743
+            "login_bonus_type": 1
         },
         {
             "id": 1000000127,
-            "login_bonus_type": 1,
-            "name": "Conquer Romancing Saga Prefecture - Rocbouquet Attacks Login Bonus",
-            "display_priority": 1742
+            "login_bonus_type": 1
         },
         {
             "id": 1000000128,
-            "login_bonus_type": 1,
-            "name": "Conquer Romancing Saga Prefecture - Dantarg Attacks Login Bonus",
-            "display_priority": 1741
+            "login_bonus_type": 1
         },
         {
             "id": 1000000129,
-            "login_bonus_type": 1,
-            "name": "Conquer Romancing Saga Prefecture - Wagnas Attacks Login Bonus",
-            "display_priority": 1740
+            "login_bonus_type": 1
         },
         {
             "id": 1000000130,
-            "login_bonus_type": 1,
-            "name": "Collaborative Event! Romancing Saga Login Bonus",
-            "display_priority": 1746
+            "login_bonus_type": 1
         },
         {
             "id": 1000000131,
-            "login_bonus_type": 1,
-            "name": "April 2021 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000132,
-            "login_bonus_type": 1,
-            "name": "Re;cycle Login Bonus",
-            "display_priority": 1747
+            "login_bonus_type": 1
         },
         {
             "id": 1000000133,
-            "login_bonus_type": 1,
-            "name": "Divine Tower: Silver Emperor Grand Opening Login Bonus",
-            "display_priority": 1749
+            "login_bonus_type": 1
         },
         {
             "id": 1000000134,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1748
+            "login_bonus_type": 1
         },
         {
             "id": 1000000135,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000136,
-            "login_bonus_type": 1,
-            "name": "SaGa Frontier Remastered Release Celebrations Global Release Login Bonus",
-            "display_priority": 5000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000137,
-            "login_bonus_type": 1,
-            "name": "SaGa Frontier Remastered Release Login Bonus",
-            "display_priority": 4000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000138,
-            "login_bonus_type": 1,
-            "name": "Fake Tower & The Mystic Lord Grand Opening Login Bonus",
-            "display_priority": 1750
+            "login_bonus_type": 1
         },
         {
             "id": 1000000139,
-            "login_bonus_type": 1,
-            "name": "Battle with Orlouge Grand Opening Login Bonus",
-            "display_priority": 1753
+            "login_bonus_type": 1
         },
         {
             "id": 1000000140,
-            "login_bonus_type": 1,
-            "name": "Cave of Gear Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1751
+            "login_bonus_type": 1
         },
         {
             "id": 1000000141,
-            "login_bonus_type": 1,
-            "name": "New Formation Added Login Bonus",
-            "display_priority": 1752
+            "login_bonus_type": 1
         },
         {
             "id": 1000000142,
-            "login_bonus_type": 1,
-            "name": "300 Days! Login Bonus",
-            "display_priority": 3000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000143,
-            "login_bonus_type": 1,
-            "name": "Battle with Wyvern Grand Opening Login Bonus",
-            "display_priority": 1754
+            "login_bonus_type": 1
         },
         {
             "id": 1000000144,
-            "login_bonus_type": 1,
-            "name": "Cave of Weapon Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1756
+            "login_bonus_type": 1
         },
         {
             "id": 1000000145,
-            "login_bonus_type": 1,
-            "name": "Cave of Armor Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1755
+            "login_bonus_type": 1
         },
         {
             "id": 1000000146,
-            "login_bonus_type": 1,
-            "name": "Countdown Login Bonus",
-            "display_priority": 9999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000147,
-            "login_bonus_type": 1,
-            "name": "Countdown Login Bonus",
-            "display_priority": 9999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000148,
-            "login_bonus_type": 1,
-            "name": "Countdown Login Bonus",
-            "display_priority": 9999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000149,
-            "login_bonus_type": 1,
-            "name": "Countdown Login Bonus",
-            "display_priority": 9999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000150,
-            "login_bonus_type": 1,
-            "name": "Countdown Login Bonus",
-            "display_priority": 9999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000151,
-            "login_bonus_type": 1,
-            "name": "Countdown Login Bonus",
-            "display_priority": 9999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000152,
-            "login_bonus_type": 1,
-            "name": "Joker's Advent Login Bonus",
-            "display_priority": 3999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000153,
-            "login_bonus_type": 1,
-            "name": "Battle with Joker Grand Opening Login Bonus",
-            "display_priority": 1757
+            "login_bonus_type": 1
         },
         {
             "id": 1000000154,
-            "login_bonus_type": 1,
-            "name": "May 2021 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000155,
-            "login_bonus_type": 1,
-            "name": "Duel M Black Grand Opening Login Bonus",
-            "display_priority": 1758
+            "login_bonus_type": 1
         },
         {
             "id": 1000000156,
-            "login_bonus_type": 1,
-            "name": "The Forgotten Chapel Returning Event Login Bonus",
-            "display_priority": 1759
+            "login_bonus_type": 1
         },
         {
             "id": 1000000157,
-            "login_bonus_type": 1,
-            "name": "Battle with Princess Lion Grand Opening Login Bonus",
-            "display_priority": 1760
+            "login_bonus_type": 1
         },
         {
             "id": 1000000158,
-            "login_bonus_type": 1,
-            "name": "Endless Training with Silver Grand Opening Login Bonus",
-            "display_priority": 1761
+            "login_bonus_type": 1
         },
         {
             "id": 1000000159,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000160,
-            "login_bonus_type": 1,
-            "name": "1st Anniversary Eve Login Bonus",
-            "display_priority": 4000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000161,
-            "login_bonus_type": 1,
-            "name": "Guardian Silver Dragon Grand Opening Login Bonus",
-            "display_priority": 1762
+            "login_bonus_type": 1
         },
         {
             "id": 1000000162,
-            "login_bonus_type": 1,
-            "name": "Battle with Blackworm Grand Opening Login Bonus",
-            "display_priority": 1763
+            "login_bonus_type": 1
         },
         {
             "id": 1000000163,
-            "login_bonus_type": 1,
-            "name": "Weapon/Armor/Gear Cave of Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1764
+            "login_bonus_type": 1
         },
         {
             "id": 1000000164,
-            "login_bonus_type": 1,
-            "name": "Countdown Login Bonus",
-            "display_priority": 9999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000165,
-            "login_bonus_type": 1,
-            "name": "Countdown Login Bonus",
-            "display_priority": 9999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000166,
-            "login_bonus_type": 1,
-            "name": "Countdown Login Bonus",
-            "display_priority": 9999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000167,
-            "login_bonus_type": 1,
-            "name": "Countdown Login Bonus",
-            "display_priority": 9999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000168,
-            "login_bonus_type": 1,
-            "name": "June 2021 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000169,
-            "login_bonus_type": 5,
-            "name": "Gold Piece Pack",
-            "display_priority": 999
+            "login_bonus_type": 5
         },
         {
             "id": 1000000170,
-            "login_bonus_type": 1,
-            "name": "The Final Isle Grand Opening Login Bonus",
-            "display_priority": 5999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000171,
-            "login_bonus_type": 1,
-            "name": "1st Anniversary Login Bonus",
-            "display_priority": 6000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000172,
-            "login_bonus_type": 1,
-            "name": "Spiral Corridor New Floors Added Login Bonus",
-            "display_priority": 1766
+            "login_bonus_type": 1
         },
         {
             "id": 1000000173,
-            "login_bonus_type": 1,
-            "name": "Spear Trial Grand Opening Login Bonus",
-            "display_priority": 1767
+            "login_bonus_type": 1
         },
         {
             "id": 1000000174,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 1765
+            "login_bonus_type": 1
         },
         {
             "id": 1000000175,
-            "login_bonus_type": 1,
-            "name": "Metal Dummy Training Added Login Bonus",
-            "display_priority": 5997
+            "login_bonus_type": 1
         },
         {
             "id": 1000000176,
-            "login_bonus_type": 1,
-            "name": "Fargo: City of Arts Grand Opening Login Bonus",
-            "display_priority": 5998
+            "login_bonus_type": 1
         },
         {
             "id": 1000000177,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1768
+            "login_bonus_type": 1
         },
         {
             "id": 1000000178,
-            "login_bonus_type": 1,
-            "name": "Robin Cup Quests Added Login Bonus",
-            "display_priority": 1769
+            "login_bonus_type": 1
         },
         {
             "id": 1000000179,
-            "login_bonus_type": 1,
-            "name": "Divine Tower Maiden of Lance - Matriarch Part 1 Grand Opening Login Bonus",
-            "display_priority": 1770
+            "login_bonus_type": 1
         },
         {
             "id": 1000000180,
-            "login_bonus_type": 1,
-            "name": "Helm Trial Grand Opening Login Bonus",
-            "display_priority": 1771
+            "login_bonus_type": 1
         },
         {
             "id": 1000000181,
-            "login_bonus_type": 1,
-            "name": "Divine Tower Maiden of Lance - Matriarch Part 2 Grand Opening Login Bonus",
-            "display_priority": 1772
+            "login_bonus_type": 1
         },
         {
             "id": 1000000182,
-            "login_bonus_type": 1,
-            "name": "Boots Trial Grand Opening Login Bonus",
-            "display_priority": 1773
+            "login_bonus_type": 1
         },
         {
             "id": 1000000183,
-            "login_bonus_type": 1,
-            "name": "1st Anniversary Happy Birthday! Login Bonus",
-            "display_priority": 6001
+            "login_bonus_type": 1
         },
         {
             "id": 1000000184,
-            "login_bonus_type": 1,
-            "name": "Treasure Cave Grand Opening Login Bonus",
-            "display_priority": 1774
+            "login_bonus_type": 1
         },
         {
             "id": 1000000185,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000186,
-            "login_bonus_type": 1,
-            "name": "Pandemonium Melee! Grand Opening Login Bonus",
-            "display_priority": 1777
+            "login_bonus_type": 1
         },
         {
             "id": 1000000187,
-            "login_bonus_type": 1,
-            "name": "Weapon/Armor/Gear Cave of Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1776
+            "login_bonus_type": 1
         },
         {
             "id": 1000000188,
-            "login_bonus_type": 1,
-            "name": "July 2021 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000189,
-            "login_bonus_type": 1,
-            "name": "Facebook/Twitter Event Login Bonus",
-            "display_priority": 1775
+            "login_bonus_type": 1
         },
         {
             "id": 1000000190,
-            "login_bonus_type": 1,
-            "name": "SaGa THE STAGE -Seven Heroes Return- Grand Opening Login Bonus",
-            "display_priority": 1784
+            "login_bonus_type": 1
         },
         {
             "id": 1000000191,
-            "login_bonus_type": 1,
-            "name": "SaGa THE STAGE -Seven Heroes Return- Soundtrack Added Login Bonus",
-            "display_priority": 1781
+            "login_bonus_type": 1
         },
         {
             "id": 1000000192,
-            "login_bonus_type": 1,
-            "name": "Battle with Termites Extermination (Termites) Grand Opening Login Bonus",
-            "display_priority": 1782
+            "login_bonus_type": 1
         },
         {
             "id": 1000000193,
-            "login_bonus_type": 1,
-            "name": "Battle with Termites Showdown (Real Queen) Grand Opening Login Bonus",
-            "display_priority": 1783
+            "login_bonus_type": 1
         },
         {
             "id": 1000000194,
-            "login_bonus_type": 1,
-            "name": "Amplifiable Skills/Spells Added Login Bonus",
-            "display_priority": 1780
+            "login_bonus_type": 1
         },
         {
             "id": 1000000195,
-            "login_bonus_type": 1,
-            "name": "RS2 Traditional Chinese and Korean Versions Under Development Login Bonus",
-            "display_priority": 1779
+            "login_bonus_type": 1
         },
         {
             "id": 1000000196,
-            "login_bonus_type": 1,
-            "name": "RS3 Traditional Chinese and Korean Versions Release Date Announced! Login Bonus",
-            "display_priority": 1778
+            "login_bonus_type": 1
         },
         {
             "id": 1000000197,
-            "login_bonus_type": 1,
-            "name": "Tropical Paradise: Great Arch Returning Event Login Bonus",
-            "display_priority": 1785
+            "login_bonus_type": 1
         },
         {
             "id": 1000000198,
-            "login_bonus_type": 1,
-            "name": "Captain Silver & Genryu's Treasure Grand Opening Login Bonus",
-            "display_priority": 1786
+            "login_bonus_type": 1
         },
         {
             "id": 1000000199,
-            "login_bonus_type": 1,
-            "name": "Summer! Beach With Genny Grand Opening Login Bonus",
-            "display_priority": 1787
+            "login_bonus_type": 1
         },
         {
             "id": 1000000200,
-            "login_bonus_type": 1,
-            "name": "Aurum Exchange Grand Opening Login Bonus",
-            "display_priority": 1501
+            "login_bonus_type": 1
         },
         {
             "id": 1000000201,
-            "login_bonus_type": 1,
-            "name": "Narwhal's Daughter & Mermaid Potion Returning Event Login Bonus",
-            "display_priority": 1788
+            "login_bonus_type": 1
         },
         {
             "id": 1000000202,
-            "login_bonus_type": 1,
-            "name": "Sage of the Isle of Beginnings Grand Opening Login Bonus",
-            "display_priority": 1789
+            "login_bonus_type": 1
         },
         {
             "id": 1000000203,
-            "login_bonus_type": 1,
-            "name": "Eversummer Festival Grand Opening Login Bonus",
-            "display_priority": 1790
+            "login_bonus_type": 1
         },
         {
             "id": 1000000204,
-            "login_bonus_type": 1,
-            "name": "Battle with Corrupted Beast Grand Opening Login Bonus",
-            "display_priority": 1791
+            "login_bonus_type": 1
         },
         {
             "id": 1000000205,
-            "login_bonus_type": 1,
-            "name": "Divine Tower: Darque Grand Opening Login Bonus",
-            "display_priority": 1792
+            "login_bonus_type": 1
         },
         {
             "id": 1000000206,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000207,
-            "login_bonus_type": 1,
-            "name": "Weapon/Armor/Gear Cave of Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1793
+            "login_bonus_type": 1
         },
         {
             "id": 1000000208,
-            "login_bonus_type": 1,
-            "name": "Shadow in the Cave of Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1794
+            "login_bonus_type": 1
         },
         {
             "id": 1000000209,
-            "login_bonus_type": 1,
-            "name": "400 Days! Login Bonus",
-            "display_priority": 3000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000210,
-            "login_bonus_type": 1,
-            "name": "August 2021 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000211,
-            "login_bonus_type": 1,
-            "name": "Battle with Jewel Beast Grand Opening Login Bonus",
-            "display_priority": 1796
+            "login_bonus_type": 1
         },
         {
             "id": 1000000212,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1797
+            "login_bonus_type": 1
         },
         {
             "id": 1000000213,
-            "login_bonus_type": 1,
-            "name": "New Formation Added Login Bonus",
-            "display_priority": 1795
+            "login_bonus_type": 1
         },
         {
             "id": 1000000214,
-            "login_bonus_type": 1,
-            "name": "An Emperor's Resolve! Battle with Kzinssie Grand Opening Login Bonus",
-            "display_priority": 1798
+            "login_bonus_type": 1
         },
         {
             "id": 1000000215,
-            "login_bonus_type": 1,
-            "name": "SS Armic Medal Login Bonus",
-            "display_priority": 1799
+            "login_bonus_type": 1
         },
         {
             "id": 1000000216,
-            "login_bonus_type": 1,
-            "name": "Battle with Abyssal Naga Grand Opening Login Bonus",
-            "display_priority": 1801
+            "login_bonus_type": 1
         },
         {
             "id": 1000000217,
-            "login_bonus_type": 1,
-            "name": "Romancing SaGa 3 Traditional Chinese and Korean Versions Release Login Bonus Round 1",
-            "display_priority": 3000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000218,
-            "login_bonus_type": 1,
-            "name": "Romancing SaGa 3 Soundtrack Added Login Bonus",
-            "display_priority": 2999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000219,
-            "login_bonus_type": 1,
-            "name": "Get diggin'! Mining Caves Renewal Login Bonus",
-            "display_priority": 1800
+            "login_bonus_type": 1
         },
         {
             "id": 1000000220,
-            "login_bonus_type": 1,
-            "name": "The Great E-Rat-Ication! Grand Opening Login Bonus",
-            "display_priority": 1802
+            "login_bonus_type": 1
         },
         {
             "id": 1000000221,
-            "login_bonus_type": 1,
-            "name": "The Hero of Yarmouth! Returning Event Login Bonus",
-            "display_priority": 1803
+            "login_bonus_type": 1
         },
         {
             "id": 1000000222,
-            "login_bonus_type": 1,
-            "name": "Treasure Cave Grand Opening Login Bonus",
-            "display_priority": 1804
+            "login_bonus_type": 1
         },
         {
             "id": 1000000223,
-            "login_bonus_type": 1,
-            "name": "Romancing SaGa 3 Traditional Chinese and Korean Versions Release Login Bonus",
-            "display_priority": 4000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000224,
-            "login_bonus_type": 1,
-            "name": "Romancing SaGa 3 Traditional Chinese and Korean Versions Release Login Bonus Round 2",
-            "display_priority": 3001
+            "login_bonus_type": 1
         },
         {
             "id": 1000000225,
-            "login_bonus_type": 1,
-            "name": "Battle with the Eight Stars Grand Opening Login Bonus",
-            "display_priority": 1805
+            "login_bonus_type": 1
         },
         {
             "id": 1000000226,
-            "login_bonus_type": 1,
-            "name": "Summer 2021 Sa・Ga Festival Login Bonus",
-            "display_priority": 1810
+            "login_bonus_type": 1
         },
         {
             "id": 1000000227,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 1402
+            "login_bonus_type": 1
         },
         {
             "id": 1000000228,
-            "login_bonus_type": 1,
-            "name": "SaGa1/2/3 Soundtrack Added Login Bonus",
-            "display_priority": 1809
+            "login_bonus_type": 1
         },
         {
             "id": 1000000229,
-            "login_bonus_type": 1,
-            "name": "Spiral Corridor New Floors Added Login Bonus",
-            "display_priority": 1806
+            "login_bonus_type": 1
         },
         {
             "id": 1000000230,
-            "login_bonus_type": 1,
-            "name": "Creator's Game, Black & White Tower Grand Opening Login Bonus",
-            "display_priority": 1807
+            "login_bonus_type": 1
         },
         {
             "id": 1000000231,
-            "login_bonus_type": 1,
-            "name": "September 2021 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000232,
-            "login_bonus_type": 1,
-            "name": "Battle with Ashura Grand Opening Login Bonus",
-            "display_priority": 1808
+            "login_bonus_type": 1
         },
         {
             "id": 1000000233,
-            "login_bonus_type": 1,
-            "name": "Summer 2021 Sa・Ga Festival Round 2 Login Bonus",
-            "display_priority": 1812
+            "login_bonus_type": 1
         },
         {
             "id": 1000000234,
-            "login_bonus_type": 1,
-            "name": "Rally for the Creator's Game! Grand Opening Login Bonus",
-            "display_priority": 1811
+            "login_bonus_type": 1
         },
         {
             "id": 1000000235,
-            "login_bonus_type": 1,
-            "name": "Summer 2021 Sa・Ga Festival Round 3 Login Bonus",
-            "display_priority": 1815
+            "login_bonus_type": 1
         },
         {
             "id": 1000000236,
-            "login_bonus_type": 1,
-            "name": "Ore Exchange Renewal Login Bonus",
-            "display_priority": 1813
+            "login_bonus_type": 1
         },
         {
             "id": 1000000237,
-            "login_bonus_type": 1,
-            "name": "Battle with Apollo Grand Opening Login Bonus",
-            "display_priority": 1814
+            "login_bonus_type": 1
         },
         {
             "id": 1000000238,
-            "login_bonus_type": 1,
-            "name": "COLLECTION of SaGa FINAL FANTASY LEGEND iOS/Android Release Login Bonus",
-            "display_priority": 2000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000239,
-            "login_bonus_type": 1,
-            "name": "Templar Galahad & The Sword of Death Grand Opening Login Bonus",
-            "display_priority": 1817
+            "login_bonus_type": 1
         },
         {
             "id": 1000000240,
-            "login_bonus_type": 1,
-            "name": "Battle with Death Returning Event Login Bonus",
-            "display_priority": 1816
+            "login_bonus_type": 1
         },
         {
             "id": 1000000241,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1819
+            "login_bonus_type": 1
         },
         {
             "id": 1000000242,
-            "login_bonus_type": 1,
-            "name": "Weapon/Armor/Gear Cave of Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1818
+            "login_bonus_type": 1
         },
         {
             "id": 1000000243,
-            "login_bonus_type": 1,
-            "name": "October 2021 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000244,
-            "login_bonus_type": 1,
-            "name": "Myriam Medal Login Bonus",
-            "display_priority": 1820
+            "login_bonus_type": 1
         },
         {
             "id": 1000000245,
-            "login_bonus_type": 1,
-            "name": "Treasure Cave Grand Opening Login Bonus",
-            "display_priority": 1821
+            "login_bonus_type": 1
         },
         {
             "id": 1000000246,
-            "login_bonus_type": 1,
-            "name": "Countdown Login Bonus",
-            "display_priority": 9999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000247,
-            "login_bonus_type": 1,
-            "name": "Countdown Login Bonus",
-            "display_priority": 9999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000248,
-            "login_bonus_type": 1,
-            "name": "Countdown Login Bonus",
-            "display_priority": 9999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000249,
-            "login_bonus_type": 1,
-            "name": "Countdown Login Bonus",
-            "display_priority": 9999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000250,
-            "login_bonus_type": 1,
-            "name": "Pre-Halloween Login Bonus",
-            "display_priority": 1824
+            "login_bonus_type": 1
         },
         {
             "id": 1000000251,
-            "login_bonus_type": 1,
-            "name": "Intruders at the Imperial Banquet! Grand Opening Login Bonus",
-            "display_priority": 1822
+            "login_bonus_type": 1
         },
         {
             "id": 1000000252,
-            "login_bonus_type": 1,
-            "name": "Ryblov's Hot Springs & Big-Time Dealer Returning Event Login Bonus",
-            "display_priority": 1823
+            "login_bonus_type": 1
         },
         {
             "id": 1000000253,
-            "login_bonus_type": 1,
-            "name": "Happy Halloween Login Bonus Round 1",
-            "display_priority": 1828
+            "login_bonus_type": 1
         },
         {
             "id": 1000000254,
-            "login_bonus_type": 1,
-            "name": "Battle with Slugger Grand Opening Login Bonus",
-            "display_priority": 1827
+            "login_bonus_type": 1
         },
         {
             "id": 1000000255,
-            "login_bonus_type": 1,
-            "name": "Castle Party & Final Trial Grand Opening Login Bonus",
-            "display_priority": 1826
+            "login_bonus_type": 1
         },
         {
             "id": 1000000256,
-            "login_bonus_type": 1,
-            "name": "A Pidona Night's Dream Returning Event Login Bonus",
-            "display_priority": 1825
+            "login_bonus_type": 1
         },
         {
             "id": 1000000257,
-            "login_bonus_type": 1,
-            "name": "COLLECTION of SaGa FINAL FANTASY LEGEND New Platform Release Login Bonus",
-            "display_priority": 2000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000258,
-            "login_bonus_type": 1,
-            "name": "Happy Halloween Login Bonus Round 2",
-            "display_priority": 1831
+            "login_bonus_type": 1
         },
         {
             "id": 1000000259,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000260,
-            "login_bonus_type": 1,
-            "name": "Ring Trial Grand Opening Login Bonus",
-            "display_priority": 1829
+            "login_bonus_type": 1
         },
         {
             "id": 1000000261,
-            "login_bonus_type": 1,
-            "name": "Divine Tower Maiden of Lance - Matriarch Part 1/Part 2 Renewal Login Bonus",
-            "display_priority": 1830
+            "login_bonus_type": 1
         },
         {
             "id": 1000000262,
-            "login_bonus_type": 1,
-            "name": "November 2021 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000263,
-            "login_bonus_type": 1,
-            "name": "THANK YOU! Login Bonus",
-            "display_priority": 3000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000264,
-            "login_bonus_type": 1,
-            "name": "1.5 Anniversary Eve Login Bonus Round 1",
-            "display_priority": 1835
+            "login_bonus_type": 1
         },
         {
             "id": 1000000265,
-            "login_bonus_type": 1,
-            "name": "Boston's Expedition Grand Opening Login Bonus",
-            "display_priority": 1832
+            "login_bonus_type": 1
         },
         {
             "id": 1000000266,
-            "login_bonus_type": 1,
-            "name": "Battle with Forneus Grand Opening Login Bonus",
-            "display_priority": 1834
+            "login_bonus_type": 1
         },
         {
             "id": 1000000267,
-            "login_bonus_type": 1,
-            "name": "New Formation Added Login Bonus",
-            "display_priority": 1833
+            "login_bonus_type": 1
         },
         {
             "id": 1000000268,
-            "login_bonus_type": 1,
-            "name": "1.5 Anniversary Eve Login Bonus Round 2",
-            "display_priority": 1837
+            "login_bonus_type": 1
         },
         {
             "id": 1000000269,
-            "login_bonus_type": 1,
-            "name": "Treasure Cave Grand Opening Login Bonus",
-            "display_priority": 1836
+            "login_bonus_type": 1
         },
         {
             "id": 1000000270,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000271,
-            "login_bonus_type": 1,
-            "name": "1.5 Anniversary Eve Login Bonus Round 3",
-            "display_priority": 1840
+            "login_bonus_type": 1
         },
         {
             "id": 1000000272,
-            "login_bonus_type": 1,
-            "name": "1.5 Anniv. Eve! Thank You Training Grand Opening Login Bonus",
-            "display_priority": 1839
+            "login_bonus_type": 1
         },
         {
             "id": 1000000273,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1838
+            "login_bonus_type": 1
         },
         {
             "id": 1000000274,
-            "login_bonus_type": 1,
-            "name": "Thanksgiving Login Bonus",
-            "display_priority": 1843
+            "login_bonus_type": 1
         },
         {
             "id": 1000000275,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000276,
-            "login_bonus_type": 1,
-            "name": "Collect Horse Ingots Grand Opening Login Bonus",
-            "display_priority": 1841
+            "login_bonus_type": 1
         },
         {
             "id": 1000000277,
-            "login_bonus_type": 1,
-            "name": "Weapon/Armor/Gear Cave of Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1842
+            "login_bonus_type": 1
         },
         {
             "id": 1000000278,
-            "login_bonus_type": 1,
-            "name": "December 2021 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000279,
-            "login_bonus_type": 1,
-            "name": "1.5 Anniversary Login Bonus",
-            "display_priority": 3000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000280,
-            "login_bonus_type": 1,
-            "name": "1st Veiled World Tower Grand Opening Login Bonus",
-            "display_priority": 1847
+            "login_bonus_type": 1
         },
         {
             "id": 1000000281,
-            "login_bonus_type": 1,
-            "name": "SS Weapon Evolution Feature Grand Opening Login Bonus",
-            "display_priority": 1846
+            "login_bonus_type": 1
         },
         {
             "id": 1000000282,
-            "login_bonus_type": 1,
-            "name": "Metal Dummy Training Login Bonus",
-            "display_priority": 1845
+            "login_bonus_type": 1
         },
         {
             "id": 1000000283,
-            "login_bonus_type": 1,
-            "name": "1.5 Anniv.! Treasure Den Grand Opening Login Bonus",
-            "display_priority": 1848
+            "login_bonus_type": 1
         },
         {
             "id": 1000000284,
-            "login_bonus_type": 1,
-            "name": "1.5 Anniv.! Romancing Battle Grand Opening Login Bonus",
-            "display_priority": 1849
+            "login_bonus_type": 1
         },
         {
             "id": 1000000285,
-            "login_bonus_type": 1,
-            "name": "2nd Veiled World Tower Grand Opening Login Bonus",
-            "display_priority": 1850
+            "login_bonus_type": 1
         },
         {
             "id": 1000000286,
-            "login_bonus_type": 1,
-            "name": "Battle with the New Eight Stars Grand Opening Login Bonus",
-            "display_priority": 1851
+            "login_bonus_type": 1
         },
         {
             "id": 1000000287,
-            "login_bonus_type": 5,
-            "name": "7-Day Jewel Pack Login Bonus",
-            "display_priority": 998
+            "login_bonus_type": 5
         },
         {
             "id": 1000000288,
-            "login_bonus_type": 1,
-            "name": "1.5 Anniversary Coin Exchange Items Added Login Bonus",
-            "display_priority": 1852
+            "login_bonus_type": 1
         },
         {
             "id": 1000000289,
-            "login_bonus_type": 1,
-            "name": "Merry Christmas! Starry Night Gift Grand Opening Login Bonus",
-            "display_priority": 1854
+            "login_bonus_type": 1
         },
         {
             "id": 1000000290,
-            "login_bonus_type": 1,
-            "name": "Merry Christmas! Santa Clash Returning Event Login Bonus",
-            "display_priority": 1853
+            "login_bonus_type": 1
         },
         {
             "id": 1000000291,
-            "login_bonus_type": 1,
-            "name": "Starry Night Trials Grand Opening Login Bonus",
-            "display_priority": 1855
+            "login_bonus_type": 1
         },
         {
             "id": 1000000292,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1856
+            "login_bonus_type": 1
         },
         {
             "id": 1000000293,
-            "login_bonus_type": 1,
-            "name": "Romancing SaGa2 Traditional Chinese and Korean Versions Release Login Bonus",
-            "display_priority": 1857
+            "login_bonus_type": 1
         },
         {
             "id": 1000000294,
-            "login_bonus_type": 1,
-            "name": "1.5 Anniv. Happy Anniversary Day Login Bonus",
-            "display_priority": 3001
+            "login_bonus_type": 1
         },
         {
             "id": 1000000295,
-            "login_bonus_type": 1,
-            "name": "SaGa SCARLET GRACE: AMBITIONS Soundtrack Added Login Bonus",
-            "display_priority": 1858
+            "login_bonus_type": 1
         },
         {
             "id": 1000000296,
-            "login_bonus_type": 1,
-            "name": "3rd Veiled World Tower Grand Opening Login Bonus",
-            "display_priority": 1860
+            "login_bonus_type": 1
         },
         {
             "id": 1000000297,
-            "login_bonus_type": 1,
-            "name": "Macha's Descent Grand Opening Login Bonus",
-            "display_priority": 1859
+            "login_bonus_type": 1
         },
         {
             "id": 1000000298,
-            "login_bonus_type": 1,
-            "name": "New Year's 20-Time-Only Treasure Cave Grand Opening Login Bonus",
-            "display_priority": 1861
+            "login_bonus_type": 1
         },
         {
             "id": 1000000299,
-            "login_bonus_type": 1,
-            "name": "New Year's 108 Quest Rush Grand Opening Login Bonus",
-            "display_priority": 1862
+            "login_bonus_type": 1
         },
         {
             "id": 1000000300,
-            "login_bonus_type": 1,
-            "name": "January 2022 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000301,
-            "login_bonus_type": 1,
-            "name": "New Year's All-Star Login Bonus",
-            "display_priority": 3001
+            "login_bonus_type": 1
         },
         {
             "id": 1000000302,
-            "login_bonus_type": 1,
-            "name": "Zodiac Battle & Evil God Tower Grand Opening Login Bonus",
-            "display_priority": 1865
+            "login_bonus_type": 1
         },
         {
             "id": 1000000303,
-            "login_bonus_type": 1,
-            "name": "Lucky White Cat & Final Emperor Returning Event Login Bonus",
-            "display_priority": 1864
+            "login_bonus_type": 1
         },
         {
             "id": 1000000304,
-            "login_bonus_type": 1,
-            "name": "Flashstone Medal Exchange Grand Opening Login Bonus",
-            "display_priority": 1863
+            "login_bonus_type": 1
         },
         {
             "id": 1000000305,
-            "login_bonus_type": 1,
-            "name": "New Year's All-Star Conquest Grand Opening Login Bonus",
-            "display_priority": 1867
+            "login_bonus_type": 1
         },
         {
             "id": 1000000306,
-            "login_bonus_type": 1,
-            "name": "New Year's All-Star Conquest Voting Quest Grand Opening Login Bonus",
-            "display_priority": 1866
+            "login_bonus_type": 1
         },
         {
             "id": 1000000307,
-            "login_bonus_type": 1,
-            "name": "Mock Battle Gwayne Grand Opening Login Bonus",
-            "display_priority": 1868
+            "login_bonus_type": 1
         },
         {
             "id": 1000000308,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1869
+            "login_bonus_type": 1
         },
         {
             "id": 1000000310,
-            "login_bonus_type": 1,
-            "name": "Grand New Year's Showdown Kite Flying Grand Opening Login Bonus",
-            "display_priority": 1870
+            "login_bonus_type": 1
         },
         {
             "id": 1000000311,
-            "login_bonus_type": 1,
-            "name": "Grand New Year's Showdown Grand Opening Login Bonus",
-            "display_priority": 1871
+            "login_bonus_type": 1
         },
         {
             "id": 1000000312,
-            "login_bonus_type": 1,
-            "name": "Weapon/Armor/Gear Cave of Holy Stones Grand Opening Login Bonus",
-            "display_priority": 1872
+            "login_bonus_type": 1
         },
         {
             "id": 1000000313,
-            "login_bonus_type": 1,
-            "name": "Battle with Golden Baum Grand Opening Login Bonus",
-            "display_priority": 1873
+            "login_bonus_type": 1
         },
         {
             "id": 1000000314,
-            "login_bonus_type": 1,
-            "name": "2022 Taipei Game Show Exhibit Login Bonus",
-            "display_priority": 3002
+            "login_bonus_type": 1
         },
         {
             "id": 1000000315,
-            "login_bonus_type": 1,
-            "name": "Lunar New Year 2022! Celebrations Round 1 Login Bonus",
-            "display_priority": 1881
+            "login_bonus_type": 1
         },
         {
             "id": 1000000316,
-            "login_bonus_type": 1,
-            "name": "Lunar New Year's Trials Grand Opening Login Bonus",
-            "display_priority": 1877
+            "login_bonus_type": 1
         },
         {
             "id": 1000000317,
-            "login_bonus_type": 1,
-            "name": "Explore! Hidden Treasure Cave Grand Opening Login Bonus",
-            "display_priority": 1876
+            "login_bonus_type": 1
         },
         {
             "id": 1000000318,
-            "login_bonus_type": 1,
-            "name": "Spiral Corridor New Floors Added Login Bonus",
-            "display_priority": 1875
+            "login_bonus_type": 1
         },
         {
             "id": 1000000319,
-            "login_bonus_type": 1,
-            "name": "Aurum Exchange Renewal Login Bonus",
-            "display_priority": 1874
+            "login_bonus_type": 1
         },
         {
             "id": 1000000320,
-            "login_bonus_type": 1,
-            "name": "February 2022 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000321,
-            "login_bonus_type": 1,
-            "name": "Happy Lunar New Year! Login Bonus",
-            "display_priority": 1879
+            "login_bonus_type": 1
         },
         {
             "id": 1000000322,
-            "login_bonus_type": 1,
-            "name": "Cave of Holy Stones Renewal Login Bonus",
-            "display_priority": 1878
+            "login_bonus_type": 1
         },
         {
             "id": 1000000323,
-            "login_bonus_type": 1,
-            "name": "Minstrel's Music & Valentine's Returning Event Login Bonus",
-            "display_priority": 1880
+            "login_bonus_type": 1
         },
         {
             "id": 1000000324,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000325,
-            "login_bonus_type": 1,
-            "name": "Lunar New Year 2022! Celebrations Round 2 Login Bonus",
-            "display_priority": 1884
+            "login_bonus_type": 1
         },
         {
             "id": 1000000326,
-            "login_bonus_type": 1,
-            "name": "Tigers Attack! Lantern Festival Trials Grand Opening Login Bonus",
-            "display_priority": 1882
+            "login_bonus_type": 1
         },
         {
             "id": 1000000327,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1883
+            "login_bonus_type": 1
         },
         {
             "id": 1000000328,
-            "login_bonus_type": 1,
-            "name": "Dark Stars Round 1 Login Bonus",
-            "display_priority": 1888
+            "login_bonus_type": 1
         },
         {
             "id": 1000000329,
-            "login_bonus_type": 1,
-            "name": "Abyss Sinistrals Conquest Grand Opening Login Bonus",
-            "display_priority": 1887
+            "login_bonus_type": 1
         },
         {
             "id": 1000000330,
-            "login_bonus_type": 1,
-            "name": "Re:Tune Romancing SaGa Battle Arrangements Soundtrack Added Login Bonus",
-            "display_priority": 1886
+            "login_bonus_type": 1
         },
         {
             "id": 1000000331,
-            "login_bonus_type": 1,
-            "name": "Equipment Medal Exchange Added Login Bonus",
-            "display_priority": 1885
+            "login_bonus_type": 1
         },
         {
             "id": 1000000332,
-            "login_bonus_type": 1,
-            "name": "Romancing SaGa for WonderSwan Color Soundtrack Added Login Bonus",
-            "display_priority": 1889
+            "login_bonus_type": 1
         },
         {
             "id": 1000000333,
-            "login_bonus_type": 1,
-            "name": "Dark Stars Round 2 Login Bonus",
-            "display_priority": 1894
+            "login_bonus_type": 1
         },
         {
             "id": 1000000334,
-            "login_bonus_type": 1,
-            "name": "Demon Tower: Saruin Grand Opening Login Bonus",
-            "display_priority": 1890
+            "login_bonus_type": 1
         },
         {
             "id": 1000000335,
-            "login_bonus_type": 1,
-            "name": "Final Battle with Saruin Login Bonus",
-            "display_priority": 1891
+            "login_bonus_type": 1
         },
         {
             "id": 1000000336,
-            "login_bonus_type": 1,
-            "name": "March 2022 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000337,
-            "login_bonus_type": 1,
-            "name": "Battle with Bertrand Grand Opening Login Bonus",
-            "display_priority": 1892
+            "login_bonus_type": 1
         },
         {
             "id": 1000000338,
-            "login_bonus_type": 1,
-            "name": "Dark Stars Round 3 Login Bonus",
-            "display_priority": 1950
+            "login_bonus_type": 1
         },
         {
             "id": 1000000339,
-            "login_bonus_type": 1,
-            "name": "Battle with Cursed One (Slash/Shadow) Grand Opening Login Bonus",
-            "display_priority": 1895
+            "login_bonus_type": 1
         },
         {
             "id": 1000000340,
-            "login_bonus_type": 1,
-            "name": "Battle with Cursed One (Blunt/Heat/Sun) Grand Opening Login Bonus",
-            "display_priority": 1896
+            "login_bonus_type": 1
         },
         {
             "id": 1000000341,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 1501
+            "login_bonus_type": 1
         },
         {
             "id": 1000000342,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000343,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1897
+            "login_bonus_type": 1
         },
         {
             "id": 1000000344,
-            "login_bonus_type": 1,
-            "name": "Wastelands War (Bertrand) Grand Opening Login Bonus",
-            "display_priority": 1899
+            "login_bonus_type": 1
         },
         {
             "id": 1000000345,
-            "login_bonus_type": 1,
-            "name": "Beast Hunt Grand Opening Login Bonus",
-            "display_priority": 1898
+            "login_bonus_type": 1
         },
         {
             "id": 1000000346,
-            "login_bonus_type": 1,
-            "name": "Wastelands War (Cursed One) Grand Opening Login Bonus",
-            "display_priority": 1900
+            "login_bonus_type": 1
         },
         {
             "id": 1000000347,
-            "login_bonus_type": 1,
-            "name": "Explore! Hidden Treasure Cave Grand Opening Login Bonus",
-            "display_priority": 1901
+            "login_bonus_type": 1
         },
         {
             "id": 1000000348,
-            "login_bonus_type": 1,
-            "name": "Battle Prep Round 1 Grand Opening Login Bonus",
-            "display_priority": 1904
+            "login_bonus_type": 1
         },
         {
             "id": 1000000349,
-            "login_bonus_type": 1,
-            "name": "Battle with Black X Fighters Grand Opening Login Bonus",
-            "display_priority": 1902
+            "login_bonus_type": 1
         },
         {
             "id": 1000000350,
-            "login_bonus_type": 1,
-            "name": "Showdown! Black X Emperors Grand Opening Login Bonus",
-            "display_priority": 1903
+            "login_bonus_type": 1
         },
         {
             "id": 1000000351,
-            "login_bonus_type": 1,
-            "name": "Gustave's Sword Grand Opening Login Bonus",
-            "display_priority": 1906
+            "login_bonus_type": 1
         },
         {
             "id": 1000000352,
-            "login_bonus_type": 1,
-            "name": "Battle Prep Round 2 Grand Opening Login Bonus",
-            "display_priority": 1908
+            "login_bonus_type": 1
         },
         {
             "id": 1000000353,
-            "login_bonus_type": 1,
-            "name": "SaGa Frontier 2 Original Soundtrack Soundtrack Added Login Bonus",
-            "display_priority": 1905
+            "login_bonus_type": 1
         },
         {
             "id": 1000000354,
-            "login_bonus_type": 1,
-            "name": "Battle with Water Lord Grand Opening Login Bonus",
-            "display_priority": 1907
+            "login_bonus_type": 1
         },
         {
             "id": 1000000355,
-            "login_bonus_type": 1,
-            "name": "1st Veiled World Tower Grand Opening Login Bonus",
-            "display_priority": 1912
+            "login_bonus_type": 1
         },
         {
             "id": 1000000356,
-            "login_bonus_type": 1,
-            "name": "Battle with Black X Grand Opening Login Bonus",
-            "display_priority": 1911
+            "login_bonus_type": 1
         },
         {
             "id": 1000000357,
-            "login_bonus_type": 1,
-            "name": "April 2022 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000358,
-            "login_bonus_type": 1,
-            "name": "Battle Prep Round 3 Grand Opening Login Bonus",
-            "display_priority": 1919
+            "login_bonus_type": 1
         },
         {
             "id": 1000000359,
-            "login_bonus_type": 1,
-            "name": "Battle with Ludwig Grand Opening Login Bonus",
-            "display_priority": 1913
+            "login_bonus_type": 1
         },
         {
             "id": 1000000360,
-            "login_bonus_type": 1,
-            "name": "Clash! Ludwig Grand Opening Login Bonus",
-            "display_priority": 1914
+            "login_bonus_type": 1
         },
         {
             "id": 1000000361,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000362,
-            "login_bonus_type": 1,
-            "name": "Battle with Joker Returning Event Login Bonus",
-            "display_priority": 1917
+            "login_bonus_type": 1
         },
         {
             "id": 1000000363,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1918
+            "login_bonus_type": 1
         },
         {
             "id": 1000000364,
-            "login_bonus_type": 1,
-            "name": "Battle Prep All-Star Appreciation BOX Grand Opening Login Bonus",
-            "display_priority": 1916
+            "login_bonus_type": 1
         },
         {
             "id": 1000000365,
-            "login_bonus_type": 1,
-            "name": "Battle Festival Login Bonus",
-            "display_priority": 2000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000366,
-            "login_bonus_type": 1,
-            "name": "Valdor's Super Training Dojo Grand Opening Login Bonus",
-            "display_priority": 1920
+            "login_bonus_type": 1
         },
         {
             "id": 1000000367,
-            "login_bonus_type": 1,
-            "name": "SaGa SCARLET GRACE: AMBITIONS Traditional Chinese and Korean Versions Release Login Bonus",
-            "display_priority": 2500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000368,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000369,
-            "login_bonus_type": 1,
-            "name": "Destined Battle: Deathmatch with Igomahl Grand Opening Login Bonus",
-            "display_priority": 1921
+            "login_bonus_type": 1
         },
         {
             "id": 1000000370,
-            "login_bonus_type": 1,
-            "name": "Mock Battle (Evelyn) Grand Opening Login Bonus",
-            "display_priority": 1922
+            "login_bonus_type": 1
         },
         {
             "id": 1000000371,
-            "login_bonus_type": 1,
-            "name": "2nd Veiled World Tower Grand Opening Login Bonus",
-            "display_priority": 1923
+            "login_bonus_type": 1
         },
         {
             "id": 1000000372,
-            "login_bonus_type": 1,
-            "name": "May 2022 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000373,
-            "login_bonus_type": 1,
-            "name": "Destined Battle: Otherworld Igomahl Grand Opening Login Bonus",
-            "display_priority": 1924
+            "login_bonus_type": 1
         },
         {
             "id": 1000000374,
-            "login_bonus_type": 1,
-            "name": "Battle with Tu Kwai Grand Opening Login Bonus",
-            "display_priority": 1925
+            "login_bonus_type": 1
         },
         {
             "id": 1000000375,
-            "login_bonus_type": 1,
-            "name": "Romancing SaGa Orchestra Festival LIVE CD Soundtrack Added Login Bonus",
-            "display_priority": 1926
+            "login_bonus_type": 1
         },
         {
             "id": 1000000376,
-            "login_bonus_type": 1,
-            "name": "Destined Battle: End of the Ancient War Grand Opening Login Bonus",
-            "display_priority": 1928
+            "login_bonus_type": 1
         },
         {
             "id": 1000000377,
-            "login_bonus_type": 1,
-            "name": "Hidden Dojo Death Match 5 Added Login Bonus",
-            "display_priority": 1501
+            "login_bonus_type": 1
         },
         {
             "id": 1000000378,
-            "login_bonus_type": 1,
-            "name": "Try it! Virgil's Trials Grand Opening Login Bonus",
-            "display_priority": 1931
+            "login_bonus_type": 1
         },
         {
             "id": 1000000379,
-            "login_bonus_type": 1,
-            "name": "Virgil's Grading of Art Grand Opening Login Bonus",
-            "display_priority": 1930
+            "login_bonus_type": 1
         },
         {
             "id": 1000000380,
-            "login_bonus_type": 1,
-            "name": "Cave of Holy Stones Excavation Campaign Login Bonus",
-            "display_priority": 1932
+            "login_bonus_type": 1
         },
         {
             "id": 1000000381,
-            "login_bonus_type": 1,
-            "name": "SSG All-Star Appreciation BOX Grand Opening Login Bonus",
-            "display_priority": 1933
+            "login_bonus_type": 1
         },
         {
             "id": 1000000382,
-            "login_bonus_type": 1,
-            "name": "Scarlet Pandemonium Melee! Grand Opening Login Bonus",
-            "display_priority": 1934
+            "login_bonus_type": 1
         },
         {
             "id": 1000000383,
-            "login_bonus_type": 1,
-            "name": "June 2022 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000384,
-            "login_bonus_type": 1,
-            "name": "Main Story Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000385,
-            "login_bonus_type": 1,
-            "name": "Romancing SaGa Re;univerSe Original Soundtrack Added Login Bonus",
-            "display_priority": 1936
+            "login_bonus_type": 1
         },
         {
             "id": 1000000386,
-            "login_bonus_type": 1,
-            "name": "2nd Anniversary Appreciation Login Bonus",
-            "display_priority": 2000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000387,
-            "login_bonus_type": 1,
-            "name": "2nd Anniversary Round 1 Grand Opening Login Bonus",
-            "display_priority": 1939
+            "login_bonus_type": 1
         },
         {
             "id": 1000000388,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 1501
+            "login_bonus_type": 1
         },
         {
             "id": 1000000389,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Renewal Login Bonus",
-            "display_priority": 1938
+            "login_bonus_type": 1
         },
         {
             "id": 1000000390,
-            "login_bonus_type": 1,
-            "name": "Final Battle with Ludwig Grand Opening Login Bonus",
-            "display_priority": 1937
+            "login_bonus_type": 1
         },
         {
             "id": 1000000391,
-            "login_bonus_type": 1,
-            "name": "Hop In! SaGa Onsen Conquest Grand Opening Login Bonus",
-            "display_priority": 1940
+            "login_bonus_type": 1
         },
         {
             "id": 1000000392,
-            "login_bonus_type": 1,
-            "name": "2nd Anniversary Round 2 Grand Opening Login Bonus",
-            "display_priority": 1941
+            "login_bonus_type": 1
         },
         {
             "id": 1000000393,
-            "login_bonus_type": 1,
-            "name": "Vrooom! Nacht Zweiger on the Rampage! Grand Opening Login Bonus",
-            "display_priority": 1942
+            "login_bonus_type": 1
         },
         {
             "id": 1000000394,
-            "login_bonus_type": 1,
-            "name": "2nd Anniversary Round 3 Grand Opening Login Bonus",
-            "display_priority": 1944
+            "login_bonus_type": 1
         },
         {
             "id": 1000000395,
-            "login_bonus_type": 1,
-            "name": "Cave of Holy Stones Excavation Campaign Login Bonus",
-            "display_priority": 1943
+            "login_bonus_type": 1
         },
         {
             "id": 1000000396,
-            "login_bonus_type": 5,
-            "name": "Gold Piece Pack",
-            "display_priority": 999
+            "login_bonus_type": 5
         },
         {
             "id": 1000000397,
-            "login_bonus_type": 1,
-            "name": "2nd Anniversary Happy Anniversary Day Login Bonus",
-            "display_priority": 2001
+            "login_bonus_type": 1
         },
         {
             "id": 1000000398,
-            "login_bonus_type": 1,
-            "name": "2nd Anniversary Round 4 Grand Opening Login Bonus",
-            "display_priority": 1946
+            "login_bonus_type": 1
         },
         {
             "id": 1000000399,
-            "login_bonus_type": 1,
-            "name": "2nd Anniversary! Gift of Goddess Grand Opening Login Bonus",
-            "display_priority": 1945
+            "login_bonus_type": 1
         },
         {
             "id": 1000000400,
-            "login_bonus_type": 1,
-            "name": "2nd Anniversary Closing Login Bonus",
-            "display_priority": 1955
+            "login_bonus_type": 1
         },
         {
             "id": 1000000401,
-            "login_bonus_type": 1,
-            "name": "DESTINY 8 Crossover BOX Grand Opening Login Bonus",
-            "display_priority": 1949
+            "login_bonus_type": 1
         },
         {
             "id": 1000000402,
-            "login_bonus_type": 1,
-            "name": "DESTINY 8 Soundtrack Added Login Bonus",
-            "display_priority": 1948
+            "login_bonus_type": 1
         },
         {
             "id": 1000000403,
-            "login_bonus_type": 1,
-            "name": "Training in the Sun! Summertime Showdown Grand Opening Login Bonus",
-            "display_priority": 1950
+            "login_bonus_type": 1
         },
         {
             "id": 1000000404,
-            "login_bonus_type": 1,
-            "name": "Limited Time Expedition Login Bonus",
-            "display_priority": 1947
+            "login_bonus_type": 1
         },
         {
             "id": 1000000405,
-            "login_bonus_type": 1,
-            "name": "July 2022 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000406,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1951
+            "login_bonus_type": 1
         },
         {
             "id": 1000000407,
-            "login_bonus_type": 1,
-            "name": "Seaside Cave Adventure Grand Opening Login Bonus",
-            "display_priority": 1952
+            "login_bonus_type": 1
         },
         {
             "id": 1000000408,
-            "login_bonus_type": 1,
-            "name": "Treasure Cave Grand Opening Login Bonus",
-            "display_priority": 1953
+            "login_bonus_type": 1
         },
         {
             "id": 1000000409,
-            "login_bonus_type": 1,
-            "name": "Captain Silver & Genryu's Treasure Returning Event Login Bonus",
-            "display_priority": 1954
+            "login_bonus_type": 1
         },
         {
             "id": 1000000410,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Grand Opening Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000411,
-            "login_bonus_type": 1,
-            "name": "Forge Equipment Added Login Bonus",
-            "display_priority": 1957
+            "login_bonus_type": 1
         },
         {
             "id": 1000000412,
-            "login_bonus_type": 1,
-            "name": "Remembrance Battle Grand Opening Login Bonus",
-            "display_priority": 1958
+            "login_bonus_type": 1
         },
         {
             "id": 1000000413,
-            "login_bonus_type": 1,
-            "name": "Promotion Exam Added Login Bonus",
-            "display_priority": 1956
+            "login_bonus_type": 1
         },
         {
             "id": 1000000414,
-            "login_bonus_type": 1,
-            "name": "New Arc Round 1 Grand Opening Login Bonus",
-            "display_priority": 1960
+            "login_bonus_type": 1
         },
         {
             "id": 1000000415,
-            "login_bonus_type": 1,
-            "name": "New Arc SaGa Carnival Grand Opening Login Bonus",
-            "display_priority": 1959
+            "login_bonus_type": 1
         },
         {
             "id": 1000000416,
-            "login_bonus_type": 1,
-            "name": "Beyond - The Lost Archfiend Chronicles Grand Opening Login Bonus",
-            "display_priority": 1962
+            "login_bonus_type": 1
         },
         {
             "id": 1000000417,
-            "login_bonus_type": 1,
-            "name": "New Arc Round 2 Grand Opening Login Bonus",
-            "display_priority": 1964
+            "login_bonus_type": 1
         },
         {
             "id": 1000000418,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 1961
+            "login_bonus_type": 1
         },
         {
             "id": 1000000419,
-            "login_bonus_type": 1,
-            "name": "Abyssal Fierce Battle Grand Opening Login Bonus",
-            "display_priority": 1963
+            "login_bonus_type": 1
         },
         {
             "id": 1000000420,
-            "login_bonus_type": 1,
-            "name": "The MAGI Legend Conquest Grand Opening Login Bonus",
-            "display_priority": 1966
+            "login_bonus_type": 1
         },
         {
             "id": 1000000421,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 1965
+            "login_bonus_type": 1
         },
         {
             "id": 1000000422,
-            "login_bonus_type": 1,
-            "name": "2022 Sa・Ga Festival Round 1 Grand Opening Login Bonus",
-            "display_priority": 1969
+            "login_bonus_type": 1
         },
         {
             "id": 1000000423,
-            "login_bonus_type": 1,
-            "name": "Battle with Arsenal Grand Opening Login Bonus",
-            "display_priority": 1967
+            "login_bonus_type": 1
         },
         {
             "id": 1000000424,
-            "login_bonus_type": 1,
-            "name": "August 2022 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000425,
-            "login_bonus_type": 1,
-            "name": "Battle with Haniwa Grand Opening Login Bonus",
-            "display_priority": 1968
+            "login_bonus_type": 1
         },
         {
             "id": 1000000426,
-            "login_bonus_type": 1,
-            "name": "Take Off! Talon! Grand Opening Login Bonus",
-            "display_priority": 1971
+            "login_bonus_type": 1
         },
         {
             "id": 1000000427,
-            "login_bonus_type": 1,
-            "name": "2022 Sa・Ga Festival Round 2 Grand Opening Login Bonus",
-            "display_priority": 1973
+            "login_bonus_type": 1
         },
         {
             "id": 1000000428,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 1970
+            "login_bonus_type": 1
         },
         {
             "id": 1000000429,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1972
+            "login_bonus_type": 1
         },
         {
             "id": 1000000430,
-            "login_bonus_type": 1,
-            "name": "Gather Around! SaGa Showdown Grand Opening Login Bonus",
-            "display_priority": 1975
+            "login_bonus_type": 1
         },
         {
             "id": 1000000431,
-            "login_bonus_type": 1,
-            "name": "2022 Sa・Ga Festival Round 3 Grand Opening Login Bonus",
-            "display_priority": 1977
+            "login_bonus_type": 1
         },
         {
             "id": 1000000432,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 1974
+            "login_bonus_type": 1
         },
         {
             "id": 1000000433,
-            "login_bonus_type": 1,
-            "name": "The MAGI Legend Grand Battle Grand Opening Login Bonus",
-            "display_priority": 1976
+            "login_bonus_type": 1
         },
         {
             "id": 1000000434,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 1978
+            "login_bonus_type": 1
         },
         {
             "id": 1000000435,
-            "login_bonus_type": 1,
-            "name": "Romancing SaGa THE STAGE BOX Grand Opening Login Bonus",
-            "display_priority": 1980
+            "login_bonus_type": 1
         },
         {
             "id": 1000000436,
-            "login_bonus_type": 1,
-            "name": "Romancing SaGa 3 TC/KO Release 1st Anniversary Login Bonus",
-            "display_priority": 1982
+            "login_bonus_type": 1
         },
         {
             "id": 1000000437,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 1979
+            "login_bonus_type": 1
         },
         {
             "id": 1000000438,
-            "login_bonus_type": 1,
-            "name": "Battle of Mt. Taftan: The Day Loanne Burned Grand Opening Login Bonus",
-            "display_priority": 1981
+            "login_bonus_type": 1
         },
         {
             "id": 1000000439,
-            "login_bonus_type": 1,
-            "name": "End of Summer! Beach Cleanup Challenge Grand Opening Login Bonus",
-            "display_priority": 1984
+            "login_bonus_type": 1
         },
         {
             "id": 1000000440,
-            "login_bonus_type": 1,
-            "name": "SaGa Frontier Remastered TC/KO Release Login Bonus",
-            "display_priority": 1986
+            "login_bonus_type": 1
         },
         {
             "id": 1000000441,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 1983
+            "login_bonus_type": 1
         },
         {
             "id": 1000000442,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000443,
-            "login_bonus_type": 1,
-            "name": "Forge Equipment Added Login Bonus",
-            "display_priority": 1499
+            "login_bonus_type": 1
         },
         {
             "id": 1000000444,
-            "login_bonus_type": 1,
-            "name": "Sage of the Isle of Beginnings Returning Event Login Bonus",
-            "display_priority": 1985
+            "login_bonus_type": 1
         },
         {
             "id": 1000000445,
-            "login_bonus_type": 1,
-            "name": "September 2022 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000446,
-            "login_bonus_type": 1,
-            "name": "Seven Heroes Attack! Darkness Conquest Grand Opening Login Bonus",
-            "display_priority": 1988
+            "login_bonus_type": 1
         },
         {
             "id": 1000000447,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 1987
+            "login_bonus_type": 1
         },
         {
             "id": 1000000448,
-            "login_bonus_type": 1,
-            "name": "Autumn Carnival! Round 1 Grand Opening Login Bonus",
-            "display_priority": 1993
+            "login_bonus_type": 1
         },
         {
             "id": 1000000449,
-            "login_bonus_type": 1,
-            "name": "Miracle Day Parade Grand Opening Login Bonus",
-            "display_priority": 1991
+            "login_bonus_type": 1
         },
         {
             "id": 1000000450,
-            "login_bonus_type": 1,
-            "name": "Thank You Party Grand Opening Login Bonus",
-            "display_priority": 1990
+            "login_bonus_type": 1
         },
         {
             "id": 1000000451,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 1989
+            "login_bonus_type": 1
         },
         {
             "id": 1000000452,
-            "login_bonus_type": 1,
-            "name": "Robin Family Is Here! Grand Opening Login Bonus",
-            "display_priority": 1992
+            "login_bonus_type": 1
         },
         {
             "id": 1000000453,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 1994
+            "login_bonus_type": 1
         },
         {
             "id": 1000000454,
-            "login_bonus_type": 1,
-            "name": "Wonder Night Parade Grand Opening Login Bonus",
-            "display_priority": 1996
+            "login_bonus_type": 1
         },
         {
             "id": 1000000455,
-            "login_bonus_type": 1,
-            "name": "Autumn Carnival! Round 2 Grand Opening Login Bonus",
-            "display_priority": 1999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000456,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 1995
+            "login_bonus_type": 1
         },
         {
             "id": 1000000457,
-            "login_bonus_type": 1,
-            "name": "Dragon Attack Grand Opening Login Bonus",
-            "display_priority": 1997
+            "login_bonus_type": 1
         },
         {
             "id": 1000000458,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 1998
+            "login_bonus_type": 1
         },
         {
             "id": 1000000459,
-            "login_bonus_type": 1,
-            "name": "SaGa Soul Appreciation Battle Grand Opening Login Bonus",
-            "display_priority": 2002
+            "login_bonus_type": 1
         },
         {
             "id": 1000000460,
-            "login_bonus_type": 1,
-            "name": "SaGa Soul Appreciation Box Grand Opening Login Bonus",
-            "display_priority": 2001
+            "login_bonus_type": 1
         },
         {
             "id": 1000000461,
-            "login_bonus_type": 1,
-            "name": "Autumn Carnival! Round 3 Grand Opening Login Bonus",
-            "display_priority": 2003
+            "login_bonus_type": 1
         },
         {
             "id": 1000000462,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000463,
-            "login_bonus_type": 1,
-            "name": "October 2022 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000464,
-            "login_bonus_type": 1,
-            "name": "Spiral Corridor New Floors Added Login Bonus",
-            "display_priority": 2004
+            "login_bonus_type": 1
         },
         {
             "id": 1000000465,
-            "login_bonus_type": 1,
-            "name": "Secret House Infiltration Grand Opening Login Bonus",
-            "display_priority": 2007
+            "login_bonus_type": 1
         },
         {
             "id": 1000000466,
-            "login_bonus_type": 1,
-            "name": "Jamil's Treasure Hunt Grand Opening Login Bonus",
-            "display_priority": 2006
+            "login_bonus_type": 1
         },
         {
             "id": 1000000467,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2005
+            "login_bonus_type": 1
         },
         {
             "id": 1000000468,
-            "login_bonus_type": 1,
-            "name": "Hidden Dojo Schirach Login Bonus",
-            "display_priority": 2008
+            "login_bonus_type": 1
         },
         {
             "id": 1000000469,
-            "login_bonus_type": 1,
-            "name": "To the Amazon Village Grand Opening Login Bonus",
-            "display_priority": 2009
+            "login_bonus_type": 1
         },
         {
             "id": 1000000470,
-            "login_bonus_type": 1,
-            "name": "Halloween Party Night! Round 1 Grand Opening Login Bonus",
-            "display_priority": 2013
+            "login_bonus_type": 1
         },
         {
             "id": 1000000471,
-            "login_bonus_type": 1,
-            "name": "Veiled World Tower Returning Event Login Bonus",
-            "display_priority": 2011
+            "login_bonus_type": 1
         },
         {
             "id": 1000000472,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 2010
+            "login_bonus_type": 1
         },
         {
             "id": 1000000473,
-            "login_bonus_type": 1,
-            "name": "The Final Isle High-Difficulty Stages Added Login Bonus",
-            "display_priority": 2012
+            "login_bonus_type": 1
         },
         {
             "id": 1000000474,
-            "login_bonus_type": 1,
-            "name": "333 Win Streak! Tigers Tag Team Match Grand Opening Login Bonus",
-            "display_priority": 2014
+            "login_bonus_type": 1
         },
         {
             "id": 1000000475,
-            "login_bonus_type": 1,
-            "name": "Halloween Party Night! Round 2 Grand Opening Login Bonus",
-            "display_priority": 2018
+            "login_bonus_type": 1
         },
         {
             "id": 1000000476,
-            "login_bonus_type": 1,
-            "name": "Burning! Romancing Match Grand Opening Login Bonus",
-            "display_priority": 2015
+            "login_bonus_type": 1
         },
         {
             "id": 1000000477,
-            "login_bonus_type": 1,
-            "name": "A Pidona Night's Dream Returning Event Login Bonus",
-            "display_priority": 2016
+            "login_bonus_type": 1
         },
         {
             "id": 1000000478,
-            "login_bonus_type": 1,
-            "name": "Castle Party & Final Trial Returning Event Login Bonus",
-            "display_priority": 2017
+            "login_bonus_type": 1
         },
         {
             "id": 1000000479,
-            "login_bonus_type": 1,
-            "name": "Death's Halloween Parade! Grand Opening Login Bonus",
-            "display_priority": 2020
+            "login_bonus_type": 1
         },
         {
             "id": 1000000480,
-            "login_bonus_type": 1,
-            "name": "Happy Halloween Party! Grand Opening Login Bonus",
-            "display_priority": 2019
+            "login_bonus_type": 1
         },
         {
             "id": 1000000481,
-            "login_bonus_type": 1,
-            "name": "Halloween Party Night! Round 3 Grand Opening Login Bonus",
-            "display_priority": 2021
+            "login_bonus_type": 1
         },
         {
             "id": 1000000482,
-            "login_bonus_type": 1,
-            "name": "November 2022 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000483,
-            "login_bonus_type": 1,
-            "name": "SaGa THE STAGE BOX Grand Opening Login Bonus",
-            "display_priority": 2024
+            "login_bonus_type": 1
         },
         {
             "id": 1000000484,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2022
+            "login_bonus_type": 1
         },
         {
             "id": 1000000485,
-            "login_bonus_type": 1,
-            "name": "Remembrance Battle Boss Added Login Bonus",
-            "display_priority": 2023
+            "login_bonus_type": 1
         },
         {
             "id": 1000000486,
-            "login_bonus_type": 1,
-            "name": "Pandemonium of Inheritance Melee Grand Opening Login Bonus",
-            "display_priority": 2025
+            "login_bonus_type": 1
         },
         {
             "id": 1000000487,
-            "login_bonus_type": 1,
-            "name": "Following the Tycoon Grand Opening Login Bonus",
-            "display_priority": 2029
+            "login_bonus_type": 1
         },
         {
             "id": 1000000488,
-            "login_bonus_type": 1,
-            "name": "Go! Digger's Expedition Grand Opening Login Bonus",
-            "display_priority": 2028
+            "login_bonus_type": 1
         },
         {
             "id": 1000000489,
-            "login_bonus_type": 1,
-            "name": "2022 Appreciation Round 1 Grand Opening Login Bonus",
-            "display_priority": 2030
+            "login_bonus_type": 1
         },
         {
             "id": 1000000490,
-            "login_bonus_type": 1,
-            "name": "Cave of Holy Stones (Changing Ore) Grand Opening Login Bonus",
-            "display_priority": 2027
+            "login_bonus_type": 1
         },
         {
             "id": 1000000491,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2026
+            "login_bonus_type": 1
         },
         {
             "id": 1000000492,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000493,
-            "login_bonus_type": 1,
-            "name": "Under the Sky Once More Grand Opening Login Bonus",
-            "display_priority": 2031
+            "login_bonus_type": 1
         },
         {
             "id": 1000000494,
-            "login_bonus_type": 1,
-            "name": "2022 Appreciation Round 2 Grand Opening Login Bonus",
-            "display_priority": 2035
+            "login_bonus_type": 1
         },
         {
             "id": 1000000495,
-            "login_bonus_type": 1,
-            "name": "Fated Deathmatch: Battle with Egg Grand Opening Login Bonus",
-            "display_priority": 2032
+            "login_bonus_type": 1
         },
         {
             "id": 1000000496,
-            "login_bonus_type": 1,
-            "name": "Clash! Battle with Lords Grand Opening Login Bonus",
-            "display_priority": 2033
+            "login_bonus_type": 1
         },
         {
             "id": 1000000497,
-            "login_bonus_type": 1,
-            "name": "Battle with Treefolk Grand Opening Login Bonus",
-            "display_priority": 2034
+            "login_bonus_type": 1
         },
         {
             "id": 1000000498,
-            "login_bonus_type": 1,
-            "name": "2.5 Anniversary Eve Grand Opening Login Bonus",
-            "display_priority": 2037
+            "login_bonus_type": 1
         },
         {
             "id": 1000000499,
-            "login_bonus_type": 1,
-            "name": "2.5 Anniv. Eve SaGa Soul Appreciation Battle Grand Opening Login Bonus",
-            "display_priority": 2036
+            "login_bonus_type": 1
         },
         {
             "id": 1000000500,
-            "login_bonus_type": 1,
-            "name": "December 2022 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000501,
-            "login_bonus_type": 1,
-            "name": "Party On! A Wild Stage Grand Opening Login Bonus",
-            "display_priority": 2042
+            "login_bonus_type": 1
         },
         {
             "id": 1000000502,
-            "login_bonus_type": 1,
-            "name": "Romancing SaGa -Minstrel Song- Remastered Release Login Bonus",
-            "display_priority": 2045
+            "login_bonus_type": 1
         },
         {
             "id": 1000000503,
-            "login_bonus_type": 1,
-            "name": "2.5 Anniversary Appreciation Login Bonus",
-            "display_priority": 3000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000504,
-            "login_bonus_type": 1,
-            "name": "2.5 Anniversary Round 1 Grand Opening Login Bonus",
-            "display_priority": 2046
+            "login_bonus_type": 1
         },
         {
             "id": 1000000505,
-            "login_bonus_type": 1,
-            "name": "SaGa the Music Conquest Grand Opening Login Bonus",
-            "display_priority": 2043
+            "login_bonus_type": 1
         },
         {
             "id": 1000000506,
-            "login_bonus_type": 1,
-            "name": "Get Diggin'! Mining Caves Renewal Login Bonus",
-            "display_priority": 2039
+            "login_bonus_type": 1
         },
         {
             "id": 1000000507,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 2038
+            "login_bonus_type": 1
         },
         {
             "id": 1000000508,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2040
+            "login_bonus_type": 1
         },
         {
             "id": 1000000509,
-            "login_bonus_type": 1,
-            "name": "2.5 Anniv. Forging Festival Grand Opening Login Bonus",
-            "display_priority": 2041
+            "login_bonus_type": 1
         },
         {
             "id": 1000000510,
-            "login_bonus_type": 1,
-            "name": "Battle with Assassins Grand Opening Login Bonus",
-            "display_priority": 2044
+            "login_bonus_type": 1
         },
         {
             "id": 1000000511,
-            "login_bonus_type": 5,
-            "name": "Premium Jewel Pack",
-            "display_priority": 997
+            "login_bonus_type": 5
         },
         {
             "id": 1000000512,
-            "login_bonus_type": 5,
-            "name": "7-Day Jewel Pack",
-            "display_priority": 998
+            "login_bonus_type": 5
         },
         {
             "id": 1000000513,
-            "login_bonus_type": 1,
-            "name": "Rock On! A Fierce Stage Grand Opening Login Bonus",
-            "display_priority": 2049
+            "login_bonus_type": 1
         },
         {
             "id": 1000000514,
-            "login_bonus_type": 1,
-            "name": "2.5 Anniversary Round 2 Grand Opening Login Bonus",
-            "display_priority": 2052
+            "login_bonus_type": 1
         },
         {
             "id": 1000000515,
-            "login_bonus_type": 1,
-            "name": "Passion! Azami's Training Dojo with Music Grand Opening Login Bonus",
-            "display_priority": 2048
+            "login_bonus_type": 1
         },
         {
             "id": 1000000516,
-            "login_bonus_type": 1,
-            "name": "Veiled World Tower Returning Event Login Bonus",
-            "display_priority": 2051
+            "login_bonus_type": 1
         },
         {
             "id": 1000000517,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 2050
+            "login_bonus_type": 1
         },
         {
             "id": 1000000518,
-            "login_bonus_type": 1,
-            "name": "Romancing Music Jam! Grand Opening Login Bonus",
-            "display_priority": 2054
+            "login_bonus_type": 1
         },
         {
             "id": 1000000519,
-            "login_bonus_type": 1,
-            "name": "Cave of Holy Stones (Changing Ore) Grand Opening Login Bonus",
-            "display_priority": 2053
+            "login_bonus_type": 1
         },
         {
             "id": 1000000520,
-            "login_bonus_type": 1,
-            "name": "2.5 Anniversary Round 3 Grand Opening Login Bonus",
-            "display_priority": 2056
+            "login_bonus_type": 1
         },
         {
             "id": 1000000521,
-            "login_bonus_type": 1,
-            "name": "Passion! Sumire's Training Dojo with Music Grand Opening Login Bonus",
-            "display_priority": 2055
+            "login_bonus_type": 1
         },
         {
             "id": 1000000522,
-            "login_bonus_type": 1,
-            "name": "White Christmas Conquest Grand Opening Login Bonus",
-            "display_priority": 2057
+            "login_bonus_type": 1
         },
         {
             "id": 1000000523,
-            "login_bonus_type": 1,
-            "name": "2.5 Anniversary Round 4 Grand Opening Login Bonus",
-            "display_priority": 2058
+            "login_bonus_type": 1
         },
         {
             "id": 1000000524,
-            "login_bonus_type": 1,
-            "name": "2.5 Anniv. Happy Anniversary Day Login Bonus",
-            "display_priority": 2999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000525,
-            "login_bonus_type": 1,
-            "name": "Best Wishes! New Year's BOX Grand Opening Login Bonus",
-            "display_priority": 2060
+            "login_bonus_type": 1
         },
         {
             "id": 1000000526,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2059
+            "login_bonus_type": 1
         },
         {
             "id": 1000000527,
-            "login_bonus_type": 1,
-            "name": "SaGa Year End Festival Round 1 Grand Opening Login Bonus",
-            "display_priority": 2067
+            "login_bonus_type": 1
         },
         {
             "id": 1000000528,
-            "login_bonus_type": 1,
-            "name": "Year End 2022 Boss Rush Grand Opening Login Bonus",
-            "display_priority": 2061
+            "login_bonus_type": 1
         },
         {
             "id": 1000000529,
-            "login_bonus_type": 1,
-            "name": "2023 Happy New Year! New Year's Money Login Bonus",
-            "display_priority": 2066
+            "login_bonus_type": 1
         },
         {
             "id": 1000000530,
-            "login_bonus_type": 1,
-            "name": "Lucky 2023 Fortune Slip Login Bonus",
-            "display_priority": 2065
+            "login_bonus_type": 1
         },
         {
             "id": 1000000531,
-            "login_bonus_type": 1,
-            "name": "Virgil's Grading of Art 2023 Grand Opening Login Bonus",
-            "display_priority": 2062
+            "login_bonus_type": 1
         },
         {
             "id": 1000000532,
-            "login_bonus_type": 1,
-            "name": "January 2023 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000533,
-            "login_bonus_type": 1,
-            "name": "Lucky White Cat & Final Emperor Returning Event Login Bonus",
-            "display_priority": 2063
+            "login_bonus_type": 1
         },
         {
             "id": 1000000534,
-            "login_bonus_type": 1,
-            "name": "Zodiac Battle & Evil God Tower Returning Event Login Bonus",
-            "display_priority": 2064
+            "login_bonus_type": 1
         },
         {
             "id": 1000000535,
-            "login_bonus_type": 1,
-            "name": "Heroes Arrive! Black X Round-Up Grand Opening Login Bonus",
-            "display_priority": 2069
+            "login_bonus_type": 1
         },
         {
             "id": 1000000536,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2068
+            "login_bonus_type": 1
         },
         {
             "id": 1000000537,
-            "login_bonus_type": 1,
-            "name": "SaGa Year End Festival Round 2 Grand Opening Login Bonus",
-            "display_priority": 2071
+            "login_bonus_type": 1
         },
         {
             "id": 1000000538,
-            "login_bonus_type": 1,
-            "name": "Battle with M Black III Grand Opening Login Bonus",
-            "display_priority": 2070
+            "login_bonus_type": 1
         },
         {
             "id": 1000000539,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000540,
-            "login_bonus_type": 1,
-            "name": "Forge Equipment Added Login Bonus",
-            "display_priority": 2072
+            "login_bonus_type": 1
         },
         {
             "id": 1000000541,
-            "login_bonus_type": 1,
-            "name": "SaGa Year End Festival Round 3 Grand Opening Login Bonus",
-            "display_priority": 2074
+            "login_bonus_type": 1
         },
         {
             "id": 1000000542,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 2073
+            "login_bonus_type": 1
         },
         {
             "id": 1000000543,
-            "login_bonus_type": 1,
-            "name": "Lunar New Year 2023! Dragon Lantern Fest Grand Opening Login Bonus",
-            "display_priority": 2077
+            "login_bonus_type": 1
         },
         {
             "id": 1000000544,
-            "login_bonus_type": 1,
-            "name": "Lunar New Year 2023! Fireworks Display Grand Opening Login Bonus",
-            "display_priority": 2076
+            "login_bonus_type": 1
         },
         {
             "id": 1000000545,
-            "login_bonus_type": 1,
-            "name": "Lunar New Year 2023! Round 1 Grand Opening Login Bonus",
-            "display_priority": 2080
+            "login_bonus_type": 1
         },
         {
             "id": 1000000546,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2075
+            "login_bonus_type": 1
         },
         {
             "id": 1000000547,
-            "login_bonus_type": 1,
-            "name": "Happy Lunar New Year! Login Bonus",
-            "display_priority": 3000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000548,
-            "login_bonus_type": 1,
-            "name": "Lunar New Year Test of Might Box Grand Opening Login Bonus",
-            "display_priority": 2078
+            "login_bonus_type": 1
         },
         {
             "id": 1000000549,
-            "login_bonus_type": 1,
-            "name": "Scarlet Pandemonium Melee! Returning Event Login Bonus",
-            "display_priority": 2079
+            "login_bonus_type": 1
         },
         {
             "id": 1000000550,
-            "login_bonus_type": 1,
-            "name": "New Year's Super Training Dojo Grand Opening Login Bonus",
-            "display_priority": 2081
+            "login_bonus_type": 1
         },
         {
             "id": 1000000551,
-            "login_bonus_type": 1,
-            "name": "Lunar New Year 2023! Round 2 Grand Opening Login Bonus",
-            "display_priority": 2082
+            "login_bonus_type": 1
         },
         {
             "id": 1000000552,
-            "login_bonus_type": 1,
-            "name": "February 2023 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000553,
-            "login_bonus_type": 1,
-            "name": "Silver's Tournament Grand Opening Login Bonus",
-            "display_priority": 2084
+            "login_bonus_type": 1
         },
         {
             "id": 1000000554,
-            "login_bonus_type": 1,
-            "name": "Cave of Holy Stones (Changing Ore) Grand Opening Login Bonus",
-            "display_priority": 2083
+            "login_bonus_type": 1
         },
         {
             "id": 1000000555,
-            "login_bonus_type": 1,
-            "name": "Lunar New Year 2023! Round 3 Grand Opening Login Bonus",
-            "display_priority": 2085
+            "login_bonus_type": 1
         },
         {
             "id": 1000000556,
-            "login_bonus_type": 1,
-            "name": "2023 Taipei Game Show Exhibit Login Bonus",
-            "display_priority": 2999
+            "login_bonus_type": 1
         },
         {
             "id": 1000000557,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000558,
-            "login_bonus_type": 1,
-            "name": "Forge Equipment Added Login Bonus",
-            "display_priority": 2086
+            "login_bonus_type": 1
         },
         {
             "id": 1000000559,
-            "login_bonus_type": 1,
-            "name": "Passion! Darius's Training Dojo Grand Opening Login Bonus",
-            "display_priority": 2087
+            "login_bonus_type": 1
         },
         {
             "id": 1000000560,
-            "login_bonus_type": 1,
-            "name": "Strawberry Valentine's! Grand Opening Login Bonus",
-            "display_priority": 2089
+            "login_bonus_type": 1
         },
         {
             "id": 1000000561,
-            "login_bonus_type": 1,
-            "name": "Collect Chocolate Ingredients! Grand Opening Login Bonus",
-            "display_priority": 2088
+            "login_bonus_type": 1
         },
         {
             "id": 1000000562,
-            "login_bonus_type": 1,
-            "name": "Happy Party Round 1 Login Bonus",
-            "display_priority": 2092
+            "login_bonus_type": 1
         },
         {
             "id": 1000000563,
-            "login_bonus_type": 1,
-            "name": "Chocolates for Algernon! Returning Event Login Bonus",
-            "display_priority": 2090
+            "login_bonus_type": 1
         },
         {
             "id": 1000000564,
-            "login_bonus_type": 1,
-            "name": "Minstrel's Music & Valentine's Returning Event Login Bonus",
-            "display_priority": 2091
+            "login_bonus_type": 1
         },
         {
             "id": 1000000565,
-            "login_bonus_type": 1,
-            "name": "Higher! Exciting Festival Grand Opening Login Bonus",
-            "display_priority": 2093
+            "login_bonus_type": 1
         },
         {
             "id": 1000000566,
-            "login_bonus_type": 1,
-            "name": "Happy Party Round 2 Login Bonus",
-            "display_priority": 2094
+            "login_bonus_type": 1
         },
         {
             "id": 1000000567,
-            "login_bonus_type": 1,
-            "name": "March 2023 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000568,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Expansion Login Bonus",
-            "display_priority": 1500
+            "login_bonus_type": 1
         },
         {
             "id": 1000000569,
-            "login_bonus_type": 1,
-            "name": "Red-Headed Girl Round 1 Login Bonus",
-            "display_priority": 2101
+            "login_bonus_type": 1
         },
         {
             "id": 1000000570,
-            "login_bonus_type": 1,
-            "name": "Turbulent War - Pandemonium Round 1 Grand Opening Login Bonus",
-            "display_priority": 2098
+            "login_bonus_type": 1
         },
         {
             "id": 1000000571,
-            "login_bonus_type": 1,
-            "name": "Remembrance Battle Boss Added Login Bonus",
-            "display_priority": 2097
+            "login_bonus_type": 1
         },
         {
             "id": 1000000572,
-            "login_bonus_type": 1,
-            "name": "Forging Festival Grand Opening Login Bonus",
-            "display_priority": 2099
+            "login_bonus_type": 1
         },
         {
             "id": 1000000573,
-            "login_bonus_type": 1,
-            "name": "WJS Marathon Limited Time New Expedition Login Bonus",
-            "display_priority": 2096
+            "login_bonus_type": 1
         },
         {
             "id": 1000000574,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2095
+            "login_bonus_type": 1
         },
         {
             "id": 1000000575,
-            "login_bonus_type": 1,
-            "name": "Passion! Sumire's Training Dojo Grand Opening Login Bonus",
-            "display_priority": 2100
+            "login_bonus_type": 1
         },
         {
             "id": 1000000576,
-            "login_bonus_type": 1,
-            "name": "A Stage for Chivalry Grand Opening Login Bonus",
-            "display_priority": 2103
+            "login_bonus_type": 1
         },
         {
             "id": 1000000577,
-            "login_bonus_type": 1,
-            "name": "Red-Headed Girl Round 2 Login Bonus",
-            "display_priority": 2105
+            "login_bonus_type": 1
         },
         {
             "id": 1000000578,
-            "login_bonus_type": 1,
-            "name": "Cave of Holy Stones (Changing Ore) Grand Opening Login Bonus",
-            "display_priority": 2102
+            "login_bonus_type": 1
         },
         {
             "id": 1000000579,
-            "login_bonus_type": 1,
-            "name": "Turbulent War - Pandemonium Round 2 Grand Opening Login Bonus",
-            "display_priority": 2104
+            "login_bonus_type": 1
         },
         {
             "id": 1000000580,
-            "login_bonus_type": 1,
-            "name": "Minstrel Song -Song of Heroes- Grand Opening Login Bonus",
-            "display_priority": 2107
+            "login_bonus_type": 1
         },
         {
             "id": 1000000581,
-            "login_bonus_type": 1,
-            "name": "Song of Heroes Round 1 Login Bonus",
-            "display_priority": 2108
+            "login_bonus_type": 1
         },
         {
             "id": 1000000582,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2106
+            "login_bonus_type": 1
         },
         {
             "id": 1000000583,
-            "login_bonus_type": 1,
-            "name": "Voice of the Ancient Blade Grand Opening Login Bonus",
-            "display_priority": 2109
+            "login_bonus_type": 1
         },
         {
             "id": 1000000584,
-            "login_bonus_type": 1,
-            "name": "Song of Heroes Round 2 Login Bonus",
-            "display_priority": 2113
+            "login_bonus_type": 1
         },
         {
             "id": 1000000585,
-            "login_bonus_type": 1,
-            "name": "Spiral Corridor Ticket Summon Renewal Login Bonus",
-            "display_priority": 2111
+            "login_bonus_type": 1
         },
         {
             "id": 1000000586,
-            "login_bonus_type": 1,
-            "name": "Turbulent War - Pandemonium Round 3 Grand Opening Login Bonus",
-            "display_priority": 2112
+            "login_bonus_type": 1
         },
         {
             "id": 1000000587,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 2110
+            "login_bonus_type": 1
         },
         {
             "id": 1000000588,
-            "login_bonus_type": 1,
-            "name": "Chills! Spooky Test of Courage Grand Opening Login Bonus",
-            "display_priority": 2115
+            "login_bonus_type": 1
         },
         {
             "id": 1000000589,
-            "login_bonus_type": 1,
-            "name": "Romancing SaGa -Minstrel Song- Remastered TC/KO Release Login Bonus",
-            "display_priority": 2120
+            "login_bonus_type": 1
         },
         {
             "id": 1000000590,
-            "login_bonus_type": 1,
-            "name": "Spring Festival Round 1 Login Bonus",
-            "display_priority": 2119
+            "login_bonus_type": 1
         },
         {
             "id": 1000000591,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 2114
+            "login_bonus_type": 1
         },
         {
             "id": 1000000592,
-            "login_bonus_type": 1,
-            "name": "April 2023 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000593,
-            "login_bonus_type": 1,
-            "name": "Shivers! Test of Courage Training Grand Opening Login Bonus",
-            "display_priority": 2116
+            "login_bonus_type": 1
         },
         {
             "id": 1000000594,
-            "login_bonus_type": 1,
-            "name": "Remembrance Battle Boss Added Login Bonus",
-            "display_priority": 2117
+            "login_bonus_type": 1
         },
         {
             "id": 1000000595,
-            "login_bonus_type": 1,
-            "name": "Battle with King Sei Grand Opening Login Bonus",
-            "display_priority": 2118
+            "login_bonus_type": 1
         },
         {
             "id": 1000000596,
-            "login_bonus_type": 1,
-            "name": "Clash! Genocide Heart Grand Opening Login Bonus",
-            "display_priority": 2122
+            "login_bonus_type": 1
         },
         {
             "id": 1000000597,
-            "login_bonus_type": 1,
-            "name": "INTRUDER Grand Opening Login Bonus",
-            "display_priority": 2123
+            "login_bonus_type": 1
         },
         {
             "id": 1000000598,
-            "login_bonus_type": 1,
-            "name": "Spring Festival Round 2 Login Bonus",
-            "display_priority": 2124
+            "login_bonus_type": 1
         },
         {
             "id": 1000000599,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2121
+            "login_bonus_type": 1
         },
         {
             "id": 1000000600,
-            "login_bonus_type": 1,
-            "name": "Seeker of Truth Grand Opening Login Bonus",
-            "display_priority": 2126
+            "login_bonus_type": 1
         },
         {
             "id": 1000000601,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2125
+            "login_bonus_type": 1
         },
         {
             "id": 1000000602,
-            "login_bonus_type": 1,
-            "name": "Spring Festival Round 3 Login Bonus",
-            "display_priority": 2129
+            "login_bonus_type": 1
         },
         {
             "id": 1000000603,
-            "login_bonus_type": 1,
-            "name": "Battle with Diva Grand Opening Login Bonus",
-            "display_priority": 2127
+            "login_bonus_type": 1
         },
         {
             "id": 1000000604,
-            "login_bonus_type": 1,
-            "name": "Showdown! Surrounding Joker Grand Opening Login Bonus",
-            "display_priority": 2128
+            "login_bonus_type": 1
         },
         {
             "id": 1000000605,
-            "login_bonus_type": 1,
-            "name": "Any way you want it! Golden Vacation Grand Opening Login Bonus",
-            "display_priority": 2133
+            "login_bonus_type": 1
         },
         {
             "id": 1000000606,
-            "login_bonus_type": 1,
-            "name": "Clink Clink! Golden Island Grand Opening Login Bonus",
-            "display_priority": 2132
+            "login_bonus_type": 1
         },
         {
             "id": 1000000607,
-            "login_bonus_type": 1,
-            "name": "Golden Vacation Round 1 Login Bonus",
-            "display_priority": 2135
+            "login_bonus_type": 1
         },
         {
             "id": 1000000608,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2130
+            "login_bonus_type": 1
         },
         {
             "id": 1000000609,
-            "login_bonus_type": 1,
-            "name": "Golden Passage Grand Opening Login Bonus",
-            "display_priority": 2131
+            "login_bonus_type": 1
         },
         {
             "id": 1000000610,
-            "login_bonus_type": 1,
-            "name": "Haniwa's Golden BOX Grand Opening Login Bonus",
-            "display_priority": 2134
+            "login_bonus_type": 1
         },
         {
             "id": 1000000611,
-            "login_bonus_type": 1,
-            "name": "May 2023 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000612,
-            "login_bonus_type": 1,
-            "name": "Fired Up! Burning Battle Memories Grand Opening Login Bonus",
-            "display_priority": 2136
+            "login_bonus_type": 1
         },
         {
             "id": 1000000613,
-            "login_bonus_type": 1,
-            "name": "The Seekers' Path Grand Opening Login Bonus",
-            "display_priority": 2138
+            "login_bonus_type": 1
         },
         {
             "id": 1000000614,
-            "login_bonus_type": 1,
-            "name": "Training in the Sun! Summertime Showdown Returning Event Login Bonus",
-            "display_priority": 2137
+            "login_bonus_type": 1
         },
         {
             "id": 1000000615,
-            "login_bonus_type": 1,
-            "name": "Golden Vacation Round 2 Login Bonus",
-            "display_priority": 2139
+            "login_bonus_type": 1
         },
         {
             "id": 1000000616,
-            "login_bonus_type": 1,
-            "name": "Threat from the Depths! Deepfish Grand Opening Login Bonus",
-            "display_priority": 2141
+            "login_bonus_type": 1
         },
         {
             "id": 1000000617,
-            "login_bonus_type": 1,
-            "name": "Find the Hidden Pirate Gold! Grand Opening Login Bonus",
-            "display_priority": 2140
+            "login_bonus_type": 1
         },
         {
             "id": 1000000618,
-            "login_bonus_type": 1,
-            "name": "Golden Vacation Round 3 Login Bonus",
-            "display_priority": 2142
+            "login_bonus_type": 1
         },
         {
             "id": 1000000619,
-            "login_bonus_type": 1,
-            "name": "House Julanius Super Combat Training Login Bonus",
-            "display_priority": 2144
+            "login_bonus_type": 1
         },
         {
             "id": 1000000620,
-            "login_bonus_type": 1,
-            "name": "Battle with Celestials: Macha/Marigan Grand Opening Login Bonus",
-            "display_priority": 2145
+            "login_bonus_type": 1
         },
         {
             "id": 1000000621,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2143
+            "login_bonus_type": 1
         },
         {
             "id": 1000000622,
-            "login_bonus_type": 1,
-            "name": "Forge Equipment Added Login Bonus",
-            "display_priority": 2147
+            "login_bonus_type": 1
         },
         {
             "id": 1000000623,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Expansion Login Bonus",
-            "display_priority": 2148
+            "login_bonus_type": 1
         },
         {
             "id": 1000000624,
-            "login_bonus_type": 1,
-            "name": "3rd Anniversary Countdown Quest Grand Opening Login Bonus",
-            "display_priority": 2151
+            "login_bonus_type": 1
         },
         {
             "id": 1000000625,
-            "login_bonus_type": 1,
-            "name": "3rd Anniversary Eve Login Bonus",
-            "display_priority": 2152
+            "login_bonus_type": 1
         },
         {
             "id": 1000000626,
-            "login_bonus_type": 1,
-            "name": "Approaching 3rd Anniversary Thank You Login Bonus",
-            "display_priority": 2153
+            "login_bonus_type": 1
         },
         {
             "id": 1000000627,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2146
+            "login_bonus_type": 1
         },
         {
             "id": 1000000630,
-            "login_bonus_type": 1,
-            "name": "June 2023 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000631,
-            "login_bonus_type": 1,
-            "name": "3rd Anniversary Appreciation Login Bonus",
-            "display_priority": 3000
+            "login_bonus_type": 1
         },
         {
             "id": 1000000632,
-            "login_bonus_type": 1,
-            "name": "3rd Anniversary Round 1 Login Bonus",
-            "display_priority": 2157
+            "login_bonus_type": 1
         },
         {
             "id": 1000000633,
-            "login_bonus_type": 1,
-            "name": "Wonderful Saga! Romancing Tour Solo Mode Grand Opening Login Bonus",
-            "display_priority": 2156
+            "login_bonus_type": 1
         },
         {
             "id": 1000000634,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 2154
+            "login_bonus_type": 1
         },
         {
             "id": 1000000635,
-            "login_bonus_type": 1,
-            "name": "Viewer's Medal Exchange Grand Opening Login Bonus",
-            "display_priority": 2155
+            "login_bonus_type": 1
         },
         {
             "id": 1000000636,
-            "login_bonus_type": 5,
-            "name": "Attribute Growth Booster 14-Day Pack Login Bonus",
-            "display_priority": 999
+            "login_bonus_type": 5
         },
         {
             "id": 1000000637,
-            "login_bonus_type": 1,
-            "name": "Wonderful Saga! Romancing Tour Co-op Mode Grand Opening Login Bonus",
-            "display_priority": 2160
+            "login_bonus_type": 1
         },
         {
             "id": 1000000638,
-            "login_bonus_type": 1,
-            "name": "3rd Anniversary Round 2 Login Bonus",
-            "display_priority": 2161
+            "login_bonus_type": 1
         },
         {
             "id": 1000000639,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2159
+            "login_bonus_type": 1
         },
         {
             "id": 1000000640,
-            "login_bonus_type": 1,
-            "name": "Templar Galahad & Takeshita Ice Cream Bar BOX Grand Opening Login Bonus",
-            "display_priority": 2163
+            "login_bonus_type": 1
         },
         {
             "id": 1000000641,
-            "login_bonus_type": 1,
-            "name": "Get It! The Coveted Takeshita Ice Cream Bar Grand Opening Login Bonus",
-            "display_priority": 2162
+            "login_bonus_type": 1
         },
         {
             "id": 1000000642,
-            "login_bonus_type": 1,
-            "name": "3rd Anniversary Round 3 Login Bonus",
-            "display_priority": 2164
+            "login_bonus_type": 1
         },
         {
             "id": 1000000643,
-            "login_bonus_type": 1,
-            "name": "Flip 'Em! Romancing Saga Legacy Panels Grand Opening Login Bonus",
-            "display_priority": 2166
+            "login_bonus_type": 1
         },
         {
             "id": 1000000644,
-            "login_bonus_type": 1,
-            "name": "3rd Anniversary Happy Anniversary Day Login Bonus",
-            "display_priority": 3001
+            "login_bonus_type": 1
         },
         {
             "id": 1000000645,
-            "login_bonus_type": 1,
-            "name": "3rd Anniversary Round 4 Login Bonus",
-            "display_priority": 2167
+            "login_bonus_type": 1
         },
         {
             "id": 1000000646,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2165
+            "login_bonus_type": 1
         },
         {
             "id": 1000000647,
-            "login_bonus_type": 1,
-            "name": "A Midsummer Night's Stroll Grand Opening Login Bonus",
-            "display_priority": 2168
+            "login_bonus_type": 1
         },
         {
             "id": 1000000648,
-            "login_bonus_type": 1,
-            "name": "3rd Anniversary Closing Round 1 Login Bonus",
-            "display_priority": 2169
+            "login_bonus_type": 1
         },
         {
             "id": 1000000649,
-            "login_bonus_type": 1,
-            "name": "3rd Anniversary Closing Appreciation Login Bonus",
-            "display_priority": 3002
+            "login_bonus_type": 1
         },
         {
             "id": 1000000650,
-            "login_bonus_type": 1,
-            "name": "July 2023 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000651,
-            "login_bonus_type": 1,
-            "name": "Sparkling! Summer Night Party BOX Grand Opening Login Bonus",
-            "display_priority": 2170
+            "login_bonus_type": 1
         },
         {
             "id": 1000000652,
-            "login_bonus_type": 1,
-            "name": "Glamorous Beachside Night Grand Opening Login Bonus",
-            "display_priority": 2171
+            "login_bonus_type": 1
         },
         {
             "id": 1000000653,
-            "login_bonus_type": 1,
-            "name": "3rd Anniversary Closing Round 2 Login Bonus",
-            "display_priority": 2172
+            "login_bonus_type": 1
         },
         {
             "id": 1000000654,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Expansion Login Bonus",
-            "display_priority": 2176
+            "login_bonus_type": 1
         },
         {
             "id": 1000000655,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Episode 8 Release SS Accessory [Cyber Gear] Drops Login Bonus",
-            "display_priority": 2175
+            "login_bonus_type": 1
         },
         {
             "id": 1000000656,
-            "login_bonus_type": 1,
-            "name": "Battle with Xagor Grand Opening Login Bonus",
-            "display_priority": 2177
+            "login_bonus_type": 1
         },
         {
             "id": 1000000657,
-            "login_bonus_type": 1,
-            "name": "3rd Anniversary Closing Round 3 Login Bonus",
-            "display_priority": 2178
+            "login_bonus_type": 1
         },
         {
             "id": 1000000658,
-            "login_bonus_type": 1,
-            "name": "Forge Equipment Added Login Bonus",
-            "display_priority": 2174
+            "login_bonus_type": 1
         },
         {
             "id": 1000000659,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2173
+            "login_bonus_type": 1
         },
         {
             "id": 1000000660,
-            "login_bonus_type": 1,
-            "name": "3rd Anniversary Closing! Super Training Dojo Grand Opening Login Bonus",
-            "display_priority": 2179
+            "login_bonus_type": 1
         },
         {
             "id": 1000000661,
-            "login_bonus_type": 1,
-            "name": "3rd Anniversary Closing Round 4 Login Bonus",
-            "display_priority": 2181
+            "login_bonus_type": 1
         },
         {
             "id": 1000000662,
-            "login_bonus_type": 1,
-            "name": "Battle with Great Dragons: Gwayne & Dorra Grand Opening Login Bonus",
-            "display_priority": 2180
+            "login_bonus_type": 1
         },
         {
             "id": 1000000663,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Expansion Login Bonus",
-            "display_priority": 2185
+            "login_bonus_type": 1
         },
         {
             "id": 1000000664,
-            "login_bonus_type": 1,
-            "name": "Battle with Time Lord Grand Opening Login Bonus",
-            "display_priority": 2184
+            "login_bonus_type": 1
         },
         {
             "id": 1000000665,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2182
+            "login_bonus_type": 1
         },
         {
             "id": 1000000666,
-            "login_bonus_type": 1,
-            "name": "Forge Equipment Added Login Bonus",
-            "display_priority": 2183
+            "login_bonus_type": 1
         },
         {
             "id": 1000000667,
-            "login_bonus_type": 1,
-            "name": "August 2023 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000668,
-            "login_bonus_type": 1,
-            "name": "Creepy! Haunted Show Grand Opening Login Bonus",
-            "display_priority": 2188
+            "login_bonus_type": 1
         },
         {
             "id": 1000000669,
-            "login_bonus_type": 1,
-            "name": "Battle with Creator Grand Opening Login Bonus",
-            "display_priority": 2189
+            "login_bonus_type": 1
         },
         {
             "id": 1000000670,
-            "login_bonus_type": 1,
-            "name": "Clash! Arsenal Grand Opening Login Bonus",
-            "display_priority": 2190
+            "login_bonus_type": 1
         },
         {
             "id": 1000000671,
-            "login_bonus_type": 1,
-            "name": "Summer Party Round 1 Login Bonus",
-            "display_priority": 2191
+            "login_bonus_type": 1
         },
         {
             "id": 1000000672,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2186
+            "login_bonus_type": 1
         },
         {
             "id": 1000000673,
-            "login_bonus_type": 1,
-            "name": "Remembrance Battle Boss Added Login Bonus",
-            "display_priority": 2187
+            "login_bonus_type": 1
         },
         {
             "id": 1000000674,
-            "login_bonus_type": 1,
-            "name": "Summer Party Appreciation Login Bonus",
-            "display_priority": 3003
+            "login_bonus_type": 1
         },
         {
             "id": 1000000675,
-            "login_bonus_type": 1,
-            "name": "Welcome! MU Culture Fest Grand Opening Login Bonus",
-            "display_priority": 2193
+            "login_bonus_type": 1
         },
         {
             "id": 1000000676,
-            "login_bonus_type": 1,
-            "name": "MU Culture Fest Food Stand Tour! Grand Opening Login Bonus",
-            "display_priority": 2192
+            "login_bonus_type": 1
         },
         {
             "id": 1000000677,
-            "login_bonus_type": 1,
-            "name": "Summer Party Round 2 Login Bonus",
-            "display_priority": 2194
+            "login_bonus_type": 1
         },
         {
             "id": 1000000678,
-            "login_bonus_type": 1,
-            "name": "Mages of Mahzoz Grand Opening Login Bonus",
-            "display_priority": 2196
+            "login_bonus_type": 1
         },
         {
             "id": 1000000679,
-            "login_bonus_type": 1,
-            "name": "Battle with Mages of Mahzoz: Undine & Volcano Grand Opening Login Bonus",
-            "display_priority": 2197
+            "login_bonus_type": 1
         },
         {
             "id": 1000000680,
-            "login_bonus_type": 1,
-            "name": "Romancing SaGa 3 TC/KO Game Release Anniversary Login Bonus",
-            "display_priority": 2198
+            "login_bonus_type": 1
         },
         {
             "id": 1000000681,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2195
+            "login_bonus_type": 1
         },
         {
             "id": 1000000682,
-            "login_bonus_type": 1,
-            "name": "SaGa Frontier Remastered TC/KO Game Release Anniversary Login Bonus",
-            "display_priority": 2199
+            "login_bonus_type": 1
         },
         {
             "id": 1000000683,
-            "login_bonus_type": 1,
-            "name": "Battle with Real Queen Grand Opening Login Bonus",
-            "display_priority": 2202
+            "login_bonus_type": 1
         },
         {
             "id": 1000000684,
-            "login_bonus_type": 1,
-            "name": "Fateful Showdown Grand Opening Login Bonus",
-            "display_priority": 2201
+            "login_bonus_type": 1
         },
         {
             "id": 1000000685,
-            "login_bonus_type": 1,
-            "name": "Aurum Exchange Renewal Login Bonus",
-            "display_priority": 2200
+            "login_bonus_type": 1
         },
         {
             "id": 1000000686,
-            "login_bonus_type": 1,
-            "name": "September 2023 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000687,
-            "login_bonus_type": 1,
-            "name": "Corridor of Destiny Grand Opening Login Bonus",
-            "display_priority": 2207
+            "login_bonus_type": 1
         },
         {
             "id": 1000000688,
-            "login_bonus_type": 1,
-            "name": "Climb! Corridor of Destiny Grand Opening Login Bonus",
-            "display_priority": 2206
+            "login_bonus_type": 1
         },
         {
             "id": 1000000689,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 2204
+            "login_bonus_type": 1
         },
         {
             "id": 1000000690,
-            "login_bonus_type": 1,
-            "name": "Testament of the Mighty: Rank 5 Added Login Bonus",
-            "display_priority": 2208
+            "login_bonus_type": 1
         },
         {
             "id": 1000000691,
-            "login_bonus_type": 1,
-            "name": "30 Million Global Downloads! Round 1 Login Bonus",
-            "display_priority": 2209
+            "login_bonus_type": 1
         },
         {
             "id": 1000000692,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2203
+            "login_bonus_type": 1
         },
         {
             "id": 1000000693,
-            "login_bonus_type": 1,
-            "name": "Viewer's Medal Exchange Renewal Login Bonus",
-            "display_priority": 2205
+            "login_bonus_type": 1
         },
         {
             "id": 1000000694,
-            "login_bonus_type": 1,
-            "name": "30 Million Global Downloads! Appreciation Login Bonus",
-            "display_priority": 3004
+            "login_bonus_type": 1
         },
         {
             "id": 1000000695,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Expansion Login Bonus",
-            "display_priority": 2210
+            "login_bonus_type": 1
         },
         {
             "id": 1000000696,
-            "login_bonus_type": 1,
-            "name": "30 Million Global Downloads! Round 2 Login Bonus",
-            "display_priority": 2211
+            "login_bonus_type": 1
         },
         {
             "id": 1000000697,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Expansion Login Bonus",
-            "display_priority": 2215
+            "login_bonus_type": 1
         },
         {
             "id": 1000000698,
-            "login_bonus_type": 1,
-            "name": "30 Million Global Downloads! Round 3 Login Bonus",
-            "display_priority": 2216
+            "login_bonus_type": 1
         },
         {
             "id": 1000000699,
-            "login_bonus_type": 1,
-            "name": "Collect Elemental Gears Grand Opening Login Bonus",
-            "display_priority": 2214
+            "login_bonus_type": 1
         },
         {
             "id": 1000000700,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2212
+            "login_bonus_type": 1
         },
         {
             "id": 1000000701,
-            "login_bonus_type": 1,
-            "name": "Forge Equipment Added Login Bonus",
-            "display_priority": 2213
+            "login_bonus_type": 1
         },
         {
             "id": 1000000702,
-            "login_bonus_type": 1,
-            "name": "Love and Peace in SaGatopia! Romancing SaGa Academy Valor Fest. Panels Grand Opening Login Bonus",
-            "display_priority": 2217
+            "login_bonus_type": 1
         },
         {
             "id": 1000000703,
-            "login_bonus_type": 1,
-            "name": "Holy Wrath! Valdor's Kendo Fierce Training! Grand Opening Login Bonus",
-            "display_priority": 2218
+            "login_bonus_type": 1
         },
         {
             "id": 1000000704,
-            "login_bonus_type": 1,
-            "name": "30 Million Global Downloads! Round 4 Login Bonus",
-            "display_priority": 2219
+            "login_bonus_type": 1
         },
         {
             "id": 1000000705,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Expansion Login Bonus",
-            "display_priority": 2222
+            "login_bonus_type": 1
         },
         {
             "id": 1000000706,
-            "login_bonus_type": 1,
-            "name": "Celebrate! Holy Night Grand Opening Login Bonus",
-            "display_priority": 2220
+            "login_bonus_type": 1
         },
         {
             "id": 1000000707,
-            "login_bonus_type": 1,
-            "name": "30 Million Global Downloads! Round 5 Login Bonus",
-            "display_priority": 2223
+            "login_bonus_type": 1
         },
         {
             "id": 1000000708,
-            "login_bonus_type": 1,
-            "name": "October 2023 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000709,
-            "login_bonus_type": 1,
-            "name": "Forge Equipment Added Login Bonus",
-            "display_priority": 2221
+            "login_bonus_type": 1
         },
         {
             "id": 1000000710,
-            "login_bonus_type": 1,
-            "name": "Strength Training Dojo Grand Opening Login Bonus",
-            "display_priority": 2228
+            "login_bonus_type": 1
         },
         {
             "id": 1000000711,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Episode 13 They Who Were Born: Divine Realm Battles Grand Opening Login Bonus",
-            "display_priority": 2227
+            "login_bonus_type": 1
         },
         {
             "id": 1000000712,
-            "login_bonus_type": 1,
-            "name": "Promotion Exam Rank 20 Unlocked Login Bonus",
-            "display_priority": 2225
+            "login_bonus_type": 1
         },
         {
             "id": 1000000713,
-            "login_bonus_type": 1,
-            "name": "Mighty Foe! Hiveris Clash! Divine Beast Grand Opening Login Bonus",
-            "display_priority": 2229
+            "login_bonus_type": 1
         },
         {
             "id": 1000000714,
-            "login_bonus_type": 1,
-            "name": "Mighty Foe! Merlot-Syrah Clash! Divine Beast Grand Opening Login Bonus",
-            "display_priority": 2230
+            "login_bonus_type": 1
         },
         {
             "id": 1000000715,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Battle Festival Round 1 Login Bonus",
-            "display_priority": 2231
+            "login_bonus_type": 1
         },
         {
             "id": 1000000716,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Battle Festival Appreciation Login Bonus",
-            "display_priority": 3005
+            "login_bonus_type": 1
         },
         {
             "id": 1000000717,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 2224
+            "login_bonus_type": 1
         },
         {
             "id": 1000000718,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Expansion Login Bonus",
-            "display_priority": 2226
+            "login_bonus_type": 1
         },
         {
             "id": 1000000719,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Episode 13 They Who Were Born: Divine Realm Battles Quests/Exchange Items Added Login Bonus",
-            "display_priority": 2233
+            "login_bonus_type": 1
         },
         {
             "id": 1000000720,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Battle Festival Round 2 Login Bonus",
-            "display_priority": 2236
+            "login_bonus_type": 1
         },
         {
             "id": 1000000721,
-            "login_bonus_type": 1,
-            "name": "Mighty Foe! Hardy Clash! Divine Beast Grand Opening Login Bonus",
-            "display_priority": 2234
+            "login_bonus_type": 1
         },
         {
             "id": 1000000722,
-            "login_bonus_type": 1,
-            "name": "Mighty Foe! Orlette Clash! Divine Beast Grand Opening Login Bonus",
-            "display_priority": 2235
+            "login_bonus_type": 1
         },
         {
             "id": 1000000723,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2232
+            "login_bonus_type": 1
         },
         {
             "id": 1000000724,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Expansion Login Bonus",
-            "display_priority": 2242
+            "login_bonus_type": 1
         },
         {
             "id": 1000000725,
-            "login_bonus_type": 1,
-            "name": "Battle Festival! Super Training Dojo Grand Opening Login Bonus",
-            "display_priority": 2240
+            "login_bonus_type": 1
         },
         {
             "id": 1000000726,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Battle Festival Round 3 Login Bonus",
-            "display_priority": 2243
+            "login_bonus_type": 1
         },
         {
             "id": 1000000727,
-            "login_bonus_type": 1,
-            "name": "Liam Arc Episode 13 They Who Were Born: Divine Realm Battles Quests/Exchange Items Added Login Bonus",
-            "display_priority": 2238
+            "login_bonus_type": 1
         },
         {
             "id": 1000000728,
-            "login_bonus_type": 1,
-            "name": "Mighty Foe! Razem Clash! Divine Beast Grand Opening Login Bonus",
-            "display_priority": 2239
+            "login_bonus_type": 1
         },
         {
             "id": 1000000729,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2237
+            "login_bonus_type": 1
         },
         {
             "id": 1000000730,
-            "login_bonus_type": 1,
-            "name": "Mighty Foe! Deathmatch in Distorted Realm: Aberration Supreme Grand Opening Login Bonus",
-            "display_priority": 2241
+            "login_bonus_type": 1
         },
         {
             "id": 1000000731,
-            "login_bonus_type": 1,
-            "name": "Thumping! Who Let the Pets Out Grand Opening Login Bonus",
-            "display_priority": 2245
+            "login_bonus_type": 1
         },
         {
             "id": 1000000732,
-            "login_bonus_type": 1,
-            "name": "Nacht Zweiger's Rabbit Dash! Grand Opening Login Bonus",
-            "display_priority": 2248
+            "login_bonus_type": 1
         },
         {
             "id": 1000000733,
-            "login_bonus_type": 1,
-            "name": "Spiral Corridor New Floors Added Login Bonus",
-            "display_priority": 2247
+            "login_bonus_type": 1
         },
         {
             "id": 1000000734,
-            "login_bonus_type": 1,
-            "name": "Spiral Corridor Ticket Summon Renewal Login Bonus",
-            "display_priority": 2246
+            "login_bonus_type": 1
         },
         {
             "id": 1000000735,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 2244
+            "login_bonus_type": 1
         },
         {
             "id": 1000000736,
-            "login_bonus_type": 1,
-            "name": "November 2023 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000737,
-            "login_bonus_type": 1,
-            "name": "Romancing Saga Golden Tour: Solo Trip Grand Opening Login Bonus",
-            "display_priority": 2251
+            "login_bonus_type": 1
         },
         {
             "id": 1000000738,
-            "login_bonus_type": 1,
-            "name": "Romancing Saga Golden Destinations Round 1 Login Bonus",
-            "display_priority": 2254
+            "login_bonus_type": 1
         },
         {
             "id": 1000000739,
-            "login_bonus_type": 1,
-            "name": "Romancing Saga Encounter! Antonius Grand Opening Login Bonus",
-            "display_priority": 2252
+            "login_bonus_type": 1
         },
         {
             "id": 1000000740,
-            "login_bonus_type": 1,
-            "name": "Remembrance Battle Support Login Bonus",
-            "display_priority": 2250
+            "login_bonus_type": 1
         },
         {
             "id": 1000000741,
-            "login_bonus_type": 1,
-            "name": "Romancing Saga Golden Destinations Saga Style Exchange Appreciation Login Bonus",
-            "display_priority": 2253
+            "login_bonus_type": 1
         },
         {
             "id": 1000000742,
-            "login_bonus_type": 1,
-            "name": "New Expedition Login Bonus",
-            "display_priority": 2249
+            "login_bonus_type": 1
         },
         {
             "id": 1000000744,
-            "login_bonus_type": 1,
-            "name": "Resist! Fake Gustave's Elite Army Grand Opening Login Bonus",
-            "display_priority": 2258
+            "login_bonus_type": 1
         },
         {
             "id": 1000000745,
-            "login_bonus_type": 1,
-            "name": "Showdown! False Successor Grand Opening Login Bonus",
-            "display_priority": 2257
+            "login_bonus_type": 1
         },
         {
             "id": 1000000746,
-            "login_bonus_type": 1,
-            "name": "Seafood Jumble! Mudflat Uproar Grand Opening Login Bonus",
-            "display_priority": 2256
+            "login_bonus_type": 1
         },
         {
             "id": 1000000747,
-            "login_bonus_type": 1,
-            "name": "Romancing Saga Golden Destinations Round 2 Login Bonus",
-            "display_priority": 2259
+            "login_bonus_type": 1
         },
         {
             "id": 1000000748,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2255
+            "login_bonus_type": 1
         },
         {
             "id": 1000000749,
-            "login_bonus_type": 1,
-            "name": "Romancing Saga Golden Tour: Co-op Travel Grand Opening Login Bonus",
-            "display_priority": 2262
+            "login_bonus_type": 1
         },
         {
             "id": 1000000750,
-            "login_bonus_type": 1,
-            "name": "Romancing Saga Golden Destinations Round 3 Login Bonus",
-            "display_priority": 2263
+            "login_bonus_type": 1
         },
         {
             "id": 1000000751,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2260
+            "login_bonus_type": 1
         },
         {
             "id": 1000000752,
-            "login_bonus_type": 1,
-            "name": "Remembrance Battle Simulation Levels Added Login Bonus",
-            "display_priority": 2261
+            "login_bonus_type": 1
         },
         {
             "id": 1000000753,
-            "login_bonus_type": 1,
-            "name": "Spiral Corridor New Floors Added Login Bonus",
-            "display_priority": 2265
+            "login_bonus_type": 1
         },
         {
             "id": 1000000754,
-            "login_bonus_type": 1,
-            "name": "Memories of Encounters: Liam Arc Memory Panels Grand Opening Login Bonus",
-            "display_priority": 2264
+            "login_bonus_type": 1
         },
         {
             "id": 1000000755,
-            "login_bonus_type": 1,
-            "name": "3.5 Anniversary! Countdown Quest Grand Opening Login Bonus",
-            "display_priority": 2267
+            "login_bonus_type": 1
         },
         {
             "id": 1000000756,
-            "login_bonus_type": 1,
-            "name": "3.5 Anniversary Eve Login Bonus",
-            "display_priority": 2266
+            "login_bonus_type": 1
         },
         {
             "id": 1000000757,
-            "login_bonus_type": 1,
-            "name": "December 2023 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000758,
-            "login_bonus_type": 1,
-            "name": "New Arc Release! Login Bonus",
-            "display_priority": 2273
+            "login_bonus_type": 1
         },
         {
             "id": 1000000759,
-            "login_bonus_type": 1,
-            "name": "Crescent Records Grand Opening Login Bonus",
-            "display_priority": 2272
+            "login_bonus_type": 1
         },
         {
             "id": 1000000760,
-            "login_bonus_type": 1,
-            "name": "THE STAGE Reforged Bonds ZERO Part 1 Grand Opening Login Bonus",
-            "display_priority": 2270
+            "login_bonus_type": 1
         },
         {
             "id": 1000000761,
-            "login_bonus_type": 1,
-            "name": "3.5 Anniversary Appreciation Grand Opening Login Bonus",
-            "display_priority": 2276
+            "login_bonus_type": 1
         },
         {
             "id": 1000000762,
-            "login_bonus_type": 1,
-            "name": "Testament of the Mighty: Rank 6 Added Login Bonus",
-            "display_priority": 2268
+            "login_bonus_type": 1
         },
         {
             "id": 1000000763,
-            "login_bonus_type": 1,
-            "name": "Romancing Shop Grand Opening Login Bonus",
-            "display_priority": 2269
+            "login_bonus_type": 1
         },
         {
             "id": 1000000764,
-            "login_bonus_type": 1,
-            "name": "3.5 Anniversary Appreciation Grand Opening Login Bonus",
-            "display_priority": 2271
+            "login_bonus_type": 1
         },
         {
             "id": 1000000765,
-            "login_bonus_type": 1,
-            "name": "3.5 Anniversary Round 1 Login Bonus",
-            "display_priority": 2275
+            "login_bonus_type": 1
         },
         {
             "id": 1000000766,
-            "login_bonus_type": 1,
-            "name": "3.5 Anniversary Boss Rush Grand Opening Login Bonus",
-            "display_priority": 2274
+            "login_bonus_type": 1
         },
         {
             "id": 1000000767,
-            "login_bonus_type": 1,
-            "name": "3.5 Anniversary Round 2 Login Bonus",
-            "display_priority": 2279
+            "login_bonus_type": 1
         },
         {
             "id": 1000000768,
-            "login_bonus_type": 1,
-            "name": "THE STAGE Reforged Bonds ZERO Part 2 Grand Opening Login Bonus",
-            "display_priority": 2278
+            "login_bonus_type": 1
         },
         {
             "id": 1000000769,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2277
+            "login_bonus_type": 1
         },
         {
             "id": 1000000770,
-            "login_bonus_type": 1,
-            "name": "3.5 Anniversary Round 3 Login Bonus",
-            "display_priority": 2282
+            "login_bonus_type": 1
         },
         {
             "id": 1000000771,
-            "login_bonus_type": 1,
-            "name": "Doki Doki Trials Grand Opening Login Bonus",
-            "display_priority": 2280
+            "login_bonus_type": 1
         },
         {
             "id": 1000000772,
-            "login_bonus_type": 1,
-            "name": "35 Years with the SaGa Series! Login Bonus",
-            "display_priority": 2283
+            "login_bonus_type": 1
         },
         {
             "id": 1000000773,
-            "login_bonus_type": 1,
-            "name": "Spiral Corridor New Floors Added Login Bonus",
-            "display_priority": 2281
+            "login_bonus_type": 1
         },
         {
             "id": 1000000774,
-            "login_bonus_type": 1,
-            "name": "3.5 Anniversary Round 4 Login Bonus",
-            "display_priority": 2288
+            "login_bonus_type": 1
         },
         {
             "id": 1000000775,
-            "login_bonus_type": 1,
-            "name": "All-Out Battle! Showdown with the Gods Grand Opening Login Bonus",
-            "display_priority": 2287
+            "login_bonus_type": 1
         },
         {
             "id": 1000000776,
-            "login_bonus_type": 1,
-            "name": "Helmet Records Grand Opening Login Bonus",
-            "display_priority": 2286
+            "login_bonus_type": 1
         },
         {
             "id": 1000000777,
-            "login_bonus_type": 1,
-            "name": "Overthrow! Ashura's Burning Ambitions Grand Opening Login Bonus",
-            "display_priority": 2285
+            "login_bonus_type": 1
         },
         {
             "id": 1000000778,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2284
+            "login_bonus_type": 1
         },
         {
             "id": 1000000779,
-            "login_bonus_type": 1,
-            "name": "Romancing SaGa2 TC/KO Game Release Anniversary Login Bonus",
-            "display_priority": 2289
+            "login_bonus_type": 1
         },
         {
             "id": 1000000780,
-            "login_bonus_type": 1,
-            "name": "3.5 Anniversary Happy Anniversary Day Login Bonus",
-            "display_priority": 2290
+            "login_bonus_type": 1
         },
         {
             "id": 1000000781,
-            "login_bonus_type": 1,
-            "name": "Happy New Year Login Bonus",
-            "display_priority": 2294
+            "login_bonus_type": 1
         },
         {
             "id": 1000000782,
-            "login_bonus_type": 1,
-            "name": "3.5 Anniversary Round 5 Login Bonus",
-            "display_priority": 2295
+            "login_bonus_type": 1
         },
         {
             "id": 1000000783,
-            "login_bonus_type": 1,
-            "name": "Remembrance Battle Simulation Levels Added Login Bonus",
-            "display_priority": 2292
+            "login_bonus_type": 1
         },
         {
             "id": 1000000784,
-            "login_bonus_type": 1,
-            "name": "Battle with Magnate Grand Opening Login Bonus",
-            "display_priority": 2293
+            "login_bonus_type": 1
         },
         {
             "id": 1000000785,
-            "login_bonus_type": 1,
-            "name": "Pandemonium of Shadows: Continual Threat Grand Opening Login Bonus",
-            "display_priority": 2291
+            "login_bonus_type": 1
         },
         {
             "id": 1000000786,
-            "login_bonus_type": 1,
-            "name": "January 2024 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000787,
-            "login_bonus_type": 1,
-            "name": "New Year Carnival Round 1 Login Bonus",
-            "display_priority": 2298
+            "login_bonus_type": 1
         },
         {
             "id": 1000000788,
-            "login_bonus_type": 1,
-            "name": "New Year's! Elemental Lords Conquest Grand Opening Login Bonus",
-            "display_priority": 2296
+            "login_bonus_type": 1
         },
         {
             "id": 1000000789,
-            "login_bonus_type": 1,
-            "name": "Remembrance Battle Simulation Levels Added Login Bonus",
-            "display_priority": 2297
+            "login_bonus_type": 1
         },
         {
             "id": 1000000790,
-            "login_bonus_type": 1,
-            "name": "Threat Detected! Operation Anti-Virus Grand Opening Login Bonus",
-            "display_priority": 2299
+            "login_bonus_type": 1
         },
         {
             "id": 1000000791,
-            "login_bonus_type": 1,
-            "name": "New Year Carnival Round 2 Login Bonus",
-            "display_priority": 2301
+            "login_bonus_type": 1
         },
         {
             "id": 1000000792,
-            "login_bonus_type": 1,
-            "name": "New Year's! Battle with Avi Grand Opening Login Bonus",
-            "display_priority": 2300
+            "login_bonus_type": 1
         },
         {
             "id": 1000000793,
-            "login_bonus_type": 1,
-            "name": "New Year Carnival Round 3 Login Bonus",
-            "display_priority": 2305
+            "login_bonus_type": 1
         },
         {
             "id": 1000000794,
-            "login_bonus_type": 1,
-            "name": "SS Kihachi Style Release SSS Sword [Ippaku Shiun] Login Bonus",
-            "display_priority": 2303
+            "login_bonus_type": 1
         },
         {
             "id": 1000000795,
-            "login_bonus_type": 1,
-            "name": "Battle with Rat Mischief Grand Opening Login Bonus",
-            "display_priority": 2302
+            "login_bonus_type": 1
         },
         {
             "id": 1000000796,
-            "login_bonus_type": 1,
-            "name": "Spiral Corridor New Floors Added Login Bonus",
-            "display_priority": 2304
+            "login_bonus_type": 1
         },
         {
             "id": 1000000797,
-            "login_bonus_type": 1,
-            "name": "February 2024 Login Bonus",
-            "display_priority": 1400
+            "login_bonus_type": 1
         },
         {
             "id": 1000000798,
-            "login_bonus_type": 1,
-            "name": "Soundtrack Added Login Bonus",
-            "display_priority": 2306
+            "login_bonus_type": 1
         },
         {
             "id": 1000000799,
-            "login_bonus_type": 1,
-            "name": "Scarlet Grace: Scarlet Comet Grand Opening Login Bonus",
-            "display_priority": 2307
+            "login_bonus_type": 1
         },
         {
             "id": 1000000800,
-            "login_bonus_type": 1,
-            "name": "New Year Carnival Round 4 Login Bonus",
-            "display_priority": 2309
+            "login_bonus_type": 1
         },
         {
             "id": 1000000801,
-            "login_bonus_type": 1,
-            "name": "Scarlet Deathmatch: Firebringer Grand Opening Login Bonus",
-            "display_priority": 2308
+            "login_bonus_type": 1
+        },
+        {
+            "id": 1000000802,
+            "login_bonus_type": 1
+        },
+        {
+            "id": 1000000803,
+            "login_bonus_type": 1
+        },
+        {
+            "id": 1000000804,
+            "login_bonus_type": 1
+        },
+        {
+            "id": 1000000805,
+            "login_bonus_type": 1
+        },
+        {
+            "id": 1000000806,
+            "login_bonus_type": 1
+        },
+        {
+            "id": 1000000807,
+            "login_bonus_type": 1
         }
     ]
 }

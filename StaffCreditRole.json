@@ -12,729 +12,2362 @@
     "objectArray": [
         {
             "id": 1,
-            "section_id": 999,
-            "name": "サガシリーズプロデューサー",
-            "bottom_margin": 2
+            "section_id": 99,
+            "name": "",
+            "bottom_margin": 5,
+            "top_margin": 0
         },
         {
             "id": 2,
-            "section_id": 999,
-            "name": "シナリオ",
-            "bottom_margin": 2
+            "section_id": 1,
+            "name": "サガシリーズプロデューサー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 3,
-            "section_id": 999,
-            "name": "音楽",
-            "bottom_margin": 2
+            "section_id": 1,
+            "name": "シナリオ",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 4,
-            "section_id": 999,
-            "name": "キャラクターデザイン",
-            "bottom_margin": 2
+            "section_id": 1,
+            "name": "音楽",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 5,
-            "section_id": 999,
-            "name": "ナビキャラクターイラスト",
-            "bottom_margin": 2
+            "section_id": 1,
+            "name": "キャラクターデザイン",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 6,
-            "section_id": 999,
-            "name": "筆文字制作",
-            "bottom_margin": 5
+            "section_id": 1,
+            "name": "ナビキャラクターイラスト",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 7,
-            "section_id": 999,
-            "name": "音楽制作進行",
-            "bottom_margin": 2
+            "section_id": 1,
+            "name": "プロデューサー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 8,
-            "section_id": 999,
-            "name": "ダイアログレコーディングエンジニア",
-            "bottom_margin": 2
+            "section_id": 1,
+            "name": "ディレクター",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 9,
-            "section_id": 999,
-            "name": "編曲",
-            "bottom_margin": 2
+            "section_id": 1,
+            "name": "クリエイティブプロデューサー兼エンジニア",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 10,
-            "section_id": 999,
-            "name": "シンセサイザーマニピュレーター",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "ミュージックプロデューサー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 11,
-            "section_id": 999,
-            "name": "アディショナルコンポーザー",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "音楽制作進行",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 12,
-            "section_id": 999,
-            "name": "ボーカル",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "ダイアログレコーディングエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 13,
-            "section_id": 999,
-            "name": "レコーディング&ミキシングエンジニア",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "編曲",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 14,
-            "section_id": 999,
-            "name": "レコーディングエンジニア",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "編曲、オーケストレーション",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 15,
-            "section_id": 999,
-            "name": "ミキシングエンジニア",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "シンセサイザーマニピュレーター",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 16,
-            "section_id": 999,
-            "name": "アシスタントレコーディングエンジニア",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "ボーカル",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 17,
-            "section_id": 999,
-            "name": "アシスタントミキシングエンジニア",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "レコーディング&ミキシングエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 18,
-            "section_id": 999,
-            "name": "写譜",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "レコーディングエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 19,
-            "section_id": 999,
-            "name": "コントラクター",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "ミキシングエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 20,
-            "section_id": 999,
-            "name": "プロジェクトマネージャー",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "アシスタントレコーディングエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 21,
-            "section_id": 999,
-            "name": "ヴァイオリン独奏",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "アシスタントミキシングエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 22,
-            "section_id": 999,
-            "name": "ストリングス",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "写譜",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 23,
-            "section_id": 999,
-            "name": "ファーストヴァイオリン",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "コントラクター",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 24,
-            "section_id": 999,
-            "name": "セカンドヴァイオリン",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "ヴァイオリン独奏",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 25,
-            "section_id": 999,
-            "name": "ヴィオラ",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "フルート",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 26,
-            "section_id": 999,
-            "name": "チェロ",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "オーボエ",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 27,
-            "section_id": 999,
-            "name": "フルート",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "サックス/フルート",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 28,
-            "section_id": 999,
-            "name": "オーボエ",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "トランペット",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 29,
-            "section_id": 999,
-            "name": "クロマチックハーモニカ",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "トロンボーン",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 30,
-            "section_id": 999,
-            "name": "アコースティックギター",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "ハープ",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 31,
-            "section_id": 999,
-            "name": "スパニッシュギター",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "ストリングス",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 32,
-            "section_id": 999,
-            "name": "エレキギター",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "ファーストヴァイオリン",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 33,
-            "section_id": 999,
-            "name": "ベース",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "セカンドヴァイオリン",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 34,
-            "section_id": 999,
-            "name": "ハープ",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "ヴィオラ",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 35,
-            "section_id": 999,
-            "name": "トランペット",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "チェロ",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 36,
-            "section_id": 999,
-            "name": "サックス",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "クロマチックハーモニカ",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 37,
-            "section_id": 999,
-            "name": "バンドネオン",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "アコースティックギター",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 38,
-            "section_id": 999,
-            "name": "レコーディングスタジオ",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "ガットギター",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 39,
             "section_id": 2,
-            "name": "",
-            "bottom_margin": 1
+            "name": "フラメンコギター",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 40,
-            "section_id": 3,
-            "name": "",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "エレキギター",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 41,
-            "section_id": 4,
-            "name": "QA",
-            "bottom_margin": 1
+            "section_id": 2,
+            "name": "ベース",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 42,
-            "section_id": 999,
-            "name": "QAテスター ",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "バンドネオン",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 43,
-            "section_id": 999,
-            "name": "チーフ",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "プロジェクトマネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 44,
-            "section_id": 999,
-            "name": "レーティングアドバイザー",
-            "bottom_margin": 2
+            "section_id": 2,
+            "name": "レコーディングスタジオ",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 45,
-            "section_id": 999,
-            "name": "マネージャー",
-            "bottom_margin": 2
+            "section_id": 3,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 0
         },
         {
             "id": 46,
-            "section_id": 999,
-            "name": "ジェネラルマネージャー",
-            "bottom_margin": 4
+            "section_id": 4,
+            "name": "プランナー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 47,
-            "section_id": 5,
-            "name": "ジェネラルマネージャー",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "リードエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 48,
-            "section_id": 999,
-            "name": "カスタマーサポート マネージャー",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "サーバーエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 49,
-            "section_id": 999,
-            "name": "オペレーションサポート リーダー",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "バトルバランス",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 50,
-            "section_id": 999,
-            "name": "オペレーションサポート",
-            "bottom_margin": 1
+            "section_id": 4,
+            "name": "スクリプター",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 51,
-            "section_id": 999,
-            "name": "インフォメーションセンター リーダー",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "アナリスト",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 52,
-            "section_id": 999,
-            "name": "インフォメーションセンター",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "サウンド",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 53,
-            "section_id": 999,
-            "name": "ネットワークオペレーションセンター マネージャー",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "アートディレクター",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 54,
-            "section_id": 999,
-            "name": "ネットワークオペレーションセンター",
-            "bottom_margin": 1
+            "section_id": 4,
+            "name": "テクニカルアーティスト",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 55,
-            "section_id": 999,
-            "name": "エンジニア",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "デザイナー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 56,
-            "section_id": 6,
-            "name": "テクニカルディレクター",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "背景アート",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 57,
-            "section_id": 7,
-            "name": "シニアマネージャー",
-            "bottom_margin": 1
+            "section_id": 4,
+            "name": "ドットキャラクター",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 58,
-            "section_id": 8,
-            "name": "執行役員  ",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "VFX",
+            "bottom_margin": 1,
+            "top_margin": 1
         },
         {
             "id": 59,
-            "section_id": 999,
-            "name": "ジェネラル・マネージャー",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "VFX アーティスト",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 60,
-            "section_id": 999,
-            "name": "マネージャー",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "VFX",
+            "bottom_margin": 1,
+            "top_margin": 1
         },
         {
             "id": 61,
-            "section_id": 9,
-            "name": "リードプランナー",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "VFX ディレクター",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 62,
-            "section_id": 999,
-            "name": "プランナー",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "VFX アーティスト",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 63,
-            "section_id": 10,
-            "name": "チーフ",
-            "bottom_margin": 1
+            "section_id": 4,
+            "name": "2Dアート",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 64,
-            "section_id": 11,
-            "name": "",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "プロジェクトマネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 65,
-            "section_id": 12,
-            "name": "",
-            "bottom_margin": 5
+            "section_id": 4,
+            "name": "QAリード",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 66,
-            "section_id": 14,
-            "name": "",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "QAテスター ",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 67,
-            "section_id": 999,
-            "name": "プロデューサー",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "QAテスター ",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 68,
-            "section_id": 999,
-            "name": "ディレクター",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "QAテスター ",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 69,
-            "section_id": 999,
-            "name": "クリエイティブプロデューサー兼エンジニア",
-            "bottom_margin": 5
+            "section_id": 4,
+            "name": "カスタマーサポート ",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 70,
-            "section_id": 999,
-            "name": "プランナー",
-            "bottom_margin": 2
+            "section_id": 4,
+            "name": "プロジェクトマネージャー",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 71,
-            "section_id": 999,
-            "name": "リードエンジニア",
-            "bottom_margin": 2
+            "section_id": 5,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 0
         },
         {
             "id": 72,
-            "section_id": 999,
-            "name": "サーバーエンジニア",
-            "bottom_margin": 2
+            "section_id": 5,
+            "name": "ゲーム事業本部 本部長",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 73,
-            "section_id": 999,
-            "name": "エンジニアリングマネージャー",
-            "bottom_margin": 2
+            "section_id": 5,
+            "name": "代表取締役CEO",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 74,
-            "section_id": 999,
-            "name": "バトルバランス",
-            "bottom_margin": 2
+            "section_id": 6,
+            "name": "CEO",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 75,
-            "section_id": 999,
-            "name": "スクリプター",
-            "bottom_margin": 2
+            "section_id": 6,
+            "name": "CTO",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 76,
-            "section_id": 999,
-            "name": "QAテスター ",
-            "bottom_margin": 1
+            "section_id": 6,
+            "name": "プロジェクトマネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 77,
-            "section_id": 999,
-            "name": "カスタマーサポート ",
-            "bottom_margin": 2
+            "section_id": 6,
+            "name": "テクニカルマネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 78,
-            "section_id": 999,
-            "name": "アナリスト",
-            "bottom_margin": 2
+            "section_id": 6,
+            "name": "クライアントエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 79,
-            "section_id": 999,
-            "name": "サウンド",
-            "bottom_margin": 2
+            "section_id": 6,
+            "name": "アートディレクター",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 80,
-            "section_id": 999,
-            "name": "アートディレクター",
-            "bottom_margin": 2
+            "section_id": 6,
+            "name": "クリエイティブマネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 81,
-            "section_id": 999,
-            "name": "テクニカルアーティスト",
-            "bottom_margin": 2
+            "section_id": 6,
+            "name": "UI/UXデザイナー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 82,
-            "section_id": 999,
-            "name": "デザイナー",
-            "bottom_margin": 2
+            "section_id": 6,
+            "name": "VFX アーティスト",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 83,
-            "section_id": 999,
-            "name": "背景アート",
-            "bottom_margin": 2
+            "section_id": 7,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 0
         },
         {
             "id": 84,
-            "section_id": 999,
-            "name": "ドットキャラクター",
-            "bottom_margin": 2
+            "section_id": 8,
+            "name": "QA",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 85,
-            "section_id": 15,
-            "name": "",
-            "bottom_margin": 2
+            "section_id": 8,
+            "name": "テクニカルQA",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 86,
-            "section_id": 999,
-            "name": "CEO",
-            "bottom_margin": 2
+            "section_id": 8,
+            "name": "QAテスター ",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 87,
-            "section_id": 999,
-            "name": "CTO",
-            "bottom_margin": 2
+            "section_id": 8,
+            "name": "チーフ",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 88,
-            "section_id": 999,
-            "name": "プロジェクトマネージャー",
-            "bottom_margin": 2
+            "section_id": 8,
+            "name": "レーティングアドバイザー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 89,
-            "section_id": 999,
-            "name": "クライアントエンジニア",
-            "bottom_margin": 2
+            "section_id": 8,
+            "name": "マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 90,
-            "section_id": 999,
-            "name": "テクニカルマネージャー",
-            "bottom_margin": 2
+            "section_id": 8,
+            "name": "ジェネラルマネージャー",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 91,
-            "section_id": 999,
-            "name": "アートディレクター",
-            "bottom_margin": 2
+            "section_id": 9,
+            "name": "ジェネラルマネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 92,
-            "section_id": 999,
-            "name": "UI/UXデザイナー",
-            "bottom_margin": 2
+            "section_id": 9,
+            "name": "カスタマーサポート マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 93,
-            "section_id": 999,
-            "name": "クリエイティブマネージャー",
-            "bottom_margin": 2
+            "section_id": 9,
+            "name": "オペレーションサポート リーダー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 94,
-            "section_id": 999,
-            "name": "VFX",
-            "bottom_margin": 2
+            "section_id": 9,
+            "name": "オペレーションサポート",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 95,
-            "section_id": 13,
-            "name": "",
-            "bottom_margin": 2
+            "section_id": 9,
+            "name": "インフォメーションセンター リーダー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 96,
-            "section_id": 999,
-            "name": "取締役 兼 第一開発事業本部 事業本部長",
-            "bottom_margin": 2
+            "section_id": 9,
+            "name": "インフォメーションセンター",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 97,
-            "section_id": 999,
-            "name": "専務取締役",
-            "bottom_margin": 2
+            "section_id": 9,
+            "name": "ネットワークオペレーションセンター マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 98,
-            "section_id": 999,
-            "name": "代表取締役社長",
-            "bottom_margin": 5
+            "section_id": 9,
+            "name": "ネットワークオペレーションセンター",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 99,
-            "section_id": 999,
-            "name": "製作総指揮",
-            "bottom_margin": 2
+            "section_id": 10,
+            "name": "テクニカルディレクター",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 100,
-            "section_id": 1,
-            "name": "ミュージックプロデューサー",
-            "bottom_margin": 2
+            "section_id": 10,
+            "name": "エンジニア",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 101,
-            "section_id": 999,
-            "name": "編曲、オーケストレーション",
-            "bottom_margin": 2
+            "section_id": 11,
+            "name": "シニアマネージャー",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 102,
-            "section_id": 999,
-            "name": "サックス/フルート",
-            "bottom_margin": 2
+            "section_id": 12,
+            "name": "執行役員",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 103,
-            "section_id": 999,
-            "name": "トロンボーン",
-            "bottom_margin": 2
+            "section_id": 12,
+            "name": "ジェネラル・マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 104,
-            "section_id": 999,
-            "name": "ガットギター",
-            "bottom_margin": 2
+            "section_id": 12,
+            "name": "マネージャー",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 105,
-            "section_id": 999,
-            "name": "フラメンコギター",
-            "bottom_margin": 2
+            "section_id": 13,
+            "name": "リードプランナー",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 106,
-            "section_id": 999,
-            "name": "テクニカルQA",
-            "bottom_margin": 1
+            "section_id": 13,
+            "name": "プランナー",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 107,
-            "section_id": 16,
-            "name": "事業本部長",
-            "bottom_margin": 2
+            "section_id": 14,
+            "name": "チーフ",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 108,
-            "section_id": 999,
-            "name": "副本部長",
-            "bottom_margin": 2
+            "section_id": 15,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 109,
-            "section_id": 17,
-            "name": "ディレクター",
-            "bottom_margin": 2
+            "section_id": 16,
+            "name": "事業本部長",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 110,
-            "section_id": 18,
-            "name": "リーダー",
-            "bottom_margin": 1
+            "section_id": 16,
+            "name": "副本部長",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 111,
-            "section_id": 999,
-            "name": "VFX",
-            "bottom_margin": 1
+            "section_id": 17,
+            "name": "ディレクター",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 112,
-            "section_id": 999,
-            "name": "VFX アーティスト",
-            "bottom_margin": 2
+            "section_id": 18,
+            "name": "リーダー",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 113,
-            "section_id": 999,
-            "name": "VFX ディレクター",
-            "bottom_margin": 2
+            "section_id": 19,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 114,
-            "section_id": 999,
-            "name": "2Dアート",
-            "bottom_margin": 2
+            "section_id": 20,
+            "name": "",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 115,
-            "section_id": 999,
-            "name": "QAリード",
-            "bottom_margin": 2
+            "section_id": 20,
+            "name": "取締役 兼 第一開発事業本部 事業本部長",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 116,
-            "section_id": 13,
-            "name": "",
-            "bottom_margin": 2
+            "section_id": 20,
+            "name": "専務取締役",
+            "bottom_margin": 2,
+            "top_margin": 1
         },
         {
             "id": 117,
-            "section_id": 999,
-            "name": "ゲーム事業本部 本部長",
-            "bottom_margin": 2
+            "section_id": 20,
+            "name": "代表取締役社長",
+            "bottom_margin": 5,
+            "top_margin": 1
         },
         {
             "id": 118,
-            "section_id": 999,
+            "section_id": 20,
+            "name": "製作総指揮",
+            "bottom_margin": 5,
+            "top_margin": 1
+        },
+        {
+            "id": 201,
+            "section_id": 299,
+            "name": "",
+            "bottom_margin": 5,
+            "top_margin": 0
+        },
+        {
+            "id": 202,
+            "section_id": 201,
+            "name": "サガシリーズプロデューサー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 203,
+            "section_id": 201,
+            "name": "シナリオ",
+            "bottom_margin": 0,
+            "top_margin": 0
+        },
+        {
+            "id": 204,
+            "section_id": 201,
+            "name": "音楽",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 205,
+            "section_id": 201,
+            "name": "キャラクターデザイン",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 206,
+            "section_id": 201,
+            "name": "ナビキャラクターイラスト",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 207,
+            "section_id": 201,
+            "name": "プロデューサー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 208,
+            "section_id": 201,
+            "name": "マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 209,
+            "section_id": 201,
+            "name": "ディレクター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 210,
+            "section_id": 202,
+            "name": "ミュージックプロデューサー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 211,
+            "section_id": 202,
+            "name": "音楽制作進行",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 212,
+            "section_id": 202,
+            "name": "ダイアログレコーディングエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 213,
+            "section_id": 202,
+            "name": "効果音",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 214,
+            "section_id": 202,
+            "name": "楽曲データ調整",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 215,
+            "section_id": 202,
+            "name": "編曲",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 216,
+            "section_id": 202,
+            "name": "編曲、オーケストレーション",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 217,
+            "section_id": 202,
+            "name": "シンセサイザーマニピュレーター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 218,
+            "section_id": 202,
+            "name": "レコーディング&ミキシングエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 219,
+            "section_id": 202,
+            "name": "レコーディングエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 220,
+            "section_id": 202,
+            "name": "ミキシングエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 221,
+            "section_id": 202,
+            "name": "アシスタントレコーディングエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 222,
+            "section_id": 202,
+            "name": "アシスタントミキシングエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 223,
+            "section_id": 202,
+            "name": "写譜",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 224,
+            "section_id": 202,
+            "name": "コントラクター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 225,
+            "section_id": 202,
+            "name": "フルート",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 226,
+            "section_id": 202,
+            "name": "フルート/ピッコロ",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 227,
+            "section_id": 202,
+            "name": "サックス/フルート",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 228,
+            "section_id": 202,
+            "name": "オーボエ",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 229,
+            "section_id": 202,
+            "name": "オーボエ/イングリッシュホルン",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 230,
+            "section_id": 202,
+            "name": "クラリネット",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 231,
+            "section_id": 202,
+            "name": "ファゴット",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 232,
+            "section_id": 202,
+            "name": "ホルン",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 233,
+            "section_id": 202,
+            "name": "トランペット",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 234,
+            "section_id": 202,
+            "name": "トロンボーン",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 235,
+            "section_id": 202,
+            "name": "バストロンボーン",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 236,
+            "section_id": 202,
+            "name": "チューバ/シンバッソ",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 237,
+            "section_id": 202,
+            "name": "ハープ",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 238,
+            "section_id": 202,
+            "name": "ピアノ",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 239,
+            "section_id": 202,
+            "name": "クロマチックハーモニカ",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 240,
+            "section_id": 202,
+            "name": "アコースティックギター/ガットギター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 241,
+            "section_id": 202,
+            "name": "ガットギター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 242,
+            "section_id": 202,
+            "name": "フラメンコギター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 243,
+            "section_id": 202,
+            "name": "エレクトリックギター/アコースティックギター/ガットギター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 244,
+            "section_id": 202,
+            "name": "エレクトリックギター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 245,
+            "section_id": 202,
+            "name": "ベース",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 246,
+            "section_id": 202,
+            "name": "バンドネオン",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 247,
+            "section_id": 202,
+            "name": "アコーディオン",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 248,
+            "section_id": 202,
+            "name": "パーカッション",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 249,
+            "section_id": 202,
+            "name": "ボーカル",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 250,
+            "section_id": 202,
+            "name": "ストリングス",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 251,
+            "section_id": 202,
+            "name": "真部ストリングス",
+            "bottom_margin": 0,
+            "top_margin": 0
+        },
+        {
+            "id": 252,
+            "section_id": 202,
+            "name": "バイオリン/バイオリンソロ",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 253,
+            "section_id": 202,
+            "name": "バイオリン",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 254,
+            "section_id": 202,
+            "name": "ヴィオラ",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 255,
+            "section_id": 202,
+            "name": "チェロ",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 256,
+            "section_id": 202,
+            "name": "コントラバス",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 257,
+            "section_id": 202,
+            "name": "室屋 光一郎ストリングス",
+            "bottom_margin": 0,
+            "top_margin": 0
+        },
+        {
+            "id": 258,
+            "section_id": 202,
+            "name": "バイオリン/バイオリンソロ",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 259,
+            "section_id": 202,
+            "name": "バイオリン",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 260,
+            "section_id": 202,
+            "name": "ヴィオラ",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 261,
+            "section_id": 202,
+            "name": "チェロ",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 262,
+            "section_id": 202,
+            "name": "コントラバス",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 263,
+            "section_id": 202,
+            "name": "プロジェクトマネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 264,
+            "section_id": 202,
+            "name": "レコーディングスタジオ",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 265,
+            "section_id": 203,
+            "name": "Keyboard",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 266,
+            "section_id": 203,
+            "name": "Keyboard",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 267,
+            "section_id": 203,
+            "name": "Guitar",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 268,
+            "section_id": 203,
+            "name": "Guitar",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 269,
+            "section_id": 203,
+            "name": "Bass",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 270,
+            "section_id": 203,
+            "name": "Drums",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 271,
+            "section_id": 204,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 0
+        },
+        {
+            "id": 272,
+            "section_id": 205,
+            "name": "リードプランナー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 273,
+            "section_id": 205,
+            "name": "プランナー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 274,
+            "section_id": 205,
+            "name": "リードエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 275,
+            "section_id": 205,
+            "name": "サーバーエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 276,
+            "section_id": 205,
+            "name": "スクリプター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 277,
+            "section_id": 205,
+            "name": "アナリスト",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 278,
+            "section_id": 205,
+            "name": "テクニカルアーティスト",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 279,
+            "section_id": 205,
+            "name": "サウンド",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 280,
+            "section_id": 205,
+            "name": "エフェクトリード",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 281,
+            "section_id": 205,
+            "name": "エフェクト",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 282,
+            "section_id": 205,
+            "name": "2Dアートリード",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 283,
+            "section_id": 205,
+            "name": "2Dアート",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 284,
+            "section_id": 205,
+            "name": "2Dデザインリード",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 285,
+            "section_id": 205,
+            "name": "2Dデザイン",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 286,
+            "section_id": 205,
+            "name": "背景アート",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 287,
+            "section_id": 205,
+            "name": "ドットキャラクター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 288,
+            "section_id": 205,
+            "name": "QAリード",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 289,
+            "section_id": 205,
+            "name": "QAテスター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 290,
+            "section_id": 205,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 0
+        },
+        {
+            "id": 291,
+            "section_id": 205,
+            "name": "QAテスター",
+            "bottom_margin": 5,
+            "top_margin": 1
+        },
+        {
+            "id": 292,
+            "section_id": 205,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 0
+        },
+        {
+            "id": 293,
+            "section_id": 205,
+            "name": "QAテスター",
+            "bottom_margin": 5,
+            "top_margin": 1
+        },
+        {
+            "id": 294,
+            "section_id": 205,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 0
+        },
+        {
+            "id": 295,
+            "section_id": 205,
+            "name": "アドバイザー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 296,
+            "section_id": 205,
+            "name": "QAリード",
+            "bottom_margin": 1,
+            "top_margin": 1
+        },
+        {
+            "id": 297,
+            "section_id": 205,
+            "name": "QAテスター",
+            "bottom_margin": 5,
+            "top_margin": 1
+        },
+        {
+            "id": 298,
+            "section_id": 205,
+            "name": "QAテスター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 299,
+            "section_id": 205,
+            "name": "バランスQAリード",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 300,
+            "section_id": 205,
+            "name": "バランスQA",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 301,
+            "section_id": 205,
+            "name": "品質管理",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 302,
+            "section_id": 205,
+            "name": "Customer Experience",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 303,
+            "section_id": 205,
+            "name": "マーケティング",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 304,
+            "section_id": 205,
+            "name": "プロジェクトアシスタント",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 305,
+            "section_id": 205,
+            "name": "プロジェクトマネージャー",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 306,
+            "section_id": 206,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 0
+        },
+        {
+            "id": 307,
+            "section_id": 206,
             "name": "代表取締役CEO",
-            "bottom_margin": 5
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 308,
+            "section_id": 207,
+            "name": "代表取締役CEO",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 309,
+            "section_id": 208,
+            "name": "Akatsuki Taiwan CEO",
+            "bottom_margin": 4,
+            "top_margin": 1
+        },
+        {
+            "id": 310,
+            "section_id": 208,
+            "name": "Producer",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 311,
+            "section_id": 208,
+            "name": "Director",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 312,
+            "section_id": 208,
+            "name": "Operations Manager",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 313,
+            "section_id": 208,
+            "name": "Lead Planner",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 314,
+            "section_id": 208,
+            "name": "Planner",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 315,
+            "section_id": 208,
+            "name": "Lead Designer",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 316,
+            "section_id": 208,
+            "name": "Designer",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 317,
+            "section_id": 208,
+            "name": "Engineering Lead",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 318,
+            "section_id": 208,
+            "name": "Server Engineer",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 319,
+            "section_id": 208,
+            "name": "Client Engineer",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 320,
+            "section_id": 208,
+            "name": "Localization Lead",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 321,
+            "section_id": 208,
+            "name": "Language Localization",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 322,
+            "section_id": 208,
+            "name": "Quality Assurance Lead",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 323,
+            "section_id": 208,
+            "name": "Quality Assurance",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 324,
+            "section_id": 208,
+            "name": "Lead Coordinator",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 325,
+            "section_id": 208,
+            "name": "Coordinator",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 326,
+            "section_id": 208,
+            "name": "Translation Assistant",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 327,
+            "section_id": 208,
+            "name": "Customer Service Lead",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 328,
+            "section_id": 208,
+            "name": "Customer Service",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 329,
+            "section_id": 208,
+            "name": "Marketing",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 330,
+            "section_id": 208,
+            "name": "Community Manager",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 331,
+            "section_id": 208,
+            "name": "Marketing / PR",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 332,
+            "section_id": 208,
+            "name": "Marketing Designer",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 333,
+            "section_id": 209,
+            "name": "CEO",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 334,
+            "section_id": 209,
+            "name": "CTO",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 335,
+            "section_id": 209,
+            "name": "プロジェクトマネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 336,
+            "section_id": 209,
+            "name": "テクニカルマネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 337,
+            "section_id": 209,
+            "name": "クライアントエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 338,
+            "section_id": 209,
+            "name": "アートディレクター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 339,
+            "section_id": 209,
+            "name": "クリエイティブマネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 340,
+            "section_id": 209,
+            "name": "UI/UXデザイナー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 341,
+            "section_id": 209,
+            "name": "VFX アーティスト",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 342,
+            "section_id": 210,
+            "name": "VFX ディレクター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 343,
+            "section_id": 210,
+            "name": "VFX アーティスト",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 344,
+            "section_id": 211,
+            "name": "VFX ディレクター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 345,
+            "section_id": 211,
+            "name": "VFX アーティスト",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 346,
+            "section_id": 211,
+            "name": "2Dアート",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 347,
+            "section_id": 211,
+            "name": "プロジェクトマネージャー",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 348,
+            "section_id": 212,
+            "name": "サウンドディレクター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 349,
+            "section_id": 212,
+            "name": "サウンドデザイナー",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 350,
+            "section_id": 213,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 0
+        },
+        {
+            "id": 351,
+            "section_id": 214,
+            "name": "QA",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 352,
+            "section_id": 214,
+            "name": "ガイドラインQA",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 353,
+            "section_id": 214,
+            "name": "QAテスター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 354,
+            "section_id": 214,
+            "name": "チーフ",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 355,
+            "section_id": 214,
+            "name": "レーティングアドバイザー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 356,
+            "section_id": 214,
+            "name": "マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 357,
+            "section_id": 214,
+            "name": "ジェネラルマネージャー",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 358,
+            "section_id": 215,
+            "name": "ジェネラルマネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 359,
+            "section_id": 215,
+            "name": "カスタマーサポート マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 360,
+            "section_id": 215,
+            "name": "オペレーションサポート リーダー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 361,
+            "section_id": 215,
+            "name": "オペレーションサポート",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 362,
+            "section_id": 215,
+            "name": "インフォメーションセンター リーダー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 363,
+            "section_id": 215,
+            "name": "インフォメーションセンター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 364,
+            "section_id": 215,
+            "name": "ネットワークオペレーションセンター マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 365,
+            "section_id": 215,
+            "name": "ネットワークオペレーションセンター",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 366,
+            "section_id": 216,
+            "name": "執行役員",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 367,
+            "section_id": 216,
+            "name": "シニア・マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 368,
+            "section_id": 216,
+            "name": "マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 369,
+            "section_id": 216,
+            "name": "エンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 370,
+            "section_id": 216,
+            "name": "業務",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 371,
+            "section_id": 217,
+            "name": "ジェネラル・マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 372,
+            "section_id": 217,
+            "name": "マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 373,
+            "section_id": 217,
+            "name": "サポートエンジニア",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 374,
+            "section_id": 217,
+            "name": "ビジネスディベロップメント",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 375,
+            "section_id": 218,
+            "name": "執行役員&ジェネラル・マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 376,
+            "section_id": 218,
+            "name": "マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 377,
+            "section_id": 201,
+            "name": "リードプランナー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 378,
+            "section_id": 201,
+            "name": "チーフ",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 379,
+            "section_id": 201,
+            "name": "シニア・マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 380,
+            "section_id": 201,
+            "name": "マーケティングリサーチ",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 381,
+            "section_id": 222,
+            "name": "執行役員 事業本部長",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 382,
+            "section_id": 222,
+            "name": "副本部長",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 383,
+            "section_id": 223,
+            "name": "ディレクター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 384,
+            "section_id": 223,
+            "name": "シニア・マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 385,
+            "section_id": 223,
+            "name": "スタッフ",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 386,
+            "section_id": 224,
+            "name": "ディレクター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 387,
+            "section_id": 224,
+            "name": "ディレクター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 388,
+            "section_id": 224,
+            "name": "スタッフ",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 389,
+            "section_id": 225,
+            "name": "執行役員",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 390,
+            "section_id": 225,
+            "name": "事業部長",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 391,
+            "section_id": 225,
+            "name": "副事業部長",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 392,
+            "section_id": 225,
+            "name": "マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 393,
+            "section_id": 225,
+            "name": "プロダクションコーディネーター",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 394,
+            "section_id": 225,
+            "name": "プロモーションコーディネーター",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 395,
+            "section_id": 226,
+            "name": "ディレクター",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 396,
+            "section_id": 227,
+            "name": "Gファンタジー編集部",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 398,
+            "section_id": 366,
+            "name": "『ロマンシング サガ リ・ユニバース』",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 399,
+            "section_id": 366,
+            "name": "『ロマサガ学園記』",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 400,
+            "section_id": 228,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 401,
+            "section_id": 229,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 402,
+            "section_id": 230,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 403,
+            "section_id": 231,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 404,
+            "section_id": 232,
+            "name": "",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 405,
+            "section_id": 232,
+            "name": "取締役 兼 第一開発事業本部 事業本部長",
+            "bottom_margin": 5,
+            "top_margin": 1
+        },
+        {
+            "id": 406,
+            "section_id": 232,
+            "name": "代表取締役",
+            "bottom_margin": 5,
+            "top_margin": 1
+        },
+        {
+            "id": 407,
+            "section_id": 232,
+            "name": "製作総指揮",
+            "bottom_margin": 0,
+            "top_margin": 1
+        },
+        {
+            "id": 408,
+            "section_id": 218,
+            "name": "シニア・マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 409,
+            "section_id": 201,
+            "name": "〈マーケティング＆PR〉",
+            "bottom_margin": 0,
+            "top_margin": 0
+        },
+        {
+            "id": 410,
+            "section_id": 201,
+            "name": "〈マーケティング&PR 運用〉",
+            "bottom_margin": 0,
+            "top_margin": 0
+        },
+        {
+            "id": 411,
+            "section_id": 201,
+            "name": "〈マーケティングリサーチ〉",
+            "bottom_margin": 0,
+            "top_margin": 0
+        },
+        {
+            "id": 412,
+            "section_id": 201,
+            "name": "マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 413,
+            "section_id": 224,
+            "name": "マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 414,
+            "section_id": 201,
+            "name": "ポルカ編",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 415,
+            "section_id": 201,
+            "name": "リアム編/シィレイ編",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 416,
+            "section_id": 223,
+            "name": "マネージャー",
+            "bottom_margin": 2,
+            "top_margin": 1
+        },
+        {
+            "id": 417,
+            "section_id": 201,
+            "name": "コミュニティディレクター",
+            "bottom_margin": 0,
+            "top_margin": 1
         },
         {
             "id": 997,
             "section_id": 999,
             "name": "",
-            "bottom_margin": 1
+            "bottom_margin": 1,
+            "top_margin": 0
         },
         {
             "id": 998,
             "section_id": 999,
             "name": "",
-            "bottom_margin": 2
+            "bottom_margin": 2,
+            "top_margin": 0
         },
         {
             "id": 999,
             "section_id": 999,
             "name": "",
-            "bottom_margin": 3
+            "bottom_margin": 3,
+            "top_margin": 0
         }
     ]
 }

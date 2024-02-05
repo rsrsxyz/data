@@ -1475,6 +1475,38 @@
             ]
         },
         {
+            "id": 1054,
+            "name": "Imperial Cross EX",
+            "flavor_text": "Improved Imperial Cross formation that boosts all members. Positions determine what's boosted. For parties that want to optimize the use of each member's attributes.",
+            "positions": [
+                {
+                    "x": 25,
+                    "y": 25,
+                    "formation_bonus_id": 1163
+                },
+                {
+                    "x": 42,
+                    "y": 25,
+                    "formation_bonus_id": 1164
+                },
+                {
+                    "x": 8,
+                    "y": 25,
+                    "formation_bonus_id": 1165
+                },
+                {
+                    "x": 25,
+                    "y": 10,
+                    "formation_bonus_id": 1166
+                },
+                {
+                    "x": 25,
+                    "y": 40,
+                    "formation_bonus_id": 1167
+                }
+            ]
+        },
+        {
             "id": 11001000,
             "name": "Free For All",
             "flavor_text": "",

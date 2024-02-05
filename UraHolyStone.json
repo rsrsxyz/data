@@ -2046,6 +2046,37 @@
             ]
         },
         {
+            "id": 100120009,
+            "fixed_ability_ids": [],
+            "ability_box_ids": [
+                100120006,
+                100120003
+            ]
+        },
+        {
+            "id": 100120010,
+            "fixed_ability_ids": [],
+            "ability_box_ids": [
+                100120007,
+                100120003
+            ]
+        },
+        {
+            "id": 100120011,
+            "fixed_ability_ids": [],
+            "ability_box_ids": [
+                100120008,
+                100120003
+            ]
+        },
+        {
+            "id": 100120014,
+            "fixed_ability_ids": [],
+            "ability_box_ids": [
+                100120011
+            ]
+        },
+        {
             "id": 100130001,
             "fixed_ability_ids": [
                 711100450
@@ -2108,6 +2139,13 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150008,
+            "fixed_ability_ids": [
+                711100482
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150009,
             "fixed_ability_ids": [
                 711100483
@@ -2143,6 +2181,13 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150017,
+            "fixed_ability_ids": [
+                711100491
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150018,
             "fixed_ability_ids": [
                 711100492
@@ -2150,9 +2195,65 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150020,
+            "fixed_ability_ids": [
+                711100494
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150021,
+            "fixed_ability_ids": [
+                711100495
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150022,
+            "fixed_ability_ids": [
+                711100496
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150023,
+            "fixed_ability_ids": [
+                711100497
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150024,
+            "fixed_ability_ids": [
+                711100498
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150029,
             "fixed_ability_ids": [
                 711100503
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150030,
+            "fixed_ability_ids": [
+                711100504
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150031,
+            "fixed_ability_ids": [
+                711100505
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150032,
+            "fixed_ability_ids": [
+                711100506
             ],
             "ability_box_ids": []
         },
@@ -2178,6 +2279,13 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150041,
+            "fixed_ability_ids": [
+                711100515
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150043,
             "fixed_ability_ids": [
                 711100517
@@ -2199,9 +2307,44 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150046,
+            "fixed_ability_ids": [
+                711100520
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150047,
+            "fixed_ability_ids": [
+                711100521
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150048,
+            "fixed_ability_ids": [
+                711100522
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150050,
             "fixed_ability_ids": [
                 711100524
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150056,
+            "fixed_ability_ids": [
+                711100530
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150059,
+            "fixed_ability_ids": [
+                711100533
             ],
             "ability_box_ids": []
         },
@@ -2213,9 +2356,72 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150066,
+            "fixed_ability_ids": [
+                711100540
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150068,
+            "fixed_ability_ids": [
+                711100542
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150069,
+            "fixed_ability_ids": [
+                711100543
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150070,
+            "fixed_ability_ids": [
+                711100544
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150087,
+            "fixed_ability_ids": [
+                711100561
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150099,
+            "fixed_ability_ids": [
+                711100573
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150100,
+            "fixed_ability_ids": [
+                711100574
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150101,
             "fixed_ability_ids": [
                 711100575
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150103,
+            "fixed_ability_ids": [
+                711100577
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150104,
+            "fixed_ability_ids": [
+                711100578
             ],
             "ability_box_ids": []
         },
@@ -2241,9 +2447,93 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150108,
+            "fixed_ability_ids": [
+                711100582
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150109,
+            "fixed_ability_ids": [
+                711100583
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150111,
+            "fixed_ability_ids": [
+                711100585
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150112,
             "fixed_ability_ids": [
                 711100586
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150114,
+            "fixed_ability_ids": [
+                711100588
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150116,
+            "fixed_ability_ids": [
+                711100590
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150117,
+            "fixed_ability_ids": [
+                711100591
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150121,
+            "fixed_ability_ids": [
+                711100595
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150123,
+            "fixed_ability_ids": [
+                711100597
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150124,
+            "fixed_ability_ids": [
+                711100598
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150130,
+            "fixed_ability_ids": [
+                711100604
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150131,
+            "fixed_ability_ids": [
+                711100605
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150132,
+            "fixed_ability_ids": [
+                711100606
             ],
             "ability_box_ids": []
         },
@@ -2255,9 +2545,79 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150134,
+            "fixed_ability_ids": [
+                711100608
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150135,
+            "fixed_ability_ids": [
+                711100609
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150138,
             "fixed_ability_ids": [
                 711100612
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150139,
+            "fixed_ability_ids": [
+                711100613
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150140,
+            "fixed_ability_ids": [
+                711100614
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150142,
+            "fixed_ability_ids": [
+                711100616
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150143,
+            "fixed_ability_ids": [
+                711100617
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150144,
+            "fixed_ability_ids": [
+                711100618
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150149,
+            "fixed_ability_ids": [
+                711100623
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150152,
+            "fixed_ability_ids": [
+                711100626
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150154,
+            "fixed_ability_ids": [
+                711100628
             ],
             "ability_box_ids": []
         },
@@ -2297,9 +2657,44 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150166,
+            "fixed_ability_ids": [
+                711100640
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150167,
+            "fixed_ability_ids": [
+                711100641
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150168,
+            "fixed_ability_ids": [
+                711100642
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150169,
+            "fixed_ability_ids": [
+                711100643
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150170,
             "fixed_ability_ids": [
                 711100644
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150171,
+            "fixed_ability_ids": [
+                711100645
             ],
             "ability_box_ids": []
         },
@@ -2339,9 +2734,79 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150180,
+            "fixed_ability_ids": [
+                711100654
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150184,
+            "fixed_ability_ids": [
+                711100658
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150185,
+            "fixed_ability_ids": [
+                711100659
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150186,
+            "fixed_ability_ids": [
+                711100660
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150187,
+            "fixed_ability_ids": [
+                711100661
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150188,
+            "fixed_ability_ids": [
+                711100662
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150190,
             "fixed_ability_ids": [
                 711100664
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150191,
+            "fixed_ability_ids": [
+                711100665
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150195,
+            "fixed_ability_ids": [
+                711100669
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150196,
+            "fixed_ability_ids": [
+                711100670
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150199,
+            "fixed_ability_ids": [
+                711100673
             ],
             "ability_box_ids": []
         },
@@ -2353,9 +2818,37 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150202,
+            "fixed_ability_ids": [
+                711100676
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150203,
+            "fixed_ability_ids": [
+                711100677
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150208,
             "fixed_ability_ids": [
                 711100682
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150209,
+            "fixed_ability_ids": [
+                711100683
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150210,
+            "fixed_ability_ids": [
+                711100684
             ],
             "ability_box_ids": []
         },
@@ -2381,6 +2874,34 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150216,
+            "fixed_ability_ids": [
+                711100690
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150221,
+            "fixed_ability_ids": [
+                711100695
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150235,
+            "fixed_ability_ids": [
+                711100709
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150241,
+            "fixed_ability_ids": [
+                711100715
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150246,
             "fixed_ability_ids": [
                 711100720
@@ -2391,6 +2912,20 @@
             "id": 100150247,
             "fixed_ability_ids": [
                 711100721
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150248,
+            "fixed_ability_ids": [
+                711100722
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150252,
+            "fixed_ability_ids": [
+                711100726
             ],
             "ability_box_ids": []
         },
@@ -2409,6 +2944,20 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150258,
+            "fixed_ability_ids": [
+                711100732
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150259,
+            "fixed_ability_ids": [
+                711100733
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150260,
             "fixed_ability_ids": [
                 711100734
@@ -2423,6 +2972,13 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150263,
+            "fixed_ability_ids": [
+                711100737
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150266,
             "fixed_ability_ids": [
                 711100740
@@ -2430,9 +2986,30 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150268,
+            "fixed_ability_ids": [
+                711100742
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150269,
+            "fixed_ability_ids": [
+                711100743
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150271,
             "fixed_ability_ids": [
                 711100745
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150272,
+            "fixed_ability_ids": [
+                711100746
             ],
             "ability_box_ids": []
         },
@@ -2454,6 +3031,48 @@
             "id": 100150282,
             "fixed_ability_ids": [
                 711100756
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150291,
+            "fixed_ability_ids": [
+                711100765
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150292,
+            "fixed_ability_ids": [
+                711100766
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150293,
+            "fixed_ability_ids": [
+                711100767
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150294,
+            "fixed_ability_ids": [
+                711100768
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150314,
+            "fixed_ability_ids": [
+                711100788
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150315,
+            "fixed_ability_ids": [
+                711100789
             ],
             "ability_box_ids": []
         },
@@ -2486,6 +3105,20 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150323,
+            "fixed_ability_ids": [
+                711100797
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150324,
+            "fixed_ability_ids": [
+                711100798
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150331,
             "fixed_ability_ids": [
                 711100805
@@ -2500,9 +3133,37 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150333,
+            "fixed_ability_ids": [
+                711100807
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150337,
             "fixed_ability_ids": [
                 711100811
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150338,
+            "fixed_ability_ids": [
+                711100812
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150339,
+            "fixed_ability_ids": [
+                711100813
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150341,
+            "fixed_ability_ids": [
+                711100815
             ],
             "ability_box_ids": []
         },
@@ -2521,9 +3182,23 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150346,
+            "fixed_ability_ids": [
+                711100820
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150348,
             "fixed_ability_ids": [
                 711100822
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150349,
+            "fixed_ability_ids": [
+                711100823
             ],
             "ability_box_ids": []
         },
@@ -2542,9 +3217,30 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150352,
+            "fixed_ability_ids": [
+                711100826
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150353,
+            "fixed_ability_ids": [
+                711100827
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150355,
             "fixed_ability_ids": [
                 711100829
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150373,
+            "fixed_ability_ids": [
+                711100847
             ],
             "ability_box_ids": []
         },
@@ -2563,9 +3259,51 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150382,
+            "fixed_ability_ids": [
+                711100856
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150383,
             "fixed_ability_ids": [
                 711100857
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150385,
+            "fixed_ability_ids": [
+                711100859
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150386,
+            "fixed_ability_ids": [
+                711100860
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150387,
+            "fixed_ability_ids": [
+                711100861
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150388,
+            "fixed_ability_ids": [
+                711100862
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150389,
+            "fixed_ability_ids": [
+                711100863
             ],
             "ability_box_ids": []
         },
@@ -2598,9 +3336,30 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150414,
+            "fixed_ability_ids": [
+                711100888
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150416,
+            "fixed_ability_ids": [
+                711100890
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150417,
             "fixed_ability_ids": [
                 711100891
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150440,
+            "fixed_ability_ids": [
+                711100914
             ],
             "ability_box_ids": []
         },
@@ -2619,6 +3378,27 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150452,
+            "fixed_ability_ids": [
+                711100926
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150457,
+            "fixed_ability_ids": [
+                711100931
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150481,
+            "fixed_ability_ids": [
+                711100955
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150487,
             "fixed_ability_ids": [
                 711100961
@@ -2633,9 +3413,23 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150490,
+            "fixed_ability_ids": [
+                711100964
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150502,
             "fixed_ability_ids": [
                 711100976
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150512,
+            "fixed_ability_ids": [
+                711100986
             ],
             "ability_box_ids": []
         },
@@ -2654,6 +3448,34 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150518,
+            "fixed_ability_ids": [
+                711100992
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150519,
+            "fixed_ability_ids": [
+                711100993
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150520,
+            "fixed_ability_ids": [
+                711100994
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150522,
+            "fixed_ability_ids": [
+                711100996
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150523,
             "fixed_ability_ids": [
                 711100997
@@ -2668,6 +3490,41 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150525,
+            "fixed_ability_ids": [
+                711100999
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150526,
+            "fixed_ability_ids": [
+                711101000
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150527,
+            "fixed_ability_ids": [
+                711101001
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150528,
+            "fixed_ability_ids": [
+                711101002
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150531,
+            "fixed_ability_ids": [
+                711101005
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150533,
             "fixed_ability_ids": [
                 711101007
@@ -2675,9 +3532,23 @@
             "ability_box_ids": []
         },
         {
+            "id": 100150535,
+            "fixed_ability_ids": [
+                711101009
+            ],
+            "ability_box_ids": []
+        },
+        {
             "id": 100150537,
             "fixed_ability_ids": [
                 711101011
+            ],
+            "ability_box_ids": []
+        },
+        {
+            "id": 100150540,
+            "fixed_ability_ids": [
+                711101014
             ],
             "ability_box_ids": []
         },

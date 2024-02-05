@@ -369,6 +369,138 @@
             "resist_rai": 0,
             "resist_you": -35,
             "resist_inn": 50
+        },
+        {
+            "id": 700010001,
+            "battle_id": 700010011,
+            "resist_zan": -35,
+            "resist_da": 0,
+            "resist_totsu": -35,
+            "resist_netsu": -35,
+            "resist_rei": 0,
+            "resist_rai": 0,
+            "resist_you": 0,
+            "resist_inn": 0
+        },
+        {
+            "id": 700010002,
+            "battle_id": 700010021,
+            "resist_zan": 0,
+            "resist_da": 0,
+            "resist_totsu": 0,
+            "resist_netsu": 0,
+            "resist_rei": 0,
+            "resist_rai": 0,
+            "resist_you": 0,
+            "resist_inn": 0
+        },
+        {
+            "id": 700010003,
+            "battle_id": 700010031,
+            "resist_zan": -35,
+            "resist_da": 0,
+            "resist_totsu": 0,
+            "resist_netsu": -35,
+            "resist_rei": 0,
+            "resist_rai": 0,
+            "resist_you": 0,
+            "resist_inn": 0
+        },
+        {
+            "id": 700010004,
+            "battle_id": 700010041,
+            "resist_zan": 0,
+            "resist_da": -35,
+            "resist_totsu": -35,
+            "resist_netsu": 0,
+            "resist_rei": 0,
+            "resist_rai": 0,
+            "resist_you": 0,
+            "resist_inn": 0
+        },
+        {
+            "id": 700010005,
+            "battle_id": 700010051,
+            "resist_zan": 0,
+            "resist_da": 0,
+            "resist_totsu": 0,
+            "resist_netsu": 0,
+            "resist_rei": 0,
+            "resist_rai": -35,
+            "resist_you": -35,
+            "resist_inn": 0
+        },
+        {
+            "id": 700010006,
+            "battle_id": 700010061,
+            "resist_zan": 0,
+            "resist_da": 0,
+            "resist_totsu": -35,
+            "resist_netsu": 0,
+            "resist_rei": 0,
+            "resist_rai": 0,
+            "resist_you": 0,
+            "resist_inn": 0
+        },
+        {
+            "id": 700010007,
+            "battle_id": 700010071,
+            "resist_zan": 0,
+            "resist_da": 0,
+            "resist_totsu": -35,
+            "resist_netsu": -35,
+            "resist_rei": -35,
+            "resist_rai": -35,
+            "resist_you": 0,
+            "resist_inn": 0
+        },
+        {
+            "id": 700010008,
+            "battle_id": 700010081,
+            "resist_zan": 0,
+            "resist_da": -35,
+            "resist_totsu": 0,
+            "resist_netsu": 0,
+            "resist_rei": 0,
+            "resist_rai": 0,
+            "resist_you": 0,
+            "resist_inn": 0
+        },
+        {
+            "id": 700010009,
+            "battle_id": 700010091,
+            "resist_zan": 0,
+            "resist_da": -35,
+            "resist_totsu": 0,
+            "resist_netsu": -35,
+            "resist_rei": -35,
+            "resist_rai": 0,
+            "resist_you": 0,
+            "resist_inn": 0
+        },
+        {
+            "id": 700010010,
+            "battle_id": 700010101,
+            "resist_zan": 0,
+            "resist_da": -35,
+            "resist_totsu": 0,
+            "resist_netsu": 0,
+            "resist_rei": 0,
+            "resist_rai": 0,
+            "resist_you": -35,
+            "resist_inn": 0
+        },
+        {
+            "id": 700010011,
+            "battle_id": 700010111,
+            "resist_zan": -35,
+            "resist_da": 0,
+            "resist_totsu": -35,
+            "resist_netsu": 0,
+            "resist_rei": 0,
+            "resist_rai": 0,
+            "resist_you": 0,
+            "resist_inn": -35
         }
     ]
 }

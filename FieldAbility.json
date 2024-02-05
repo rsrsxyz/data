@@ -17,13 +17,7 @@
             "icon": 4010,
             "effect_name": "field_earth",
             "cue_sheet_name": "se_fieldability",
-            "se_name": "se_fieldability_earth",
-            "special_effect_ids": [
-                818040001
-            ],
-            "field_ability_when": 1,
-            "field_ability_group": 99,
-            "is_cancelable": 0
+            "se_name": "se_fieldability_earth"
         },
         {
             "id": 718100002,
@@ -32,13 +26,7 @@
             "icon": 4010,
             "effect_name": "field_earth",
             "cue_sheet_name": "se_fieldability",
-            "se_name": "se_fieldability_earth",
-            "special_effect_ids": [
-                818040001
-            ],
-            "field_ability_when": 1,
-            "field_ability_group": 99,
-            "is_cancelable": 0
+            "se_name": "se_fieldability_earth"
         },
         {
             "id": 718200001,
@@ -47,13 +35,7 @@
             "icon": 4010,
             "effect_name": "field_ice",
             "cue_sheet_name": "se_fieldability",
-            "se_name": "se_fieldability_ice",
-            "special_effect_ids": [
-                818040003
-            ],
-            "field_ability_when": 2,
-            "field_ability_group": 99,
-            "is_cancelable": 0
+            "se_name": "se_fieldability_ice"
         },
         {
             "id": 718200002,
@@ -62,13 +44,7 @@
             "icon": 4007,
             "effect_name": "field_wood",
             "cue_sheet_name": "se_fieldability",
-            "se_name": "se_fieldability_tree",
-            "special_effect_ids": [
-                818050001
-            ],
-            "field_ability_when": 2,
-            "field_ability_group": 99,
-            "is_cancelable": 0
+            "se_name": "se_fieldability_tree"
         },
         {
             "id": 718200003,
@@ -77,13 +53,7 @@
             "icon": 4010,
             "effect_name": "field_fire",
             "cue_sheet_name": "se_fieldability",
-            "se_name": "se_fieldability_fire",
-            "special_effect_ids": [
-                818050002
-            ],
-            "field_ability_when": 2,
-            "field_ability_group": 99,
-            "is_cancelable": 0
+            "se_name": "se_fieldability_fire"
         },
         {
             "id": 718200004,
@@ -92,13 +62,7 @@
             "icon": 4010,
             "effect_name": "field_metal",
             "cue_sheet_name": "se_fieldability",
-            "se_name": "se_fieldability_gold",
-            "special_effect_ids": [
-                818040002
-            ],
-            "field_ability_when": 2,
-            "field_ability_group": 99,
-            "is_cancelable": 0
+            "se_name": "se_fieldability_gold"
         },
         {
             "id": 718200005,
@@ -107,13 +71,7 @@
             "icon": 4010,
             "effect_name": "field_ice",
             "cue_sheet_name": "se_fieldability",
-            "se_name": "se_fieldability_ice",
-            "special_effect_ids": [
-                818040003
-            ],
-            "field_ability_when": 2,
-            "field_ability_group": 99,
-            "is_cancelable": 0
+            "se_name": "se_fieldability_ice"
         },
         {
             "id": 718200006,
@@ -122,14 +80,7 @@
             "icon": 4007,
             "effect_name": "field_wood",
             "cue_sheet_name": "se_fieldability",
-            "se_name": "se_fieldability_tree",
-            "special_effect_ids": [
-                818050001,
-                818050003
-            ],
-            "field_ability_when": 2,
-            "field_ability_group": 99,
-            "is_cancelable": 0
+            "se_name": "se_fieldability_tree"
         }
     ]
 }

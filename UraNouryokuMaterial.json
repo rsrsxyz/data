@@ -87,7 +87,7 @@
             "name": "Testament of the Mighty: Rank 1",
             "flavor_text": "Used to unlock 1st stage of Hidden Attribute caps.",
             "icon": "881021",
-            "max_quantity": 9999,
+            "max_quantity": 99999,
             "sort_order": 49999900
         },
         {
@@ -95,7 +95,7 @@
             "name": "Testament of the Mighty: Rank 2",
             "flavor_text": "Used to unlock 2nd stage of Hidden Attribute caps.",
             "icon": "881022",
-            "max_quantity": 9999,
+            "max_quantity": 99999,
             "sort_order": 49999895
         },
         {
@@ -103,7 +103,7 @@
             "name": "Testament of the Mighty: Rank 3",
             "flavor_text": "Used to unlock 3rd stage of Hidden Attribute caps.",
             "icon": "881023",
-            "max_quantity": 9999,
+            "max_quantity": 99999,
             "sort_order": 49999890
         },
         {
@@ -111,7 +111,7 @@
             "name": "Testament of the Mighty: Rank 4",
             "flavor_text": "Used to unlock 4th stage of Hidden Attribute caps.",
             "icon": "881024",
-            "max_quantity": 9999,
+            "max_quantity": 99999,
             "sort_order": 49999885
         },
         {
@@ -119,7 +119,7 @@
             "name": "Testament of the Mighty: Rank 5",
             "flavor_text": "Used to unlock 5th stage of Hidden Attribute caps.",
             "icon": "881025",
-            "max_quantity": 9999,
+            "max_quantity": 99999,
             "sort_order": 49999880
         },
         {
@@ -127,7 +127,7 @@
             "name": "Testament of the Mighty: Rank 6",
             "flavor_text": "Used to unlock 6th stage of Hidden Attribute caps.",
             "icon": "881026",
-            "max_quantity": 9999,
+            "max_quantity": 99999,
             "sort_order": 49999875
         },
         {
@@ -135,8 +135,16 @@
             "name": "Testament of the Mighty: Rank 7",
             "flavor_text": "Used to unlock 7th stage of Hidden Attribute caps.",
             "icon": "881027",
-            "max_quantity": 9999,
+            "max_quantity": 99999,
             "sort_order": 49999870
+        },
+        {
+            "id": 881008,
+            "name": "Testament of the Mighty: Rank 8",
+            "flavor_text": "Used to unlock 8th stage of Hidden Attribute caps.",
+            "icon": "881028",
+            "max_quantity": 99999,
+            "sort_order": 49999865
         }
     ]
 }

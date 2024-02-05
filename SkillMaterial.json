@@ -16,7 +16,7 @@
             "flavor_text": "Material used to awaken skills/spells at the Dojo.",
             "icon": 303001,
             "selling_price": 1000,
-            "sort_order": 997
+            "sort_order": 999
         },
         {
             "id": 304001,
@@ -32,7 +32,7 @@
             "flavor_text": "Material used to awaken skills/spells at the Dojo.",
             "icon": 305001,
             "selling_price": 100000,
-            "sort_order": 999
+            "sort_order": 997
         },
         {
             "id": 403001,
@@ -176,7 +176,7 @@
             "flavor_text": "S-rank material used to awaken skills/spells at the Dojo.",
             "icon": 404030,
             "selling_price": 1000,
-            "sort_order": 971
+            "sort_order": 969
         },
         {
             "id": 405003,
@@ -248,7 +248,7 @@
             "flavor_text": "SS-rank material used to awaken skills/spells at the Dojo.",
             "icon": 405030,
             "selling_price": 2000,
-            "sort_order": 972
+            "sort_order": 968
         }
     ]
 }

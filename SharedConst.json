@@ -201,6 +201,60 @@
             "key": "stage_map_box_max_quantity",
             "type": "integer",
             "value": "9999"
+        },
+        {
+            "id": 35,
+            "key": "max_favorite_quest_group_count",
+            "type": "integer",
+            "value": "10"
+        },
+        {
+            "id": 36,
+            "key": "max_favorite_quest_count",
+            "type": "integer",
+            "value": "10"
+        },
+        {
+            "id": 37,
+            "key": "max_favorite_quest_group_name_length",
+            "type": "integer",
+            "value": "10"
+        },
+        {
+            "id": 38,
+            "key": "max_favorite_quest_note_length",
+            "type": "integer",
+            "value": "15"
+        },
+        {
+            "id": 39,
+            "key": "max_quest_history_count",
+            "type": "integer",
+            "value": "10"
+        },
+        {
+            "id": 40,
+            "key": "memory_rematch_base_clear_time",
+            "type": "integer",
+            "value": "13"
+        },
+        {
+            "id": 41,
+            "key": "memory_rematch_help",
+            "type": "integer",
+            "value": "320005"
+        },
+        {
+            "id": 42,
+            "key": "memory_rematch_finish_max_process_count",
+            "type": "integer",
+            "value": "50"
+        },
+        {
+            "id": 43,
+            "key": "stamina_over_limit_rate",
+            "type": "integer",
+            "value": "20"
         }
     ]
 }

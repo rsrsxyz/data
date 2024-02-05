@@ -20686,6 +20686,17 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7405,
+            "ribbon": "",
+            "campaign_type": 10,
+            "rate": 1.5,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7409,
             "ribbon": "",
             "campaign_type": 9,
@@ -20744,6 +20755,45 @@
             "reward_id": 0,
             "drop_group_ids": [
                 21013781
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7419,
+            "ribbon": "Eversummer Exploration Key Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013782
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7420,
+            "ribbon": "Jiggly Fruit Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013783
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7435,
+            "ribbon": "2x Exploration Point Drop Slots!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                500030001
             ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0
@@ -47344,6 +47394,71 @@
             "reward_id": 0,
             "drop_group_ids": [
                 1000097711
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 1000002788,
+            "ribbon": "Testament of the Mighty Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097713
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 1000002789,
+            "ribbon": "Hidden Attribute Orb Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097714
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 1000002790,
+            "ribbon": "[SSS] Celestial Crystal Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097715
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 1000002791,
+            "ribbon": "Aurum Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097718
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 1000002792,
+            "ribbon": "Stage EXP Booster Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097717
             ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0

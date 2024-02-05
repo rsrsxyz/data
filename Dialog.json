@@ -2007,6 +2007,303 @@
             "dialog_type": 1,
             "button2": "",
             "button1": "OK"
+        },
+        {
+            "id": 227,
+            "name": "Quest_Favoritelimit_Ng",
+            "title": "Error",
+            "text": "You have reached the maximum number of Favorite Quests.<br>Delete some Favorite Quests and register again.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 229,
+            "name": "auto_rematch_Battle_End_10",
+            "title": "Auto Rematch Stopped",
+            "text": "Auto rematch has stopped because a Stage unlock requirement has been met.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 230,
+            "name": "auto_rematch_Battle_End_11",
+            "title": "Auto Rematch Stopped",
+            "text": "Auto rematch has stopped because the specified number of rematches has been reached.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 231,
+            "name": "Quest_Favoritelimit_Confirm",
+            "title": "Delete Favorite Quests",
+            "text": "Registered Favorite Quest(s) will be deleted.<br>Proceed?",
+            "dialog_type": 2,
+            "button2": "No",
+            "button1": "Yes"
+        },
+        {
+            "id": 232,
+            "name": "Quest_Favoritelimit_Lift",
+            "title": "Confirm",
+            "text": "Deleted from Favorite Quests.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 233,
+            "name": "Quest_Favoritelimit_Move",
+            "title": "Confirm",
+            "text": "Favorite Quests moved.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 234,
+            "name": "Quest_Favoritelimit_End",
+            "title": "Register Favorite Quests",
+            "text": "Favorite Quests registered.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 235,
+            "name": "Stage_Exp_Item_Ng_1",
+            "title": "Error",
+            "text": "Stage Lv is at maximum.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 236,
+            "name": "Stage_Exp_Item_Ng_2",
+            "title": "EXP Stamps (Stage Lv) Not Available",
+            "text": "Cannot use EXP Stamps (Stage Lv) on this stage.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 237,
+            "name": "Storage_Change_Confirm",
+            "title": "Confirm",
+            "text": "Cannot super evolve because the equipment is in storage.<br><br>Take equipment from storage?",
+            "dialog_type": 2,
+            "button2": "Cancel",
+            "button1": "Take"
+        },
+        {
+            "id": 238,
+            "name": "Storage_Limit_Confirm",
+            "title": "Confirm",
+            "text": "Cannot super evolve because the equipment is in storage.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "Close"
+        },
+        {
+            "id": 239,
+            "name": "Storage_Cancel_Confirm",
+            "title": "Confirm",
+            "text": "Your currently selected equipment will be deselected.<br>Proceed?",
+            "dialog_type": 2,
+            "button2": "No",
+            "button1": "Yes"
+        },
+        {
+            "id": 240,
+            "name": "Storage_Change_Confirm2",
+            "title": "Confirm",
+            "text": "Take the selected equipment from storage?",
+            "dialog_type": 2,
+            "button2": "Cancel",
+            "button1": "Take"
+        },
+        {
+            "id": 241,
+            "name": "auto_rematch_Battle_End_12",
+            "title": "Auto Rematch Stopped",
+            "text": "Auto rematch has stopped because the target Stage Lv has been reached.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 242,
+            "name": "Storage_Weapon_Confirm",
+            "title": "Confirm",
+            "text": "Move the selected equipment to storage?<br><br>*Equipment in use and set Holy Stones will be removed.",
+            "dialog_type": 2,
+            "button2": "Cancel",
+            "button1": "Move"
+        },
+        {
+            "id": 243,
+            "name": "Storage_Armor_Confirm",
+            "title": "Confirm",
+            "text": "Move the selected equipment to storage?<br><br>*Equipment in use, set Holy Stones, and favorite equipment registration will be removed.",
+            "dialog_type": 2,
+            "button2": "Cancel",
+            "button1": "Move"
+        },
+        {
+            "id": 244,
+            "name": "Storage_Select_Confirm",
+            "title": "Confirm",
+            "text": "This equipment is in use.<br><br>Proceed to select the equipment?",
+            "dialog_type": 2,
+            "button2": "No",
+            "button1": "Yes"
+        },
+        {
+            "id": 245,
+            "name": "FieldMap_Quest_move",
+            "title": "Confirm",
+            "text": "Quest status has been updated.<br>Returning to field map screen.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 247,
+            "name": "memory_rematch_Battle_end_1",
+            "title": "Time Recording Stopped",
+            "text": "Time recording has stopped because the party was defeated in battle.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 248,
+            "name": "memory_rematch_Battle_end_2",
+            "title": "Time Recording Error",
+            "text": "Time recording has stopped because the application was closed.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 249,
+            "name": "memory_rematch_Battle_Confirm_1",
+            "title": "Confirm",
+            "text": "Overwrite the current quest clear time and record the time again with the same party.<br>Proceed?",
+            "dialog_type": 2,
+            "button2": "Cancel",
+            "button1": "Record"
+        },
+        {
+            "id": 250,
+            "name": "memory_rematch_Battle_Confirm_2",
+            "title": "Confirm",
+            "text": "End the session without a memory rematch.<br>Proceed?",
+            "dialog_type": 2,
+            "button2": "No",
+            "button1": "Yes"
+        },
+        {
+            "id": 251,
+            "name": "memory_rematch_Battle_start",
+            "title": "Memory Rematch Started",
+            "text": "Memory rematch has started.<br>Rematch details can be checked by going to Home>On Memory Rematch.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 252,
+            "name": "memory_rematch_event_ability_potion_error",
+            "title": "Error",
+            "text": "Support items are not available when a memory rematch is in progress.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 253,
+            "name": "memory_rematch_end_Confirm_1",
+            "title": "Confirm",
+            "text": "Stop memory rematch.<br>Proceed?",
+            "dialog_type": 2,
+            "button2": "No",
+            "button1": "Yes"
+        },
+        {
+            "id": 254,
+            "name": "memory_rematch_Battle_end",
+            "title": "End of Memory Rematch",
+            "text": "Memory rematch has ended.<br>Results will be displayed.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "Confirm"
+        },
+        {
+            "id": 255,
+            "name": "memory_rematch_end_Confirm_2",
+            "title": "Confirm",
+            "text": "If you choose to stop, it will stop the quest clear time recording and end the battle.<br>If you choose to record again, it will start the quest again.",
+            "dialog_type": 2,
+            "button2": "Cancel",
+            "button1": "Stop"
+        },
+        {
+            "id": 256,
+            "name": "memory_rematch_Battle_Confirm_3",
+            "title": "Confirm",
+            "text": "If you retreat, you will fail the quest.<br>Restarting means retreating from the quest and starting all over again.<br>*You will lose any skills grasped during the battle.",
+            "dialog_type": 2,
+            "button2": "Cancel",
+            "button1": "Retreat"
+        },
+        {
+            "id": 257,
+            "name": "memory_rematch_Retire_Confirm",
+            "title": "Confirm",
+            "text": "If you retreat, you will fail the quest.<br>Retreat?<br>*You will lose any skills grasped during the battle.",
+            "dialog_type": 2,
+            "button2": "Cancel",
+            "button1": "Retreat"
+        },
+        {
+            "id": 258,
+            "name": "memory_rematch_Retry_Confirm",
+            "title": "Confirm",
+            "text": "Restart?<br>Restarting means retreating from the quest and starting all over again.<br>*You will lose any skills grasped during the battle.",
+            "dialog_type": 2,
+            "button2": "Cancel",
+            "button1": "Restart"
+        },
+        {
+            "id": 260,
+            "name": "memory_rematch_Information_Update",
+            "title": "Information Update",
+            "text": "Returning to the Home screen to see the updated information on memory rematch results.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 261,
+            "name": "auto_rematch_Battle_End_13",
+            "title": "Auto Rematch Stopped",
+            "text": "Auto rematch has stopped because the quest has been conquered.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 262,
+            "name": "auto_rematch_Battle_End_14",
+            "title": "Auto Rematch Stopped",
+            "text": "Auto rematch has stopped because the Raid Battle HP gauge has gone down to 0.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
         }
     ]
 }

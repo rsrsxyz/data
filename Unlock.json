@@ -16,8 +16,6 @@
             "trigger_quest_id": 100101211,
             "trigger_player_rank": 10,
             "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": "",
             "lock_feature_name": "Forge"
         },
         {
@@ -26,8 +24,6 @@
             "trigger_quest_id": 100105221,
             "trigger_player_rank": 40,
             "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": "",
             "lock_feature_name": "Awaken Skills/Spells"
         },
         {
@@ -36,8 +32,6 @@
             "trigger_quest_id": 100101111,
             "trigger_player_rank": 8,
             "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": "",
             "lock_feature_name": "Expedition"
         },
         {
@@ -46,8 +40,6 @@
             "trigger_quest_id": 100103121,
             "trigger_player_rank": 20,
             "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": "",
             "lock_feature_name": "Training"
         },
         {
@@ -56,8 +48,6 @@
             "trigger_quest_id": 0,
             "trigger_player_rank": 65,
             "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": "",
             "lock_feature_name": "Unlock Hidden Attribute Caps"
         },
         {
@@ -66,8 +56,6 @@
             "trigger_quest_id": 100106013,
             "trigger_player_rank": 70,
             "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": "",
             "lock_feature_name": "Enhance/Fuse/Sell Holy Stones"
         },
         {
@@ -76,8 +64,6 @@
             "trigger_quest_id": 100101013,
             "trigger_player_rank": 60,
             "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": "",
             "lock_feature_name": "Amplify"
         },
         {
@@ -86,8 +72,6 @@
             "trigger_quest_id": 100102201,
             "trigger_player_rank": 16,
             "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": "",
             "lock_feature_name": "Spiral Corridor"
         },
         {
@@ -96,8 +80,6 @@
             "trigger_quest_id": 120101103,
             "trigger_player_rank": 150,
             "scenario_script_name": "90011-010",
-            "lock_text": "Clear Liam Arc<br>1-2-5<br>Very Hard<br>to unlock",
-            "lock_rank_text": "Reach<br>Player Rank 150<br>to unlock",
             "lock_feature_name": "Remembrance Battle"
         },
         {
@@ -106,8 +88,6 @@
             "trigger_quest_id": 120101171,
             "trigger_player_rank": 10,
             "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": "",
             "lock_feature_name": "Promotion Exam"
         },
         {
@@ -116,8 +96,6 @@
             "trigger_quest_id": 0,
             "trigger_player_rank": 0,
             "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": "",
             "lock_feature_name": "Daily Missions"
         },
         {
@@ -126,8 +104,6 @@
             "trigger_quest_id": 0,
             "trigger_player_rank": 0,
             "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": "",
             "lock_feature_name": "Weekly Missions"
         },
         {
@@ -136,8 +112,6 @@
             "trigger_quest_id": 0,
             "trigger_player_rank": 0,
             "scenario_script_name": "",
-            "lock_text": "",
-            "lock_rank_text": "",
             "lock_feature_name": "Special Missions"
         }
     ]

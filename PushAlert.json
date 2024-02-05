@@ -45,6 +45,24 @@
             "text": "The Vanguard warriors are waiting for you. They look lonely.",
             "start_at": 946666800,
             "push_alert_condition_type": 11
+        },
+        {
+            "id": 22000001,
+            "text": "Training completed! Collect Style Pieces!",
+            "start_at": 946666800,
+            "push_alert_condition_type": 12
+        },
+        {
+            "id": 23000001,
+            "text": "Memory Rematch has ended.",
+            "start_at": 946666800,
+            "push_alert_condition_type": 13
+        },
+        {
+            "id": 24000001,
+            "text": "The quest for memory rematch has expired.",
+            "start_at": 946666800,
+            "push_alert_condition_type": 14
         }
     ]
 }

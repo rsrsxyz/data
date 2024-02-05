@@ -363,6 +363,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 121306,
+            "name": "SS Goddess Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Goddess Spike!] Goddess.",
+            "icon": 121306,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 121501,
             "name": "SS Hana Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Hana of Hatchobori] Hana.",
@@ -2444,8 +2452,8 @@
         },
         {
             "id": 223312,
-            "name": "SS Natalie Piece",
-            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Mornin', Mudhoppers] Natalie.",
+            "name": "SS Natalie (RS2) Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Mornin', Mudhoppers] Natalie (RS2).",
             "icon": 223312,
             "selling_price": 100,
             "exchange_cost": 250
@@ -6995,6 +7003,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 410303,
+            "name": "SS Judie Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Exploring the Beach!] Judie.",
+            "icon": 410303,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 410401,
             "name": "SS Kurt Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Itching to Start!] Kurt.",
@@ -7591,6 +7607,14 @@
             "name": "SS Macha Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Let's Get Serious!] Macha.",
             "icon": 619105,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 619106,
+            "name": "SS Macha Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Surfing Is Easy!] Macha.",
+            "icon": 619106,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -8275,6 +8299,14 @@
             "exchange_cost": 150
         },
         {
+            "id": 711607,
+            "name": "SS Liam Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Becoming a Water Mystic] Liam.",
+            "icon": 711607,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 711701,
             "name": "S Anya Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Red-Headed Girl] Anya.",
@@ -8313,6 +8345,14 @@
             "icon": 711705,
             "selling_price": 60,
             "exchange_cost": 150
+        },
+        {
+            "id": 711706,
+            "name": "SS Anya Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Isn't This So Human?] Anya.",
+            "icon": 711706,
+            "selling_price": 100,
+            "exchange_cost": 250
         },
         {
             "id": 711801,
@@ -8463,6 +8503,14 @@
             "name": "SS Orlette Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Queen of Flames] Orlette.",
             "icon": 712402,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 712404,
+            "name": "SS Orlette Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Calming, Isn't It?] Orlette.",
+            "icon": 712404,
             "selling_price": 100,
             "exchange_cost": 250
         },
