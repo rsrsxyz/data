@@ -176,6 +176,17 @@
             "end_at": 0
         },
         {
+            "id": 10061,
+            "shop_id": 4900597,
+            "shared_shop_id": 1004900131,
+            "shop_tab_id": 10202,
+            "currency": 4,
+            "currency_item_id": 800288,
+            "price_rate": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
             "id": 10062,
             "shop_id": 4900599,
             "shared_shop_id": 1004900135,
@@ -677,6 +688,17 @@
             "shop_tab_id": 1000010133,
             "currency": 4,
             "currency_item_id": 800271,
+            "price_rate": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000010045,
+            "shop_id": 1004900137,
+            "shared_shop_id": 1004900131,
+            "shop_tab_id": 1000010140,
+            "currency": 4,
+            "currency_item_id": 1000800057,
             "price_rate": 1,
             "start_at": 0,
             "end_at": 0

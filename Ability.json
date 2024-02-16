@@ -65200,6 +65200,240 @@
             "sort_order": 0
         },
         {
+            "id": 1702100381,
+            "name": "Cloudy Dark Rain",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500470>Incense</skill> will be activated.<br>(Activates using skill Rank 1).<br><skill=1110500112>Purple Smoke</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=110500467>Purple Sadness Rain</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040741,
+                1802040729
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100382,
+            "name": "Cloudy Dark Rain: Effect",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell]<br>Incense will be activated.<br>(Activates using skill Rank 1).<br>Purple Smoke will be activated.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack]<br>Purple Sadness Rain will be activated.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042652,
+                802042653,
+                802042654,
+                1802040730,
+                1802040731,
+                1802040732,
+                802042655,
+                802042656,
+                802042657
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100383,
+            "name": "闘気錬磨Ⅰ(全)",
+            "flavor_text": "攻撃命中時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇( 効果小 )させ、さらに、自身のBPを回復( +1 )する",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802011132,
+                802011133,
+                802011134,
+                802011135,
+                802011136,
+                802011137,
+                802011138,
+                802011139,
+                802040742
+            ],
+            "icon": 4001,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100384,
+            "name": "Breaking Through",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br><br>[Start of battle]<br>Recovers own BP (+3).<br><br>[After activating a single-foe attack*]<br><skill=110800321>Heavy Pike</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a very high chance to activate <skill=1110800053>Flaming Fervor Spear</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040520,
+                1802040733,
+                1802040734,
+                802040741
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100385,
+            "name": "Follow-Up on Single Atk",
+            "flavor_text": "[After activating a single-foe attack]<br>Heavy Pike will be activated.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040735,
+                1802040736,
+                1802040737,
+                1802040738,
+                1802040739
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100386,
+            "name": "Follow-Up on Single Atk",
+            "flavor_text": "[After activating a single-foe attack]<br>Flaming Fervor Spear will be activated (very high chance).<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040740,
+                1802040741,
+                1802040742,
+                1802040743,
+                1802040744
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100387,
+            "name": "Beautiful Night",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br>Fills up own OD gauge.<br>Grants oneself <special_effect=800000417>Conceal</special_effect> (Effect: permanent in battle).<br>Grants oneself <special_effect=1800000033>Possessed</special_effect> (Effect: permanent in battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040520,
+                802041344,
+                1802040745,
+                1802040749,
+                1802040750
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100388,
+            "name": "Possessed: Effect 1",
+            "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041741
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100389,
+            "name": "Possessed: Effect 2",
+            "flavor_text": "After activating an OD attack, Heavenly Fox Tails will be activated.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040746,
+                1802040747,
+                1802040748
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100390,
+            "name": "Possessed: Effect 1",
+            "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041741
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100391,
+            "name": "Possessed: Effect 2",
+            "flavor_text": "After activating an OD attack, Heavenly Fox Tails will be activated.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040746,
+                1802040747,
+                1802040748
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100392,
+            "name": "Infernal Fire (1x)",
+            "flavor_text": "After activating an OD attack, Infernal Fission will be activated (Max times: 1).<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040751
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100393,
+            "name": "Infernal Fire (1x)",
+            "flavor_text": "After activating an OD attack, Infernal Fission will be activated (Max times: 1).<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040751
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100394,
+            "name": "Infernal Ruler",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>[When landing an attack]<br>Recovers own BP (+1).<br>Increases own STR/END/WIL (medium effect).<br><br>[Start of turn]<br>When OD gauge is full, grants oneself <special_effect=800000014>Morale Up (extreme)</special_effect> (1 turn(s)).<br>When OD gauge is not full, grants oneself <special_effect=1800000035>Infernal Fire (1x)</special_effect> (10 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040322,
+                1802040757,
+                1802040758
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100395,
+            "name": "Infernal Ruler: Effect 1",
+            "flavor_text": "[When landing an attack]<br>Recovers own BP (+1).<br>Increases own STR/END/WIL (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040742,
+                1802040754,
+                1802040755,
+                1802040756
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100396,
+            "name": "Infernal Ruler: Effect 2",
+            "flavor_text": "[Start of turn]<br>When OD gauge is full, grants oneself Morale Up (extreme) (1 turn(s)).<br>When OD gauge is not full, grants oneself Infernal Fire (1x) (10 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040753,
+                1802040752
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
             "id": 1702200002,
             "name": "Cover of Night",
             "flavor_text": "[Start of round]<br>Has oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).",
@@ -66974,6 +67208,19 @@
             "simple_flavor_text": "",
             "special_effect_ids": [
                 1808040038
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1708600014,
+            "name": "Risk It All",
+            "flavor_text": "[When landing an attack]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/1 turn(s)).<br><br>[When being attacked]<br>Grants oneself <special_effect=800000029>Attack Down</special_effect> (medium effect/1 turn(s)).<br>*Only activates when hit by an attack.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1808040041,
+                1808040042
             ],
             "icon": 4010,
             "rarity": 0,

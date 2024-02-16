@@ -1787,6 +1787,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 219307,
+            "name": "SS Schiele Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Dark Wedding March] Schiele.",
+            "icon": 219307,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 219601,
             "name": "SS Jewel Beast Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Legendary Monster] Jewel Beast.",
@@ -4055,6 +4063,14 @@
             "name": "SS Zhi Ling Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Empty Your Mind] Zhi Ling.",
             "icon": 232302,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 232303,
+            "name": "SS Zhi Ling Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Descending Into the Night] Zhi Ling.",
+            "icon": 232303,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -8731,6 +8747,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 810106,
+            "name": "SS Golden Baum Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Ghosts Are Scary] Golden Baum.",
+            "icon": 810106,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 810203,
             "name": "SS Minstrel Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Poem of Gods, Song of Men] Minstrel.",
@@ -8915,10 +8939,34 @@
             "exchange_cost": 150
         },
         {
+            "id": 1000221801,
+            "name": "SS Hippolyta Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Where Grudges Gather] Hippolyta.",
+            "icon": 1000221801,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 1000222211,
             "name": "SS Minerva Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Spear Is the Strongest] Minerva. ",
             "icon": 1000222211,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 1000222701,
+            "name": "SS Tomoe Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Where Is My Master?] Tomoe.",
+            "icon": 1000222701,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 1000223701,
+            "name": "SS Swift Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Specter or Monster?] Swift.",
+            "icon": 1000223701,
             "selling_price": 100,
             "exchange_cost": 250
         },

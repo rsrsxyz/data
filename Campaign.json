@@ -27777,6 +27777,22 @@
             "end_at": 1708304399
         },
         {
+            "id": 7470,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10003
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7421
+            ],
+            "start_at": 1708131600,
+            "end_at": 1709341199
+        },
+        {
             "id": 50001,
             "displays_campaign": 0,
             "quest_category": 13,
@@ -68341,6 +68357,20 @@
             ],
             "start_at": 1707354000,
             "end_at": 1708131599
+        },
+        {
+            "id": 1000002646,
+            "displays_campaign": 1,
+            "quest_category": 13,
+            "area_ids": [],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7354
+            ],
+            "start_at": 1708131600,
+            "end_at": 1708736399
         }
     ]
 }

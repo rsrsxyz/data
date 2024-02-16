@@ -2131,6 +2131,16 @@
             "selling_price": 0
         },
         {
+            "id": 800288,
+            "name": "Romancing Festival Medal 146",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800288,
+            "max_quantity": 99999999,
+            "expired_at": 1710550799,
+            "sort_order": 24021660,
+            "selling_price": 0
+        },
+        {
             "id": 800289,
             "name": "Ultra Deluxe Summon Medal 34",
             "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
@@ -7941,6 +7951,16 @@
             "selling_price": 0
         },
         {
+            "id": 1100894,
+            "name": "Eerie Twig",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100894,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24021605,
+            "selling_price": 0
+        },
+        {
             "id": 1100895,
             "name": "SS Kihachi Style Release Coin [Ltd. Time]",
             "flavor_text": "Obtained from corresponding events. Can be exchanged for SS armor/gear and other items. (Until [1708045199] <tz>)",
@@ -8488,6 +8508,16 @@
             "max_quantity": 99999999,
             "expired_at": 1690419599,
             "sort_order": 23062850,
+            "selling_price": 0
+        },
+        {
+            "id": 1000800057,
+            "name": "Romancing Festival Medal 147",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 1000800057,
+            "max_quantity": 99999999,
+            "expired_at": 1710550799,
+            "sort_order": 24021650,
             "selling_price": 0
         },
         {

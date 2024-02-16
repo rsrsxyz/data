@@ -8032,6 +8032,16 @@
             "info_id": 0
         },
         {
+            "id": 945,
+            "name": "Quest_Event_10003",
+            "title": "What Lurks in the Cemetery",
+            "size": 3,
+            "banners": [
+                11391
+            ],
+            "info_id": 0
+        },
+        {
             "id": 946,
             "name": "Quest_Event_10003",
             "title": "Eversummer Exploration Support Festival",
@@ -8650,6 +8660,16 @@
             "size": 3,
             "banners": [
                 1000000101
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 1000000054,
+            "name": "Quest_Event_1000001043",
+            "title": "Thrills and Chills! Spooky Spectacle",
+            "size": 3,
+            "banners": [
+                1000000102
             ],
             "info_id": 0
         }

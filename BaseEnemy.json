@@ -24177,6 +24177,20 @@
             "pc_enemy_skill_hold_motion": 2
         },
         {
+            "id": 1000222181,
+            "pc_flag": 1,
+            "name": "Hippolyta",
+            "enemy_class": 99,
+            "species": [
+                1,
+                97
+            ],
+            "gender": 2,
+            "sprite_studio": 0,
+            "illust": 1000221801,
+            "pc_enemy_skill_hold_motion": 1
+        },
+        {
             "id": 1000222211,
             "pc_flag": 1,
             "name": "Hannibal",
@@ -24216,6 +24230,34 @@
             "gender": 2,
             "sprite_studio": 0,
             "illust": 222700,
+            "pc_enemy_skill_hold_motion": 1
+        },
+        {
+            "id": 1000222272,
+            "pc_flag": 1,
+            "name": "Tomoe",
+            "enemy_class": 99,
+            "species": [
+                1,
+                97
+            ],
+            "gender": 2,
+            "sprite_studio": 0,
+            "illust": 1000222701,
+            "pc_enemy_skill_hold_motion": 1
+        },
+        {
+            "id": 1000222371,
+            "pc_flag": 1,
+            "name": "Swift",
+            "enemy_class": 99,
+            "species": [
+                1,
+                96
+            ],
+            "gender": 1,
+            "sprite_studio": 0,
+            "illust": 1000223701,
             "pc_enemy_skill_hold_motion": 1
         },
         {
