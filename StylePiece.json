@@ -2603,6 +2603,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 223882,
+            "name": "SS Fox Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Why Am I Alone?] Fox.",
+            "icon": 223882,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 223911,
             "name": "S Kelut Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [For the Frills] Kelut.",
@@ -5987,6 +5995,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 313403,
+            "name": "SS Virgil Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Looking Good With Fireworks] Virgil.",
+            "icon": 313403,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 313502,
             "name": "SS Nusakan Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Seek Only the Sick] Nusakan.",
@@ -6217,6 +6233,14 @@
             "icon": 315101,
             "selling_price": 60,
             "exchange_cost": 150
+        },
+        {
+            "id": 315102,
+            "name": "SS Rocky Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Making Patterned Fireworks!] Rocky.",
+            "icon": 315102,
+            "selling_price": 100,
+            "exchange_cost": 250
         },
         {
             "id": 317701,
@@ -8503,6 +8527,14 @@
             "name": "SS Merlot-Syrah Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Two-Headed Dragon] Merlot-Syrah.",
             "icon": 712304,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 712306,
+            "name": "SS Merlot-Syrah Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Wow, Fireworks Are Pretty!] Merlot-Syrah.",
+            "icon": 712306,
             "selling_price": 100,
             "exchange_cost": 250
         },

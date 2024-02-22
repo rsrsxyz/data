@@ -2131,6 +2131,16 @@
             "selling_price": 0
         },
         {
+            "id": 800286,
+            "name": "Romancing Festival Medal 148",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800286,
+            "max_quantity": 99999999,
+            "expired_at": 1711069199,
+            "sort_order": 24022260,
+            "selling_price": 0
+        },
+        {
             "id": 800288,
             "name": "Romancing Festival Medal 146",
             "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -7951,6 +7961,16 @@
             "selling_price": 0
         },
         {
+            "id": 1100893,
+            "name": "Twin Sparklers",
+            "flavor_text": "Tally item for Fireworks & Friendships Co-op Missions. Obtained from corresponding events.",
+            "icon": 1100893,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022205,
+            "selling_price": 0
+        },
+        {
             "id": 1100894,
             "name": "Eerie Twig",
             "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -7978,6 +7998,16 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 24020550,
+            "selling_price": 0
+        },
+        {
+            "id": 1100913,
+            "name": "Seashell by the Seashore",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100913,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022215,
             "selling_price": 0
         },
         {

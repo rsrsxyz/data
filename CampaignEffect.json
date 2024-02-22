@@ -20697,6 +20697,19 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7407,
+            "ribbon": "2x Mirage Flower Crystal Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013718
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7409,
             "ribbon": "",
             "campaign_type": 9,
@@ -20743,6 +20756,32 @@
             "reward_type": 7,
             "reward_id": 860015,
             "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7415,
+            "ribbon": "Seashell by the Seashore Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013778
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7416,
+            "ribbon": "Twin Sparklers Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013780
+            ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0
         },

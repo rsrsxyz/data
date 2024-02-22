@@ -5387,6 +5387,38 @@
             "step_up_button_type": 0
         },
         {
+            "id": 1000758,
+            "name": "Romancing Festival Merlot-Syrah",
+            "gacha_banner": 0,
+            "new_badge_illust": 10001,
+            "bgm": 120274,
+            "gacha_banner_dot_ids": [],
+            "clear_stamp": 1,
+            "directing_group_id": 0,
+            "object_dot_id": 0,
+            "object_offset_x": 0,
+            "object_offset_y": 0,
+            "step_count": 5,
+            "shop_id": 4900595,
+            "step_up_button_type": 2
+        },
+        {
+            "id": 1000759,
+            "name": "Romancing Festival Merlot-Syrah",
+            "gacha_banner": 1001129,
+            "new_badge_illust": 10001,
+            "bgm": 120274,
+            "gacha_banner_dot_ids": [],
+            "clear_stamp": 0,
+            "directing_group_id": 0,
+            "object_dot_id": 0,
+            "object_offset_x": 0,
+            "object_offset_y": 0,
+            "step_count": 0,
+            "shop_id": 4900595,
+            "step_up_button_type": 0
+        },
+        {
             "id": 1000762,
             "name": "Romancing Festival Schiele",
             "gacha_banner": 0,

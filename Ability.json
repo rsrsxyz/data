@@ -15250,7 +15250,7 @@
         {
             "id": 702102141,
             "name": "Thief Shift",
-            "flavor_text": "[Start of turn]<br>Has oneself enter a <special_effect=800000074>stealth</special_effect> stance (medium effect/4 turn(s)).<br><br><When OD gauge is full><br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/5 turn(s)).<br><br><When OD gauge is not full><br>Have oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).<br><br>[After activating an OD attack*]<br><skill=110500463>Windwhistle+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[Start of turn]<br>Has oneself enter a <special_effect=800000074>stealth</special_effect> stance (medium effect/4 turn(s)).<br><br><When OD gauge is full><br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/5 turn(s)).<br><br><When OD gauge is not full><br>Has oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).<br><br>[After activating an OD attack*]<br><skill=110500463>Windwhistle+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042626,
@@ -65234,8 +65234,8 @@
         },
         {
             "id": 1702100383,
-            "name": "闘気錬磨Ⅰ(全)",
-            "flavor_text": "攻撃命中時、自身の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力を上昇( 効果小 )させ、さらに、自身のBPを回復( +1 )する",
+            "name": "Improving Spirit Ⅰ (All)",
+            "flavor_text": "When landing an attack, increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect) and recovers own BP (+1).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802011132,
@@ -65428,6 +65428,89 @@
             "special_effect_ids": [
                 1802040753,
                 1802040752
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100397,
+            "name": "Special Power",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>[Start of turn]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (super extreme effect) (Max times: 2 times per battle).<br>Grants oneself <special_effect=800000096>Defense Up</special_effect> (large effect) (Max times: 2 times per battle).<br><br>[On/After Turn 3 counting from the start of battle]<br>Grants oneself <special_effect=800000280>Offensive Rouse</special_effect> (Effect: permanent in battle) (Max times: 1 time per battle).<br>[On/After Turn 6 counting from the start of battle]<br>Grants oneself <special_effect=800000281>Healing Spread</special_effect> (Effect: permanent in battle) (Max times: 1 time per battle).<br><br>[End of turn]<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040322,
+                1802040759,
+                1802040760,
+                1802040761,
+                802040902
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100398,
+            "name": "Special Power: Effect 1",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (super extreme effect) (Max times: 2 times per battle).<br>Grants oneself <special_effect=800000096>Defense Up</special_effect> (large effect) (Max times: 2 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                801042692,
+                802041559
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100399,
+            "name": "Special Power: Effect 2",
+            "flavor_text": "[On/After Turn 3 counting from the start of battle]<br>Grants oneself <special_effect=800000280>Offensive Rouse</special_effect> (Effect: permanent in battle) (Max times: 1 time per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042640
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100400,
+            "name": "Special Power: Effect 3",
+            "flavor_text": "[On/After Turn 6 counting from the start of battle]<br>Grants oneself <special_effect=800000281>Healing Spread</special_effect> (Effect: permanent in battle) (Max times: 1 time per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042641
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100401,
+            "name": "Beautiful Fireworks",
+            "flavor_text": "[Start of battle]<br>Grants all surviving allies <special_effect=1800000036>Reward for Arts</special_effect> (Effect: permanent in battle).<br><br>[When landing an attack]<br>Recovers own BP (+1).<br><br>[On combo attacks*]<br><skill=110500460>Fireworks</skill> will be activated 2 times.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Increases all surviving allies' OD gauge (very high chance/small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040762,
+                802041462,
+                802042617,
+                802041718
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100402,
+            "name": "Reward for Arts",
+            "flavor_text": "[On combo attacks]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/2 turn(s)).<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br>Recovers own HP (small effect).<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802012834,
+                1802040763,
+                802012618,
+                802042636
             ],
             "icon": 4010,
             "rarity": 0,

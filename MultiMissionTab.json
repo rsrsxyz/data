@@ -116,6 +116,21 @@
             "lock_text": ""
         },
         {
+            "id": 15,
+            "multi_mission_group_id": 9,
+            "title": "Fireworks & Friendships Co-op Missions",
+            "summary": "Get Twin Sparklers",
+            "description": "Get Twin Sparklers from Eversummer Records",
+            "area_id": 10003,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1708650000,
+            "end_at": 1709168399,
+            "priority": 10000,
+            "lock_text": ""
+        },
+        {
             "id": 1000000001,
             "multi_mission_group_id": 1000000001,
             "title": "Fight Together! Fateful Showdown Co-op Missions",
