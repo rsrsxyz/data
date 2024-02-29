@@ -2171,6 +2171,26 @@
             "selling_price": 0
         },
         {
+            "id": 800291,
+            "name": "Romancing Festival Medal 149",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800291,
+            "max_quantity": 99999999,
+            "expired_at": 1711587599,
+            "sort_order": 24022965,
+            "selling_price": 0
+        },
+        {
+            "id": 800292,
+            "name": "Romancing Festival Medal 150",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800292,
+            "max_quantity": 99999999,
+            "expired_at": 1711587599,
+            "sort_order": 24022960,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -8001,6 +8021,16 @@
             "selling_price": 0
         },
         {
+            "id": 1100902,
+            "name": "Dull Shard",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100902,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022930,
+            "selling_price": 0
+        },
+        {
             "id": 1100913,
             "name": "Seashell by the Seashore",
             "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -8008,6 +8038,186 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 24022215,
+            "selling_price": 0
+        },
+        {
+            "id": 1200001,
+            "name": "Yellowstone Tribute [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200001,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022915,
+            "selling_price": 0
+        },
+        {
+            "id": 1200002,
+            "name": "Bluestone Tribute [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200002,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022914,
+            "selling_price": 0
+        },
+        {
+            "id": 1200003,
+            "name": "Greenstone Tribute [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200003,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022913,
+            "selling_price": 0
+        },
+        {
+            "id": 1200004,
+            "name": "Redstone Tribute [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200004,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022912,
+            "selling_price": 0
+        },
+        {
+            "id": 1200005,
+            "name": "Blackstone Tribute [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200005,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022911,
+            "selling_price": 0
+        },
+        {
+            "id": 1200006,
+            "name": "Shiny Yellowstone Tribute [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200006,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022920,
+            "selling_price": 0
+        },
+        {
+            "id": 1200007,
+            "name": "Shiny Bluestone Tribute [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200007,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022919,
+            "selling_price": 0
+        },
+        {
+            "id": 1200008,
+            "name": "Shiny Greenstone Tribute [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200008,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022918,
+            "selling_price": 0
+        },
+        {
+            "id": 1200009,
+            "name": "Shiny Redstone Tribute [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200009,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022917,
+            "selling_price": 0
+        },
+        {
+            "id": 1200010,
+            "name": "Shiny Blackstone Tribute [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200010,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022916,
+            "selling_price": 0
+        },
+        {
+            "id": 1200011,
+            "name": "Lantern [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200011,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022921,
+            "selling_price": 0
+        },
+        {
+            "id": 1200013,
+            "name": "Rope [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200013,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022923,
+            "selling_price": 0
+        },
+        {
+            "id": 1200014,
+            "name": "Shield Slab (White) [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200014,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022927,
+            "selling_price": 0
+        },
+        {
+            "id": 1200015,
+            "name": "Shield Slab (Purple) [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200015,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022926,
+            "selling_price": 0
+        },
+        {
+            "id": 1200016,
+            "name": "Shield Slab (Orange) [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200016,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022925,
+            "selling_price": 0
+        },
+        {
+            "id": 1200017,
+            "name": "Shield Slab (Black) [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200017,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022924,
+            "selling_price": 0
+        },
+        {
+            "id": 1200018,
+            "name": "Passage Parchment (West) [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200018,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022929,
+            "selling_price": 0
+        },
+        {
+            "id": 1200019,
+            "name": "Passage Parchment (East) [Fighter Records]",
+            "flavor_text": "Item used in Fighter Records.",
+            "icon": 1200019,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24022928,
             "selling_price": 0
         },
         {

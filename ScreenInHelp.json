@@ -8052,6 +8052,16 @@
             "info_id": 0
         },
         {
+            "id": 944,
+            "name": "Quest_Event_1649",
+            "title": "Battle with Galatea",
+            "size": 3,
+            "banners": [
+                11389
+            ],
+            "info_id": 0
+        },
+        {
             "id": 945,
             "name": "Quest_Event_10003",
             "title": "What Lurks in the Cemetery",
@@ -8068,6 +8078,26 @@
             "size": 3,
             "banners": [
                 11381
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 949,
+            "name": "Quest_Event_10004",
+            "title": "Matriarch's Memories: Battle at the Archfiend Palace",
+            "size": 3,
+            "banners": [
+                11396
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 952,
+            "name": "Quest_Event_1650",
+            "title": "Glorious Challenge Festival",
+            "size": 3,
+            "banners": [
+                11404
             ],
             "info_id": 0
         },

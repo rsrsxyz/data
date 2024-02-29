@@ -4531,6 +4531,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 235110,
+            "name": "SS Matriarch Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Well Done, Everyone] Matriarch.",
+            "icon": 235110,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 235201,
             "name": "SS Ottoman Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Peerless Swordsman] Ottoman.",
@@ -4543,6 +4551,14 @@
             "name": "SS Ottoman Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Left Arm of Iron Defense] Ottoman.",
             "icon": 235202,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 235203,
+            "name": "SS Ottoman Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Obey Me, Left Arm!] Ottoman.",
+            "icon": 235203,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -4579,6 +4595,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 235305,
+            "name": "SS Paulus Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Not Just a General!] Paulus.",
+            "icon": 235305,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 235401,
             "name": "S Thorpe Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Matriarch's Helm] Thorpe.",
@@ -4591,6 +4615,14 @@
             "name": "SS Thorpe Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Leading the Charge] Thorpe.",
             "icon": 235402,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 235403,
+            "name": "SS Thorpe Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'm Breaking Through!] Thorpe.",
+            "icon": 235403,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -4627,6 +4659,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 235505,
+            "name": "SS Vassault Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Gather to Me, Power of Genbu] Vassault.",
+            "icon": 235505,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 235601,
             "name": "S Ferdinand Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Like a Raging Lion] Ferdinand.",
@@ -4659,6 +4699,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 235605,
+            "name": "SS Ferdinand Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Sinistrals Are Gone] Ferdinand.",
+            "icon": 235605,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 235701,
             "name": "S Hilda Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Lady Hilda Ausbach] Hilda.",
@@ -4679,6 +4727,14 @@
             "name": "SS Hilda Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Lady's Way] Hilda.",
             "icon": 235703,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 235704,
+            "name": "SS Hilda Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Alarm!] Hilda.",
+            "icon": 235704,
             "selling_price": 100,
             "exchange_cost": 250
         },

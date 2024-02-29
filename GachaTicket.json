@@ -418,6 +418,28 @@
             "shop_id": 0
         },
         {
+            "id": 810073,
+            "name": "Glittering! Fighters' Glory Platinum Ticket [Ltd. Time]",
+            "flavor_text": "Collect 5 tickets to perform 1 Glittering! Fighters' Glory Platinum Ticket Summon. (Until [1714438799] <tz>)",
+            "icon": 810073,
+            "max_quantity": 99999,
+            "expired_at": 1714438799,
+            "sort_order": 24022950,
+            "shop_type": 0,
+            "shop_id": 0
+        },
+        {
+            "id": 810074,
+            "name": "Glittering! Fighters' Glory 1 SS Guaranteed Romancing Festival Ticket [Ltd. Time]",
+            "flavor_text": "A ticket for performing the Glittering! Fighters' Glory Romancing Festival 1 SS Guaranteed Ticket Summon. (Until [1714438799] <tz>)",
+            "icon": 810074,
+            "max_quantity": 9999,
+            "expired_at": 1714438799,
+            "sort_order": 24022955,
+            "shop_type": 7,
+            "shop_id": 1000002
+        },
+        {
             "id": 1000810001,
             "name": "Half Anniv. 5 SS Gtd. Platinum Ticket [Ltd. Time]",
             "flavor_text": "A ticket for performing the Half Anniversary 5 SS Guaranteed Platinum Ticket Summon. (Until [1610672399] <tz>)",

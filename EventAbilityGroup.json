@@ -4759,6 +4759,36 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 488
+        },
+        {
+            "id": 1000000713,
+            "event_ability_category_id": 1000000464,
+            "name": "Glittering! Fighters' Glory Round 1 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Dull Shard drops in Fighter Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 489
+        },
+        {
+            "id": 1000000714,
+            "event_ability_category_id": 1000000465,
+            "name": "Glittering! Fighters' Glory Round 1 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Dull Shard drops in Fighter Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 490
+        },
+        {
+            "id": 1000000715,
+            "event_ability_category_id": 1000000466,
+            "name": "Glittering! Fighters' Glory Round 1 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Dull Shard drops in Fighter Records<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 491
         }
     ]
 }

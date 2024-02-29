@@ -16113,7 +16113,7 @@
         {
             "id": 702102209,
             "name": "Hundredfold Courage",
-            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110300348>Savage Slash+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of Cry of Valor by 1 (Number of uses will not exceed the use limit at start of battle).<br>Recovers own BP (+3).",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110300348>Savage Slash+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=110300347>Cry of Valor</skill> by 1 (Number of uses will not exceed the use limit at start of battle).<br>Recovers own BP (+3).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042746,
@@ -16528,7 +16528,7 @@
         {
             "id": 702102245,
             "name": "Silver Glove Recipient",
-            "flavor_text": "[Start of turn]<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).<br>Recovers own HP (very small effect).<br><br>[When being directly attacked]<br>Reduces damage and counterattacks with <skill=110200350>Dual Sword Impact</skill> (high chance).<br>(Activates using skill Rank 1).",
+            "flavor_text": "[Start of turn]<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).<br>Recovers own HP (very small effect).<br><br>[When being directly attacked]<br>Reduces damage taken and counterattacks with <skill=110200350>Dual Sword Impact</skill> (high chance).<br>(Activates using skill Rank 1).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041593,
@@ -65511,6 +65511,143 @@
                 1802040763,
                 802012618,
                 802042636
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100403,
+            "name": "Tuning of Hope",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>[Start of turn]<br>Grants all surviving allies <special_effect=800000300>Tone of Hope</special_effect> (1 turn(s)).<br><br>[End of turn]<br>Recovers own BP (+1).<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=110800326>Heaven's Heal</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040322,
+                802042757,
+                802040902,
+                1802040764
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100404,
+            "name": "End of Every 5 Turns: Restore Use Limit",
+            "flavor_text": "[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=110800326>Heaven's Heal</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040533
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100405,
+            "name": "Commander's Tactics",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000299>Impair Measures</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110400333>Meteor Strike+</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br><skill=1110400032>World Crasher</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040765,
+                802042735,
+                1802040766
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100406,
+            "name": "Turn Start: Impair Measures",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies Impair Measures (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040767,
+                1802040768
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100407,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell]<br>World Crasher will be activated (very high chance).<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040769,
+                1802040770,
+                1802040771
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100408,
+            "name": "Do-Or-Die Spirit",
+            "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>[Start of turn]<br>Grants oneself <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).<br>Grants oneself <special_effect=800000302>Chain Attack (Starry Rush+)</special_effect> (1 turn(s)).<br><br>[After activating Star Glory]<br>Restores the use limit of <skill=110100451>Double-Edged Roar</skill> by 1 (Number of uses will not exceed the use limit at start of battle).<br><br>[When attacked and HP reaches 0]<br>Returns to 100% of Max HP (Max times: 1 time per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040448,
+                802041942,
+                1802040772,
+                802042786,
+                802042314
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100409,
+            "name": "Turn Start: Chain Attack (Starry Rush+)",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000302>Chain Attack (Starry Rush+)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040773
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100410,
+            "name": "Chain Attack (Starry Rush+)",
+            "flavor_text": "After activating an attack*, Starry Rush+ will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                801041838,
+                801041839,
+                801041840
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100411,
+            "name": "Lady's Bravery",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+1).<br><br>[Start of turn]<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br><br>[When being attacked]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040323,
+                802042911,
+                1802040774,
+                802042774
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100412,
+            "name": "Defense Boost When Attacked",
+            "flavor_text": "[When being attacked]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040775
             ],
             "icon": 4010,
             "rarity": 0,
