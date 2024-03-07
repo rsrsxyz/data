@@ -1825,7 +1825,7 @@
         {
             "id": 702100459,
             "name": "Ironwall Defense Ⅴ",
-            "flavor_text": "When attacked, damage will be reduced (very large effect).",
+            "flavor_text": "When attacked, damage taken will be reduced (very large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040448
@@ -16113,7 +16113,7 @@
         {
             "id": 702102209,
             "name": "Hundredfold Courage",
-            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110300348>Savage Slash+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=110300347>Cry of Valor</skill> by 1 (Number of uses will not exceed the use limit at start of battle).<br>Recovers own BP (+3).",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110300348>Savage Slash+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.<br>*If a counterattack is activated by the defensive counter stance of Militant Slash or Militant Slash+, the attack is also included.<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=110300347>Cry of Valor</skill> by 1 (Number of uses will not exceed the use limit at start of battle).<br>Recovers own BP (+3).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042746,
@@ -65648,6 +65648,207 @@
             "simple_flavor_text": "",
             "special_effect_ids": [
                 1802040775
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100413,
+            "name": "Prince of Light",
+            "flavor_text": "[Start of turn]<br>Increases all surviving allies' STR/INT (medium effect).<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).<br>Recovers own BP (+2).<br><br>[After activating Light Wall]<br>Removes all enemies' buffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.<br>Removes all surviving allies' debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.<br><br>[After activating Super Tail Cutter]<br>Recovers all surviving allies' HP (very small effect).<br><br>[When being directly attacked]<br>Counterattacks with <skill=110100454>Super Tail Cutter</skill>.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042833,
+                1802040776,
+                801042782
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100414,
+            "name": "Prince of Light: Effect 2",
+            "flavor_text": "[After activating Light Wall]<br>Removes all enemies' buffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.<br>Removes all surviving allies' debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.<br><br>[After activating Super Tail Cutter]<br>Recovers all surviving allies' HP (very small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042873,
+                802042912,
+                1802040777
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100415,
+            "name": "Prince's Majesty",
+            "flavor_text": "[When being attacked by skill attacks*]<br>Reduces all enemies' STR (medium effect).<br>Increases all surviving allies' END (medium effect).<br><br>[When being attacked by spell attacks*]<br>Reduces all enemies' INT (medium effect).<br>Increases all surviving allies' WIL (medium effect).<br><br>[When being attacked by direct attacks*]<br>Reduces all enemies' AGI (medium effect).<br>Increases all surviving allies' LOV (medium effect).<br><br>[When being attacked by indirect attacks*]<br>Reduces all enemies' DEX (medium effect).<br>Increases all surviving allies' CHA (medium effect).<br><br>*Only activates when hit by an attack.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802012788,
+                1802040778,
+                802012789,
+                1802040779,
+                802012790,
+                1802040780,
+                802012791,
+                1802040781
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100416,
+            "name": "Ultimate Swordswoman",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>[When attacking]<br>Recovers own BP (+2).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110100456>Draw Sword</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.<br><br>[When landing an attack with Draw Sword activated by this Ability]<br><skill=110100459>Cherry Blossom Brilliance</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br><br>[When activating Cherry Blossom Brilliance]<br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (extreme effect).<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (extreme effect/3 turn(s)) and <special_effect=800000015>Defense Boost</special_effect> (large effect/3 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040520,
+                1802040782,
+                1802040783
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100417,
+            "name": "Ultimate Swordswoman: Effect 1",
+            "flavor_text": "[When attacking]<br>Recovers own BP (+2).<br><br>[When landing an attack with an Attack type skill/spell]<br>Draw Sword will be activated.<br><br>[When activating Cherry Blossom Brilliance]<br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (extreme effect).<br>Grants oneself Attack Boost (extreme effect/3 turn(s)) and Defense Boost (large effect/3 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040784,
+                802042796,
+                802012799,
+                802012800,
+                802012801,
+                802012802,
+                802012803,
+                802012804,
+                802012805,
+                802012806,
+                802042807,
+                802042808
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100418,
+            "name": "Ultimate Swordswoman: Effect 2",
+            "flavor_text": "[When landing an attack with Draw Sword activated by Ultimate Swordswoman]<br>Cherry Blossom Brilliance will be activated (very high chance).<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042797
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100419,
+            "name": "Minstrel of Water",
+            "flavor_text": "[When landing an attack]<br>Recovers all other surviving allies' HP (very small effect).<br>Recovers own BP (+2).<br><br>[On OD attacks]<br>Grants all enemies <special_effect=800000304>Echo Noise</special_effect> (1 turn(s)).<br>Has a low chance to restore the use limit of <skill=110700350>Song of Homeland</skill> by 1 (Number of uses will not exceed the use limit at start of battle).<br><br>[End of turn]<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040785,
+                1802040786,
+                1802040787,
+                1802040788
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100420,
+            "name": "Minstrel of Water: Effect 1",
+            "flavor_text": "[When landing an attack]<br>Recovers all other surviving allies' HP (very small effect).<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802012816,
+                802040961
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100421,
+            "name": "Minstrel of Water: Effect 2",
+            "flavor_text": "[On OD attacks]<br>Grants all enemies <special_effect=800000304>Echo Noise</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042815
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100422,
+            "name": "Minstrel of Water: Effect 3",
+            "flavor_text": "[On OD attacks]<br>Has a low chance to restore the use limit of <skill=110700350>Song of Homeland</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040789
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100423,
+            "name": "Minstrel of Water: Effect 4",
+            "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041741
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100424,
+            "name": "Silent Darkness",
+            "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>[Start of battle]<br>Recovers own BP (+4).<br><br>[When attacking]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br><br>[After activating Dark Sword]<br>Grants oneself <special_effect=800000318>Grim Charge</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042859,
+                802040448,
+                802041534,
+                1802040790
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100425,
+            "name": "Recover HP/BP on Attack",
+            "flavor_text": "[When attacking]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040791,
+                802041401
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100426,
+            "name": "Counter Switch",
+            "flavor_text": "[Start of turn]<br><When oneself is in a defensive counter stance><br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).<br>Grants oneself <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).<br><br><When oneself is not in a defensive counter stance><br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/3 turn(s)).<br>Grants oneself <special_effect=800000316>Technical Snipe</special_effect> (1 turn(s)).<br><br>[When attacking]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042869,
+                1802040790
             ],
             "icon": 4010,
             "rarity": 0,

@@ -7291,6 +7291,102 @@
             "exchange_cost": 250
         },
         {
+            "id": 510301,
+            "name": "S Sirius Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [Imperial Swordsmanship] Sirius.",
+            "icon": 510301,
+            "selling_price": 60,
+            "exchange_cost": 150
+        },
+        {
+            "id": 510302,
+            "name": "SS Sirius Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [First Prince of Bent Empire] Sirius.",
+            "icon": 510302,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 510401,
+            "name": "S Sothis Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [Let's Go, Boss!] Sothis.",
+            "icon": 510401,
+            "selling_price": 60,
+            "exchange_cost": 150
+        },
+        {
+            "id": 510402,
+            "name": "SS Sothis Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [First Princess of Bent Empire] Sothis.",
+            "icon": 510402,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 510501,
+            "name": "S Touji Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [Seeking My Father] Touji.",
+            "icon": 510501,
+            "selling_price": 60,
+            "exchange_cost": 150
+        },
+        {
+            "id": 510502,
+            "name": "SS Touji Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Searching for MAGIs] Touji.",
+            "icon": 510502,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 510601,
+            "name": "S Maka Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [I'm Starving!] Maka.",
+            "icon": 510601,
+            "selling_price": 60,
+            "exchange_cost": 150
+        },
+        {
+            "id": 510602,
+            "name": "SS Maka Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Split You in Two!] Maka.",
+            "icon": 510602,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 510701,
+            "name": "S Sinon Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [She's an Old Friend] Sinon.",
+            "icon": 510701,
+            "selling_price": 60,
+            "exchange_cost": 150
+        },
+        {
+            "id": 510702,
+            "name": "SS Sinon Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Water Minstrel] Sinon.",
+            "icon": 510702,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 510801,
+            "name": "S Pamela Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [Grow Stronger] Pamela.",
+            "icon": 510801,
+            "selling_price": 60,
+            "exchange_cost": 150
+        },
+        {
+            "id": 510802,
+            "name": "SS Pamela Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Cherish the Present] Pamela.",
+            "icon": 510802,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 610101,
             "name": "A Urpina Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of A [On My Best Behavior Today] Urpina. ",

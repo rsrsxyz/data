@@ -2191,6 +2191,26 @@
             "selling_price": 0
         },
         {
+            "id": 800293,
+            "name": "SaGa Soul Medal 20",
+            "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+            "icon": 800293,
+            "max_quantity": 99999999,
+            "expired_at": 1712278799,
+            "sort_order": 24030765,
+            "selling_price": 0
+        },
+        {
+            "id": 800294,
+            "name": "SaGa Soul Medal 21",
+            "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+            "icon": 800294,
+            "max_quantity": 99999999,
+            "expired_at": 1712278799,
+            "sort_order": 24030760,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -8028,6 +8048,16 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 24022930,
+            "selling_price": 0
+        },
+        {
+            "id": 1100903,
+            "name": "Frozen Fractals",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100903,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24030750,
             "selling_price": 0
         },
         {
