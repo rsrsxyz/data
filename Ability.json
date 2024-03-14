@@ -65855,6 +65855,192 @@
             "sort_order": 0
         },
         {
+            "id": 1702100427,
+            "name": "Warrior of the Sea",
+            "flavor_text": "[On OD attacks]<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (large effect).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000158>Over Enhance</special_effect> (super extreme effect) (Max times: 3 times per battle).<br><br>[End of turn]<br>Recovers own BP (+1).<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040802,
+                1802040792,
+                802042916
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100428,
+            "name": "All Attributes Up/Defense Boost on OD Attack",
+            "flavor_text": "[On OD attacks]<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (large effect).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040793,
+                1802040794,
+                1802040795,
+                1802040796,
+                1802040797,
+                1802040798,
+                1802040799,
+                1802040800,
+                1802040801
+            ],
+            "icon": 4001,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100429,
+            "name": "End of Turn: Recover BP/OD Gauge Up",
+            "flavor_text": "[End of turn]<br>Recovers own BP (+1).<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040812,
+                802041741
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100430,
+            "name": "Hero's Heart",
+            "flavor_text": "[When another surviving ally is being attacked*]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)).<br>Increases own STR (medium effect).<br>Grants oneself <special_effect=800000321>Battle Surge (1x)</special_effect> (2 turn(s)).<br>*Number of activation will not be affected even if multiple allies are being attacked.<br><br>[When being attacked]<br>Grants all other surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)).<br>Increases all other surviving allies' STR (medium effect).<br>Grants all other surviving allies <special_effect=800000321>Battle Surge (1x)</special_effect> (2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042936,
+                802042937,
+                1802040803,
+                1802040804,
+                1802040805,
+                1802040806
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100431,
+            "name": "Master's Blade",
+            "flavor_text": "[End of turn]<br>Recovers own BP (+2).<br>Increases own OD gauge (medium effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110200353>Crimson Slash</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=110200486>Salamander Claw</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040807,
+                802042972
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100432,
+            "name": "End of Turn: Recover BP/OD Gauge Up",
+            "flavor_text": "[End of turn]<br>Recovers own BP (+2).<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040754,
+                802041741
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100433,
+            "name": "Emperor Unison",
+            "flavor_text": "Increases attack damage for all allies (large effect).<br>Reduces damage taken for all allies (large effect).<br><br>[Start of turn]<br>Recovers own BP (+1).<br>Grants all surviving allies <special_effect=800000096>Defense Up</special_effect> (small effect) (Max times: 5 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040808,
+                802041859,
+                802041549,
+                802042905
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100434,
+            "name": "Cunning Strategist",
+            "flavor_text": "When all allies are still surviving, evades attacks towards self (very high chance).<br><br>[Start of turn]<br>Increases own STR/INT (large effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=1110400033>Leg Crush</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a very high chance to:<br>Activate <skill=1110400034>Gravity Zone</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040676,
+                802042303,
+                1802040809,
+                1802040810
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100435,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell]<br>Leg Crush will be activated.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040811
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100436,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "When landing an attack with an Attack type skill/spell, Gravity Zone will be activated (very high chance).<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040812
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100437,
+            "name": "Lurking Breath Ⅲ",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).<br>Has oneself enter a <special_effect=800000074>stealth</special_effect> stance (medium effect/1 turn(s)).<br><br>[When landing an attack]<br>Recovers own BP (+2).<br><br>[End of turn]<br>If no damage is taken by oneself during the turn, recovers own HP (small effect), and recovers own BP (+3).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043050,
+                802042222,
+                802042321,
+                802042956
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100438,
+            "name": "Overflowing Power",
+            "flavor_text": "[Start of turn]<br>Has a high chance to:<br>Have oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).<br>Increase own AGI/INT (large effect).<br><br>[When landing Sacrifice Sword]<br>Grants the target <special_effect=800000029>Attack Down</special_effect> (medium effect/1 turn(s)).<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (extreme effect) (Max times: 4 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043109,
+                802042966,
+                802042967,
+                1802040813
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100439,
+            "name": "Heat Up on Sacrifice Sword",
+            "flavor_text": "[When landing Sacrifice Sword]<br>Grants oneself Heat Up (extreme effect) (Max times: 4 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040814
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
             "id": 1702200002,
             "name": "Cover of Night",
             "flavor_text": "[Start of round]<br>Has oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).",

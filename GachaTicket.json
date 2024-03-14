@@ -390,7 +390,7 @@
             "flavor_text": "Collect 5 tickets to perform 1 Spiral Corridor Ticket Summon.",
             "icon": 810070,
             "max_quantity": 9999,
-            "expired_at": 0,
+            "expired_at": 1713574799,
             "sort_order": 23102625,
             "shop_type": 0,
             "shop_id": 0
@@ -438,6 +438,17 @@
             "sort_order": 24022955,
             "shop_type": 7,
             "shop_id": 1000002
+        },
+        {
+            "id": 810075,
+            "name": "Spiral Summon Ticket 7",
+            "flavor_text": "Collect 5 tickets to perform 1 Spiral Corridor Ticket Summon.",
+            "icon": 810075,
+            "max_quantity": 9999,
+            "expired_at": 0,
+            "sort_order": 23092025,
+            "shop_type": 0,
+            "shop_id": 0
         },
         {
             "id": 1000810001,
