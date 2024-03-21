@@ -95759,6 +95759,5661 @@
             "typical_formation_id": 0
         },
         {
+            "id": 972027001,
+            "quest_type": 1,
+            "name": "Saga Island 1",
+            "sort_order": 1,
+            "field_map_node_id": 10133001,
+            "battle_id": 700010161,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106192,
+                106193,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11818
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027002,
+            "quest_type": 1,
+            "name": "Saga Island 2",
+            "sort_order": 2,
+            "field_map_node_id": 10133002,
+            "battle_id": 700010171,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106192,
+                106193,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11818
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027003,
+            "quest_type": 1,
+            "name": "Saga Island 3",
+            "sort_order": 3,
+            "field_map_node_id": 10133003,
+            "battle_id": 700010181,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106192,
+                106193,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11818
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027004,
+            "quest_type": 1,
+            "name": "Saga Island 4",
+            "sort_order": 4,
+            "field_map_node_id": 10133004,
+            "battle_id": 700010191,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106192,
+                106193,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11818
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027005,
+            "quest_type": 1,
+            "name": "Saga Island 5",
+            "sort_order": 5,
+            "field_map_node_id": 10133005,
+            "battle_id": 700010201,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106192,
+                106193,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11818
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027006,
+            "quest_type": 1,
+            "name": "Saga Island 6",
+            "sort_order": 6,
+            "field_map_node_id": 10133006,
+            "battle_id": 700010211,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106192,
+                106193,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11818
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027007,
+            "quest_type": 1,
+            "name": "Saga Island 7",
+            "sort_order": 7,
+            "field_map_node_id": 10133007,
+            "battle_id": 700010221,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106192,
+                106193,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11818
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027008,
+            "quest_type": 1,
+            "name": "Saga Island 8",
+            "sort_order": 8,
+            "field_map_node_id": 10133008,
+            "battle_id": 700010231,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106192,
+                106193,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11818
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027009,
+            "quest_type": 1,
+            "name": "Saga Island 9",
+            "sort_order": 9,
+            "field_map_node_id": 10133009,
+            "battle_id": 700010241,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106192,
+                106193,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11818
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027010,
+            "quest_type": 1,
+            "name": "Saga Island 10",
+            "sort_order": 10,
+            "field_map_node_id": 10133010,
+            "battle_id": 700010011,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106202,
+                106203,
+                106454,
+                106475,
+                106476,
+                106477,
+                106479,
+                106482
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027011,
+            "quest_type": 1,
+            "name": "Arita-Imari Island 1",
+            "sort_order": 11,
+            "field_map_node_id": 10133013,
+            "battle_id": 700010251,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11819
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027012,
+            "quest_type": 1,
+            "name": "Arita-Imari Island 2",
+            "sort_order": 12,
+            "field_map_node_id": 10133014,
+            "battle_id": 700010261,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11819
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027013,
+            "quest_type": 1,
+            "name": "Arita-Imari Island 3",
+            "sort_order": 13,
+            "field_map_node_id": 10133015,
+            "battle_id": 700010271,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11819
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027014,
+            "quest_type": 1,
+            "name": "Arita-Imari Island 4",
+            "sort_order": 14,
+            "field_map_node_id": 10133016,
+            "battle_id": 700010281,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11819
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027015,
+            "quest_type": 1,
+            "name": "Arita-Imari Island 5",
+            "sort_order": 15,
+            "field_map_node_id": 10133017,
+            "battle_id": 700010291,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11819
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027016,
+            "quest_type": 1,
+            "name": "Arita-Imari Island 6",
+            "sort_order": 16,
+            "field_map_node_id": 10133018,
+            "battle_id": 700010301,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11819
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027017,
+            "quest_type": 1,
+            "name": "Arita-Imari Island 7",
+            "sort_order": 17,
+            "field_map_node_id": 10133019,
+            "battle_id": 700010311,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11819
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027018,
+            "quest_type": 1,
+            "name": "Arita-Imari Island 8",
+            "sort_order": 18,
+            "field_map_node_id": 10133020,
+            "battle_id": 700010321,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11819
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027019,
+            "quest_type": 1,
+            "name": "Arita-Imari Island 9",
+            "sort_order": 19,
+            "field_map_node_id": 10133021,
+            "battle_id": 700010331,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11819
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027020,
+            "quest_type": 1,
+            "name": "Arita-Imari Island 10",
+            "sort_order": 20,
+            "field_map_node_id": 10133022,
+            "battle_id": 700010021,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106204,
+                106205,
+                106454,
+                106475,
+                106476,
+                106477,
+                106479,
+                106482
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027021,
+            "quest_type": 1,
+            "name": "Takeo-Ureshino Island 1",
+            "sort_order": 21,
+            "field_map_node_id": 10133025,
+            "battle_id": 700010341,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11817
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027022,
+            "quest_type": 1,
+            "name": "Takeo-Ureshino Island 2",
+            "sort_order": 22,
+            "field_map_node_id": 10133026,
+            "battle_id": 700010351,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11817
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027023,
+            "quest_type": 1,
+            "name": "Takeo-Ureshino Island 3",
+            "sort_order": 23,
+            "field_map_node_id": 10133027,
+            "battle_id": 700010361,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11817
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027024,
+            "quest_type": 1,
+            "name": "Takeo-Ureshino Island 4",
+            "sort_order": 24,
+            "field_map_node_id": 10133028,
+            "battle_id": 700010371,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11817
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027025,
+            "quest_type": 1,
+            "name": "Takeo-Ureshino Island 5",
+            "sort_order": 25,
+            "field_map_node_id": 10133029,
+            "battle_id": 700010381,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11817
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027026,
+            "quest_type": 1,
+            "name": "Takeo-Ureshino Island 6",
+            "sort_order": 26,
+            "field_map_node_id": 10133030,
+            "battle_id": 700010391,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11817
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027027,
+            "quest_type": 1,
+            "name": "Takeo-Ureshino Island 7",
+            "sort_order": 27,
+            "field_map_node_id": 10133031,
+            "battle_id": 700010401,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11817
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027028,
+            "quest_type": 1,
+            "name": "Takeo-Ureshino Island 8",
+            "sort_order": 28,
+            "field_map_node_id": 10133032,
+            "battle_id": 700010411,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11817
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027029,
+            "quest_type": 1,
+            "name": "Takeo-Ureshino Island 9",
+            "sort_order": 29,
+            "field_map_node_id": 10133033,
+            "battle_id": 700010421,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106194,
+                106195,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11817
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027030,
+            "quest_type": 1,
+            "name": "Takeo-Ureshino Island 10",
+            "sort_order": 30,
+            "field_map_node_id": 10133034,
+            "battle_id": 700010031,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106204,
+                106205,
+                106454,
+                106475,
+                106476,
+                106477,
+                106479,
+                106482
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027031,
+            "quest_type": 1,
+            "name": "Ariake Island 1",
+            "sort_order": 31,
+            "field_map_node_id": 10133037,
+            "battle_id": 700010431,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11816
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027032,
+            "quest_type": 1,
+            "name": "Ariake Island 2",
+            "sort_order": 32,
+            "field_map_node_id": 10133038,
+            "battle_id": 700010441,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11816
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027033,
+            "quest_type": 1,
+            "name": "Ariake Island 3",
+            "sort_order": 33,
+            "field_map_node_id": 10133039,
+            "battle_id": 700010451,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11816
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027034,
+            "quest_type": 1,
+            "name": "Ariake Island 4",
+            "sort_order": 34,
+            "field_map_node_id": 10133040,
+            "battle_id": 700010461,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11816
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027035,
+            "quest_type": 1,
+            "name": "Ariake Island 5",
+            "sort_order": 35,
+            "field_map_node_id": 10133041,
+            "battle_id": 700010071,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106206,
+                106207,
+                106454,
+                106475,
+                106476,
+                106477,
+                106479,
+                106482
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027036,
+            "quest_type": 1,
+            "name": "Ariake Island 6",
+            "sort_order": 36,
+            "field_map_node_id": 10133042,
+            "battle_id": 700010471,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11816
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027037,
+            "quest_type": 1,
+            "name": "Ariake Island 7",
+            "sort_order": 37,
+            "field_map_node_id": 10133043,
+            "battle_id": 700010481,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11816
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027038,
+            "quest_type": 1,
+            "name": "Ariake Island 8",
+            "sort_order": 38,
+            "field_map_node_id": 10133044,
+            "battle_id": 700010471,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11816
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027039,
+            "quest_type": 1,
+            "name": "Ariake Island 9",
+            "sort_order": 39,
+            "field_map_node_id": 10133045,
+            "battle_id": 700010491,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11816
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027040,
+            "quest_type": 1,
+            "name": "Ariake Island 10",
+            "sort_order": 40,
+            "field_map_node_id": 10133046,
+            "battle_id": 700010061,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106206,
+                106207,
+                106454,
+                106475,
+                106476,
+                106477,
+                106479,
+                106482
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027041,
+            "quest_type": 1,
+            "name": "Yoshinogari Island 1",
+            "sort_order": 41,
+            "field_map_node_id": 10133049,
+            "battle_id": 700010501,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11821
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027042,
+            "quest_type": 1,
+            "name": "Yoshinogari Island 2",
+            "sort_order": 42,
+            "field_map_node_id": 10133050,
+            "battle_id": 700010511,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11821
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027043,
+            "quest_type": 1,
+            "name": "Yoshinogari Island 3",
+            "sort_order": 43,
+            "field_map_node_id": 10133051,
+            "battle_id": 700010521,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11821
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027044,
+            "quest_type": 1,
+            "name": "Yoshinogari Island 4",
+            "sort_order": 44,
+            "field_map_node_id": 10133052,
+            "battle_id": 700010081,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106206,
+                106207,
+                106454,
+                106475,
+                106476,
+                106477,
+                106479,
+                106482
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027045,
+            "quest_type": 1,
+            "name": "Yoshinogari Island 5",
+            "sort_order": 45,
+            "field_map_node_id": 10133053,
+            "battle_id": 700010531,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11821
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027046,
+            "quest_type": 1,
+            "name": "Yoshinogari Island 6",
+            "sort_order": 46,
+            "field_map_node_id": 10133054,
+            "battle_id": 700010541,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11821
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027047,
+            "quest_type": 1,
+            "name": "Yoshinogari Island 7",
+            "sort_order": 47,
+            "field_map_node_id": 10133055,
+            "battle_id": 700010551,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11821
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027048,
+            "quest_type": 1,
+            "name": "Yoshinogari Island 8",
+            "sort_order": 48,
+            "field_map_node_id": 10133056,
+            "battle_id": 700010561,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11821
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027049,
+            "quest_type": 1,
+            "name": "Yoshinogari Island 9",
+            "sort_order": 49,
+            "field_map_node_id": 10133057,
+            "battle_id": 700010571,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106196,
+                106197,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11821
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027050,
+            "quest_type": 1,
+            "name": "Yoshinogari Island 10",
+            "sort_order": 50,
+            "field_map_node_id": 10133058,
+            "battle_id": 700010091,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106206,
+                106207,
+                106454,
+                106475,
+                106476,
+                106477,
+                106479,
+                106482
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027051,
+            "quest_type": 1,
+            "name": "Karatsu Island 1",
+            "sort_order": 51,
+            "field_map_node_id": 10133061,
+            "battle_id": 700010581,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106198,
+                106199,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11820
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027052,
+            "quest_type": 1,
+            "name": "Karatsu Island 2",
+            "sort_order": 52,
+            "field_map_node_id": 10133062,
+            "battle_id": 700010591,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106198,
+                106199,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11820
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027053,
+            "quest_type": 1,
+            "name": "Karatsu Island 3",
+            "sort_order": 53,
+            "field_map_node_id": 10133063,
+            "battle_id": 700010601,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106198,
+                106199,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11820
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027054,
+            "quest_type": 1,
+            "name": "Karatsu Island 4",
+            "sort_order": 54,
+            "field_map_node_id": 10133064,
+            "battle_id": 700010611,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106198,
+                106199,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11820
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027055,
+            "quest_type": 1,
+            "name": "Karatsu Island 5",
+            "sort_order": 55,
+            "field_map_node_id": 10133065,
+            "battle_id": 700010621,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106198,
+                106199,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11820
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027056,
+            "quest_type": 1,
+            "name": "Karatsu Island 6",
+            "sort_order": 56,
+            "field_map_node_id": 10133066,
+            "battle_id": 700010631,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106198,
+                106199,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11820
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027057,
+            "quest_type": 1,
+            "name": "Karatsu Island 7",
+            "sort_order": 57,
+            "field_map_node_id": 10133067,
+            "battle_id": 700010641,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106198,
+                106199,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11820
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027058,
+            "quest_type": 1,
+            "name": "Karatsu Island 8",
+            "sort_order": 58,
+            "field_map_node_id": 10133068,
+            "battle_id": 700010651,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106198,
+                106199,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11820
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027059,
+            "quest_type": 1,
+            "name": "Karatsu Island 9",
+            "sort_order": 59,
+            "field_map_node_id": 10133069,
+            "battle_id": 700010101,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106208,
+                106209,
+                106454,
+                106475,
+                106476,
+                106477,
+                106479,
+                106482
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027060,
+            "quest_type": 1,
+            "name": "Yobuko Squid",
+            "sort_order": 60,
+            "field_map_node_id": 10133070,
+            "battle_id": 700010111,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106208,
+                106209,
+                106454,
+                106475,
+                106476,
+                106477,
+                106479,
+                106482
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027061,
+            "quest_type": 1,
+            "name": "Tara Island 1",
+            "sort_order": 61,
+            "field_map_node_id": 10133073,
+            "battle_id": 700010661,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106200,
+                106201,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11815
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027062,
+            "quest_type": 1,
+            "name": "Tara Island 2",
+            "sort_order": 62,
+            "field_map_node_id": 10133074,
+            "battle_id": 700010671,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106200,
+                106201,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11815
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027063,
+            "quest_type": 1,
+            "name": "Tara Island 3",
+            "sort_order": 63,
+            "field_map_node_id": 10133075,
+            "battle_id": 700010681,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106200,
+                106201,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11815
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027064,
+            "quest_type": 1,
+            "name": "Tara Island 4",
+            "sort_order": 64,
+            "field_map_node_id": 10133076,
+            "battle_id": 700010691,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106200,
+                106201,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11815
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027065,
+            "quest_type": 1,
+            "name": "Tara Island 5",
+            "sort_order": 65,
+            "field_map_node_id": 10133077,
+            "battle_id": 700010701,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106200,
+                106201,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11815
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027066,
+            "quest_type": 1,
+            "name": "Tara Island 6",
+            "sort_order": 66,
+            "field_map_node_id": 10133078,
+            "battle_id": 700010711,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106200,
+                106201,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11815
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027067,
+            "quest_type": 1,
+            "name": "Tara Island 7",
+            "sort_order": 67,
+            "field_map_node_id": 10133079,
+            "battle_id": 700010721,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106200,
+                106201,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11815
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 103001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027068,
+            "quest_type": 1,
+            "name": "Tara Island 8",
+            "sort_order": 68,
+            "field_map_node_id": 10133080,
+            "battle_id": 700010731,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106200,
+                106201,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11815
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 104001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027069,
+            "quest_type": 1,
+            "name": "Tara Island 9",
+            "sort_order": 69,
+            "field_map_node_id": 10133081,
+            "battle_id": 700010741,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106200,
+                106201,
+                106474,
+                106458,
+                106464,
+                106478,
+                106482
+            ],
+            "enemy_drop_ids": [
+                11815
+            ],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027070,
+            "quest_type": 1,
+            "name": "Tara Island 10",
+            "sort_order": 70,
+            "field_map_node_id": 10133082,
+            "battle_id": 700010041,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 30
+                },
+                {
+                    "type": 36,
+                    "id": 970001,
+                    "quantity": 18
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [
+                106208,
+                106209,
+                106454,
+                106475,
+                106476,
+                106477,
+                106479,
+                106482
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 972027071,
+            "quest_type": 1,
+            "name": "Takezaki Crab",
+            "sort_order": 71,
+            "field_map_node_id": 10133083,
+            "battle_id": 700010051,
+            "scenario_id": 0,
+            "clear_limit": 0,
+            "stamina": 10,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "growth_count": 1,
+            "typical_enemy_ids": [],
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100920
+                },
+                {
+                    "type": 7,
+                    "id": 1100921
+                },
+                {
+                    "type": 7,
+                    "id": 1100923
+                }
+            ],
+            "first_rewards": [],
+            "rewards": [],
+            "drop_group_ids": [
+                106473,
+                106471,
+                106472,
+                106470,
+                106483
+            ],
+            "enemy_drop_ids": [],
+            "domination_rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 50
+                },
+                {
+                    "type": 2,
+                    "id": 105001,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840001,
+                    "quantity": 5
+                }
+            ],
+            "is_unavailable_after_dominated": 0,
+            "illust_ids": [],
+            "field_map_enemy_transform_id": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "is_adventurer_rank_drop_enabled": 1,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
             "id": 990041010,
             "quest_type": 2,
             "name": "To the Decisive Battle",

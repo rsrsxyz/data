@@ -834,6 +834,17 @@
             "offset_y": 0.0,
             "is_pan": 1,
             "home_npc": 0
+        },
+        {
+            "id": 1000000032,
+            "start_at": 1711069200,
+            "end_at": 1711673999,
+            "background_id": 10014,
+            "bgm": 130473,
+            "offset_x": 0.0,
+            "offset_y": 0.0,
+            "is_pan": 1,
+            "home_npc": 0
         }
     ]
 }

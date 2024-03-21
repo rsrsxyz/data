@@ -16650,7 +16650,7 @@
         {
             "id": 702102254,
             "name": "Chasing Gust",
-            "flavor_text": "[Start of turn]<br>Increases all surviving allies' AGI/INT (medium effect).<br>Recovers own BP (+2).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=125400241>Slash Gust</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[Start of turn]<br>Increases all surviving allies' AGI/INT (medium effect).<br>Recovers own BP (+2).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=125400241>Slash Gust</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042977,
@@ -17142,7 +17142,7 @@
         {
             "id": 702102298,
             "name": "Power of Feelings",
-            "flavor_text": "[When landing an attack]<br>Recovers own BP (+2).<br>Recovers own HP (very small effect).<br><br>[After activating an OD attack*]<br><skill=125600452>Captive Thunder</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=125600453>Lightning of Darkness</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).<br><skill=125600457>Tri Flower</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[When landing an attack]<br>Recovers own BP (+2).<br>Recovers own HP (very small effect).<br><br>[After activating an OD attack*]<br><skill=125600452>Captive Thunder</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=125600453>Lightning of Darkness</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).<br><skill=125600457>Tri Flower</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042925,
@@ -20111,7 +20111,7 @@
         {
             "id": 702102555,
             "name": "Masked Crusader's Movement",
-            "flavor_text": "When attacked, when in a pre-action stance, damage taken will be reduced (super extreme effect).<br><br>[When an ally is being attacked]<br>Takes an ally's place in being attacked, and reduces the damage (very high chance).<br><br>[After activating The Mark of Robin/Barrel Assault]<br>Grants oneself <special_effect=800000389>Masked Crusader's Proof</special_effect> (3 turn(s)).<br><br>[When landing an attack with The Mark of Robin]<br><skill=110700501>Screwdriver+</skill> is activated 2 time(s).<br>(Activates using skill Rank 1).<br><br>When landing an attack, grants oneself <special_effect=800000035>Defense Down</special_effect> (extreme effect/1 turn(s)).",
+            "flavor_text": "When attacked, when in a pre-action stance, damage taken will be reduced (super extreme effect).<br><br>[When an ally is being attacked]<br>Takes an ally's place in being attacked, and reduces the damage (very high chance).<br><br>[After activating The Mark of Robin/Barrel Assault]<br>Grants oneself <special_effect=800000389>Masked Crusader's Proof</special_effect> (3 turn(s)).<br><br>[When landing an attack with The Mark of Robin]<br><skill=110700501>Screwdriver+</skill> will be activated 2 time(s).<br>(Activates using skill Rank 1).<br><br>When landing an attack, grants oneself <special_effect=800000035>Defense Down</special_effect> (extreme effect/1 turn(s)).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043322,
@@ -21292,7 +21292,7 @@
         {
             "id": 702102657,
             "name": "Art of Light Work",
-            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110200526>Sword Chain+</skill> is activated 2 time(s).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110200526>Sword Chain+</skill> will be activated 2 time(s).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043492,
@@ -21581,7 +21581,7 @@
         {
             "id": 702102681,
             "name": "Adrenaline Rush",
-            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000448>Fearless</special_effect> (no turn limit).<br>Grants oneself <special_effect=800000449>Lightning Blade Pursuit</special_effect> (no turn limit).<br><br>[When attacked and HP reaches 0]<br>Returns to 100% of Max HP (Max times: 1 time per battle).<br><br>[Before holding out by the effect of Adrenaline Rush]<br>The effect of Lightning Blade Pursuit is not activated, and the effect of <special_effect=800000448>Fearless</special_effect> is activated.<br><br>[After holding out by the effect of Adrenaline Rush]<br>The effect of Fearless is not activated, and the effect of <special_effect=800000449>Lightning Blade Pursuit</special_effect> is activated.",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000448>Fearless</special_effect> (no turn limit).<br>Grants oneself <special_effect=800000449>Lightning Blade Pursuit</special_effect> (no turn limit).<br><br>[When attacked and HP reaches 0]<br>Returns to 100% of Max HP (Max times: 1 time per battle).<br><br>[Before holding out by the effect of Adrenaline Rush]<br>The effect of Lightning Blade Pursuit will not be activated, and the effect of <special_effect=800000448>Fearless</special_effect> will be activated.<br><br>[After holding out by the effect of Adrenaline Rush]<br>The effect of Fearless will not be activated, and the effect of <special_effect=800000449>Lightning Blade Pursuit</special_effect> will be activated.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043682,
@@ -66035,6 +66035,103 @@
             "simple_flavor_text": "",
             "special_effect_ids": [
                 1802040814
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100440,
+            "name": "Spoiled Girl",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br><br>[Start of battle]<br>Fills up own OD gauge.<br><br>[Start of turn]<br>When OD gauge is full, grants oneself <special_effect=800000340>Weak Stamp</special_effect> (2 turn(s)).<br>When OD gauge is not full, grants oneself <special_effect=800000341>\"End of Turn: OD Gauge Up (sm.)\"</special_effect> (1 turn(s)).<br><br>[After activating an OD attack*]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (very large effect/3 turn(s)).<br>Recovers own HP (medium effect).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041344,
+                802043019,
+                802043016,
+                802040741
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100441,
+            "name": "Harvest Blessing",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+1).<br>Grants all surviving allies <special_effect=800000095>Heat Up</special_effect> (extreme effect).<br>Grants all surviving allies <special_effect=800000096>Defense Up</special_effect> (medium effect).<br>Grants all surviving allies <special_effect=800000080>\"End of Turn: Recover HP\"</special_effect> (very small effect/Effect: permanent in battle).<br><br>[On every 5 turns counting from the start of battle]<br>Activates the following (Max times: 2 times per battle):<br>・Grants all surviving allies <special_effect=800000095>Heat Up</special_effect> (extreme effect).<br>・Grants all surviving allies <special_effect=800000096>Defense Up</special_effect> (medium effect).<br>・Grants all surviving allies <special_effect=800000080>\"End of Turn: Recover HP\"</special_effect> (very small effect/Effect: permanent in battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040323,
+                802042845,
+                802042846,
+                802042847,
+                1802040815
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100442,
+            "name": "Harvest Blessing: Effect",
+            "flavor_text": "[On every 5 turns counting from the start of battle]<br>Activates the following (Max times: 2 times per battle):<br>・Grants all surviving allies Heat Up (extreme effect).<br>・Grants all surviving allies Defense Up (medium effect).<br>・Grants all surviving allies \"End of Turn: Recover HP\" (very small effect/Effect: permanent in battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042845,
+                802042846,
+                802042847
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100443,
+            "name": "Protector of the Old Village",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>[When attacking]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (extreme effect/5 turn(s)).<br>Increases own STR/INT (large effect).<br>Grants oneself <special_effect=800000138>\"End of Turn: Recover BP (+1)\"</special_effect> (Effect: permanent in battle) (Max times: 3 times per battle).<br>Grants oneself <special_effect=800000341>\"End of Turn: OD Gauge Up (sm.)\"</special_effect> (Effect: permanent in battle) (Max times: 3 times per battle).<br><br>[After activating an OD attack*]<br><skill=1110800058>Blaze Javelins</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040322,
+                802042855,
+                802042857,
+                1802040816,
+                1802040817
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100444,
+            "name": "Protector of the Old Village: Effect 3",
+            "flavor_text": "[When attacking]<br>Grants oneself \"End of Turn: OD Gauge Up (sm.)\" (Effect: permanent in battle) (Max times: 3 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040818
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100445,
+            "name": "Protector of the Old Village: Effect 4",
+            "flavor_text": "[After activating an OD attack]<br>Blaze Javelins will be activated.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040819
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100446,
+            "name": "End of Turn: OD Gauge Up (sm.)",
+            "flavor_text": "At end of turn, increases own OD gauge (small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041101
             ],
             "icon": 4010,
             "rarity": 0,

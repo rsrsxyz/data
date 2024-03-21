@@ -2231,6 +2231,16 @@
             "selling_price": 0
         },
         {
+            "id": 800298,
+            "name": "Romancing Festival Medal 153",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800298,
+            "max_quantity": 99999999,
+            "expired_at": 1713488399,
+            "sort_order": 24032160,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -8098,6 +8108,46 @@
             "max_quantity": 99999999,
             "expired_at": 1712883599,
             "sort_order": 24031405,
+            "selling_price": 0
+        },
+        {
+            "id": 1100920,
+            "name": "Mysterious Coin",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100920,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24032110,
+            "selling_price": 0
+        },
+        {
+            "id": 1100921,
+            "name": "Mysterious Pot",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100921,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24032115,
+            "selling_price": 0
+        },
+        {
+            "id": 1100922,
+            "name": "Mysterious Magatama",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100922,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24032120,
+            "selling_price": 0
+        },
+        {
+            "id": 1100923,
+            "name": "Mysterious Bronze Chunk",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100923,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24032125,
             "selling_price": 0
         },
         {

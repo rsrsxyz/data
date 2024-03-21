@@ -108,6 +108,78 @@
             "trigger_close_at": 0,
             "trigger_close_node_id": 0,
             "area_effect_id": 10006
+        },
+        {
+            "id": 1013301,
+            "field_map_id": 1013301,
+            "trigger_open_at": 1711069200,
+            "trigger_open_node_id": 0,
+            "trigger_close_at": 0,
+            "trigger_close_node_id": 0,
+            "area_effect_id": 10012
+        },
+        {
+            "id": 1013302,
+            "field_map_id": 1013301,
+            "trigger_open_at": 1711155600,
+            "trigger_open_node_id": 10133010,
+            "trigger_close_at": 0,
+            "trigger_close_node_id": 0,
+            "area_effect_id": 10013
+        },
+        {
+            "id": 1013303,
+            "field_map_id": 1013301,
+            "trigger_open_at": 1711242000,
+            "trigger_open_node_id": 10133022,
+            "trigger_close_at": 0,
+            "trigger_close_node_id": 0,
+            "area_effect_id": 10014
+        },
+        {
+            "id": 1013304,
+            "field_map_id": 1013301,
+            "trigger_open_at": 1711328400,
+            "trigger_open_node_id": 10133034,
+            "trigger_close_at": 0,
+            "trigger_close_node_id": 0,
+            "area_effect_id": 10015
+        },
+        {
+            "id": 1013305,
+            "field_map_id": 1013301,
+            "trigger_open_at": 1711414800,
+            "trigger_open_node_id": 10133046,
+            "trigger_close_at": 0,
+            "trigger_close_node_id": 0,
+            "area_effect_id": 10016
+        },
+        {
+            "id": 1013306,
+            "field_map_id": 1013301,
+            "trigger_open_at": 1711501200,
+            "trigger_open_node_id": 10133058,
+            "trigger_close_at": 0,
+            "trigger_close_node_id": 0,
+            "area_effect_id": 10017
+        },
+        {
+            "id": 1013308,
+            "field_map_id": 1013301,
+            "trigger_open_at": 1711587600,
+            "trigger_open_node_id": 10133070,
+            "trigger_close_at": 0,
+            "trigger_close_node_id": 0,
+            "area_effect_id": 10018
+        },
+        {
+            "id": 1013309,
+            "field_map_id": 1013301,
+            "trigger_open_at": 1711587600,
+            "trigger_open_node_id": 10133082,
+            "trigger_close_at": 0,
+            "trigger_close_node_id": 0,
+            "area_effect_id": 10019
         }
     ]
 }

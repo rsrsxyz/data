@@ -46674,6 +46674,24 @@
             "reward_id": 105001,
             "reward_quantity": 30,
             "priority": 299410
+        },
+        {
+            "id": 22836,
+            "summary": "Complete Spiral Corridor Floor 235",
+            "description": "Complete Spiral Corridor Floor 235",
+            "reward_type": 1,
+            "reward_id": 100002,
+            "reward_quantity": 100,
+            "priority": 56861
+        },
+        {
+            "id": 22837,
+            "summary": "Complete Spiral Corridor Floor 240",
+            "description": "Complete Spiral Corridor Floor 240",
+            "reward_type": 1,
+            "reward_id": 100002,
+            "reward_quantity": 100,
+            "priority": 56861
         }
     ]
 }
