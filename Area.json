@@ -18784,6 +18784,40 @@
             "stage_exp_items": []
         },
         {
+            "id": 1652,
+            "name": "Super Hot Air Balloon?! Battle with Arsenal",
+            "sort_order": 3051,
+            "quest_category": 6,
+            "quest_sub_category_id": 23,
+            "list_banner": 921148,
+            "screen_in_help_id": 958,
+            "currency_items": [],
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "event_mission_tab_id": 0,
+            "fixed_status_id": 0,
+            "start_at": 1711933200,
+            "end_at": 1893373199,
+            "bgm": 0,
+            "field_map_icon_id": 0,
+            "event_box_gacha_id": 0,
+            "event_ability_potion_target": 1,
+            "auto_rematch_enabled": 0,
+            "part_id": 0,
+            "last_previous_synopsis_id": 0,
+            "add_cinema_start_at": 0,
+            "display_cinema_start_at": 0,
+            "cinema_banner_id": 0,
+            "story_mode_episode_name": "",
+            "cover_banner_id": 0,
+            "stage_gacha_id": 0,
+            "challenge_mode_banner_id": 921120,
+            "gacha_ticket_id": 0,
+            "top_banner_id": 921120,
+            "stage_released_reward_set_id": 0,
+            "stage_exp_items": []
+        },
+        {
             "id": 2001,
             "name": "Defeat Sealord Forneus!",
             "sort_order": 1,
@@ -19909,6 +19943,51 @@
                 {
                     "id": 980002,
                     "start_at": 1713056400,
+                    "end_at": 0
+                }
+            ]
+        },
+        {
+            "id": 10005,
+            "name": "Scenic Records",
+            "sort_order": 1004,
+            "quest_category": 13,
+            "quest_sub_category_id": 0,
+            "list_banner": 0,
+            "screen_in_help_id": 0,
+            "currency_items": [],
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "event_mission_tab_id": 0,
+            "fixed_status_id": 0,
+            "start_at": 1711674000,
+            "end_at": 0,
+            "bgm": 120307,
+            "field_map_icon_id": 0,
+            "event_box_gacha_id": 0,
+            "event_ability_potion_target": 1,
+            "auto_rematch_enabled": 1,
+            "part_id": 0,
+            "last_previous_synopsis_id": 0,
+            "add_cinema_start_at": 0,
+            "display_cinema_start_at": 0,
+            "cinema_banner_id": 0,
+            "story_mode_episode_name": "",
+            "cover_banner_id": 10005,
+            "stage_gacha_id": 10005,
+            "challenge_mode_banner_id": 0,
+            "gacha_ticket_id": 0,
+            "top_banner_id": 0,
+            "stage_released_reward_set_id": 3000012,
+            "stage_exp_items": [
+                {
+                    "id": 980003,
+                    "start_at": 1711674000,
+                    "end_at": 1715561999
+                },
+                {
+                    "id": 980002,
+                    "start_at": 1715562000,
                     "end_at": 0
                 }
             ]

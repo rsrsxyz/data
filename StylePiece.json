@@ -219,6 +219,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 119108,
+            "name": "SS Creator Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [You Can't Beat Me] Creator.",
+            "icon": 119108,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 119201,
             "name": "SS Ashura Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Don't Flatter Yourself!] Ashura.",
@@ -455,6 +463,14 @@
             "name": "SS Apollo Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Here for the Dead] Apollo.",
             "icon": 129204,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 129205,
+            "name": "SS Apollo Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Power and Elegance] Apollo.",
+            "icon": 129205,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -1399,6 +1415,14 @@
             "name": "SS Neidhart Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Time to Risk Your Life] Neidhart.",
             "icon": 212406,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 212502,
+            "name": "SS Flammar Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Lady of Weiserheim] Flammar.",
+            "icon": 212502,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -8731,6 +8755,14 @@
             "exchange_cost": 150
         },
         {
+            "id": 711807,
+            "name": "SS Candy Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Team Friends, Go!] Candy.",
+            "icon": 711807,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 711901,
             "name": "S Darius Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Leader of Clavis] Darius.",
@@ -8771,6 +8803,14 @@
             "exchange_cost": 150
         },
         {
+            "id": 711906,
+            "name": "SS Darius Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Time for Good Food] Darius.",
+            "icon": 711906,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 712001,
             "name": "S BaIC Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Now With Battle Mode!] BaIC.",
@@ -8799,6 +8839,14 @@
             "name": "SS Hiveris Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Ruler of Ice] Hiveris.",
             "icon": 712202,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 712204,
+            "name": "SS Hiveris Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Crab Servant] Hiveris.",
+            "icon": 712204,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -8879,6 +8927,14 @@
             "name": "SS Razem Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Primal Beast] Razem.",
             "icon": 712602,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 712604,
+            "name": "SS Razem Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Divine Beast Castle] Razem.",
+            "icon": 712604,
             "selling_price": 100,
             "exchange_cost": 250
         },

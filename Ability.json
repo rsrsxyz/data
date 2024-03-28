@@ -17657,7 +17657,7 @@
         {
             "id": 702102352,
             "name": "Clavis Great Banquet",
-            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000335>Banquet Host</special_effect> (Effect: permanent in battle).<br>[At the end of every 5 turns counting from the start of battle]<br>Grants oneself <special_effect=800000344>Hospitality</special_effect> (Effect: permanent in battle) (Max times: 2 times per battle).",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000335>Banquet Host</special_effect> (Effect: permanent in battle).<br><br>[At the end of every 5 turns counting from the start of battle]<br>Grants oneself <special_effect=800000344>Hospitality</special_effect> (Effect: permanent in battle) (Max times: 2 times per battle).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042991,
@@ -17799,8 +17799,8 @@
         },
         {
             "id": 702102363,
-            "name": "Takezaki Crab Defense: Effect",
-            "flavor_text": "",
+            "name": "Takezaki Crab Defense: Effect 2",
+            "flavor_text": "[When being attacked]<br>Recovers own BP (+1).<br><br>[When hit by an attack which has slash damage]<br>Reduces all enemies' STR (very large effect).<br><br>[When hit by an attack which has blunt damage]<br>Reduces all enemies' AGI (very large effect).<br><br>[When hit by an attack which has cold damage]<br>Reduces all enemies' INT (very large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802013034,
@@ -66132,6 +66132,182 @@
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041101
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100447,
+            "name": "Beautiful Karatsu Castle",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br>Fills up own OD gauge.<br>Grants oneself <special_effect=800000333>Karatsu Autumn Colors</special_effect> (Effect: permanent in battle).<br><br>[End of turn]<br>Recovers own HP (very small effect).<br>Increases own OD gauge (medium effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110200484>Flash Blade</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=110200485>Karatsu Autumn Slash</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040322,
+                802041344,
+                1802040820,
+                1802040821,
+                802042988
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100448,
+            "name": "Karatsu Autumn Colors",
+            "flavor_text": "[When another surviving ally is being attacked*]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/2 turn(s)).<br>Recovers own BP (+1).<br>*Number of activation will not be affected even if multiple allies are being attacked.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042277,
+                802042971
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100449,
+            "name": "Beautiful Karatsu Castle: Effect 1",
+            "flavor_text": "[End of turn]<br>Recovers own HP (very small effect).<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041204,
+                802041741
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100450,
+            "name": "Power of MAGIs",
+            "flavor_text": "[Start of battle]<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (large effect/5 turn(s)).<br>Grants oneself <special_effect=800000097>Damage Block</special_effect> (5 turn(s)).<br><br>[At the end of/After Turn 5 counting from the start of battle]<br>Grants oneself <special_effect=800000342>Matchless Magic</special_effect> and <special_effect=1800000037>Power & Elegance</special_effect> (Effect: permanent in battle) (Max times: 1 time per battle).<br><br>[When landing an attack]<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043022,
+                802043023,
+                1802040822,
+                802041462
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100451,
+            "name": "Power of MAGIs: Effect",
+            "flavor_text": "[At the end of/After Turn 5 counting from the start of battle]<br>Grants oneself <special_effect=800000342>Matchless Magic</special_effect> and <special_effect=1800000037>Power & Elegance</special_effect> (Effect: permanent in battle) (Max times: 1 time per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043025,
+                1802040826,
+                1802040824,
+                1802040825
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100452,
+            "name": "Power & Elegance",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=1110500115>Masamune+</skill> will be activated.<br>(Activates using skill Rank 1).<br><skill=110500491>Masamune Fury</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br><skill=110500486>Conflagration+</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040823,
+                1802040824,
+                1802040825
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100453,
+            "name": "Power & Elegance: Effect 1",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br>Masamune+ will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040827
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100454,
+            "name": "Power & Elegance: Effect 2",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br>Masamune Fury will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043027
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100455,
+            "name": "Power & Elegance: Effect 3",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br>Conflagration+ will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043028
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100456,
+            "name": "Fiesta Prep",
+            "flavor_text": "[Start of battle]<br>Grants all surviving allies <special_effect=800000347>Prep Stance</special_effect> (Effect: permanent in battle).<br><br>[Start of turn]<br>Recovers own BP (+2).<br>Grants all surviving allies <special_effect=800000158>Over Enhance</special_effect> (very large effect) (Max times: 3 times per battle).<br><br>[After activating an OD attack*]<br><skill=110500489>Friends Balloon Big March</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043047,
+                802041830,
+                1802040829,
+                802043097
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100457,
+            "name": "Turn Start: Over Enhance",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies Over Enhance (very large effect) (Max times: 3 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040830
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100458,
+            "name": "Recover BP (+1) When Attacked by Skill Atk (3x)",
+            "flavor_text": "When hit by a skill attack, recovers own BP (+1) (Max times: 3).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043046
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100459,
+            "name": "Takezaki Crab Defense",
+            "flavor_text": "Reduces damage taken for all allies (large effect).<br><br>[Start of battle]<br>Recovers own BP (+2).<br><br>[When being directly attacked]<br>Reduces damage taken and counterattacks with <skill=1125200057>Water Hammer+</skill>.<br>(Activates using spell Rank 1).<br><br>[When being attacked]<br>Recovers own BP (+1).<br><br>[When hit by an attack which has slash damage]<br>Reduces all enemies' STR (very large effect).<br><br>[When hit by an attack which has blunt damage]<br>Reduces all enemies' AGI (very large effect).<br><br>[When hit by an attack which has cold damage]<br>Reduces all enemies' INT (very large effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041859,
+                802040322,
+                1802040831,
+                802043042
             ],
             "icon": 4010,
             "rarity": 0,

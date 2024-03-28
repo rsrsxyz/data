@@ -2241,6 +2241,26 @@
             "selling_price": 0
         },
         {
+            "id": 800300,
+            "name": "Romancing Festival Medal 154",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800300,
+            "max_quantity": 99999999,
+            "expired_at": 1714093199,
+            "sort_order": 24032860,
+            "selling_price": 0
+        },
+        {
+            "id": 800301,
+            "name": "Romancing Festival Medal 155",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800301,
+            "max_quantity": 99999999,
+            "expired_at": 1714093199,
+            "sort_order": 24032855,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -8111,6 +8131,16 @@
             "selling_price": 0
         },
         {
+            "id": 1100919,
+            "name": "Scenic Exploration Support Drink",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100919,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24032810,
+            "selling_price": 0
+        },
+        {
             "id": 1100920,
             "name": "Mysterious Coin",
             "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -8328,6 +8358,96 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 24022928,
+            "selling_price": 0
+        },
+        {
+            "id": 1200020,
+            "name": "Stamp Rally: Nanatsugama [Scenic Records]",
+            "flavor_text": "Item used in Scenic Records.",
+            "icon": 1200020,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24032815,
+            "selling_price": 0
+        },
+        {
+            "id": 1200021,
+            "name": "Stamp Rally: Karatsu Kunchi [Scenic Records]",
+            "flavor_text": "Item used in Scenic Records.",
+            "icon": 1200021,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24032816,
+            "selling_price": 0
+        },
+        {
+            "id": 1200022,
+            "name": "Stamp Rally: Tonbai Wall [Scenic Records]",
+            "flavor_text": "Item used in Scenic Records.",
+            "icon": 1200022,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24032817,
+            "selling_price": 0
+        },
+        {
+            "id": 1200023,
+            "name": "Stamp Rally: Takeo Shrine [Scenic Records]",
+            "flavor_text": "Item used in Scenic Records.",
+            "icon": 1200023,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24032818,
+            "selling_price": 0
+        },
+        {
+            "id": 1200024,
+            "name": "Stamp Rally: Floating Torii Gate [Scenic Records]",
+            "flavor_text": "Item used in Scenic Records.",
+            "icon": 1200024,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24032819,
+            "selling_price": 0
+        },
+        {
+            "id": 1200025,
+            "name": "Stamp Rally: Ariake Sea [Scenic Records]",
+            "flavor_text": "Item used in Scenic Records.",
+            "icon": 1200025,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24032820,
+            "selling_price": 0
+        },
+        {
+            "id": 1200026,
+            "name": "Stamp Rally: Hot Air Balloons [Scenic Records]",
+            "flavor_text": "Item used in Scenic Records.",
+            "icon": 1200026,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24032821,
+            "selling_price": 0
+        },
+        {
+            "id": 1200027,
+            "name": "Stamp Rally: Saga Station [Scenic Records]",
+            "flavor_text": "Item used in Scenic Records.",
+            "icon": 1200027,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24032822,
+            "selling_price": 0
+        },
+        {
+            "id": 1200028,
+            "name": "Stamp Rally: Yoshinogari [Scenic Records]",
+            "flavor_text": "Item used in Scenic Records.",
+            "icon": 1200028,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24032823,
             "selling_price": 0
         },
         {

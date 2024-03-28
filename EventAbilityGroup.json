@@ -1161,6 +1161,36 @@
             "priority": 10005
         },
         {
+            "id": 1346,
+            "event_ability_category_id": 989,
+            "name": "Scenic Stage EXP Booster III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x Stage EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 10006
+        },
+        {
+            "id": 1347,
+            "event_ability_category_id": 990,
+            "name": "Scenic Attribute Growth Booster V",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains in Battle Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 10007
+        },
+        {
+            "id": 1348,
+            "event_ability_category_id": 991,
+            "name": "Scenic Skill/Spell Rank Booster III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x skill/spell rank up amount in Battle Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 10008
+        },
+        {
             "id": 1000000101,
             "event_ability_category_id": 1000000002,
             "name": "[Limited Time] Seven Heroes Pickup Summon",
@@ -4879,6 +4909,36 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 500
+        },
+        {
+            "id": 1000000725,
+            "event_ability_category_id": 1000000476,
+            "name": "Mysterious Exploration Romancing Saga Round 2 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Scenic Exploration Support Drink drops in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 501
+        },
+        {
+            "id": 1000000726,
+            "event_ability_category_id": 1000000477,
+            "name": "Mysterious Exploration Romancing Saga Round 2 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Scenic Exploration Support Drink drops in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 502
+        },
+        {
+            "id": 1000000727,
+            "event_ability_category_id": 1000000478,
+            "name": "Mysterious Exploration Romancing Saga Round 2 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Scenic Exploration Support Drink drops in Free Quests<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 503
         }
     ]
 }

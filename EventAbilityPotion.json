@@ -107,6 +107,42 @@
             "event_ability_potion_type": 2
         },
         {
+            "id": 940048,
+            "name": "Scenic Stage EXP Booster III [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 3x Stage Lv EXP in all Records for 24 hours after use. (Until [1714697999] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1714697999,
+            "icon": 940045,
+            "sort_order": 23100265,
+            "event_ability_group_id": 1346,
+            "duration_seconds": 86400,
+            "event_ability_potion_type": 1
+        },
+        {
+            "id": 940049,
+            "name": "Scenic Attribute Growth Booster V [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 5x attribute gains for all characters for 24 hours after use. (Until [1714697999] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1714697999,
+            "icon": 940046,
+            "sort_order": 23100260,
+            "event_ability_group_id": 1347,
+            "duration_seconds": 86400,
+            "event_ability_potion_type": 1
+        },
+        {
+            "id": 940050,
+            "name": "Scenic Skill/Spell Rank Booster III [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 3x skill/spell rank up amount for all characters for 24 hours after use. (Until [1714697999] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1714697999,
+            "icon": 940047,
+            "sort_order": 23100255,
+            "event_ability_group_id": 1348,
+            "duration_seconds": 86400,
+            "event_ability_potion_type": 1
+        },
+        {
             "id": 1000940001,
             "name": "Halloween Party Night Booster [Ltd. Time]",
             "flavor_text": "[Limited Time] Item that grants 3x attribute gains for a character in all battle quests for 1 hour after use. (Until [1669337999] <tz>)",
