@@ -17641,7 +17641,7 @@
         },
         {
             "id": 702102351,
-            "name": "Meiji Restoration Attire in Saga",
+            "name": "Saga Restoration Attire",
             "flavor_text": "Attacks' damage increases (very large effect).<br><br>[On odd turns counting from the start of battle]<br>Grants all surviving allies <special_effect=800000026>Guard Up (large)</special_effect> (1 turn(s)).<br><br>[On even turns counting from the start of battle]<br>Grants all surviving allies <special_effect=800000013>Morale Up (very large)</special_effect> (1 turn(s)).<br><br>[On every 3 turns counting from the start of battle]<br>Recovers all surviving allies' BP (+1).",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -66308,6 +66308,148 @@
                 802040322,
                 1802040831,
                 802043042
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100460,
+            "name": "Commitment to Umami",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+10).<br>Grants all surviving allies <special_effect=800000349>Umami Power</special_effect> (Effect: permanent in battle).<br><br>[Start of round]<br>Grants all surviving allies <special_effect=800000236>Max BP Increase</special_effect> (Increase: 5/10 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=1110300041>Healing Axe</skill> will be activated.<br>(Activates using skill Rank 1).<br><skill=1110300042>Skydrive+</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041285,
+                802043060,
+                802043113,
+                802041880,
+                1802040832,
+                1802040833
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100461,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=1110300041>Healing Axe</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040834
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100462,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=1110300042>Skydrive+</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040835
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100463,
+            "name": "Storyteller of History",
+            "flavor_text": "[When attacking]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br><br>[When landing an attack with an Attack type skill/spell*]<br><br><On odd turns counting from the start of battle><br><skill=110100485>Notes of Blessings</skill> will be activated.<br>(Activates using skill Rank 1).<br><skill=110400343>Eclater d'Arme+</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br><br><On even turns counting from the start of battle><br><skill=110400343>Eclater d'Arme+</skill> will be activated.<br>(Activates using skill Rank 1).<br><skill=110100485>Notes of Blessings</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040790,
+                802043073,
+                1802040836,
+                802043072,
+                1802040837
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100464,
+            "name": "Follow-Up on Odd-Turn Atk",
+            "flavor_text": "On odd turns counting from the start of battle, when landing an attack with an Attack type skill/spell, <skill=110400343>Eclater d'Arme+</skill> will be activated (very high chance).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043070
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100465,
+            "name": "Follow-Up on Even-Turn Atk",
+            "flavor_text": "On even turns counting from the start of battle, when landing an attack with an Attack type skill/spell, <skill=110100485>Notes of Blessings</skill> will be activated (very high chance).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043071
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100466,
+            "name": "A Thrilling Tale",
+            "flavor_text": "[Start of turn]<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (extreme effect).<br><br>[End of turn]<br>Removes STR/END/DEX/AGI/INT/WIL/LOV/CHA buffs for all surviving allies (very high chance).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040846,
+                802043083
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100467,
+            "name": "Turn Start: All Attributes Up",
+            "flavor_text": "On start of turn, increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (extreme effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040838,
+                1802040839,
+                1802040840,
+                1802040841,
+                1802040842,
+                1802040843,
+                1802040844,
+                1802040845
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100468,
+            "name": "Saga Restoration Attire",
+            "flavor_text": "Attacks' damage increases (very large effect).<br>When attacked, damage taken will be reduced (large effect).<br><br>[On odd turns counting from the start of battle]<br>Grants all surviving allies <special_effect=800000026>Guard Up (large)</special_effect> (1 turn(s)).<br><br>[On even turns counting from the start of battle]<br>Grants all surviving allies <special_effect=800000013>Morale Up (very large)</special_effect> (1 turn(s)).<br><br>[On every 3 turns counting from the start of battle]<br>Recovers all surviving allies' HP (small effect).<br>Recovers all surviving allies' BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040346,
+                802040361,
+                802043056,
+                802043057,
+                1802040847
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100469,
+            "name": "Start of Every 3 Turns: Recover HP/BP",
+            "flavor_text": "[On every 3 turns counting from the start of battle]<br>Recovers all surviving allies' HP (small effect).<br>Recovers all surviving allies' BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040848,
+                802040745
             ],
             "icon": 4010,
             "rarity": 0,

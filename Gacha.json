@@ -5835,6 +5835,38 @@
             "step_up_button_type": 0
         },
         {
+            "id": 1000798,
+            "name": "Romancing Festival Hardy",
+            "gacha_banner": 0,
+            "new_badge_illust": 10001,
+            "bgm": 130101,
+            "gacha_banner_dot_ids": [],
+            "clear_stamp": 1,
+            "directing_group_id": 0,
+            "object_dot_id": 0,
+            "object_offset_x": 0,
+            "object_offset_y": 0,
+            "step_count": 5,
+            "shop_id": 4900623,
+            "step_up_button_type": 2
+        },
+        {
+            "id": 1000799,
+            "name": "Romancing Festival Hardy",
+            "gacha_banner": 1001169,
+            "new_badge_illust": 10001,
+            "bgm": 130101,
+            "gacha_banner_dot_ids": [],
+            "clear_stamp": 0,
+            "directing_group_id": 0,
+            "object_dot_id": 0,
+            "object_offset_x": 0,
+            "object_offset_y": 0,
+            "step_count": 0,
+            "shop_id": 4900623,
+            "step_up_button_type": 0
+        },
+        {
             "id": 1000000001,
             "name": "Romancing Festival",
             "gacha_banner": 1000000001,

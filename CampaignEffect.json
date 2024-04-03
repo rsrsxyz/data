@@ -20960,6 +20960,19 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7443,
+            "ribbon": "2x Exploration Point Drop Slots!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                500050001
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7444,
             "ribbon": "2x Exploration Point Drop Slots!",
             "campaign_type": 5,
@@ -20968,6 +20981,19 @@
             "reward_id": 0,
             "drop_group_ids": [
                 500040001
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7445,
+            "ribbon": "Tasty Seaweed Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013832
             ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0

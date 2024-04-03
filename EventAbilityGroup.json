@@ -4939,6 +4939,36 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 503
+        },
+        {
+            "id": 1000000728,
+            "event_ability_category_id": 1000000479,
+            "name": "Mysterious Exploration Romancing Saga Round 3 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Tasty Seaweed drops in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 504
+        },
+        {
+            "id": 1000000729,
+            "event_ability_category_id": 1000000480,
+            "name": "Mysterious Exploration Romancing Saga Round 3 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Tasty Seaweed drops in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 505
+        },
+        {
+            "id": 1000000730,
+            "event_ability_category_id": 1000000481,
+            "name": "Mysterious Exploration Romancing Saga Round 3 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Tasty Seaweed drops in Free Quests<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 506
         }
     ]
 }

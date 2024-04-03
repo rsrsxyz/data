@@ -963,6 +963,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 210509,
+            "name": "SS Aisha Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [This Is Western Style, Right?] Aisha.",
+            "icon": 210509,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 210601,
             "name": "A Claudia Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of A [Guardian of the Forest] Claudia. ",
@@ -8915,6 +8923,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 712504,
+            "name": "SS Hardy Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Scrumptious Squid] Hardy.",
+            "icon": 712504,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 712601,
             "name": "SS Razem Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [First of the Divine Beasts] Razem.",
@@ -9167,6 +9183,14 @@
             "name": "SS Minstrel Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Guiding Soul] Minstrel.",
             "icon": 810208,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 810209,
+            "name": "SS Minstrel Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Storied Road] Minstrel.",
+            "icon": 810209,
             "selling_price": 100,
             "exchange_cost": 250
         },
