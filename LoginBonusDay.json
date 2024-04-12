@@ -93973,6 +93973,706 @@
                     "quantity": 10
                 }
             ]
+        },
+        {
+            "id": 1000006059,
+            "login_bonus_id": 1000000843,
+            "day": 1,
+            "rewards": [
+                {
+                    "type": 30,
+                    "id": 940052,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 15
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000006060,
+            "login_bonus_id": 1000000843,
+            "day": 2,
+            "rewards": [
+                {
+                    "type": 30,
+                    "id": 940053,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 15
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000006061,
+            "login_bonus_id": 1000000843,
+            "day": 3,
+            "rewards": [
+                {
+                    "type": 30,
+                    "id": 940052,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 15
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000006062,
+            "login_bonus_id": 1000000843,
+            "day": 4,
+            "rewards": [
+                {
+                    "type": 30,
+                    "id": 940053,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 15
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000006063,
+            "login_bonus_id": 1000000843,
+            "day": 5,
+            "rewards": [
+                {
+                    "type": 30,
+                    "id": 940052,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 15
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000006064,
+            "login_bonus_id": 1000000843,
+            "day": 6,
+            "rewards": [
+                {
+                    "type": 30,
+                    "id": 940053,
+                    "quantity": 5
+                },
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 15
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000006065,
+            "login_bonus_id": 1000000843,
+            "day": 7,
+            "rewards": [
+                {
+                    "type": 32,
+                    "id": 950014,
+                    "quantity": 1000
+                },
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 15
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 50
+                }
+            ]
+        },
+        {
+            "id": 1000006066,
+            "login_bonus_id": 1000000844,
+            "day": 1,
+            "rewards": [
+                {
+                    "type": 37,
+                    "id": 10005,
+                    "quantity": 1000
+                }
+            ]
+        },
+        {
+            "id": 1000006067,
+            "login_bonus_id": 1000000844,
+            "day": 2,
+            "rewards": [
+                {
+                    "type": 37,
+                    "id": 10005,
+                    "quantity": 1000
+                }
+            ]
+        },
+        {
+            "id": 1000006068,
+            "login_bonus_id": 1000000844,
+            "day": 3,
+            "rewards": [
+                {
+                    "type": 37,
+                    "id": 10005,
+                    "quantity": 1000
+                }
+            ]
+        },
+        {
+            "id": 1000006069,
+            "login_bonus_id": 1000000844,
+            "day": 4,
+            "rewards": [
+                {
+                    "type": 37,
+                    "id": 10005,
+                    "quantity": 1000
+                }
+            ]
+        },
+        {
+            "id": 1000006070,
+            "login_bonus_id": 1000000844,
+            "day": 5,
+            "rewards": [
+                {
+                    "type": 37,
+                    "id": 10005,
+                    "quantity": 1000
+                }
+            ]
+        },
+        {
+            "id": 1000006071,
+            "login_bonus_id": 1000000844,
+            "day": 6,
+            "rewards": [
+                {
+                    "type": 37,
+                    "id": 10005,
+                    "quantity": 1000
+                }
+            ]
+        },
+        {
+            "id": 1000006072,
+            "login_bonus_id": 1000000844,
+            "day": 7,
+            "rewards": [
+                {
+                    "type": 37,
+                    "id": 10005,
+                    "quantity": 1000
+                }
+            ]
+        },
+        {
+            "id": 1000006073,
+            "login_bonus_id": 1000000845,
+            "day": 1,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006074,
+            "login_bonus_id": 1000000845,
+            "day": 2,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006075,
+            "login_bonus_id": 1000000845,
+            "day": 3,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006076,
+            "login_bonus_id": 1000000845,
+            "day": 4,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006077,
+            "login_bonus_id": 1000000845,
+            "day": 5,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006078,
+            "login_bonus_id": 1000000845,
+            "day": 6,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006079,
+            "login_bonus_id": 1000000845,
+            "day": 7,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006080,
+            "login_bonus_id": 1000000845,
+            "day": 8,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006081,
+            "login_bonus_id": 1000000845,
+            "day": 9,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006082,
+            "login_bonus_id": 1000000845,
+            "day": 10,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006083,
+            "login_bonus_id": 1000000845,
+            "day": 11,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006084,
+            "login_bonus_id": 1000000845,
+            "day": 12,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006085,
+            "login_bonus_id": 1000000845,
+            "day": 13,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006086,
+            "login_bonus_id": 1000000845,
+            "day": 14,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006087,
+            "login_bonus_id": 1000000845,
+            "day": 15,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006088,
+            "login_bonus_id": 1000000845,
+            "day": 16,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006089,
+            "login_bonus_id": 1000000845,
+            "day": 17,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006090,
+            "login_bonus_id": 1000000845,
+            "day": 18,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006091,
+            "login_bonus_id": 1000000845,
+            "day": 19,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006092,
+            "login_bonus_id": 1000000845,
+            "day": 20,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006093,
+            "login_bonus_id": 1000000845,
+            "day": 21,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006094,
+            "login_bonus_id": 1000000845,
+            "day": 22,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006095,
+            "login_bonus_id": 1000000845,
+            "day": 23,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006096,
+            "login_bonus_id": 1000000845,
+            "day": 24,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006097,
+            "login_bonus_id": 1000000845,
+            "day": 25,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006098,
+            "login_bonus_id": 1000000845,
+            "day": 26,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006099,
+            "login_bonus_id": 1000000845,
+            "day": 27,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006100,
+            "login_bonus_id": 1000000845,
+            "day": 28,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006101,
+            "login_bonus_id": 1000000845,
+            "day": 29,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006102,
+            "login_bonus_id": 1000000845,
+            "day": 30,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 300
+                }
+            ]
+        },
+        {
+            "id": 1000006103,
+            "login_bonus_id": 1000000846,
+            "day": 1,
+            "rewards": [
+                {
+                    "type": 10,
+                    "id": 821208,
+                    "quantity": 12
+                },
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 20
+                }
+            ]
+        },
+        {
+            "id": 1000006104,
+            "login_bonus_id": 1000000846,
+            "day": 2,
+            "rewards": [
+                {
+                    "type": 10,
+                    "id": 821209,
+                    "quantity": 100
+                },
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 20
+                }
+            ]
+        },
+        {
+            "id": 1000006105,
+            "login_bonus_id": 1000000846,
+            "day": 3,
+            "rewards": [
+                {
+                    "type": 10,
+                    "id": 821209,
+                    "quantity": 100
+                },
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 30
+                }
+            ]
+        },
+        {
+            "id": 1000006110,
+            "login_bonus_id": 1000000847,
+            "day": 1,
+            "rewards": [
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 5
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 30
+                }
+            ]
+        },
+        {
+            "id": 1000006111,
+            "login_bonus_id": 1000000847,
+            "day": 2,
+            "rewards": [
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 5
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 30
+                }
+            ]
+        },
+        {
+            "id": 1000006112,
+            "login_bonus_id": 1000000847,
+            "day": 3,
+            "rewards": [
+                {
+                    "type": 12,
+                    "id": 840002,
+                    "quantity": 5
+                },
+                {
+                    "type": 11,
+                    "id": 830001,
+                    "quantity": 30
+                }
+            ]
         }
     ]
 }

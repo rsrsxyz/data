@@ -20999,6 +20999,67 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7454,
+            "ribbon": "",
+            "campaign_type": 10,
+            "rate": 1.5,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7455,
+            "ribbon": "",
+            "campaign_type": 10,
+            "rate": 10.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7458,
+            "ribbon": "Star-Friend Great Exploration Key Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013871
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7459,
+            "ribbon": "Treasure Ticket Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013872
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7460,
+            "ribbon": "Star-Friend Great Exploration Coin Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013869
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 50001,
             "ribbon": "",
             "campaign_type": 5,
@@ -47711,6 +47772,19 @@
             "reward_id": 0,
             "drop_group_ids": [
                 1000097722
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 1000002797,
+            "ribbon": "[SSS] Celestial Crystal Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097711
             ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0

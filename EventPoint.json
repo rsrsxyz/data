@@ -2271,6 +2271,26 @@
             "selling_price": 0
         },
         {
+            "id": 800310,
+            "name": "Romancing Festival Medal 157",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800310,
+            "max_quantity": 99999999,
+            "expired_at": 1715389199,
+            "sort_order": 24041260,
+            "selling_price": 0
+        },
+        {
+            "id": 800311,
+            "name": "Romancing Festival Medal 158",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800311,
+            "max_quantity": 99999999,
+            "expired_at": 1715389199,
+            "sort_order": 24041255,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -8201,6 +8221,16 @@
             "selling_price": 0
         },
         {
+            "id": 1100928,
+            "name": "Star-Friend Great Exploration Coin [Ltd. Time]",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for SS weapons, Styles, and other items. (Until [1715389199] <tz>)",
+            "icon": 1100928,
+            "max_quantity": 99999999,
+            "expired_at": 1715389199,
+            "sort_order": 24041215,
+            "selling_price": 0
+        },
+        {
             "id": 1200001,
             "name": "Yellowstone Tribute [Fighter Records]",
             "flavor_text": "Item used in Fighter Records.",
@@ -8468,6 +8498,26 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 24032823,
+            "selling_price": 0
+        },
+        {
+            "id": 1200029,
+            "name": "Shed Key [Star-Friend Records]",
+            "flavor_text": "Item used in Star-Friend Records.",
+            "icon": 1200029,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24041205,
+            "selling_price": 0
+        },
+        {
+            "id": 1200030,
+            "name": "Pickaxe [Star-Friend Records]",
+            "flavor_text": "Item used in Star-Friend Records.",
+            "icon": 1200030,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24041203,
             "selling_price": 0
         },
         {

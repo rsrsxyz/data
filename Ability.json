@@ -19291,7 +19291,7 @@
         {
             "id": 702102490,
             "name": "Scimitar User",
-            "flavor_text": "Attacks' damage increases (extreme effect).<br><br>[Start of battle]<br>Recovers own BP (+3).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110100506>Demilune Echo</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br><skill=110100505>Storm Lightning Flash</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities, Skill/Spell Counterattacks, and Skills/Spells activated by skill/spell effects are not included.",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br><br>[Start of battle]<br>Recovers own BP (+3).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110100506>Demilune Echo</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a very high chance to:<br>Activate <skill=110100505>Storm Lightning Flash</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040520,
@@ -19463,7 +19463,7 @@
         {
             "id": 702102503,
             "name": "Oath to the Masquerade",
-            "flavor_text": "Attacks' damage increases (extreme effect).<br>When attacked, damage taken will be reduced (very large effect).<br><br>[When landing an attack]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (medium effect) (Max times: 5 times per battle).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110200493>Moulin Rouge+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities, Skill/Spell Counterattacks, and Skills/Spells activated by skill/spell effects are not included.",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br>When attacked, damage taken will be reduced (very large effect).<br><br>[When landing an attack]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (medium effect) (Max times: 5 times per battle).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110200493>Moulin Rouge+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040741,
@@ -19607,7 +19607,7 @@
         {
             "id": 702102513,
             "name": "Pirate's Plan",
-            "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110300368>Pirate's Heat</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a very high chance to:<br>Activate <skill=110300371>Reverse Delta+</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skill/Spell Counterattacks, and Skills/Spells activated by skill/spell effects are not included.",
+            "flavor_text": "When attacked, damage taken will be reduced (large effect).<br><br>[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110300368>Pirate's Heat</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a very high chance to:<br>Activate <skill=110300371>Reverse Delta+</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skill/Spell Counterattacks, and Skills/Spells activated by skill/spell effects are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040361,
@@ -19961,7 +19961,7 @@
         {
             "id": 702102540,
             "name": "Weakness Assault Ⅵ",
-            "flavor_text": "Weak attacks' damage increases (extreme effect).<br><br>[Start of round]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/1 turn(s)).",
+            "flavor_text": "Weak attacks' damage increases (super extreme effect).<br><br>[Start of round]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/1 turn(s)).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042732,
@@ -42399,7 +42399,7 @@
         {
             "id": 708300378,
             "name": "Earth's Nourishment",
-            "flavor_text": "On odd turns counting from the start of battle, grants the user <special_effect=800000095>Heat Up</special_effect> (large effect).",
+            "flavor_text": "On odd turns counting from the start of battle, grants oneself <special_effect=800000095>Heat Up</special_effect> (large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808040784
@@ -66450,6 +66450,355 @@
             "special_effect_ids": [
                 1802040848,
                 802040745
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100470,
+            "name": "Weak Point (Lightning/Defense Down)",
+            "flavor_text": "[When being attacked by a lightning attack*]<br>Grants oneself <special_effect=800000172>Lightning Defense Down</special_effect> (medium effect/2 turn(s)).<br>*Only activates when hit by an attack.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802014195
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100471,
+            "name": "Lightning-Fast Swordsmanship",
+            "flavor_text": "[When landing an attack]<br>Grants oneself <special_effect=800000373>Lightning Sequence (3x)</special_effect> (no turn limit) (very high chance).<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041462,
+                1802040849,
+                802043230
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100472,
+            "name": "Defense Boost on Attack",
+            "flavor_text": "[When landing an attack]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040850
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100473,
+            "name": "Princess's Charm",
+            "flavor_text": "[When attacking]<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (medium effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).<br>Grants all other surviving allies <special_effect=800000202>BP Cost Reduction</special_effect> (Reduction: 1/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040851,
+                1802040852,
+                802043285
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100474,
+            "name": "Princess's Charm",
+            "flavor_text": "[When attacking]<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (medium effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).<br>Grants all other surviving allies <special_effect=800000202>BP Cost Reduction</special_effect> (Reduction: 1/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040851,
+                1802040852,
+                802043285
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100475,
+            "name": "Princess on Horseback",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000182>Fast Stance</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110900681>Bloom Rain</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Recovers own BP (+2).<br>Grants oneself <special_effect=800000381>First Attack Stance (1x)</special_effect> (no turn limit) (very high chance).<br>Has a very high chance to restore the use limit of <skill=1110700037>A Moment of Fun</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041939,
+                802043317,
+                802043283,
+                802041315,
+                1802040853
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100476,
+            "name": "End of Turn: Restore Use Limit",
+            "flavor_text": "[End of turn]<br>Has a very high chance to restore the use limit of <skill=1110700037>A Moment of Fun</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040533
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100477,
+            "name": "Calm and Collected",
+            "flavor_text": "Increases attack damage for all allies (large effect).<br>Reduces damage taken for all allies (large effect).<br><br>[Start of turn]<br>Grants all surviving allies <special_effect=800000375>Weak Defense</special_effect> and <special_effect=800000376>Resist Offense</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040808,
+                802041859,
+                802043306,
+                802043307
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100478,
+            "name": "Counterattack Strategy",
+            "flavor_text": "[When landing an attack]<br>Recovers own BP (+1).<br><br>[When attacked by a direct attack]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br>Grants all enemies <special_effect=800000210>Slash Defense Down</special_effect> and <special_effect=800000180>Pierce Defense Down</special_effect> (small effect/1 turn(s)).<br><br>[When attacked by an indirect attack]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)).<br>Grants oneself <special_effect=800000369>Chance to Revenge</special_effect> (1 turn(s))",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041462,
+                1802040859,
+                1802040860
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100479,
+            "name": "Counterattack Strategy: Effect 1",
+            "flavor_text": "[When attacked by a direct attack*]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br>Grants all enemies <special_effect=800000210>Slash Defense Down</special_effect> and <special_effect=800000180>Pierce Defense Down</special_effect> (small effect/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040856,
+                1802040857,
+                1802040858
+            ],
+            "icon": 4002,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100480,
+            "name": "Counterattack Strategy: Effect 2",
+            "flavor_text": "[When attacked by an indirect attack*]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)).<br>Grants oneself <special_effect=800000369>Chance to Revenge</special_effect> (1 turn(s))",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040854,
+                1802040855
+            ],
+            "icon": 4002,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100481,
+            "name": "Flower Girl",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br><br>[Start of battle]<br>Recovers own BP (+3).<br><br>[Start of turn]<br>When in <special_effect=800000079>Energy Charge</special_effect> stance, activates the following:<br>・Grants all surviving allies <special_effect=800000027>Guard Up (very large)</special_effect> (2 turn(s)).<br>・Recovers all surviving allies' HP (very high chance/small effect).<br>・Grants oneself <special_effect=800000014>Morale Up (extreme)</special_effect> (2 turn(s)).<br>・Recovers own BP (very high chance/+6).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040741,
+                802040520,
+                1802040861,
+                1802040862,
+                1802040863,
+                802043211
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100482,
+            "name": "Turn Start: Guard Up",
+            "flavor_text": "[Start of turn]<br>When in <special_effect=800000079>Energy Charge</special_effect> stance, grants all surviving allies <special_effect=800000027>Guard Up (very large)</special_effect> (2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040864
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100483,
+            "name": "Turn Start: Recover HP",
+            "flavor_text": "[Start of turn]<br>When in <special_effect=800000079>Energy Charge</special_effect> stance, recovers all surviving allies' HP (very high chance/small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040865
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100484,
+            "name": "Turn Start: Morale Up",
+            "flavor_text": "[Start of turn]<br>When in <special_effect=800000079>Energy Charge</special_effect> stance, grants oneself <special_effect=800000014>Morale Up (extreme)</special_effect> (2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040866
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100485,
+            "name": "Secret of Gashing",
+            "flavor_text": "When landing an attack, reduces target's STR/END/INT (small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802013194,
+                802013195,
+                802013196
+            ],
+            "icon": 4003,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100487,
+            "name": "Allies in Arms",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br>When landing a spell attack, damage increases further (extreme effect).<br><br>[When all allies are still surviving]<br>Increases attack damage for all allies (large effect).<br>Reduces damage taken for all allies (medium effect).<br><br>[When attacking with spell attacks]<br>Grants oneself <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040741,
+                802042332,
+                802043185,
+                802041422,
+                802040663
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100488,
+            "name": "Rock-Drilling Onslaught",
+            "flavor_text": "[When landing an attack]<br>Recovers own BP (+1).<br>Grants the target <special_effect=800000035>Defense Down</special_effect> (small effect/2 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110800343>Double Heavy Spear Strike</skill> will be activated.<br>(Activates using skill/spell Rank 1).<br>Has a very high chance to:<br>Activate <skill=125300222>Gravity Rush</skill>.<br>(Activates using skill/spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041462,
+                1802040867,
+                802043187,
+                802043188
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100489,
+            "name": "Defense Down on Attack",
+            "flavor_text": "When landing an attack, grants the target <special_effect=800000035>Defense Down</special_effect> (small effect/2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040868
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100490,
+            "name": "Essence of Gashing",
+            "flavor_text": "Attacks' damage increases (very large effect).<br><br>[Start of battle]<br>Recovers own BP (+3).<br>Grants oneself <special_effect=800000370>Secret of Gashing</special_effect> (Effect: permanent in battle).<br><br>[Start of turn]<br>Grants oneself <special_effect=1800000039>Chain Attack (Morning Glory)</special_effect> (2 turn(s)) (high chance).<br>Grants oneself <special_effect=1800000040>Chain Attack (Deadly Spin)</special_effect> (2 turn(s)) (high chance).<br>Grants oneself <special_effect=1800000041>Chain Attack (Reverse Delta+)</special_effect> (2 turn(s)) (high chance).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040520,
+                802043207,
+                802040346,
+                1802040869,
+                1802040870,
+                1802040871
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100491,
+            "name": "Turn Start: Chain Attack (Morning Glory)",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=1800000039>Chain Attack (Morning Glory)</special_effect> (2 turn(s)) (high chance).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040872
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100492,
+            "name": "Turn Start: Chain Attack (Deadly Spin)",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=1800000040>Chain Attack (Deadly Spin)</special_effect> (2 turn(s)) (high chance).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040873
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100493,
+            "name": "Turn Start: Chain Attack (Reverse Delta+)",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=1800000041>Chain Attack (Reverse Delta+)</special_effect> (2 turn(s)) (high chance).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040874
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100494,
+            "name": "Chain Attack (Morning Glory)",
+            "flavor_text": "After activating an attack*, <skill=110300370>Morning Glory</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040875
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100495,
+            "name": "Chain Attack (Deadly Spin)",
+            "flavor_text": "After activating an attack*, <skill=110300362>Deadly Spin</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040876
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100496,
+            "name": "Chain Attack (Reverse Delta+)",
+            "flavor_text": "After activating an attack*, <skill=110300372>Reverse Delta+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040877
             ],
             "icon": 4010,
             "rarity": 0,

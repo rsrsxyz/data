@@ -1469,6 +1469,24 @@
             "sort_order": 23100205
         },
         {
+            "id": 821208,
+            "name": "Star-Friend Great Exploration Key [Ltd. Time]",
+            "flavor_text": "Use to attempt Great Exploration Support Festival. (Until [1714179599] <tz>)",
+            "icon": 821208,
+            "max_quantity": 99999,
+            "expired_at": 1714179599,
+            "sort_order": 24041225
+        },
+        {
+            "id": 821209,
+            "name": "Treasure Ticket [Ltd. Time]",
+            "flavor_text": "Use to attempt Treasure Quest. (Until [1714179599] <tz>)",
+            "icon": 821209,
+            "max_quantity": 99999,
+            "expired_at": 1714179599,
+            "sort_order": 24041220
+        },
+        {
             "id": 1000821001,
             "name": "[SS] Treasure Cave Map [Ltd. Time]",
             "flavor_text": "Map of a Treasure Cave (Gold) where great prizes await. (Until [1633913999] <tz>)",

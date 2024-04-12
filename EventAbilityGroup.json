@@ -1191,6 +1191,36 @@
             "priority": 10008
         },
         {
+            "id": 1370,
+            "event_ability_category_id": 1014,
+            "name": "Star-Friend Stage EXP Booster III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 10009
+        },
+        {
+            "id": 1371,
+            "event_ability_category_id": 1015,
+            "name": "Star-Friend Attribute Growth Booster V",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains in all battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 10010
+        },
+        {
+            "id": 1372,
+            "event_ability_category_id": 1016,
+            "name": "Star-Friend Skill/Spell Rank Booster III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x skill/spell rank up amount in all battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 10011
+        },
+        {
             "id": 1000000101,
             "event_ability_category_id": 1000000002,
             "name": "[Limited Time] Seven Heroes Pickup Summon",
@@ -4969,6 +4999,36 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 506
+        },
+        {
+            "id": 1000000731,
+            "event_ability_category_id": 1000000482,
+            "name": "Adventures Ahead Star Friends Assemble! R1 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Star-Friend Great Exploration Coin [Ltd. Time] drops in Star-Friend Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 507
+        },
+        {
+            "id": 1000000732,
+            "event_ability_category_id": 1000000483,
+            "name": "Adventures Ahead Star Friends Assemble! R1 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Star-Friend Great Exploration Coin [Ltd. Time] drops in Star-Friend Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 508
+        },
+        {
+            "id": 1000000733,
+            "event_ability_category_id": 1000000484,
+            "name": "Adventures Ahead Star Friends Assemble! R1 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Star-Friend Great Exploration Coin [Ltd. Time] drops in Star-Friend Records<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 509
         }
     ]
 }
