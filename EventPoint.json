@@ -2291,6 +2291,26 @@
             "selling_price": 0
         },
         {
+            "id": 800312,
+            "name": "Romancing Festival Medal 159",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800312,
+            "max_quantity": 99999999,
+            "expired_at": 1715993999,
+            "sort_order": 24041960,
+            "selling_price": 0
+        },
+        {
+            "id": 800313,
+            "name": "Romancing Festival Medal 160",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800313,
+            "max_quantity": 99999999,
+            "expired_at": 1715993999,
+            "sort_order": 24041955,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -8228,6 +8248,26 @@
             "max_quantity": 99999999,
             "expired_at": 1715389199,
             "sort_order": 24041215,
+            "selling_price": 0
+        },
+        {
+            "id": 1100929,
+            "name": "Robin Token (Fake)",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100929,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24041906,
+            "selling_price": 0
+        },
+        {
+            "id": 1100932,
+            "name": "Free Quests Exploration Coin [Ltd. Time]",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for Styles, SS Gear, and other items. (Until [1715993999] <tz>)",
+            "icon": 1100918,
+            "max_quantity": 99999999,
+            "expired_at": 1715993999,
+            "sort_order": 24041905,
             "selling_price": 0
         },
         {

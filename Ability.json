@@ -19904,7 +19904,7 @@
         {
             "id": 702102535,
             "name": "Block Healing Force Ⅰ",
-            "flavor_text": "When attacked, damage taken will be reduced (large effect).<br><br>[End of turn]<br>Recovers the user's HP (very small effect).<br>Recovers own BP (+1).",
+            "flavor_text": "When attacked, damage taken will be reduced (large effect).<br><br>[End of turn]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040361,
@@ -19944,7 +19944,7 @@
         {
             "id": 702102539,
             "name": "Thwart All Evil",
-            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000202>BP Cost Reduction</special_effect> (Reduction: 2/Effect: permanent in battle).<br>Grants oneself <special_effect=800000222>Formal Stance</special_effect> (Effect: permanent in battle).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110700498>Piercing Lightning+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[When being attacked]<br>Reduces damage taken (large effect).<br>Evades enemy's attack (medium chance).<br>When being directly attacked, counterattacks with <skill=110700496>Robin the Justice</skill>.<br>(Activates using skill Rank 1).",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000202>BP Cost Reduction</special_effect> (Reduction: 2/Effect: permanent in battle).<br>Grants oneself <special_effect=800000222>Formal Stance</special_effect> (Effect: permanent in battle).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110700498>Piercing Lightning+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.<br><br>[When being attacked]<br>Reduces damage taken (large effect).<br>Evades enemy's attack (medium chance).<br>When being directly attacked, counterattacks with <skill=110700496>Robin the Justice</skill>.<br>(Activates using skill Rank 1).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040361,
@@ -42533,7 +42533,7 @@
         {
             "id": 708300396,
             "name": "Even Attack Ⅳ",
-            "flavor_text": "On certain turns counting from the start of battle (Turn 4/every 2 turns after Turn 4)]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (large effect).",
+            "flavor_text": "[On certain turns counting from the start of battle (Turn 4/every 2 turns after Turn 4)]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808040784
@@ -66799,6 +66799,118 @@
             "simple_flavor_text": "",
             "special_effect_ids": [
                 1802040877
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100497,
+            "name": "Genius's Research",
+            "flavor_text": "[Start of turn]<br>Activates the following (each with a very high chance):<br>・Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (very large effect/2 turn(s)).<br>・Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br>・Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).<br>・Grants all surviving allies <special_effect=800000075>Action Order Up</special_effect> (medium effect/2 turn(s)).<br>・Recovers all surviving allies' HP (very small effect).<br><br>[At the end of every 10 turns counting from the start of battle]<br>Restores the use limit of <skill=110600442>Professor's Special</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043255,
+                802043256,
+                802043257,
+                802043258,
+                802043340,
+                1802040878
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100498,
+            "name": "End of Every 10 Turns: Restore Use Limit",
+            "flavor_text": "[At the end of every 10 turns counting from the start of battle]<br>Restores the use limit of <skill=110600442>Professor's Special</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040533
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100499,
+            "name": "Jungle Wayfinding",
+            "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>[Start of battle]<br>Recovers own BP (+2).<br><br>[End of turn]<br>Has a high chance to:<br>Restore the use limit of <skill=110800344>Faerie Circle</skill> by 1 (Number of uses will not exceed the use limit at start of battle).<br><br>[After activating an OD attack*]<br>In the case of a single-foe attack, <skill=110800512>Round Slicer</skill> will be activated.<br>(Activates using skill Rank 1).<br>In the case of an all-range attack, <skill=110800347>Big Wheels+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040448,
+                802040322,
+                1802040879,
+                802043293
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100500,
+            "name": "End of Turn: Restore Use Limit",
+            "flavor_text": "[End of turn]<br>Has a high chance to:<br>Restore the use limit of <skill=110800344>Faerie Circle</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043289
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100501,
+            "name": "Masked Crusader's Movement",
+            "flavor_text": "When attacked, when in a pre-action stance, damage taken will be reduced (super extreme effect).<br><br>[When an ally is being attacked]<br>Takes an ally's place in being attacked, and reduces the damage (very high chance).<br><br>[After activating The Mark of Robin/Barrel Assault]<br>Grants oneself <special_effect=800000389>Masked Crusader's Proof</special_effect> (3 turn(s)).<br><skill=110700501>Screwdriver+</skill> will be activated 2 times.<br>(Activates using skill Rank 1).<br><br>When landing an attack, grants oneself <special_effect=800000035>Defense Down</special_effect> (extreme effect/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043322,
+                801042070,
+                1802040880
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100502,
+            "name": "Masked Crusader's Movement: Effect",
+            "flavor_text": "[After activating The Mark of Robin/Barrel Assault]<br>Grants oneself <special_effect=800000389>Masked Crusader's Proof</special_effect> (3 turn(s))<br><skill=110700501>Screwdriver+</skill> will be activated 2 times.<br>(Activates using skill Rank 1).<br><br>When landing an attack, grants oneself <special_effect=800000035>Defense Down</special_effect> (extreme effect/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802013598,
+                1802040881,
+                1802040881,
+                802043326
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100503,
+            "name": "Vampiric Hospitality",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br><br>[End of turn]<br>Recovers own BP (+2).<br>Increases own OD gauge (large effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=1110500117>Bloody Palm</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=110500494>Devil's Touch</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040741,
+                1802040882,
+                802043280,
+                802043281
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100504,
+            "name": "Follow-Up on Attack",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=1110500117>Bloody Palm</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040883
             ],
             "icon": 4010,
             "rarity": 0,

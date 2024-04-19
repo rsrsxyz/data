@@ -21021,6 +21021,19 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7457,
+            "ribbon": "2x Exploration Point Drop Slots!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                500060001
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7458,
             "ribbon": "Star-Friend Great Exploration Key Drops!",
             "campaign_type": 5,
@@ -21056,6 +21069,92 @@
             "drop_group_ids": [
                 21013869
             ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7461,
+            "ribbon": "Robin Token (Fake) Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013875
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7462,
+            "ribbon": "2x Robin Token (Fake) Drop Slots!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013875
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7463,
+            "ribbon": "3x Robin Token (Fake) Drop Slots!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013875,
+                21013875
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7464,
+            "ribbon": "",
+            "campaign_type": 10,
+            "rate": 1.5,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7470,
+            "ribbon": "Free Quests Exploration Coin Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013878
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7473,
+            "ribbon": "",
+            "campaign_type": 10,
+            "rate": 2.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7474,
+            "ribbon": "",
+            "campaign_type": 10,
+            "rate": 2.5,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0
         },
@@ -47785,6 +47884,19 @@
             "reward_id": 0,
             "drop_group_ids": [
                 1000097711
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 1000002798,
+            "ribbon": "Auto Rematch Ticket Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097723
             ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0
