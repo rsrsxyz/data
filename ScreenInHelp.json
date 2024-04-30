@@ -2557,7 +2557,7 @@
         {
             "id": 239,
             "name": "Quest_Event_1078",
-            "title": "Battle with Schirach",
+            "title": "Battle with Schirach (2020)",
             "size": 3,
             "banners": [
                 9556
@@ -4934,7 +4934,7 @@
         },
         {
             "id": 514,
-            "name": "Quest_Event_940001",
+            "name": "Disabled",
             "title": "Remembrance Battle",
             "size": 3,
             "banners": [
@@ -8264,6 +8264,68 @@
             "size": 3,
             "banners": [
                 11431
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 975,
+            "name": "Quest_Event_10006",
+            "title": "Adventures Ahead Star Friends Assemble! BOX",
+            "size": 3,
+            "banners": [
+                11443,
+                11444
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 976,
+            "name": "Quest_Event_10006",
+            "title": "Adventures Ahead Star Friends Assemble! BOX",
+            "size": 3,
+            "banners": [
+                11443
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 977,
+            "name": "Quest_Event_10006",
+            "title": "Adventures Ahead Star Friends Assemble! BOX",
+            "size": 3,
+            "banners": [
+                11444
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 985,
+            "name": "Quest_Event_1657",
+            "title": "Deathmatch of Dreams: String Plucker",
+            "size": 3,
+            "banners": [
+                11453
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 1011,
+            "name": "Quest_Event_940001",
+            "title": "Remembrance Battle",
+            "size": 3,
+            "banners": [
+                10482,
+                11480,
+                11481,
+                10484,
+                10483,
+                10485,
+                10486,
+                10487,
+                10488,
+                11091,
+                10545,
+                10546
             ],
             "info_id": 0
         },

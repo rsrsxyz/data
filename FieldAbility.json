@@ -29,6 +29,690 @@
             "se_name": "se_fieldability_earth"
         },
         {
+            "id": 718100014,
+            "name": "ATK Boost at Full HP",
+            "flavor_text": "[All Surviving Allies]<br>When HP is full, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100015,
+            "name": "HP非満タン時攻撃強化",
+            "flavor_text": "[味方パーティ生存者全体]<br>HPが満タンではない時、与えるダメージが上昇する",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100016,
+            "name": "ATK Boost on Specific Turns",
+            "flavor_text": "Before selecting commands on certain turns counting from the start of round (Turn 3/every 3 turns after Turn 3), grants all surviving allies <special_effect=800000539>[Challenge Rule] ATK Boost</special_effect> (1 turn(s)).",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100026,
+            "name": "OD攻撃強化",
+            "flavor_text": "[味方パーティ生存者全体]<br>OD攻撃の与えるダメージが上昇する",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100027,
+            "name": "直接攻撃強化",
+            "flavor_text": "[味方パーティ生存者全体]<br>直接攻撃の与えるダメージが上昇する",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100028,
+            "name": "術攻撃強化",
+            "flavor_text": "[味方パーティ生存者全体]<br>術攻撃の与えるダメージが上昇する",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100034,
+            "name": "被弾時防御弱化",
+            "flavor_text": "[敵パーティ全体]<br>攻撃を受けた時、自身に「<special_effect=800000541>[挑戦の掟]防御弱化</special_effect>」( 効果2ターン )を付与する<br>※攻撃が命中した時のみ発動",
+            "icon": 4003,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100035,
+            "name": "ATK Boost When Attacked",
+            "flavor_text": "[All Surviving Allies]<br>When attacked, grants oneself <special_effect=800000539>[Challenge Rule] ATK Boost</special_effect> (2 turn(s)).<br>*Only activates when hit by an attack.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100036,
+            "name": "Recover BP When Attacked",
+            "flavor_text": "[All Surviving Allies]<br>When attacked, recovers own BP (+2).<br>*Only activates when hit by an attack.",
+            "icon": 4007,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100037,
+            "name": "Slash/Blunt ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either slash or blunt attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100038,
+            "name": "Slash/Pierce ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either slash or pierce attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100039,
+            "name": "Slash/Heat ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either slash or heat attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100040,
+            "name": "Slash/Cold ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either slash or cold attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100041,
+            "name": "Slash/Lightning ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either slash or lightning attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100042,
+            "name": "Slash/Sun ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either slash or sun attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100043,
+            "name": "Slash/Shadow ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either slash or shadow attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100044,
+            "name": "Blunt/Pierce ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either blunt or pierce attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100045,
+            "name": "Blunt/Heat ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either blunt or heat attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100046,
+            "name": "Blunt/Cold ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either blunt or cold attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100047,
+            "name": "Blunt/Lightning ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either blunt or lightning attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100048,
+            "name": "Blunt/Sun ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either blunt or sun attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100049,
+            "name": "Blunt/Shadow ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either blunt or shadow attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100050,
+            "name": "Pierce/Heat ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either pierce or heat attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100051,
+            "name": "Pierce/Cold ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either pierce or cold attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100052,
+            "name": "Pierce/Lightning ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either pierce or lightning attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100053,
+            "name": "Pierce/Sun ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either pierce or sun attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100054,
+            "name": "Pierce/Shadow ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either pierce or shadow attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100055,
+            "name": "Heat/Cold ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either heat or cold attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100056,
+            "name": "Heat/Lightning ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either heat or lightning attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100057,
+            "name": "Heat/Sun ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either heat or sun attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100058,
+            "name": "Heat/Shadow ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either heat or shadow attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100059,
+            "name": "Cold/Lightning ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either cold or lightning attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100060,
+            "name": "Cold/Sun ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either cold or sun attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100061,
+            "name": "Cold/Shadow ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either cold or shadow attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100062,
+            "name": "Lightning/Sun ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either lightning or sun attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100063,
+            "name": "Lightning/Shadow ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either lightning or shadow attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100064,
+            "name": "Sun/Shadow ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either sun or shadow attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100065,
+            "name": "Challenge Rule",
+            "flavor_text": "",
+            "icon": 4010,
+            "effect_name": "field_well",
+            "cue_sheet_name": "se_fieldability",
+            "se_name": "se_fieldability_well"
+        },
+        {
+            "id": 718100067,
+            "name": "ATK Boost at Full HP",
+            "flavor_text": "[All Surviving Allies]<br>When HP is full, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100068,
+            "name": "HP非満タン時攻撃強化",
+            "flavor_text": "[味方パーティ生存者全体]<br>HPが満タンではない時、与えるダメージが上昇する",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100069,
+            "name": "OD攻撃強化",
+            "flavor_text": "[味方パーティ生存者全体]<br>OD攻撃の与えるダメージが上昇する",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100070,
+            "name": "直接攻撃強化",
+            "flavor_text": "[味方パーティ生存者全体]<br>直接攻撃の与えるダメージが上昇する",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100071,
+            "name": "術攻撃強化",
+            "flavor_text": "[味方パーティ生存者全体]<br>術攻撃の与えるダメージが上昇する",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100077,
+            "name": "ATK Boost When Attacked",
+            "flavor_text": "[All Surviving Allies]<br>When attacked, grants oneself <special_effect=800000539>[Challenge Rule] ATK Boost</special_effect> (2 turn(s)).<br>*Only activates when hit by an attack.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100078,
+            "name": "Recover BP When Attacked",
+            "flavor_text": "[All Surviving Allies]<br>When attacked, recovers own BP (+2).<br>*Only activates when hit by an attack.",
+            "icon": 4007,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100079,
+            "name": "Slash/Blunt ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either slash or blunt attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100080,
+            "name": "Slash/Pierce ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either slash or pierce attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100081,
+            "name": "Slash/Heat ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either slash or heat attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100082,
+            "name": "Slash/Cold ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either slash or cold attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100083,
+            "name": "Slash/Lightning ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either slash or lightning attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100084,
+            "name": "Slash/Sun ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either slash or sun attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100085,
+            "name": "Slash/Shadow ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either slash or shadow attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100086,
+            "name": "Blunt/Pierce ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either blunt or pierce attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100087,
+            "name": "Blunt/Heat ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either blunt or heat attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100088,
+            "name": "Blunt/Cold ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either blunt or cold attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100089,
+            "name": "Blunt/Lightning ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either blunt or lightning attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100090,
+            "name": "Blunt/Sun ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either blunt or sun attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100091,
+            "name": "Blunt/Shadow ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either blunt or shadow attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100092,
+            "name": "Pierce/Heat ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either pierce or heat attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100093,
+            "name": "Pierce/Cold ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either pierce or cold attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100094,
+            "name": "Pierce/Lightning ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either pierce or lightning attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100095,
+            "name": "Pierce/Sun ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either pierce or sun attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100096,
+            "name": "Pierce/Shadow ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either pierce or shadow attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100097,
+            "name": "Heat/Cold ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either heat or cold attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100098,
+            "name": "Heat/Lightning ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either heat or lightning attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100099,
+            "name": "Heat/Sun ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either heat or sun attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100100,
+            "name": "Heat/Shadow ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either heat or shadow attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100101,
+            "name": "Cold/Lightning ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either cold or lightning attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100102,
+            "name": "Cold/Sun ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either cold or sun attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100103,
+            "name": "Cold/Shadow ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either cold or shadow attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100104,
+            "name": "Lightning/Sun ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either lightning or sun attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100105,
+            "name": "Lightning/Shadow ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either lightning or shadow attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100106,
+            "name": "Sun/Shadow ATK Boost",
+            "flavor_text": "[All Surviving Allies]<br>When attacking with either sun or shadow attacks, increases damage dealt.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100107,
+            "name": "闘いの恵み・攻",
+            "flavor_text": "[毎ターンの行動選択前]<br>味方パーティ生存者全体に「<special_effect=800000607>[スコアUPチャレンジ]攻撃強化</special_effect>」( 効果1ターン )を付与する",
+            "icon": 4010,
+            "effect_name": "field_dummy",
+            "cue_sheet_name": "se_fieldability",
+            "se_name": "se_fieldability_charabuff"
+        },
+        {
+            "id": 718100108,
+            "name": "闘いの恵み・防",
+            "flavor_text": "[毎ターンの行動選択前]<br>敵パーティ全体に「<special_effect=800000608>[スコアUPチャレンジ]攻撃弱化</special_effect>」( 効果1ターン )を付与する",
+            "icon": 4003,
+            "effect_name": "field_dummy",
+            "cue_sheet_name": "se_fieldability",
+            "se_name": "se_fieldability_charabuff"
+        },
+        {
+            "id": 718100109,
+            "name": "闘いの恵み・特",
+            "flavor_text": "[バトル開始時及びターン終了時]<br>味方パーティ生存者全体のBPを回復する( +10 )<br><br>[毎ターンの行動選択前]<br>味方パーティ生存者全体の腕力・器用さ・素早さ・知力を上昇させる",
+            "icon": 4010,
+            "effect_name": "field_dummy",
+            "cue_sheet_name": "se_fieldability",
+            "se_name": "se_fieldability_charabuff"
+        },
+        {
             "id": 718200001,
             "name": "Ice Prison",
             "flavor_text": "[At the end of Turn 3 counting from the start of battle]<br>Grants all surviving allies <special_effect=800000184>BP Cost Increase</special_effect> (Increase: 1/Effect: permanent in battle).",
@@ -81,6 +765,42 @@
             "effect_name": "field_wood",
             "cue_sheet_name": "se_fieldability",
             "se_name": "se_fieldability_tree"
+        },
+        {
+            "id": 718200008,
+            "name": "特定ターン消費BP減少",
+            "flavor_text": "[ラウンド開始から数えて3の倍数のターン]<br>味方パーティ生存者全体の全ての技・術の消費BPが0になる<br>※直前のターンの終了時に気絶状態から復帰した戦士は含まれない",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718200009,
+            "name": "BP Cost Reduction (Stack) on Specific Turns",
+            "flavor_text": "On certain turns counting from the start of round (Turn 2/every 2 turns after Turn 2), grants all surviving allies <special_effect=800000567>[Challenge Rule] BP Cost Reduction</special_effect> (Reduction: 1/Effect: permanent in battle) (Max times: 20 times per round).",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718200010,
+            "name": "OD Gauge Up Every Turn",
+            "flavor_text": "[End of turn]<br>Increases all surviving allies' OD gauge (extreme effect).",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718200012,
+            "name": "毎ターンHP回復",
+            "flavor_text": "[ターン終了時]<br>味方パーティ生存者全体のHPを割合回復する( 対象の最大HPの30% )",
+            "icon": 4007,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
         }
     ]
 }

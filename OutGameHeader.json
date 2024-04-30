@@ -608,7 +608,7 @@
             "id": 1601,
             "title_name": "Remembrance Battle",
             "marquee_id": 0,
-            "help_id": 514
+            "help_id": 1011
         },
         {
             "id": 1602,
@@ -751,6 +751,24 @@
         {
             "id": 2201,
             "title_name": "Conquest",
+            "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 2301,
+            "title_name": "Wells of Challenge",
+            "marquee_id": 0,
+            "help_id": 973
+        },
+        {
+            "id": 2302,
+            "title_name": "Battle Prep",
+            "marquee_id": 0,
+            "help_id": 974
+        },
+        {
+            "id": 2303,
+            "title_name": "Ranking",
             "marquee_id": 0,
             "help_id": 0
         }

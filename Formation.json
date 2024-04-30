@@ -1507,6 +1507,134 @@
             ]
         },
         {
+            "id": 1055,
+            "name": "Speculation EX",
+            "flavor_text": "Improved Speculation formation that boosts all members. Boosts the front line's STR and AGI further. Reduces damage taken for the back line.",
+            "positions": [
+                {
+                    "x": 8,
+                    "y": 25,
+                    "formation_bonus_id": 1168
+                },
+                {
+                    "x": 23,
+                    "y": 16,
+                    "formation_bonus_id": 1169
+                },
+                {
+                    "x": 23,
+                    "y": 34,
+                    "formation_bonus_id": 1169
+                },
+                {
+                    "x": 38,
+                    "y": 8,
+                    "formation_bonus_id": 1171
+                },
+                {
+                    "x": 38,
+                    "y": 42,
+                    "formation_bonus_id": 1171
+                }
+            ]
+        },
+        {
+            "id": 1056,
+            "name": "Hunter's Gambit EX",
+            "flavor_text": "Improved Hunter's Gambit attack formation that boosts DEX of all members. Boosts all members' DEX. For parties who mainly use S. Swords, Bows, and Guns.",
+            "positions": [
+                {
+                    "x": 43,
+                    "y": 25,
+                    "formation_bonus_id": 1173
+                },
+                {
+                    "x": 8,
+                    "y": 17,
+                    "formation_bonus_id": 1174
+                },
+                {
+                    "x": 8,
+                    "y": 34,
+                    "formation_bonus_id": 1174
+                },
+                {
+                    "x": 28,
+                    "y": 7,
+                    "formation_bonus_id": 1176
+                },
+                {
+                    "x": 28,
+                    "y": 44,
+                    "formation_bonus_id": 1176
+                }
+            ]
+        },
+        {
+            "id": 1057,
+            "name": "Elemental Shutter",
+            "flavor_text": "Defensive formation that grants the entire party <special_effect=800000537>Elemental Defend</special_effect>. Reduces damage taken from various elements.",
+            "positions": [
+                {
+                    "x": 8,
+                    "y": 14,
+                    "formation_bonus_id": 1178
+                },
+                {
+                    "x": 8,
+                    "y": 36,
+                    "formation_bonus_id": 1178
+                },
+                {
+                    "x": 40,
+                    "y": 14,
+                    "formation_bonus_id": 1179
+                },
+                {
+                    "x": 40,
+                    "y": 25,
+                    "formation_bonus_id": 1179
+                },
+                {
+                    "x": 40,
+                    "y": 36,
+                    "formation_bonus_id": 1179
+                }
+            ]
+        },
+        {
+            "id": 1058,
+            "name": "オーバーアクセラレート",
+            "flavor_text": "パーティ全体の全ての能力が上昇する汎用陣形。<br>全体の被ダメージが軽減され、ターン終了時にODゲージが上昇し、幅広い敵に対応することができる。",
+            "positions": [
+                {
+                    "x": 25,
+                    "y": 25,
+                    "formation_bonus_id": 1180
+                },
+                {
+                    "x": 25,
+                    "y": 16,
+                    "formation_bonus_id": 1180
+                },
+                {
+                    "x": 25,
+                    "y": 34,
+                    "formation_bonus_id": 1180
+                },
+                {
+                    "x": 29,
+                    "y": 7,
+                    "formation_bonus_id": 1180
+                },
+                {
+                    "x": 29,
+                    "y": 43,
+                    "formation_bonus_id": 1180
+                }
+            ]
+        },
+        {
             "id": 11001000,
             "name": "Free For All",
             "flavor_text": "",

@@ -2311,6 +2311,26 @@
             "selling_price": 0
         },
         {
+            "id": 800315,
+            "name": "Romancing Festival Medal 161",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800315,
+            "max_quantity": 99999999,
+            "expired_at": 1716857999,
+            "sort_order": 24043060,
+            "selling_price": 0
+        },
+        {
+            "id": 800321,
+            "name": "Romancing Festival Medal 162",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800321,
+            "max_quantity": 99999999,
+            "expired_at": 1716857999,
+            "sort_order": 24043055,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -8268,6 +8288,16 @@
             "max_quantity": 99999999,
             "expired_at": 1715993999,
             "sort_order": 24041905,
+            "selling_price": 0
+        },
+        {
+            "id": 1100939,
+            "name": "Adventures Ahead Star Friends Assemble! BOX Surprises Ticket [Ltd. Time]",
+            "flavor_text": "Collect 10 tickets to pull 1 Adventures Ahead Star Friends Assemble! BOX. (Until [1716857999] <tz>)",
+            "icon": 1100939,
+            "max_quantity": 99999999,
+            "expired_at": 1716857999,
+            "sort_order": 24043045,
             "selling_price": 0
         },
         {

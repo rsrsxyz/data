@@ -2171,6 +2171,15 @@
             "button1": "OK"
         },
         {
+            "id": 246,
+            "name": "neo_saihate_Area_Not_Held",
+            "title": "Unavailable",
+            "text": "To the Top! Wells of Challenge is not available at the moment.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "Close"
+        },
+        {
             "id": 247,
             "name": "memory_rematch_Battle_end_1",
             "title": "Time Recording Stopped",
@@ -2277,6 +2286,15 @@
             "dialog_type": 2,
             "button2": "Cancel",
             "button1": "Restart"
+        },
+        {
+            "id": 259,
+            "name": "neo_saihate_Expired_Confirm",
+            "title": "Expired",
+            "text": "The date has changed.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "Close"
         },
         {
             "id": 260,

@@ -62,7 +62,7 @@
             "id": 10,
             "key": "party_group_count",
             "type": "integer",
-            "value": "5"
+            "value": "7"
         },
         {
             "id": 11,
@@ -255,6 +255,24 @@
             "key": "stamina_over_limit_rate",
             "type": "integer",
             "value": "20"
+        },
+        {
+            "id": 45,
+            "key": "account_delete_apple_website_url",
+            "type": "string",
+            "value": "https://support.apple.com/HT210426"
+        },
+        {
+            "id": 46,
+            "key": "account_delete_googleplay_website_url",
+            "type": "string",
+            "value": "https://support.google.com/accounts/answer/112802"
+        },
+        {
+            "id": 47,
+            "key": "account_delete_facebook_website_url",
+            "type": "string",
+            "value": "https://facebook.com/help/170585223002660"
         }
     ]
 }

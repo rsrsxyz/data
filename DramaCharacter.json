@@ -3267,6 +3267,38 @@
             "thumbnail_id": 230602
         },
         {
+            "id": 540004410,
+            "drama_character_type": 1,
+            "name": "ヴェノム",
+            "style_id": 228803,
+            "dot_id": 228803,
+            "thumbnail_id": 228803
+        },
+        {
+            "id": 540004420,
+            "drama_character_type": 1,
+            "name": "ラプタス",
+            "style_id": 228803,
+            "dot_id": 228803,
+            "thumbnail_id": 228803
+        },
+        {
+            "id": 540004430,
+            "drama_character_type": 1,
+            "name": "カラミティ",
+            "style_id": 228803,
+            "dot_id": 228803,
+            "thumbnail_id": 228803
+        },
+        {
+            "id": 540004440,
+            "drama_character_type": 1,
+            "name": "？？？",
+            "style_id": 228803,
+            "dot_id": 228803,
+            "thumbnail_id": 228803
+        },
+        {
             "id": 540004450,
             "drama_character_type": 1,
             "name": "？？？",
@@ -4419,6 +4451,62 @@
             "thumbnail_id": 229407
         },
         {
+            "id": 540005980,
+            "drama_character_type": 1,
+            "name": "ワグナス",
+            "style_id": 229107,
+            "dot_id": 229107,
+            "thumbnail_id": 229107
+        },
+        {
+            "id": 540005990,
+            "drama_character_type": 1,
+            "name": "ノエル",
+            "style_id": 229211,
+            "dot_id": 229211,
+            "thumbnail_id": 229211
+        },
+        {
+            "id": 540006000,
+            "drama_character_type": 1,
+            "name": "ロックブーケ",
+            "style_id": 229317,
+            "dot_id": 229317,
+            "thumbnail_id": 229317
+        },
+        {
+            "id": 540006010,
+            "drama_character_type": 1,
+            "name": "スービエ",
+            "style_id": 229404,
+            "dot_id": 229404,
+            "thumbnail_id": 229404
+        },
+        {
+            "id": 540006020,
+            "drama_character_type": 1,
+            "name": "ダンターグ",
+            "style_id": 229506,
+            "dot_id": 229506,
+            "thumbnail_id": 229506
+        },
+        {
+            "id": 540006030,
+            "drama_character_type": 1,
+            "name": "ボクオーン",
+            "style_id": 229603,
+            "dot_id": 229603,
+            "thumbnail_id": 229603
+        },
+        {
+            "id": 540006040,
+            "drama_character_type": 1,
+            "name": "クジンシー",
+            "style_id": 229706,
+            "dot_id": 229706,
+            "thumbnail_id": 229706
+        },
+        {
             "id": 540006050,
             "drama_character_type": 1,
             "name": "Armic",
@@ -4873,6 +4961,14 @@
             "style_id": 211904,
             "dot_id": 211902,
             "thumbnail_id": 211904
+        },
+        {
+            "id": 540006710,
+            "drama_character_type": 1,
+            "name": "Lobster (F)",
+            "style_id": 0,
+            "dot_id": 716200,
+            "thumbnail_id": 0
         },
         {
             "id": 549900010,
@@ -7353,6 +7449,38 @@
             "style_id": 510901,
             "dot_id": 510900,
             "thumbnail_id": 510901
+        },
+        {
+            "id": 549903500,
+            "drama_character_type": 2,
+            "name": "Common_Robed Person_E",
+            "style_id": 0,
+            "dot_id": 9900218,
+            "thumbnail_id": 0
+        },
+        {
+            "id": 549903510,
+            "drama_character_type": 2,
+            "name": "Maera",
+            "style_id": 9900085,
+            "dot_id": 9900087,
+            "thumbnail_id": 9900085
+        },
+        {
+            "id": 549903520,
+            "drama_character_type": 2,
+            "name": "Razem",
+            "style_id": 9900086,
+            "dot_id": 9900086,
+            "thumbnail_id": 9900086
+        },
+        {
+            "id": 549903530,
+            "drama_character_type": 2,
+            "name": "ラプタスの侍女",
+            "style_id": 0,
+            "dot_id": 9900219,
+            "thumbnail_id": 0
         }
     ]
 }
