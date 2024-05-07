@@ -1779,6 +1779,14 @@
             "priority": 10443
         },
         {
+            "id": 433,
+            "name": "Overthrow! The Seven Heroes: The Emperor's March II",
+            "start_at": 1715130000,
+            "end_at": 1716339599,
+            "is_daily": 0,
+            "priority": 10445
+        },
+        {
             "id": 434,
             "name": "Adventures Ahead Star Friends Assemble! BOX",
             "start_at": 1714438800,
@@ -2729,6 +2737,14 @@
             "end_at": 1708131599,
             "is_daily": 1,
             "priority": 10433
+        },
+        {
+            "id": 1000000122,
+            "name": "Overthrow! The Seven Heroes: The Emperor's March I",
+            "start_at": 1715130000,
+            "end_at": 1716339599,
+            "is_daily": 1,
+            "priority": 10446
         }
     ]
 }

@@ -390,6 +390,19 @@
             "start_node_id": 0,
             "opening_scenario_id": 0,
             "display_currency_id": 0
+        },
+        {
+            "id": 10134,
+            "area_id": 2028,
+            "field_map_mode": 2,
+            "lock_text": "",
+            "frontier_drop_group_ids": [
+                107007
+            ],
+            "start_at": 0,
+            "start_node_id": 0,
+            "opening_scenario_id": 0,
+            "display_currency_id": 0
         }
     ]
 }

@@ -2321,6 +2321,26 @@
             "selling_price": 0
         },
         {
+            "id": 800318,
+            "name": "Romancing Festival Medal 163",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800318,
+            "max_quantity": 99999999,
+            "expired_at": 1717549199,
+            "sort_order": 24050750,
+            "selling_price": 0
+        },
+        {
+            "id": 800319,
+            "name": "Romancing Festival Medal 164",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800319,
+            "max_quantity": 99999999,
+            "expired_at": 1717549199,
+            "sort_order": 24050760,
+            "selling_price": 0
+        },
+        {
             "id": 800321,
             "name": "Romancing Festival Medal 162",
             "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -8291,6 +8311,56 @@
             "selling_price": 0
         },
         {
+            "id": 1100933,
+            "name": "Past Battles Piece",
+            "flavor_text": "Material for forging equipment.",
+            "icon": 1100933,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24050754,
+            "selling_price": 0
+        },
+        {
+            "id": 1100934,
+            "name": "Green Herb",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100934,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24050706,
+            "selling_price": 0
+        },
+        {
+            "id": 1100935,
+            "name": "Elegant Perfume",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100935,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24050707,
+            "selling_price": 0
+        },
+        {
+            "id": 1100936,
+            "name": "Graceful Drop",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100936,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24050710,
+            "selling_price": 0
+        },
+        {
+            "id": 1100937,
+            "name": "Unusual Ore",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100937,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24050715,
+            "selling_price": 0
+        },
+        {
             "id": 1100939,
             "name": "Adventures Ahead Star Friends Assemble! BOX Surprises Ticket [Ltd. Time]",
             "flavor_text": "Collect 10 tickets to pull 1 Adventures Ahead Star Friends Assemble! BOX. (Until [1716857999] <tz>)",
@@ -8588,6 +8658,66 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 24041203,
+            "selling_price": 0
+        },
+        {
+            "id": 1200031,
+            "name": "Lantern [Inheritance Records]",
+            "flavor_text": "Item used in Inheritance Records.",
+            "icon": 1200031,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24050755,
+            "selling_price": 0
+        },
+        {
+            "id": 1200032,
+            "name": "Bluestone Tribute [Inheritance Records]",
+            "flavor_text": "Item used in Inheritance Records.",
+            "icon": 1200032,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24050760,
+            "selling_price": 0
+        },
+        {
+            "id": 1200033,
+            "name": "Greenstone Tribute [Inheritance Records]",
+            "flavor_text": "Item used in Inheritance Records.",
+            "icon": 1200033,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24050765,
+            "selling_price": 0
+        },
+        {
+            "id": 1200034,
+            "name": "Redstone Tribute [Inheritance Records]",
+            "flavor_text": "Item used in Inheritance Records.",
+            "icon": 1200034,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24050770,
+            "selling_price": 0
+        },
+        {
+            "id": 1200035,
+            "name": "Wooden Ball [Inheritance Records]",
+            "flavor_text": "Item used in Inheritance Records.",
+            "icon": 1200035,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24050775,
+            "selling_price": 0
+        },
+        {
+            "id": 1200036,
+            "name": "Smudged Key [Inheritance Records]",
+            "flavor_text": "Item used in Inheritance Records.",
+            "icon": 1200036,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24050780,
             "selling_price": 0
         },
         {
@@ -9828,6 +9958,16 @@
             "max_quantity": 99999999,
             "expired_at": 1705193999,
             "sort_order": 99999999,
+            "selling_price": 0
+        },
+        {
+            "id": 1001100257,
+            "name": "Inheritance! Empire's Glory Exclusive SS Style Exchange Ticket [Ltd. Time]",
+            "flavor_text": "Can be exchanged for a Style at the Inheritance! Empire's Glory Exclusive SS Style Exchange. (Until [1718931599] <tz>)",
+            "icon": 1001100257,
+            "max_quantity": 99999999,
+            "expired_at": 1718931599,
+            "sort_order": 24050799,
             "selling_price": 0
         }
     ]

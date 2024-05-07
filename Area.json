@@ -18886,6 +18886,40 @@
             "stage_exp_items": []
         },
         {
+            "id": 1655,
+            "name": "Battle with the Deep One",
+            "sort_order": 3055,
+            "quest_category": 6,
+            "quest_sub_category_id": 23,
+            "list_banner": 921151,
+            "screen_in_help_id": 971,
+            "currency_items": [],
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "event_mission_tab_id": 0,
+            "fixed_status_id": 0,
+            "start_at": 1715389200,
+            "end_at": 0,
+            "bgm": 0,
+            "field_map_icon_id": 0,
+            "event_box_gacha_id": 0,
+            "event_ability_potion_target": 1,
+            "auto_rematch_enabled": 0,
+            "part_id": 0,
+            "last_previous_synopsis_id": 0,
+            "add_cinema_start_at": 0,
+            "display_cinema_start_at": 0,
+            "cinema_banner_id": 0,
+            "story_mode_episode_name": "",
+            "cover_banner_id": 0,
+            "stage_gacha_id": 0,
+            "challenge_mode_banner_id": 921123,
+            "gacha_ticket_id": 0,
+            "top_banner_id": 921123,
+            "stage_released_reward_set_id": 0,
+            "stage_exp_items": []
+        },
+        {
             "id": 1657,
             "name": "Deathmatch of Dreams: String Plucker",
             "sort_order": 3054,
@@ -19817,6 +19851,45 @@
             "stage_exp_items": []
         },
         {
+            "id": 2028,
+            "name": "Overthrow! The Seven Heroes: The Emperor's March",
+            "sort_order": 1,
+            "quest_category": 9,
+            "quest_sub_category_id": 0,
+            "list_banner": 940025,
+            "screen_in_help_id": 978,
+            "currency_items": [
+                {
+                    "currency": 4,
+                    "id": 1100934
+                }
+            ],
+            "shop_id": 4900647,
+            "panel_shop_id": 0,
+            "event_mission_tab_id": 433,
+            "fixed_status_id": 0,
+            "start_at": 1715130000,
+            "end_at": 1716339599,
+            "bgm": 130129,
+            "field_map_icon_id": 2027,
+            "event_box_gacha_id": 0,
+            "event_ability_potion_target": 1,
+            "auto_rematch_enabled": 1,
+            "part_id": 0,
+            "last_previous_synopsis_id": 0,
+            "add_cinema_start_at": 0,
+            "display_cinema_start_at": 0,
+            "cinema_banner_id": 0,
+            "story_mode_episode_name": "",
+            "cover_banner_id": 0,
+            "stage_gacha_id": 0,
+            "challenge_mode_banner_id": 0,
+            "gacha_ticket_id": 0,
+            "top_banner_id": 0,
+            "stage_released_reward_set_id": 0,
+            "stage_exp_items": []
+        },
+        {
             "id": 3000,
             "name": "Wastelands War (Bertrand)",
             "sort_order": 201,
@@ -20135,6 +20208,51 @@
                 {
                     "id": 980002,
                     "start_at": 1716858000,
+                    "end_at": 0
+                }
+            ]
+        },
+        {
+            "id": 10007,
+            "name": "Inheritance Records",
+            "sort_order": 1006,
+            "quest_category": 13,
+            "quest_sub_category_id": 0,
+            "list_banner": 0,
+            "screen_in_help_id": 0,
+            "currency_items": [],
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "event_mission_tab_id": 0,
+            "fixed_status_id": 0,
+            "start_at": 1715130000,
+            "end_at": 0,
+            "bgm": 100005,
+            "field_map_icon_id": 0,
+            "event_box_gacha_id": 0,
+            "event_ability_potion_target": 1,
+            "auto_rematch_enabled": 1,
+            "part_id": 0,
+            "last_previous_synopsis_id": 0,
+            "add_cinema_start_at": 0,
+            "display_cinema_start_at": 0,
+            "cinema_banner_id": 0,
+            "story_mode_episode_name": "",
+            "cover_banner_id": 10007,
+            "stage_gacha_id": 10007,
+            "challenge_mode_banner_id": 0,
+            "gacha_ticket_id": 0,
+            "top_banner_id": 0,
+            "stage_released_reward_set_id": 3000019,
+            "stage_exp_items": [
+                {
+                    "id": 980005,
+                    "start_at": 1715130000,
+                    "end_at": 1719018000
+                },
+                {
+                    "id": 980002,
+                    "start_at": 1719018000,
                     "end_at": 0
                 }
             ]

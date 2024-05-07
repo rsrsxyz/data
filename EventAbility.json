@@ -33321,6 +33321,13 @@
             ]
         },
         {
+            "id": 6538,
+            "event_ability_type": 7,
+            "rate": 3.0,
+            "reward_bonuses": [],
+            "drop_group_ids": []
+        },
+        {
             "id": 6539,
             "event_ability_type": 4,
             "rate": 0.0,
@@ -33543,6 +33550,24 @@
             "reward_bonuses": [],
             "drop_group_ids": [
                 21013876
+            ]
+        },
+        {
+            "id": 6580,
+            "event_ability_type": 4,
+            "rate": 0.0,
+            "reward_bonuses": [],
+            "drop_group_ids": [
+                107001
+            ]
+        },
+        {
+            "id": 6581,
+            "event_ability_type": 4,
+            "rate": 0.0,
+            "reward_bonuses": [],
+            "drop_group_ids": [
+                107002
             ]
         },
         {

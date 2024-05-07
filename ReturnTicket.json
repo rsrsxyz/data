@@ -171,6 +171,16 @@
             "selling_price": 0
         },
         {
+            "id": 830023,
+            "name": "Inheritance! Empire's Glory Instant Expedition Ticket [Ltd. Time]",
+            "flavor_text": "[Limited Time] A ticket that allows you to instantly complete and return from an Expedition. (Until [1718153999] <tz>)",
+            "icon": 830023,
+            "max_quantity": 99999,
+            "expired_at": 1718153999,
+            "sort_order": 24050795,
+            "selling_price": 0
+        },
+        {
             "id": 1000830001,
             "name": "New Year's Instant Expedition Ticket [Ltd. Time]",
             "flavor_text": "[Limited Time] A ticket that allows you to instantly complete and return from an Expedition. (Until [1614473999] <tz>)",

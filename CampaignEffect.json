@@ -20999,6 +20999,17 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7449,
+            "ribbon": "3x Skill/Spell Rank Up Amount!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7454,
             "ribbon": "",
             "campaign_type": 10,
@@ -21150,6 +21161,28 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7471,
+            "ribbon": "",
+            "campaign_type": 10,
+            "rate": 1.5,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7472,
+            "ribbon": "",
+            "campaign_type": 10,
+            "rate": 10.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7473,
             "ribbon": "",
             "campaign_type": 10,
@@ -21168,6 +21201,30 @@
             "reward_type": 0,
             "reward_id": 0,
             "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7487,
+            "ribbon": "",
+            "campaign_type": 12,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7551,
+            "ribbon": "歴戦のかけらドロップ中！",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013966
+            ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0
         },

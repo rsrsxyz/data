@@ -26636,6 +26636,1235 @@
             "player_asset_id": 0,
             "ghost_player_asset_id": 0,
             "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134000,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134000,
+                10134001
+            ],
+            "visibility_quest_ids": [],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134001,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134001,
+                10134002
+            ],
+            "visibility_quest_ids": [
+                972028001
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134002,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134002,
+                10134003
+            ],
+            "visibility_quest_ids": [
+                972028002
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134003,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134000,
+                10134004
+            ],
+            "visibility_quest_ids": [
+                972028003
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134004,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134004,
+                10134005
+            ],
+            "visibility_quest_ids": [
+                972028004
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134005,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134006,
+                10134001
+            ],
+            "visibility_quest_ids": [
+                972028005
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134006,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134006,
+                10134007
+            ],
+            "visibility_quest_ids": [
+                972028006
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134007,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134007,
+                10134008
+            ],
+            "visibility_quest_ids": [
+                972028007
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134008,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134007,
+                10134009
+            ],
+            "visibility_quest_ids": [
+                972028008
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134009,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134009,
+                10134010
+            ],
+            "visibility_quest_ids": [
+                972028009
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134010,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134010,
+                10134011
+            ],
+            "visibility_quest_ids": [
+                972028010
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134011,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134011,
+                10134012
+            ],
+            "visibility_quest_ids": [
+                972028011
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134012,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134012,
+                10134013
+            ],
+            "visibility_quest_ids": [
+                972028012
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134013,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134013,
+                10134014
+            ],
+            "visibility_quest_ids": [
+                972028013
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134014,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134014,
+                10134015
+            ],
+            "visibility_quest_ids": [
+                972028014
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134015,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134004,
+                10134016
+            ],
+            "visibility_quest_ids": [
+                972028015
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134016,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134016,
+                10134017
+            ],
+            "visibility_quest_ids": [
+                972028016
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134017,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134017,
+                10134019
+            ],
+            "visibility_quest_ids": [
+                972028018
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134018,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134017,
+                10134018
+            ],
+            "visibility_quest_ids": [
+                972028017
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134019,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134016,
+                10134020
+            ],
+            "visibility_quest_ids": [
+                972028019
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134020,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134014,
+                10134021
+            ],
+            "visibility_quest_ids": [
+                972028020
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134021,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134021,
+                10134022
+            ],
+            "visibility_quest_ids": [
+                972028021
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134022,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134022,
+                10134023
+            ],
+            "visibility_quest_ids": [
+                972028022
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134023,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134023,
+                10134024
+            ],
+            "visibility_quest_ids": [
+                972028023
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134024,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134023,
+                10134025
+            ],
+            "visibility_quest_ids": [
+                972028024
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134025,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134025,
+                10134026
+            ],
+            "visibility_quest_ids": [
+                972028025
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134026,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134026,
+                10134027
+            ],
+            "visibility_quest_ids": [
+                972028026
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134027,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134025,
+                10134028
+            ],
+            "visibility_quest_ids": [
+                972028027
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134028,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134025,
+                10134029
+            ],
+            "visibility_quest_ids": [
+                972028028
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134029,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134029,
+                10134030
+            ],
+            "visibility_quest_ids": [
+                972028029
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134030,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134030,
+                10134031
+            ],
+            "visibility_quest_ids": [
+                972028030
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134031,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134031,
+                10134032
+            ],
+            "visibility_quest_ids": [
+                972028031
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134032,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134008,
+                10134033
+            ],
+            "visibility_quest_ids": [
+                972028032
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134033,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134033,
+                10134034
+            ],
+            "visibility_quest_ids": [
+                972028033
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134034,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134034,
+                10134035
+            ],
+            "visibility_quest_ids": [
+                972028034
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134035,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134035,
+                10134036
+            ],
+            "visibility_quest_ids": [
+                972028035
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134036,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134034,
+                10134037
+            ],
+            "visibility_quest_ids": [
+                972028036
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134037,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134038,
+                10134035
+            ],
+            "visibility_quest_ids": [
+                972028037
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134038,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134038,
+                10134039
+            ],
+            "visibility_quest_ids": [
+                972028038
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134039,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134039,
+                10134040
+            ],
+            "visibility_quest_ids": [
+                972028039
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134040,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134040,
+                10134041
+            ],
+            "visibility_quest_ids": [
+                972028040
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134041,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134038,
+                10134042
+            ],
+            "visibility_quest_ids": [
+                972028041
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134042,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134042,
+                10134043
+            ],
+            "visibility_quest_ids": [
+                972028042
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134043,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134011,
+                10134044
+            ],
+            "visibility_quest_ids": [
+                972028043
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134044,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134044,
+                10134045
+            ],
+            "visibility_quest_ids": [
+                972028044
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134045,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134046,
+                10134043
+            ],
+            "visibility_quest_ids": [
+                972028045
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134046,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134046,
+                10134047
+            ],
+            "visibility_quest_ids": [
+                972028046
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134047,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134022,
+                10134048
+            ],
+            "visibility_quest_ids": [
+                972028047
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134048,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134048,
+                10134049
+            ],
+            "visibility_quest_ids": [
+                972028048
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134049,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134049,
+                10134050
+            ],
+            "visibility_quest_ids": [
+                972028049
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134050,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134049,
+                10134051
+            ],
+            "visibility_quest_ids": [
+                972028050
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134051,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134051,
+                10134052
+            ],
+            "visibility_quest_ids": [
+                972028051
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134052,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134052,
+                10134053
+            ],
+            "visibility_quest_ids": [
+                972028052
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134053,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134053,
+                10134054
+            ],
+            "visibility_quest_ids": [
+                972028053
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134054,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134054,
+                10134055
+            ],
+            "visibility_quest_ids": [
+                972028054
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134055,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134055,
+                10134056
+            ],
+            "visibility_quest_ids": [
+                972028055
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134056,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134054,
+                10134057
+            ],
+            "visibility_quest_ids": [
+                972028056
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134057,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134055,
+                10134058
+            ],
+            "visibility_quest_ids": [
+                972028057
+            ],
+            "blockade_quest_ids": [],
+            "joints": [
+                {
+                    "x": 5.730953216552734,
+                    "y": -1.5051480531692505
+                }
+            ],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134058,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134058,
+                10134059
+            ],
+            "visibility_quest_ids": [
+                972028058
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134059,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134059,
+                10134060
+            ],
+            "visibility_quest_ids": [
+                972028059
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134060,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134060,
+                10134061
+            ],
+            "visibility_quest_ids": [
+                972028060
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134061,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134062,
+                10134061
+            ],
+            "visibility_quest_ids": [
+                972028061
+            ],
+            "blockade_quest_ids": [],
+            "joints": [
+                {
+                    "x": 14.147649765014648,
+                    "y": -6.976003170013428
+                }
+            ],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134062,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134063,
+                10134000
+            ],
+            "visibility_quest_ids": [
+                972028062
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134063,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134064,
+                10134015
+            ],
+            "visibility_quest_ids": [
+                972028063
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134064,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134028,
+                10134065
+            ],
+            "visibility_quest_ids": [
+                972028064
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134065,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134066,
+                10134038
+            ],
+            "visibility_quest_ids": [
+                972028065
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134066,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134011,
+                10134067
+            ],
+            "visibility_quest_ids": [
+                972028066
+            ],
+            "blockade_quest_ids": [],
+            "joints": [
+                {
+                    "x": -7.20316219329834,
+                    "y": -0.04842687025666237
+                },
+                {
+                    "x": -9.46514892578125,
+                    "y": -7.676061153411865
+                }
+            ],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134067,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134068,
+                10134056
+            ],
+            "visibility_quest_ids": [
+                972028067
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134068,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134069,
+                10134062
+            ],
+            "visibility_quest_ids": [
+                972028068
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134069,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134039,
+                10134070
+            ],
+            "visibility_quest_ids": [
+                972028069
+            ],
+            "blockade_quest_ids": [],
+            "joints": [
+                {
+                    "x": -17.266399383544922,
+                    "y": -14.610090255737305
+                }
+            ],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
+        },
+        {
+            "id": 10134070,
+            "field_map_id": 1013401,
+            "adjacent_field_map_node_ids": [
+                10134070,
+                10134071
+            ],
+            "visibility_quest_ids": [
+                972028070
+            ],
+            "blockade_quest_ids": [],
+            "joints": [],
+            "edge_asset_id": 0,
+            "player_asset_id": 0,
+            "ghost_player_asset_id": 0,
+            "is_ghost_hidden": 0
         }
     ]
 }

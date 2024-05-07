@@ -10050,7 +10050,7 @@
         {
             "id": 702101685,
             "name": "Spirit Sword Draw",
-            "flavor_text": "Attacks' damage increases (extreme effect).<br><br>After activating an OD attack*, grants oneself <special_effect=800000014>Morale Up (extreme)</special_effect> (1 turn(s)), and activates <skill=110100298>Unsheathe</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by this Ability and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br><br>After activating an OD attack*, grants oneself <special_effect=800000014>Morale Up (extreme)</special_effect> (1 turn(s)), and activates <skill=110100298>Unsheathe</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040741,
@@ -10080,7 +10080,7 @@
         {
             "id": 702101687,
             "name": "Hand of the Sea God",
-            "flavor_text": "[Start of round]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/1 turn(s)).<br><br>On even turns counting from the start of battle, when landing an attack with an Attack type skill/spell*, <skill=110800276>Wrath of Yucomb</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated by this Ability and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[Start of round]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/1 turn(s)).<br><br>On even turns counting from the start of battle, when landing an attack with an Attack type skill/spell*, <skill=110800276>Wrath of Yucomb</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041641,
@@ -20989,7 +20989,7 @@
         {
             "id": 702102634,
             "name": "Mercenary's Way",
-            "flavor_text": "OD attacks' damage increases (extreme effect).<br><br>[Start of turn]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/1 turn(s)).<br><br>[End of turn]<br>Increases own OD gauge (large effect).",
+            "flavor_text": "OD attacks' damage increases (super extreme effect).<br><br>[Start of turn]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/1 turn(s)).<br><br>[End of turn]<br>Increases own OD gauge (large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042138,
@@ -21054,7 +21054,7 @@
         {
             "id": 702102640,
             "name": "Thief's Mastery",
-            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>[Start of turn]<br>Has oneself enter a <special_effect=800000074>stealth</special_effect> stance (medium chance/medium effect/4 turn(s)).<br>Grants oneself <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).<br>Grants oneself <special_effect=800000416>Guise</special_effect> (1 turn(s)).<br><br>[End of turn]<br>If no damage is taken by oneself during the turn, grants oneself <special_effect=800000415>Thief's Assistance (2x)</special_effect>.",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>[Start of turn]<br>Has oneself enter a <special_effect=800000074>stealth</special_effect> stance (medium effect/4 turn(s)).<br>Grants oneself <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).<br>Grants oneself <special_effect=800000416>Guise</special_effect> (1 turn(s)).<br><br>[End of turn]<br>If no damage is taken by oneself during the turn, grants all surviving allies <special_effect=800000415>Thief's Assistance (2x)</special_effect>.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040322,
@@ -21250,7 +21250,7 @@
         {
             "id": 702102654,
             "name": "Halo",
-            "flavor_text": "When attacked, damage taken will be reduced (extreme effect).<br><br>[When attacked and HP reaches 0]<br>Recovers all surviving allies' HP (very large effect).<br><br>[Start of turn]<br>Grants oneself <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110100518>Healing Light Blade</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities, Skill/Spell Counterattacks, and Skills/Spells activated by skill/spell effects are not included.",
+            "flavor_text": "When attacked, damage taken will be reduced (extreme effect).<br><br>[When attacked and HP reaches 0]<br>Recovers all surviving allies' HP (very large effect).<br><br>[Start of turn]<br>Grants oneself <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110100518>Healing Light Blade</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040768,
@@ -21322,7 +21322,7 @@
         {
             "id": 702102659,
             "name": "Swift Archer",
-            "flavor_text": "[Start of turn]<br>When OD gauge is full, grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/1 turn(s)).<br>When OD gauge is not full, grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).<br><br>[End of turn]<br>Increases own OD gauge (small effect).<br><br>[After activating an OD attack*]<br><skill=110900683>Double Ice Flower</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[Start of turn]<br>When OD gauge is full, grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/1 turn(s)).<br>When OD gauge is not full, grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).<br><br>[End of turn]<br>Increases own OD gauge (small effect).<br><br>[After activating an OD attack*]<br><skill=110900683>Double Ice Flower</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043501,
@@ -21919,8 +21919,8 @@
         },
         {
             "id": 702102708,
-            "name": "Emperor's Order: Effect",
-            "flavor_text": "",
+            "name": "Emperor's Order: Effect 1",
+            "flavor_text": "[After activating Merciful Light]<br>Recovers all surviving allies' BP (+5).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043590
@@ -74817,6 +74817,516 @@
             "simple_flavor_text": "",
             "special_effect_ids": [
                 1802040887
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100527,
+            "name": "Prince's Gift",
+            "flavor_text": "Reduces damage taken for all allies (very large effect).<br>Decreases likelihood of being targeted by enemies (large effect).<br><br>[End of turn]<br>Recovers all surviving allies' HP (very small effect).<br>Recovers own BP (+1).<br>If no damage is taken by oneself during the turn, grants all other surviving allies <special_effect=800000118>Damage Block (1 time)</special_effect> (no turn limit).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043476,
+                802043433,
+                802043429
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100528,
+            "name": "Varennesian Wisdom",
+            "flavor_text": "[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=110100507>Balm</skill> and <skill=1110100087>Potions For All</skill> by 2 (Number of uses will not exceed the use limit at start of battle).<br><br>[When recovery actions are made]<br>Recovers own HP (medium effect).<br>And increases own and target's STR/END/DEX/AGI/INT/WIL/LOV/CHA (large effect).<br><br>[When recovery actions are made on/after Turn 3 counting from the start of battle]<br>Grants the target <special_effect=800000080>\"End of Turn: Recover HP\"</special_effect> (very small effect/3 turn(s)).<br><br>[When recovery actions are made on/after Turn 5 counting from the start of battle]<br>Grants the target <special_effect=800000407>\"End of Turn: Recover HP (unc.) (med./1 time)\"</special_effect> (no turn limit).<br><br>*Recovery actions: Actions made by recovery type skills/spells.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040905,
+                1802040906,
+                1802040907,
+                1802040908
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100529,
+            "name": "Varennesian Wisdom: Effect 1",
+            "flavor_text": "[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=110100507>Balm</skill> and <skill=1110100087>Potions For All</skill> by 2 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040909,
+                1802040910
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100530,
+            "name": "Varennesian Wisdom: Effect 2",
+            "flavor_text": "[When recovery actions are made]<br>Recovers own HP (medium effect).<br>And increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (large effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040732,
+                1802040911,
+                1802040912,
+                1802040913,
+                1802040914,
+                1802040915,
+                1802040916,
+                1802040917,
+                1802040918,
+                1802040919,
+                1802040920,
+                1802040921,
+                1802040922,
+                1802040923,
+                1802040924,
+                1802040925,
+                1802040926
+            ],
+            "icon": 4001,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100531,
+            "name": "Varennesian Wisdom: Effect 3",
+            "flavor_text": "[When recovery actions are made on/after Turn 3 counting from the start of battle]<br>Grants the target <special_effect=800000080>\"End of Turn: Recover HP\"</special_effect> (very small effect/3 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043439
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100532,
+            "name": "Varennesian Wisdom: Effect 4",
+            "flavor_text": "[When recovery actions are made on/after Turn 5 counting from the start of battle]<br>Grants the target <special_effect=800000407>\"End of Turn: Recover HP (unc.) (med./1 time)\"</special_effect> (no turn limit).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043440
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100533,
+            "name": "Emperor's Order",
+            "flavor_text": "[Start of battle]<br>Grants all other surviving allies <special_effect=800000409>Emperor's Support</special_effect> (Effect: permanent in battle).<br><br>[After activating Merciful Light]<br>Recovers all surviving allies' BP (+5).<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=1125500020>Merciful Light</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043477,
+                802043589,
+                1802040927
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100534,
+            "name": "Emperor's Order: Effect 2",
+            "flavor_text": "[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=1125500020>Merciful Light</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040533
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100535,
+            "name": "Ironwall Heavy Infantry",
+            "flavor_text": "[Start of turn]<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (large effect/4 turn(s)).<br><br>[When landing an attack]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).<br>Recovers own BP (+2).<br><br>[When being attacked]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).<br><br>[When landing an attack with Grand Sword]<br><skill=110100517>Brave Sword</skill> will be activated.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040928,
+                1802040929,
+                1802040930,
+                1802040931
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100536,
+            "name": "Ironwall Heavy Infantry: Effect 1",
+            "flavor_text": "[Start of turn]<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (large effect/4 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040472
+            ],
+            "icon": 4009,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100537,
+            "name": "Ironwall Heavy Infantry: Effect 2",
+            "flavor_text": "[When landing an attack]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040932,
+                802040961
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100538,
+            "name": "Ironwall Heavy Infantry: Effect 3",
+            "flavor_text": "[When being attacked]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043553
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100539,
+            "name": "Ironwall Heavy Infantry: Effect 4",
+            "flavor_text": "[When landing an attack with Grand Sword]<br><skill=110100517>Brave Sword</skill> will be activated.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043588
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100540,
+            "name": "Stalwart Guard",
+            "flavor_text": "[When an ally is being attacked]<br>Takes an ally's place in being attacked, and reduces the damage (very high chance).<br><br>[When being attacked]<br>Increases all surviving allies' STR/DEX/INT (medium effect).<br><br>[When attacked by a skill attack]<br>Increases all surviving allies' END/LOV (medium effect).<br><br>[When attacked by a spell attack]<br>Increases all surviving allies' WIL/CHA (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                801042070,
+                1802040933
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100541,
+            "name": "Stalwart Guard: Effect",
+            "flavor_text": "[When being attacked]<br>Increases all surviving allies' STR/DEX/INT (medium effect).<br><br>[When attacked by a skill attack]<br>Increases all surviving allies' END/LOV (medium effect).<br><br>[When attacked by a spell attack]<br>Increases all surviving allies' WIL/CHA (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802013447,
+                802013610,
+                802013611,
+                1802040934,
+                1802040935,
+                1802040936,
+                1802040937
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100542,
+            "name": "Imperial Swordsman",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+1).<br><br>[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br>Increases all surviving allies' STR/DEX/INT (small effect).<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (small effect/3 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040323,
+                1802040938
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100543,
+            "name": "Imperial Swordsman: Effect",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br>Increases all surviving allies' STR/DEX/INT (small effect).<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (small effect/3 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040750,
+                802040742,
+                1802040939,
+                1802040940,
+                1802040941,
+                802043491
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100544,
+            "name": "Art of Light Work",
+            "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110200526>Sword Chain+</skill> will be activated 2 time(s).<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=1110200095>Triple Strike Sword</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041748,
+                1802040942,
+                1802040943
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100545,
+            "name": "Art of Light Work: Effect 1",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=110200526>Sword Chain+</skill> will be activated 2 time(s).<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043492,
+                802043492
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100546,
+            "name": "Art of Light Work: Effect 2",
+            "flavor_text": "[After activating an OD attack]<br><skill=1110200095>Triple Strike Sword</skill> will be activated.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040944
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100547,
+            "name": "Imperial Archery",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br>Increases all surviving allies' END/WIL/LOV/CHA (small effect).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).<br><br>[When activating Frozen Arrows]<br>Grants oneself <special_effect=800000410>Swift Archer</special_effect> (Effect: permanent in battle) (Max times: 3 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040945,
+                1802040946
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100548,
+            "name": "Imperial Archery: Effect 1",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br>Increases all surviving allies' END/WIL/LOV/CHA (small effect).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040750,
+                802040742,
+                802013493,
+                802013494,
+                802013495,
+                802013496,
+                1802040947
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100549,
+            "name": "Imperial Archery: Effect 2",
+            "flavor_text": "[When activating Frozen Arrows]<br>Grants oneself <special_effect=800000410>Swift Archer</special_effect> (Effect: permanent in battle) (Max times: 3 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                801042048,
+                801042049,
+                801042050
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100550,
+            "name": "Sword-Wielding Prince",
+            "flavor_text": "[Start of turn]<br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).<br><br>[After activating Sweeping Sword/Mind's Eye Blade]<br><skill=110200536>Flowing Slash+</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a very high chance to:<br>Activate <skill=1110200097>Dark Flowing Slash+</skill>.<br>(Activates using skill Rank 1).<br><br>[When landing an attack with Flowing Slash+/Dark Flowing Slash+]<br>Grants oneself <special_effect=800000412>Heat Up (Flowing Slash)</special_effect> (extreme effect) and <special_effect=800000413>Heat Up (Dark Flowing Slash)</special_effect> (extreme effect) (Max times: 15 times per battle).<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041535,
+                1802040948,
+                1802040949,
+                1802040950,
+                1802040951
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100551,
+            "name": "Sword-Wielding Prince: Effect 1",
+            "flavor_text": "[After activating Sweeping Sword/Mind's Eye Blade]<br><skill=110200536>Flowing Slash+</skill> will be activated.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043422
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100552,
+            "name": "Sword-Wielding Prince: Effect 2",
+            "flavor_text": "[After activating Sweeping Sword/Mind's Eye Blade]<br>Has a very high chance to:<br>Activate <skill=1110200097>Dark Flowing Slash+</skill>.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040952
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100553,
+            "name": "Sword-Wielding Prince: Effect 3",
+            "flavor_text": "[When landing an attack with Flowing Slash+/Dark Flowing Slash+]<br>Grants oneself <special_effect=800000412>Heat Up (Flowing Slash)</special_effect> (extreme effect) and <special_effect=800000413>Heat Up (Dark Flowing Slash)</special_effect> (extreme effect) (Max times: 15 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043425,
+                802043426,
+                802043427,
+                802043428
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100554,
+            "name": "Sword-Wielding Prince: Effect 4",
+            "flavor_text": "[When landing an attack with Flowing Slash+/Dark Flowing Slash+]<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043423,
+                802043424
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100555,
+            "name": "Mercenary's Honor",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+2).<br>Increases own STR/END/WIL (medium effect).<br><br>[After activating an OD attack*]<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/1 turn(s)), <special_effect=800000015>Defense Boost</special_effect> (large effect/1 turn(s)), and <skill=110200522>Violent Dive</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040322,
+                1802040953,
+                1802040954
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100556,
+            "name": "Mercenary's Honor: Effect 1",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+2).<br>Increases own STR/END/WIL (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040750,
+                802040961,
+                1802040754,
+                1802040755,
+                1802040756
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100557,
+            "name": "Mercenary's Honor: Effect 2",
+            "flavor_text": "[After activating an OD attack*]<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/1 turn(s)), <special_effect=800000015>Defense Boost</special_effect> (large effect/1 turn(s)), and <skill=110200522>Violent Dive</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040955,
+                802043448,
+                802043449
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100558,
+            "name": "Cat Blitz",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500498>Cat's Claw</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a very high chance to:<br>Activate <skill=110500499>Three-Point Strike</skill>.<br>(Activates using skill Rank 1).<br>Has a medium chance to:<br>Activate <skill=110500500>Double Doppelwave</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040741,
+                802043472,
+                802043473,
+                802043474
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100559,
+            "name": "Great Rampage",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (super extreme effect/1 turn(s)).<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (very large effect/1 turn(s)).<br>Recovers own BP (+1).<br><br>[On every 3 turns counting from the start of battle]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (extreme effect/2 turn(s)).<br>Grants oneself <special_effect=800000013>Morale Up (very large)</special_effect> (2 turn(s)).<br>Recovers own BP (+2).<br><br>Loses 1 LP as recoil damage at the end of every 3 turns counting from the start of battle.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040956,
+                1802040957,
+                1802040958
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100560,
+            "name": "Great Rampage: Effect 1",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (super extreme effect/1 turn(s)).<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (very large effect/1 turn(s)).<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043516,
+                802043604,
+                802040812
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100561,
+            "name": "Great Rampage: Effect 2",
+            "flavor_text": "[On every 3 turns counting from the start of battle]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (extreme effect/2 turn(s)).<br>Grants oneself <special_effect=800000013>Morale Up (very large)</special_effect> (2 turn(s)).<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042112,
+                801041296,
+                802040754
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100562,
+            "name": "Great Rampage: Effect 3",
+            "flavor_text": "At the end of every 3 turns counting from the start of battle, loses 1 LP as recoil damage.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040990
             ],
             "icon": 4010,
             "rarity": 0,

@@ -3087,6 +3087,142 @@
             "end_at": 0
         },
         {
+            "id": 168,
+            "reward_type": 18,
+            "reward_id": 409521600,
+            "materials": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 20000
+                }
+            ],
+            "aurum": 20000,
+            "limit_count": 0,
+            "priority": 1130,
+            "start_at": 1715130000,
+            "end_at": 0
+        },
+        {
+            "id": 169,
+            "reward_type": 18,
+            "reward_id": 409521700,
+            "materials": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 20000
+                }
+            ],
+            "aurum": 20000,
+            "limit_count": 0,
+            "priority": 1120,
+            "start_at": 1715130000,
+            "end_at": 0
+        },
+        {
+            "id": 170,
+            "reward_type": 18,
+            "reward_id": 409521800,
+            "materials": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 20000
+                }
+            ],
+            "aurum": 20000,
+            "limit_count": 0,
+            "priority": 1110,
+            "start_at": 1715130000,
+            "end_at": 0
+        },
+        {
+            "id": 171,
+            "reward_type": 18,
+            "reward_id": 409521900,
+            "materials": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 20000
+                }
+            ],
+            "aurum": 20000,
+            "limit_count": 0,
+            "priority": 1100,
+            "start_at": 1715130000,
+            "end_at": 0
+        },
+        {
+            "id": 172,
+            "reward_type": 18,
+            "reward_id": 409522000,
+            "materials": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 20000
+                }
+            ],
+            "aurum": 20000,
+            "limit_count": 0,
+            "priority": 1090,
+            "start_at": 1715130000,
+            "end_at": 0
+        },
+        {
+            "id": 173,
+            "reward_type": 18,
+            "reward_id": 409522100,
+            "materials": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 20000
+                }
+            ],
+            "aurum": 20000,
+            "limit_count": 0,
+            "priority": 1080,
+            "start_at": 1715130000,
+            "end_at": 0
+        },
+        {
+            "id": 174,
+            "reward_type": 18,
+            "reward_id": 409522200,
+            "materials": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 20000
+                }
+            ],
+            "aurum": 20000,
+            "limit_count": 0,
+            "priority": 1070,
+            "start_at": 1715130000,
+            "end_at": 0
+        },
+        {
+            "id": 175,
+            "reward_type": 18,
+            "reward_id": 409522300,
+            "materials": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 20000
+                }
+            ],
+            "aurum": 20000,
+            "limit_count": 0,
+            "priority": 1060,
+            "start_at": 1715130000,
+            "end_at": 0
+        },
+        {
             "id": 1000000002,
             "reward_type": 15,
             "reward_id": 1108400100,

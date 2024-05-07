@@ -5089,6 +5089,46 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 515
+        },
+        {
+            "id": 1000000740,
+            "event_ability_category_id": 1000000491,
+            "name": "Inheritance! Empire's Glory Round 1 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x skills/spells rank up amount in Free Quests/Overthrow! The Seven Heroes: The Emperor's March",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 516
+        },
+        {
+            "id": 1000000741,
+            "event_ability_category_id": 1000000492,
+            "name": "Inheritance! Empire's Glory Round 1 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests/Overthrow! The Seven Heroes: The Emperor's March<br>・Bonus Green Herb/Elegant Perfume drops in Overthrow! The Seven Heroes: The Emperor's March",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 517
+        },
+        {
+            "id": 1000000742,
+            "event_ability_category_id": 1000000493,
+            "name": "Inheritance! Empire's Glory Round 1 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains in Free Quests/Overthrow! The Seven Heroes: The Emperor's March<br>・Bonus Green Herb/Elegant Perfume drops in Overthrow! The Seven Heroes: The Emperor's March",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 518
+        },
+        {
+            "id": 1000000743,
+            "event_ability_category_id": 1000000494,
+            "name": "Inheritance! Empire's Glory Round 1 IV",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains in Free Quests/Overthrow! The Seven Heroes: The Emperor's March<br>・Bonus Green Herb/Elegant Perfume drops in Overthrow! The Seven Heroes: The Emperor's March<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 519
         }
     ]
 }
