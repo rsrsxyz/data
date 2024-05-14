@@ -159,6 +159,51 @@
             "end_at": 1693789199,
             "priority": 10001,
             "lock_text": ""
+        },
+        {
+            "id": 1000000003,
+            "multi_mission_group_id": 1000000002,
+            "title": "Challenge! [Ultra Hard] Abyssal Deathmatch: Seven Heroes",
+            "summary": "<size=+3>Complete Abyssal Deathmatch: Seven Heroes</size><br>Co-op Mission: [Ultra Hard]　　　　Solo Mission: [Ultra Hard]",
+            "description": "<size=+3>Complete Abyssal Deathmatch: Seven Heroes on specific difficulties</size><br>・Co-op Mission: [Ultra Hard]<br>・Solo Mission: [Ultra Hard]",
+            "area_id": 1656,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1715734800,
+            "end_at": 1717981199,
+            "priority": 9991,
+            "lock_text": ""
+        },
+        {
+            "id": 1000000004,
+            "multi_mission_group_id": 1000000002,
+            "title": "Challenge! [Challenge] Abyssal Deathmatch: Seven Heroes",
+            "summary": "<size=+3>Complete Abyssal Deathmatch: Seven Heroes</size><br>Co-op Mission: [Challenge]　　　　Solo Mission: [Challenge]",
+            "description": "<size=+3>Complete Abyssal Deathmatch: Seven Heroes on specific difficulties</size><br>・Co-op Mission: [Challenge]<br>・Solo Mission: [Challenge]",
+            "area_id": 1656,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1715734800,
+            "end_at": 1717981199,
+            "priority": 9992,
+            "lock_text": ""
+        },
+        {
+            "id": 1000000005,
+            "multi_mission_group_id": 1000000002,
+            "title": "Challenge! [Romancing] Abyssal Deathmatch: Seven Heroes",
+            "summary": "<size=+3>Complete Abyssal Deathmatch: Seven Heroes</size><br>Co-op Mission: [Romancing]　　　　Solo Mission: [Romancing]",
+            "description": "<size=+3>Complete Abyssal Deathmatch: Seven Heroes on specific difficulties</size><br>・Co-op Mission: [Romancing]<br>・Solo Mission: [Romancing]",
+            "area_id": 1656,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1715734800,
+            "end_at": 1717981199,
+            "priority": 9993,
+            "lock_text": ""
         }
     ]
 }

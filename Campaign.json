@@ -69588,6 +69588,153 @@
             ],
             "start_at": 1715130000,
             "end_at": 1716339599
+        },
+        {
+            "id": 1000002672,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                2028
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                1000002793,
+                1000002794,
+                1000002799,
+                1000002798
+            ],
+            "start_at": 1715734800,
+            "end_at": 1716339599
+        },
+        {
+            "id": 1000002673,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10001
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7381
+            ],
+            "start_at": 1715734800,
+            "end_at": 1716339599
+        },
+        {
+            "id": 1000002674,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10002
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7397
+            ],
+            "start_at": 1715734800,
+            "end_at": 1716339599
+        },
+        {
+            "id": 1000002675,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10003
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7435
+            ],
+            "start_at": 1715734800,
+            "end_at": 1716339599
+        },
+        {
+            "id": 1000002676,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10004
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7444
+            ],
+            "start_at": 1715734800,
+            "end_at": 1716339599
+        },
+        {
+            "id": 1000002677,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10005
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7443
+            ],
+            "start_at": 1715734800,
+            "end_at": 1716339599
+        },
+        {
+            "id": 1000002678,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10006
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7457
+            ],
+            "start_at": 1715734800,
+            "end_at": 1716339599
+        },
+        {
+            "id": 1000002679,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10007
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7514
+            ],
+            "start_at": 1715734800,
+            "end_at": 1716339599
+        },
+        {
+            "id": 1000002680,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [],
+            "stage_ids": [],
+            "quest_ids": [
+                972028071
+            ],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                1000002800
+            ],
+            "start_at": 1715734800,
+            "end_at": 1716339599
         }
     ]
 }

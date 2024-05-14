@@ -18903,7 +18903,7 @@
         {
             "id": 702102453,
             "name": "Hybrid Voltage Ⅳ (DEX/AGI)",
-            "flavor_text": "[Start of turn]<br>Increases own DEX/AGI (very large effect).<br>Grants oneself grants oneself <special_effect=800000095>Heat Up</special_effect> (very large effect) (Max times: 5 times per battle).",
+            "flavor_text": "[Start of turn]<br>Increases own DEX/AGI (very large effect).<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (very large effect) (Max times: 5 times per battle).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043173,
@@ -22088,7 +22088,7 @@
         {
             "id": 702102722,
             "name": "Dragon Gate",
-            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110800516>Rising Dragon</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[On every 3 turns counting from the start of battle, when landing an attack with an Attack type skill/spell*]<br><skill=110800517>Dragon Spear Cross</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated by Abilities, Skill/Spell Counterattacks, and Skills/Spells activated by skill/spell effects are not included.",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110800516>Rising Dragon</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[On every 3 turns counting from the start of battle, when landing an attack with an Attack type skill/spell*]<br><skill=110800517>Dragon Spear Cross</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043628,
@@ -75327,6 +75327,348 @@
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040990
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100563,
+            "name": "Emperor's Fortress",
+            "flavor_text": "[When attacking]<br>Grants oneself <special_effect=800000096>Defense Up</special_effect> (medium effect) (Max times: 10 times per battle).<br>Increases all surviving allies' END/WIL (medium effect).<br>Recovers own BP (+1).<br><br>[When being attacked]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (large effect) (Max times: 10 times per battle).<br>Increases all surviving allies' STR/DEX/INT (medium effect).<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040959,
+                1802040960,
+                1802040961,
+                1802040962
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100564,
+            "name": "Emperor's Fortress: Effect 1",
+            "flavor_text": "[When attacking]<br>Grants oneself <special_effect=800000096>Defense Up</special_effect> (medium effect) (Max times: 10 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040963
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100565,
+            "name": "Emperor's Fortress: Effect 2",
+            "flavor_text": "[When attacking]<br>Increases all surviving allies' END/WIL (medium effect).<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802013556,
+                802013557,
+                802041401
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100566,
+            "name": "Emperor's Fortress: Effect 3",
+            "flavor_text": "[When being attacked]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (large effect) (Max times: 10 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040964
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100567,
+            "name": "Emperor's Fortress: Effect 4",
+            "flavor_text": "[When being attacked]<br>Increases all surviving allies' STR/DEX/INT (medium effect).<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802013558,
+                802013559,
+                802013560,
+                802040069
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100568,
+            "name": "Ninja Quick Attack",
+            "flavor_text": "[Start of turn]<br>Increases own STR/AGI (medium effect).<br>Recovers own BP (+1).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500509>Sakura Heavy Kick</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a very high chance to:<br>Activate <skill=110500510>Whirlwind Kick+</skill>.<br>(Activates using skill Rank 1).<br>Has a medium chance to:<br>Activate <skill=1110500118>Ninjutsu: Doppel Kick</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040965,
+                802043567,
+                802043568,
+                1802040966
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100569,
+            "name": "Ninja Quick Attack: Effect 1",
+            "flavor_text": "[Start of turn]<br>Increases own STR/AGI (medium effect).<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802012170,
+                802010772,
+                802040812
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100570,
+            "name": "Ninja Quick Attack: Effect 4",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=1110500118>Ninjutsu: Doppel Kick</skill> will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040967
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100571,
+            "name": "Flame Strategist",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000202>BP Cost Reduction</special_effect> (Reduction: 12/1 turn(s)).<br>Grants oneself <special_effect=800000209>Elemental Enhance (Heat)</special_effect> (super extreme effect).<br>Grants oneself <special_effect=800000135>Enhance Sorcery</special_effect> (super extreme effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043569,
+                802043788,
+                1802040968
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100572,
+            "name": "Nomad's Pride",
+            "flavor_text": "[When being directly attacked]<br>Counterattacks with <skill=1110900033>Beast Slayer+</skill>.<br>(Activates using skill Rank 1).<br><br>[End of turn]<br>Increases own OD gauge (medium effect).<br><br>[After activating an OD attack*]<br><skill=110900680>Emerald Wind Bow: Four Shots</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040980,
+                1802040969,
+                1802040970
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100573,
+            "name": "Nomad's Pride: Effect 2",
+            "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041741
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100574,
+            "name": "Nomad's Pride: Effect 3",
+            "flavor_text": "[After activating an OD attack*]<br><skill=110900680>Emerald Wind Bow: Four Shots</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043168
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100575,
+            "name": "Nomad's Pride: Effect 2",
+            "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041741
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100576,
+            "name": "Nomad's Pride: Effect 3",
+            "flavor_text": "[After activating an OD attack*]<br><skill=110900680>Emerald Wind Bow: Four Shots</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043168
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100577,
+            "name": "Like the Wind",
+            "flavor_text": "[Start of battle]<br>Grants all surviving allies <special_effect=1800000045>Wind Protection</special_effect> (Effect: permanent in battle).<br>Recovers own BP (+2).<br><br>[End of turn]<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040971,
+                802040322,
+                802041315
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100578,
+            "name": "Wind Protection",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000075>Action Order Up</special_effect> (large effect/1 turn(s)).<br>Grants oneself <special_effect=800000078>Post-Action Defense Boost</special_effect> (large effect/1 turn(s)).<br>Increases own AGI (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041094,
+                802043170,
+                802010625
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100579,
+            "name": "Empress's Faith",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000096>Defense Up</special_effect> (large effect) (Max times: 5 times per battle).<br><br>[End of turn]<br>Recovers own HP (very small effect).<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040972,
+                1802040973
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100580,
+            "name": "Empress's Faith: Effect 1",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000096>Defense Up</special_effect> (large effect) (Max times: 5 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041559
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100581,
+            "name": "Empress's Faith: Effect 2",
+            "flavor_text": "[End of turn]<br>Recovers own HP (very small effect).<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041204,
+                802040754
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100582,
+            "name": "Something to Protect",
+            "flavor_text": "[When being attacked]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000016>Slash Defense Boost</special_effect> (small effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000017>Blunt Defense Boost</special_effect> (small effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000018>Pierce Defense Boost</special_effect> (small effect/1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110100527>Attacking Defense+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040974,
+                1802040975
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100583,
+            "name": "Something to Protect: Effect 1",
+            "flavor_text": "[When being attacked]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000016>Slash Defense Boost</special_effect> (small effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000017>Blunt Defense Boost</special_effect> (small effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000018>Pierce Defense Boost</special_effect> (small effect/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040775,
+                802043618,
+                802043619,
+                802043620
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100584,
+            "name": "Something to Protect: Effect 2",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110100527>Attacking Defense+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043695
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100585,
+            "name": "Salamander's Pride",
+            "flavor_text": "[Start of round]<br>Grants oneself <special_effect=800000236>Max BP Increase</special_effect> (Increase: 10/5 turn(s)).<br><br>[When attacking]<br>Recovers own BP (very high chance/+10).<br><br>[When landing an attack with Ignition Drive]<br>Grants oneself <special_effect=800000187>Elemental Enhance (Slash)</special_effect> (super extreme effect) and <special_effect=800000209>Elemental Enhance (Heat)</special_effect> (super extreme effect) (Max times: 3 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040976,
+                1802040977,
+                1802040978
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100586,
+            "name": "Salamander's Pride: Effect 1",
+            "flavor_text": "[Start of round]<br>Grants oneself <special_effect=800000236>Max BP Increase</special_effect> (Increase: 10/5 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043221
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100587,
+            "name": "Salamander's Pride: Effect 2",
+            "flavor_text": "[When attacking]<br>Recovers own BP (very high chance/+10).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040979
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100588,
+            "name": "Salamander's Pride: Effect 3",
+            "flavor_text": "[When landing an attack with Ignition Drive]<br>Grants oneself <special_effect=800000187>Elemental Enhance (Slash)</special_effect> (super extreme effect) and <special_effect=800000209>Elemental Enhance (Heat)</special_effect> (super extreme effect) (Max times: 3 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043176,
+                802043177
             ],
             "icon": 4010,
             "rarity": 0,

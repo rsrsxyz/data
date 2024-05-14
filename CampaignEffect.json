@@ -21216,6 +21216,19 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7514,
+            "ribbon": "2x Exploration Point Drop Slots!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                500070001
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7551,
             "ribbon": "歴戦のかけらドロップ中！",
             "campaign_type": 5,
@@ -47967,6 +47980,32 @@
             "reward_id": 0,
             "drop_group_ids": [
                 1000097723
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 1000002799,
+            "ribbon": "Testament of the Mighty Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097724
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 1000002800,
+            "ribbon": "EXP Stamp Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013892
             ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0

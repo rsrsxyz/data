@@ -5129,6 +5129,36 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 519
+        },
+        {
+            "id": 1000000744,
+            "event_ability_category_id": 1000000495,
+            "name": "Inheritance! Empire's Glory Round 2 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests/Overthrow! The Seven Heroes: The Emperor's March",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 520
+        },
+        {
+            "id": 1000000745,
+            "event_ability_category_id": 1000000496,
+            "name": "Inheritance! Empire's Glory Round 2 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests/Overthrow! The Seven Heroes: The Emperor's March",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 521
+        },
+        {
+            "id": 1000000746,
+            "event_ability_category_id": 1000000497,
+            "name": "Inheritance! Empire's Glory Round 2 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests/Overthrow! The Seven Heroes: The Emperor's March<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 522
         }
     ]
 }
