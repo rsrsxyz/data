@@ -22407,7 +22407,7 @@
         {
             "id": 702102751,
             "name": "Death's Realm",
-            "flavor_text": "Increases attack damage for all allies (very large effect), and reduces damage taken for all allies (large effect).<br><br>[Start of battle]<br>Recovers own BP (+4).<br>Grants all surviving allies <special_effect=800000441>End of Turn: Recover HP (unc.) (v. large/2x)</special_effect> (no turn limit).<br><br>All other surviving allies lose 1 LP as recoil damage at start of battle.<br><br>[End of turn]<br>Recovers own BP (+1).",
+            "flavor_text": "Increases attack damage for all allies (very large effect), and reduces damage taken for all allies (large effect).<br><br>[Start of battle]<br>Recovers own BP (+4).<br>Grants all surviving allies <special_effect=800000441>\"End of Turn: Recover HP (unc.) (v. large/2x)\"</special_effect> (no turn limit).<br><br>All other surviving allies lose 1 LP as recoil damage at start of battle.<br><br>[End of turn]<br>Recovers own BP (+1).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041534,
@@ -75669,6 +75669,455 @@
             "special_effect_ids": [
                 802043176,
                 802043177
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100589,
+            "name": "Matriarch of Praise",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br>Grants all surviving allies <special_effect=800000435>Battle Nature</special_effect> (Effect: permanent in battle).<br><br>[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040322,
+                1802040981,
+                1802040982,
+                1802040983,
+                1802040984
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100590,
+            "name": "Matriarch of Praise: Effect",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040750,
+                802040742
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100591,
+            "name": "Standing Ovation",
+            "flavor_text": "[When landing an attack]<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110800520>Glinting Throw</skill> will be activated.<br>(Activates using skill Rank 1)<br>Has a very high chance to:<br>Activate <skill=110800521>Ritual of Wisdom</skill>.<br>(Activates using skill Rank 1)<br>Has a very high chance to:<br>Activate <skill=110800522>White Spear</skill>.<br>(Activates using skill Rank 1)<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040985,
+                1802040986,
+                1802040987,
+                1802040988
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100592,
+            "name": "Standing Ovation: Effect 1",
+            "flavor_text": "[When landing an attack]<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802013652,
+                802013653,
+                802013654,
+                802013655,
+                802013656,
+                802013657,
+                802013658,
+                802013659
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100593,
+            "name": "Standing Ovation: Effect 2",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110800520>Glinting Throw</skill> will be activated.<br>(Activates using skill Rank 1)<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043660
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100594,
+            "name": "Standing Ovation: Effect 3",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110800521>Ritual of Wisdom</skill> will be activated (very high chance).<br>(Activates using skill Rank 1)<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043661
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100595,
+            "name": "Standing Ovation: Effect 4",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110800522>White Spear</skill> will be activated (very high chance).<br>(Activates using skill Rank 1)<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043662
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100596,
+            "name": "Convalescence Light",
+            "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>[After activating Light Blessing Ceremony]<br>Activates the following (Max times: 1 time per battle):<br>・Grants all surviving allies <special_effect=800000436>Light Blessing Aura (4x)</special_effect> (no turn limit).<br>・Grants all surviving allies <special_effect=800000080>\"End of Turn: Recover HP\"</special_effect> (very small effect/Effect: permanent in battle).<br><br>[End of turn]<br>Recovers own BP (+2).<br>Cures all surviving allies from darkness/sleep/paralysis/petrification.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040448,
+                1802040989,
+                1802040990
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100597,
+            "name": "Convalescence Light: Effect 1",
+            "flavor_text": "[After activating Light Blessing Ceremony]<br>Activates the following (Max times: 1 time per battle):<br>・Grants all surviving allies <special_effect=800000436>Light Blessing Aura (4x)</special_effect> (no turn limit).<br>・Grants all surviving allies <special_effect=800000080>\"End of Turn: Recover HP\"</special_effect> (very small effect/Effect: permanent in battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                801042098,
+                1802040991
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100598,
+            "name": "Convalescence Light: Effect 2",
+            "flavor_text": "[End of turn]<br>Recovers own BP (+2).<br>Cures all surviving allies from darkness/sleep/paralysis/petrification.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040754,
+                802043667,
+                802043668,
+                802043669,
+                802043670
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100599,
+            "name": "Martial Spirit",
+            "flavor_text": "[Start of turn]<br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110100502>Moonfall Slash+</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a very high chance to:<br>Activate <skill=110100503>Heaven and Earth+</skill>.<br>(Activates using skill Rank 1).<br>Has a high chance to:<br>Activate <skill=110100504>Doppelgangers+</skill>.<br>(Activates using skill Rank 1).<br>Has a medium chance to:<br>Activate <skill=110100497>Plural Slash+</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040992,
+                1802040993,
+                1802040994,
+                1802040995,
+                1802040996
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100600,
+            "name": "Martial Spirit: Effect 1",
+            "flavor_text": "[Start of turn]<br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802010769,
+                802010770,
+                802010771,
+                802010772,
+                802010773,
+                802010774,
+                802010775,
+                802010776
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100601,
+            "name": "Martial Spirit: Effect 2",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110100502>Moonfall Slash+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043160
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100602,
+            "name": "Martial Spirit: Effect 3",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110100503>Heaven and Earth+</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043161
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100603,
+            "name": "Martial Spirit: Effect 4",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110100504>Doppelgangers+</skill> will be activated (high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043162
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100604,
+            "name": "Martial Spirit: Effect 5",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110100497>Plural Slash+</skill> will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043163
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100605,
+            "name": "Half-Mystic Swordswoman",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/2 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110100524>Mirage Step+</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a high chance to:<br>Activate <skill=110100525>Vesper Fall</skill>.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=110100525>Vesper Fall</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040997,
+                1802040998,
+                1802040999,
+                1802041000
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100606,
+            "name": "Half-Mystic Swordswoman: Effect 1",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040750,
+                802040742,
+                802042162
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100607,
+            "name": "Half-Mystic Swordswoman: Effect 2",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110100524>Mirage Step+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043676
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100608,
+            "name": "Half-Mystic Swordswoman: Effect 3",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110100525>Vesper Fall</skill> will be activated (high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041001
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100609,
+            "name": "Half-Mystic Swordswoman: Effect 4",
+            "flavor_text": "[After activating an OD attack*]<br><skill=110100525>Vesper Fall</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043677
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100610,
+            "name": "Mirage Fencer",
+            "flavor_text": "Attacks' damage increases (very large effect).<br><br>[Start of turn]<br>Grants oneself <special_effect=800000437>Impale Union (2x)</special_effect> (1 turn(s)).<br><br>[When being attacked]<br>Reduces damage taken (medium effect).<br>Evades enemy's attack (high chance).<br><br>[End of turn]<br>Increases own OD gauge (very large effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040346,
+                802040045,
+                802040765,
+                802042395,
+                1802041002
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100611,
+            "name": "Mirage Fencer: Effect",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000437>Impale Union (2x)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041003
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100612,
+            "name": "Death's Realm",
+            "flavor_text": "Increases attack damage for all allies (extreme effect).<br>Reduces damage taken for all allies (very large effect).<br><br>[Start of battle]<br>Recovers own BP (+4).<br>Grants all surviving allies <special_effect=800000441>\"End of Turn: Recover HP (unc.) (v. large/2x)\"</special_effect> (no turn limit).<br><br>All other surviving allies lose 1 LP as recoil damage at start of battle.<br><br>[End of turn]<br>Recovers own BP (+1).<br>Recovers all surviving allies' HP (very small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043475,
+                802043476,
+                802041534,
+                802043686,
+                802041861,
+                802040902,
+                802042355
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100613,
+            "name": "Assault Decree",
+            "flavor_text": "[Start of turn]<br>Activates the following (Max times: 3 times per battle):<br>・Grants all surviving allies <special_effect=800000075>Action Order Up</special_effect> (extreme effect/1 turn(s)).<br>・Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (extreme effect/1 turn(s)).<br>・Increases all surviving allies' STR/DEX/AGI/INT (extreme effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041004,
+                802043717,
+                1802040838,
+                1802040840,
+                1802040841,
+                1802040842
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100614,
+            "name": "Tune of the Wind",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=125400249>Wind Notes</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating an OD attack*]<br><skill=125400249>Wind Notes</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.<br><br>[When activating Missile Shield+]<br>Recovers own BP (+5).<br>Grants all surviving allies <special_effect=800000080>\"End of Turn: Recover HP\"</special_effect> (very small effect/2 turn(s)) and <special_effect=800000341>\"End of Turn: OD Gauge Up (sm.)\"</special_effect> (2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043365,
+                1802041005,
+                1802041006
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100615,
+            "name": "Tune of the Wind: Effect 2",
+            "flavor_text": "[After activating an OD attack*]<br><skill=125400249>Wind Notes</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041007
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100616,
+            "name": "Tune of the Wind: Effect 3",
+            "flavor_text": "[When activating Missile Shield+]<br>Recovers own BP (+5).<br>Grants all surviving allies <special_effect=800000080>\"End of Turn: Recover HP\"</special_effect> (very small effect/2 turn(s)) and <special_effect=800000341>\"End of Turn: OD Gauge Up (sm.)\"</special_effect> (2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043362,
+                802043599,
+                1802041008
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100617,
+            "name": "False Overlord",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+4).<br><br>[Start of turn]<br>Activates the following (Max times: 5 times per battle):<br>・Grants oneself <special_effect=800000313>Weak Heat Up</special_effect> (super extreme effect).<br>・Grants oneself <special_effect=800000138>\"End of Turn: Recover BP (+1)\"</special_effect> (Effect: permanent in battle).<br>・All other surviving allies take recoil damage (10% of Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.<br><br>[When landing an attack]<br>Recovers own HP (very small effect).<br>Increases own STR/END/WIL (medium effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110200537>Cursed Quartet</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041534,
+                1802041009,
+                1802041010,
+                1802041011
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100618,
+            "name": "False Overlord: Effect 1",
+            "flavor_text": "[Start of turn]<br>Activates the following (Max times: 5 times per battle):<br>・Grants oneself <special_effect=800000313>Weak Heat Up</special_effect> (super extreme effect).<br>・Grants oneself <special_effect=800000138>End of Turn: Recover BP (+1)</special_effect> (Effect: permanent in battle).<br>・All other surviving allies take recoil damage (10% of Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042835,
+                802043673,
+                802014316
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100619,
+            "name": "False Overlord: Effect 2",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Increases own STR/END/WIL (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040622,
+                1802040754,
+                1802040755,
+                1802040756
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100620,
+            "name": "False Overlord: Effect 3",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110200537>Cursed Quartet</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041012
             ],
             "icon": 4010,
             "rarity": 0,

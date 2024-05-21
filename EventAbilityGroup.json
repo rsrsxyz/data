@@ -5159,6 +5159,36 @@
             "icon": 4010,
             "applies_to_all_styles": 0,
             "priority": 522
+        },
+        {
+            "id": 1000000747,
+            "event_ability_category_id": 1000000498,
+            "name": "4th Anniversary Eve Round 1 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Awards Bouquet drops in Inheritance Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 523
+        },
+        {
+            "id": 1000000748,
+            "event_ability_category_id": 1000000499,
+            "name": "4th Anniversary Eve Round 1 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Awards Bouquet drops in Inheritance Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 524
+        },
+        {
+            "id": 1000000749,
+            "event_ability_category_id": 1000000500,
+            "name": "4th Anniversary Eve Round 1 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Free Quests<br>・Bonus Awards Bouquet drops in Inheritance Records<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 525
         }
     ]
 }
