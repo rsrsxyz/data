@@ -18623,7 +18623,7 @@
         {
             "id": 702102431,
             "name": "Moonlit Fairy",
-            "flavor_text": "Attacks' damage increases (extreme effect).<br><br>[Start of battle]<br>Grants oneself <special_effect=800000358>Apparition Fighting (5x)</special_effect> (no turn limit).<br>Grants oneself <special_effect=800000359>Fairy Swordswoman Stance (5x)</special_effect> (no turn limit).<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of Trick Night by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br><br>[Start of battle]<br>Grants oneself <special_effect=800000358>Apparition Fighting (5x)</special_effect> (no turn limit).<br>Grants oneself <special_effect=800000359>Fairy Swordswoman Stance (5x)</special_effect> (no turn limit).<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=1110200101>Trick Night</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043142,
@@ -25866,8 +25866,8 @@
         },
         {
             "id": 702103060,
-            "name": "ブロックフォースⅢ",
-            "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果大 )<br>ターン終了時、自身のBPを回復する( +3 )",
+            "name": "Block Force Ⅲ",
+            "flavor_text": "When attacked, damage taken will be reduced (large effect).<br><br>[End of turn]<br>Recovers own BP (+3).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040361,
@@ -76118,6 +76118,251 @@
             "simple_flavor_text": "",
             "special_effect_ids": [
                 1802041012
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100621,
+            "name": "Hopping Ghost",
+            "flavor_text": "Weak attacks' damage increases (extreme effect).<br>When attacked by an attack that would cause Resist, damage taken will be reduced (large effect).<br><br>[Start of battle]<br>Recovers own BP (+4).<br>Grants oneself <special_effect=1800000047>Ghost Hop</special_effect> (Effect: permanent in battle).<br><br>[On/After Turn 2 counting from the start of battle]<br>Grants oneself <special_effect=800000351>Ghost Step</special_effect> (Effect: permanent in battle) (Max times: 1 time per battle).<br><br>[On/After Turn 3 counting from the start of battle]<br>Grants oneself <special_effect=800000352>Ghost Jump</special_effect> (Effect: permanent in battle) (Max times: 1 time per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041534,
+                802040802,
+                802041429,
+                1802041030,
+                1802041013,
+                1802041014
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100622,
+            "name": "Turn 2 Start: Ghost Step",
+            "flavor_text": "[On/After Turn 2 counting from the start of battle]<br>Grants oneself <special_effect=800000351>Ghost Step</special_effect> (Effect: permanent in battle) (Max times: 1 time per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043092
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100623,
+            "name": "Turn 3 Start: Ghost Jump",
+            "flavor_text": "[On/After Turn 3 counting from the start of battle]<br>Grants oneself <special_effect=800000352>Ghost Jump</special_effect> (Effect: permanent in battle) (Max times: 1 time per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043093
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100624,
+            "name": "Mummy Bandages",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br><br>[When landing a single-foe attack]<br>Reduces target's INT/AGI (small effect).<br>Grants the target <special_effect=800000354>Binding of Thorns (5x)</special_effect> (no turn limit).<br><br>[When landing an all-range attack]<br>Reduces target's STR/DEX (small effect).<br>Grants the target <special_effect=800000353>Binding of Bandages (5x)</special_effect> (no turn limit).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041015,
+                1802041016,
+                1802041017
+            ],
+            "icon": 4003,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100625,
+            "name": "Mummy Bandages: Effect 1",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040750,
+                802040742,
+                1802041018
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100626,
+            "name": "Mummy Bandages: Effect 2",
+            "flavor_text": "[When landing a single-foe attack]<br>Reduces target's INT/AGI (small effect).<br>Grants the target <special_effect=800000354>Binding of Thorns (5x)</special_effect> (no turn limit).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802013335,
+                802013336,
+                802043106
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100627,
+            "name": "Mummy Bandages: Effect 3",
+            "flavor_text": "[When landing an all-range attack]<br>Reduces target's STR/DEX (small effect).<br>Grants the target <special_effect=800000353>Binding of Bandages (5x)</special_effect> (no turn limit).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802013337,
+                802013338,
+                802043107
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100628,
+            "name": "Pirate Feast",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000355>Plunderer</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110300358>Double Swipe+</skill> will be activated 2 time(s).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041019,
+                1802041020
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100629,
+            "name": "Pirate Feast: Effect 1",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000355>Plunderer</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043212
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100630,
+            "name": "Pirate Feast: Effect 2",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110300358>Double Swipe+</skill> will be activated 2 time(s).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043122,
+                1802041021
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100631,
+            "name": "Bat Encore",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000383>Refreshing Healing Bond</special_effect> (Effect: permanent in battle).<br><br>[Start of round]<br>Grants all other surviving allies <special_effect=800000357>Refreshing Healing Bond (5x)</special_effect> (3 turn(s)).<br><br>[At the end of every 3 turns counting from the start of battle]<br>Restores the use limit of <skill=110800339>Bat Dance</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043133,
+                1802041022,
+                1802041023
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100632,
+            "name": "Bat Encore: Effect 1",
+            "flavor_text": "[Start of round]<br>Grants all other surviving allies <special_effect=800000357>Refreshing Healing Bond (5x)</special_effect> (3 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041024
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100633,
+            "name": "Bat Encore: Effect 2",
+            "flavor_text": "[At the end of every 3 turns counting from the start of battle]<br>Restores the use limit of <skill=110800339>Bat Dance</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042502
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100634,
+            "name": "Pursuit Lancer",
+            "flavor_text": "Attacks' damage increases (very large effect).<br>When attacked, damage taken will be reduced (very large effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110800341>Insight Needle+</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a very high chance to:<br>Activate <skill=110800342>Nukteris Sting</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040346,
+                802040448,
+                1802041025,
+                1802041026
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100635,
+            "name": "Battle Sister",
+            "flavor_text": "[Start of battle]<br>Fills up own OD gauge.<br>Grants oneself <special_effect=800000360>Fairy Tactics (1x)</special_effect> (no turn limit).<br><br>[After activating an OD attack*]<br><skill=110200489>Spirit Reaper</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>If no damage is taken by oneself during the turn, activates the following:<br>・Grants oneself <special_effect=800000360>Fairy Tactics (1x)</special_effect> (no turn limit).<br>・Recovers own BP (+4).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041344,
+                1802041027,
+                802043149,
+                802043216
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100636,
+            "name": "Everfrost Crystal's Blessing",
+            "flavor_text": "Cold attacks' damage increases (extreme effect).<br><br>[Start of battle]<br>Grants oneself <special_effect=800000068>Nullify Damage (Heat)</special_effect> (Effect: permanent in battle).<br>Grants oneself <special_effect=800000069>Nullify Damage (Cold)</special_effect> (Effect: permanent in battle).<br>Fills up own OD gauge.<br><br>[After activating an OD attack*]<br><skill=1110400035>Ice Pumpkin</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042436,
+                802042322,
+                802042323,
+                802041344,
+                1802041028,
+                802041748
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100637,
+            "name": "Everfrost Crystal's Blessing: Effect",
+            "flavor_text": "[After activating an OD attack*]<br><skill=1110400035>Ice Pumpkin</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041029
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100638,
+            "name": "Ghost Hop",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br><br>[When landing a Weak attack*]<br><skill=1110700039>Tackle Thrust</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040750,
+                1802041031
             ],
             "icon": 4010,
             "rarity": 0,

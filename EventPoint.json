@@ -2271,6 +2271,26 @@
             "selling_price": 0
         },
         {
+            "id": 800306,
+            "name": "Romancing Festival Medal 169",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800306,
+            "max_quantity": 99999999,
+            "expired_at": 1719363599,
+            "sort_order": 24052860,
+            "selling_price": 0
+        },
+        {
+            "id": 800307,
+            "name": "Romancing Festival Medal 170",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800307,
+            "max_quantity": 99999999,
+            "expired_at": 1719363599,
+            "sort_order": 24052855,
+            "selling_price": 0
+        },
+        {
             "id": 800310,
             "name": "Romancing Festival Medal 157",
             "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -8321,6 +8341,26 @@
             "selling_price": 0
         },
         {
+            "id": 1100925,
+            "name": "Box of Treats",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100925,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24052850,
+            "selling_price": 0
+        },
+        {
+            "id": 1100927,
+            "name": "Pumpkin Cookies",
+            "flavor_text": "Tally item for Sweets Please! Battle or Treat Co-op Missions. Obtained from corresponding events. (Until 10/26/2023, 12:00)",
+            "icon": 1100927,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24052840,
+            "selling_price": 0
+        },
+        {
             "id": 1100928,
             "name": "Star-Friend Great Exploration Coin [Ltd. Time]",
             "flavor_text": "Obtained from corresponding events. Can be exchanged for SS weapons, Styles, and other items. (Until [1715389199] <tz>)",
@@ -8398,6 +8438,16 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 24050715,
+            "selling_price": 0
+        },
+        {
+            "id": 1100938,
+            "name": "4th Anniversary Coin",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100938,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24052805,
             "selling_price": 0
         },
         {

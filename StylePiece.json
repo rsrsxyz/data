@@ -1395,6 +1395,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 212205,
+            "name": "SS Butcher Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Ghost Ship, Ahoy!] Butcher.",
+            "icon": 212205,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 212401,
             "name": "S Neidhart Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Black Prince] Neidhart. ",
@@ -4699,6 +4707,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 232905,
+            "name": "SS Flurry Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Gimme Treats!] Flurry.",
+            "icon": 232905,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 233001,
             "name": "A Undine Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of A [I Have a Request] Undine. ",
@@ -5271,6 +5287,30 @@
             "name": "SS Pale Nymph Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Trying a New Look] Pale Nymph.",
             "icon": 236402,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 236403,
+            "name": "SS Pale Nymph Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Want a Wrap Job?] Pale Nymph.",
+            "icon": 236403,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 236501,
+            "name": "S Alv Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of S [Hmph! You're So Weak] Alv.",
+            "icon": 236501,
+            "selling_price": 60,
+            "exchange_cost": 150
+        },
+        {
+            "id": 236502,
+            "name": "SS Alv Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Ascend to Heaven] Alv.",
+            "icon": 236502,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -7355,6 +7395,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 322109,
+            "name": "SS Cordelia Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Welcome to My Mansion] Cordelia.",
+            "icon": 322109,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 322201,
             "name": "SS Narcisse Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Count On Me] Narcisse.",
@@ -7863,6 +7911,14 @@
             "name": "SS Selma Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Take Requests] Selma.",
             "icon": 510209,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 510211,
+            "name": "SS Selma Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Hopping With Ghosts] Selma.",
+            "icon": 510211,
             "selling_price": 100,
             "exchange_cost": 250
         },

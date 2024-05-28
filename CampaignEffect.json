@@ -20999,6 +20999,30 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7447,
+            "ribbon": "Box of Treats Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013835
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7448,
+            "ribbon": "",
+            "campaign_type": 10,
+            "rate": 1.5,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7449,
             "ribbon": "3x Skill/Spell Rank Up Amount!",
             "campaign_type": 5,
@@ -48110,6 +48134,19 @@
             "reward_id": 0,
             "drop_group_ids": [
                 21013892
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 1000002801,
+            "ribbon": "EXP Stamp Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                1000097726
             ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0
