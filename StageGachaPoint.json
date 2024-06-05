@@ -1,0 +1,77 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 7413690551796775042
+    },
+    "m_Name": "StageGachaPoint",
+    "objectArray": [
+        {
+            "id": 10000,
+            "name": "[Crescent Records] Exploration Point",
+            "flavor_text": "Item required for Open Chests in Crescent Records.",
+            "icon": 10001,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 39990000
+        },
+        {
+            "id": 10001,
+            "name": "[Helmet Records] Exploration Point",
+            "flavor_text": "Item required for Open Chests in Helmet Records.",
+            "icon": 10002,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 39990005
+        },
+        {
+            "id": 10002,
+            "name": "[Eversummer Records] Exploration Point",
+            "flavor_text": "Item required for Open Chests in Eversummer Records.",
+            "icon": 10003,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 39990010
+        },
+        {
+            "id": 10003,
+            "name": "[Fighter Records] Exploration Point",
+            "flavor_text": "Item required for Open Chests in Fighter Records.",
+            "icon": 10004,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 39990015
+        },
+        {
+            "id": 10004,
+            "name": "[Scenic Records] Exploration Point",
+            "flavor_text": "Item required for Open Chests in Scenic Records.",
+            "icon": 10005,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 39990020
+        },
+        {
+            "id": 10005,
+            "name": "[Star-Friend Records] Exploration Point",
+            "flavor_text": "Item required for Open Chests in Star-Friend Records.",
+            "icon": 10006,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 39990025
+        },
+        {
+            "id": 10006,
+            "name": "[Inheritance Records] Exploration Point",
+            "flavor_text": "Item required for Open Chests in Inheritance Records.",
+            "icon": 10007,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 39990030
+        }
+    ]
+}

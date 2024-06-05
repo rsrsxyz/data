@@ -1,0 +1,46 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6954511194295657651
+    },
+    "m_Name": "HomeRibbon",
+    "objectArray": [
+        {
+            "id": 1,
+            "home_ribbon_category": 1,
+            "priority": 1,
+            "text": "Explore Stages!",
+            "start_at": 1677610800,
+            "end_at": 1893373199
+        },
+        {
+            "id": 2,
+            "home_ribbon_category": 2,
+            "priority": 1,
+            "text": "Check Out Shirei Arc!",
+            "start_at": 1677610800,
+            "end_at": 1893373199
+        },
+        {
+            "id": 3,
+            "home_ribbon_category": 3,
+            "priority": 1,
+            "text": "Challenge Mighty Foes!",
+            "start_at": 1677610800,
+            "end_at": 1893373199
+        },
+        {
+            "id": 4,
+            "home_ribbon_category": 4,
+            "priority": 1,
+            "text": "Conquer the Whole Map!",
+            "start_at": 1711069200,
+            "end_at": 1893373199
+        }
+    ]
+}

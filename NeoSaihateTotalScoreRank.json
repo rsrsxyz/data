@@ -1,0 +1,62 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -2108674719692930610
+    },
+    "m_Name": "NeoSaihateTotalScoreRank",
+    "objectArray": [
+        {
+            "id": 1000101,
+            "neo_saihate_total_score_rank_pattern": 10001,
+            "rank": 1,
+            "score": 0
+        },
+        {
+            "id": 1000102,
+            "neo_saihate_total_score_rank_pattern": 10001,
+            "rank": 2,
+            "score": 20000
+        },
+        {
+            "id": 1000103,
+            "neo_saihate_total_score_rank_pattern": 10001,
+            "rank": 3,
+            "score": 50000
+        },
+        {
+            "id": 1000104,
+            "neo_saihate_total_score_rank_pattern": 10001,
+            "rank": 4,
+            "score": 100000
+        },
+        {
+            "id": 1000105,
+            "neo_saihate_total_score_rank_pattern": 10001,
+            "rank": 5,
+            "score": 150000
+        },
+        {
+            "id": 1000106,
+            "neo_saihate_total_score_rank_pattern": 10001,
+            "rank": 6,
+            "score": 250000
+        },
+        {
+            "id": 1000107,
+            "neo_saihate_total_score_rank_pattern": 10001,
+            "rank": 7,
+            "score": 400000
+        },
+        {
+            "id": 1000108,
+            "neo_saihate_total_score_rank_pattern": 10001,
+            "rank": 8,
+            "score": 800000
+        }
+    ]
+}

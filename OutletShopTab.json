@@ -1,0 +1,126 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5737745161548412488
+    },
+    "m_Name": "OutletShopTab",
+    "objectArray": [
+        {
+            "id": 1002,
+            "outlet_shop_category": 1,
+            "shop_filter_type": 0,
+            "name": "Development",
+            "priority": 9998
+        },
+        {
+            "id": 1003,
+            "outlet_shop_category": 1,
+            "shop_filter_type": 0,
+            "name": "Enhance/Evolve",
+            "priority": 9997
+        },
+        {
+            "id": 1004,
+            "outlet_shop_category": 1,
+            "shop_filter_type": 0,
+            "name": "Misc.",
+            "priority": 9996
+        },
+        {
+            "id": 2001,
+            "outlet_shop_category": 2,
+            "shop_filter_type": 1,
+            "name": "Styles",
+            "priority": 9999
+        },
+        {
+            "id": 2002,
+            "outlet_shop_category": 2,
+            "shop_filter_type": 0,
+            "name": "Skins",
+            "priority": 9998
+        },
+        {
+            "id": 3001,
+            "outlet_shop_category": 3,
+            "shop_filter_type": 3,
+            "name": "Weapons",
+            "priority": 9999
+        },
+        {
+            "id": 3002,
+            "outlet_shop_category": 3,
+            "shop_filter_type": 4,
+            "name": "Armor",
+            "priority": 9998
+        },
+        {
+            "id": 3003,
+            "outlet_shop_category": 3,
+            "shop_filter_type": 4,
+            "name": "Gear",
+            "priority": 9997
+        },
+        {
+            "id": 3004,
+            "outlet_shop_category": 3,
+            "shop_filter_type": 5,
+            "name": "Accessories",
+            "priority": 9996
+        },
+        {
+            "id": 3005,
+            "outlet_shop_category": 3,
+            "shop_filter_type": 0,
+            "name": "Forging Materials",
+            "priority": 9995
+        },
+        {
+            "id": 4001,
+            "outlet_shop_category": 4,
+            "shop_filter_type": 0,
+            "name": "Weapons",
+            "priority": 9999
+        },
+        {
+            "id": 4002,
+            "outlet_shop_category": 4,
+            "shop_filter_type": 0,
+            "name": "Armor",
+            "priority": 9998
+        },
+        {
+            "id": 4003,
+            "outlet_shop_category": 4,
+            "shop_filter_type": 0,
+            "name": "Gear",
+            "priority": 9997
+        },
+        {
+            "id": 4004,
+            "outlet_shop_category": 4,
+            "shop_filter_type": 0,
+            "name": "Accessories",
+            "priority": 9996
+        },
+        {
+            "id": 4005,
+            "outlet_shop_category": 4,
+            "shop_filter_type": 0,
+            "name": "Misc.",
+            "priority": 9995
+        },
+        {
+            "id": 5001,
+            "outlet_shop_category": 5,
+            "shop_filter_type": 0,
+            "name": "Formations",
+            "priority": 9999
+        }
+    ]
+}

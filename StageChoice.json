@@ -1,0 +1,1803 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5958124602511134439
+    },
+    "m_Name": "StageChoice",
+    "objectArray": [
+        {
+            "id": 10014001,
+            "stage_choice_group_id": 30014033,
+            "after_text": "Bought the Trick Robe.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Trick Robe",
+            "required_items": [
+                {
+                    "currency": 1,
+                    "id": 100003,
+                    "price": 100000
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 4000029,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10014002,
+            "stage_choice_group_id": 30014033,
+            "after_text": "Bought the Trick Hat.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Trick Hat",
+            "required_items": [
+                {
+                    "currency": 1,
+                    "id": 100003,
+                    "price": 100000
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 4000030,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10014003,
+            "stage_choice_group_id": 30014033,
+            "after_text": "Bought the Trick Badge.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Trick Badge",
+            "required_items": [
+                {
+                    "currency": 1,
+                    "id": 100003,
+                    "price": 100000
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 4000031,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10021001,
+            "stage_choice_group_id": 10021001,
+            "after_text": "Quest Rank increased from 1 to 2.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Raise Quest Rank to 2.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1100941,
+                    "price": 500
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10021002,
+            "stage_choice_group_id": 10021002,
+            "after_text": "Quest Rank increased from 2 to 3.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Raise Quest Rank to 3.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1100941,
+                    "price": 2500
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10021003,
+            "stage_choice_group_id": 10021003,
+            "after_text": "Quest Rank increased from 3 to 4.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Raise Quest Rank to 4.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1100941,
+                    "price": 7000
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10021004,
+            "stage_choice_group_id": 10021004,
+            "after_text": "Quest Rank increased from 4 to 5.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Raise Quest Rank to 5.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1100941,
+                    "price": 40000
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10021005,
+            "stage_choice_group_id": 10021005,
+            "after_text": "Quest Rank increased from 5 to 6.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Raise Quest Rank to 6.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1100941,
+                    "price": 150000
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10021006,
+            "stage_choice_group_id": 10021006,
+            "after_text": "Quest Rank increased from 6 to 7.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Raise Quest Rank to 7.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1100941,
+                    "price": 400000
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20078001,
+            "stage_choice_group_id": 20078001,
+            "after_text": "A new path has opened.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a yellow stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200001,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20078002,
+            "stage_choice_group_id": 20078001,
+            "after_text": "A new path has opened.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a blue stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200002,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20078003,
+            "stage_choice_group_id": 20078001,
+            "after_text": "A new path has opened.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a green stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200003,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20078004,
+            "stage_choice_group_id": 20078001,
+            "after_text": "A new path has opened.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a red stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200004,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20078005,
+            "stage_choice_group_id": 20078002,
+            "after_text": "Offered a stone.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a shiny yellow stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200006,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20078006,
+            "stage_choice_group_id": 20078002,
+            "after_text": "Offered a stone.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a shiny blue stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200007,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20078007,
+            "stage_choice_group_id": 20078002,
+            "after_text": "Offered a stone.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a shiny green stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200008,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20078008,
+            "stage_choice_group_id": 20078002,
+            "after_text": "Offered a stone.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a shiny red stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200009,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20078009,
+            "stage_choice_group_id": 20078002,
+            "after_text": "Offered a stone.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a shiny black stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200010,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20079001,
+            "stage_choice_group_id": 20079001,
+            "after_text": "Heh heh. Pleasure doin' business with ya!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Buy a Passage Parchment (West).",
+            "required_items": [
+                {
+                    "currency": 1,
+                    "id": 100003,
+                    "price": 100000
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 4000012,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20079002,
+            "stage_choice_group_id": 20079001,
+            "after_text": "Heh heh. Pleasure doin' business with ya!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Buy a Passage Parchment (East).",
+            "required_items": [
+                {
+                    "currency": 1,
+                    "id": 100003,
+                    "price": 1000000
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 4000013,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20079003,
+            "stage_choice_group_id": 20079002,
+            "after_text": "You are able to proceed now.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Hand over Passage Parchment (West).",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200018,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20079004,
+            "stage_choice_group_id": 20079003,
+            "after_text": "You are able to proceed now.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Hand over Passage Parchment (East).",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200019,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20080001,
+            "stage_choice_group_id": 20080001,
+            "after_text": "The area has become brighter.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the lantern.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200011,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20088001,
+            "stage_choice_group_id": 20088001,
+            "after_text": "Look for a different path.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Nope.",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20088002,
+            "stage_choice_group_id": 20088002,
+            "after_text": "A hidden treasure chest has appeared.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a black stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200005,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20092001,
+            "stage_choice_group_id": 20092001,
+            "after_text": "A new path has opened.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the rope.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200013,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20093001,
+            "stage_choice_group_id": 20093001,
+            "after_text": "It fits perfectly.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Place into the slot.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200014,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 100051,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20093002,
+            "stage_choice_group_id": 20093001,
+            "after_text": "It fits perfectly.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Place into the slot.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200015,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 100051,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20093003,
+            "stage_choice_group_id": 20093001,
+            "after_text": "It fits perfectly.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Place into the slot.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200016,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 100051,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20093004,
+            "stage_choice_group_id": 20093001,
+            "after_text": "It fits perfectly.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Place into the slot.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200017,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 100051,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20102001,
+            "stage_choice_group_id": 20102001,
+            "after_text": "Praise be to death. Death is delight. Go forth to the land of delight.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Prayer of Death",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20104001,
+            "stage_choice_group_id": 20104001,
+            "after_text": "Paid our respects.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer 63 aurum.",
+            "required_items": [
+                {
+                    "currency": 1,
+                    "id": 100003,
+                    "price": 63
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20130001,
+            "stage_choice_group_id": 20130001,
+            "after_text": "You broke the rock! You are able to proceed now.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the pickaxe.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200030,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20131001,
+            "stage_choice_group_id": 20131001,
+            "after_text": "The door opened! You are able to proceed now.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the key.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200029,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20155001,
+            "stage_choice_group_id": 20155001,
+            "after_text": "The door opened! Proceed with caution.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the key.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200036,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20155002,
+            "stage_choice_group_id": 20155002,
+            "after_text": "The door opened! Proceed with caution.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the key.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200036,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20158001,
+            "stage_choice_group_id": 20158001,
+            "after_text": "Offered a stone.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a blue stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200032,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20158002,
+            "stage_choice_group_id": 20158001,
+            "after_text": "Offered a stone.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a green stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200033,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20158003,
+            "stage_choice_group_id": 20158001,
+            "after_text": "Offered a stone.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a red stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200034,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20171001,
+            "stage_choice_group_id": 20171001,
+            "after_text": "The contraption worked! You are able to proceed now.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the wooden ball.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200035,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20179001,
+            "stage_choice_group_id": 20179001,
+            "after_text": "The area lit up. You are able to proceed now.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the lantern.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200031,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30008001,
+            "stage_choice_group_id": 30008001,
+            "after_text": "The area has become brighter.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the lantern.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200011,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30012001,
+            "stage_choice_group_id": 30012001,
+            "after_text": "Stamped!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Press the Nanatsugama stamp.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200020,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 10070,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30012002,
+            "stage_choice_group_id": 30012002,
+            "after_text": "Stamped!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Press the Karatsu Kunchi stamp.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200021,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 10081,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30012003,
+            "stage_choice_group_id": 30012003,
+            "after_text": "Stamped!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Press the Tonbai Wall stamp.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200022,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 10066,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30012004,
+            "stage_choice_group_id": 30012004,
+            "after_text": "Stamped!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Press the Takeo Shrine stamp.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200023,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 10079,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30012005,
+            "stage_choice_group_id": 30012005,
+            "after_text": "Stamped!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Press the Floating Torii Gate stamp.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200024,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 10066,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30012006,
+            "stage_choice_group_id": 30012006,
+            "after_text": "Stamped!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Press the Ariake Sea stamp.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200025,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 10076,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30012007,
+            "stage_choice_group_id": 30012007,
+            "after_text": "Stamped!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Press the Saga Station stamp.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200027,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 10074,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30012008,
+            "stage_choice_group_id": 30012008,
+            "after_text": "Stamped!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Press the Hot Air Balloons stamp.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200026,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 10080,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30012009,
+            "stage_choice_group_id": 30012009,
+            "after_text": "Stamped!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Press the Yoshinogari stamp.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200028,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 1,
+            "reward_set_id": 10076,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014001,
+            "stage_choice_group_id": 30014001,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "More than 1,000 years old",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014002
+        },
+        {
+            "id": 30014002,
+            "stage_choice_group_id": 30014001,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "More than 3,000 years old",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10070,
+            "next_stage_symbol_node_id": 24040209,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014003,
+            "stage_choice_group_id": 30014001,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "More than 5,000 years old",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014003
+        },
+        {
+            "id": 30014004,
+            "stage_choice_group_id": 30014002,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "More than 3,000 years old",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10070,
+            "next_stage_symbol_node_id": 24040209,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014005,
+            "stage_choice_group_id": 30014002,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "More than 5,000 years old",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014004
+        },
+        {
+            "id": 30014006,
+            "stage_choice_group_id": 30014003,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "More than 1,000 years old",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014004
+        },
+        {
+            "id": 30014007,
+            "stage_choice_group_id": 30014003,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "More than 3,000 years old",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10070,
+            "next_stage_symbol_node_id": 24040209,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014008,
+            "stage_choice_group_id": 30014004,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "More than 3,000 years old",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10070,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014009,
+            "stage_choice_group_id": 30014005,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Imari City",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10071,
+            "next_stage_symbol_node_id": 24040211,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014010,
+            "stage_choice_group_id": 30014005,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Arita Town",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014007
+        },
+        {
+            "id": 30014011,
+            "stage_choice_group_id": 30014005,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Karatsu City",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014006
+        },
+        {
+            "id": 30014012,
+            "stage_choice_group_id": 30014006,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Imari City",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10071,
+            "next_stage_symbol_node_id": 24040211,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014013,
+            "stage_choice_group_id": 30014006,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Arita Town",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014008
+        },
+        {
+            "id": 30014014,
+            "stage_choice_group_id": 30014007,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Imari City",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10071,
+            "next_stage_symbol_node_id": 24040211,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014015,
+            "stage_choice_group_id": 30014007,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Karatsu City",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014008
+        },
+        {
+            "id": 30014016,
+            "stage_choice_group_id": 30014008,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Imari City",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10071,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014017,
+            "stage_choice_group_id": 30014009,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Akasaka Palace",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014011
+        },
+        {
+            "id": 30014018,
+            "stage_choice_group_id": 30014009,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Huis Ten Bosch",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014010
+        },
+        {
+            "id": 30014019,
+            "stage_choice_group_id": 30014009,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Porcelain Park",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10075,
+            "next_stage_symbol_node_id": 24040213,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014020,
+            "stage_choice_group_id": 30014010,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Akasaka Palace",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014012
+        },
+        {
+            "id": 30014021,
+            "stage_choice_group_id": 30014010,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Porcelain Park",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10075,
+            "next_stage_symbol_node_id": 24040213,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014022,
+            "stage_choice_group_id": 30014011,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Huis Ten Bosch",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014012
+        },
+        {
+            "id": 30014023,
+            "stage_choice_group_id": 30014011,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Porcelain Park",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10075,
+            "next_stage_symbol_node_id": 24040213,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014024,
+            "stage_choice_group_id": 30014012,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Porcelain Park",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10075,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014025,
+            "stage_choice_group_id": 30014013,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 20%",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014015
+        },
+        {
+            "id": 30014026,
+            "stage_choice_group_id": 30014013,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 40%",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10066,
+            "next_stage_symbol_node_id": 24040215,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014027,
+            "stage_choice_group_id": 30014013,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 60%",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014014
+        },
+        {
+            "id": 30014028,
+            "stage_choice_group_id": 30014014,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 20%",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014016
+        },
+        {
+            "id": 30014029,
+            "stage_choice_group_id": 30014014,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 40%",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10066,
+            "next_stage_symbol_node_id": 24040215,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014030,
+            "stage_choice_group_id": 30014015,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 40%",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10066,
+            "next_stage_symbol_node_id": 24040215,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014031,
+            "stage_choice_group_id": 30014015,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 60%",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014016
+        },
+        {
+            "id": 30014032,
+            "stage_choice_group_id": 30014016,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 40%",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10066,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014033,
+            "stage_choice_group_id": 30014017,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Beauty",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014019
+        },
+        {
+            "id": 30014034,
+            "stage_choice_group_id": 30014017,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Skin care",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10076,
+            "next_stage_symbol_node_id": 24040217,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014035,
+            "stage_choice_group_id": 30014017,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Medicinal effects",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014018
+        },
+        {
+            "id": 30014036,
+            "stage_choice_group_id": 30014018,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Beauty",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014020
+        },
+        {
+            "id": 30014037,
+            "stage_choice_group_id": 30014018,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Skin care",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10076,
+            "next_stage_symbol_node_id": 24040217,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014038,
+            "stage_choice_group_id": 30014019,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Skin care",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10076,
+            "next_stage_symbol_node_id": 24040217,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014039,
+            "stage_choice_group_id": 30014019,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Medicinal effects",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014020
+        },
+        {
+            "id": 30014040,
+            "stage_choice_group_id": 30014020,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Skin care",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10076,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014041,
+            "stage_choice_group_id": 30014021,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 10,000",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014023
+        },
+        {
+            "id": 30014042,
+            "stage_choice_group_id": 30014021,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 50,000",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014022
+        },
+        {
+            "id": 30014043,
+            "stage_choice_group_id": 30014021,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 200,000",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10080,
+            "next_stage_symbol_node_id": 24040219,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014044,
+            "stage_choice_group_id": 30014022,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 10,000",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014024
+        },
+        {
+            "id": 30014045,
+            "stage_choice_group_id": 30014022,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 200,000",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10080,
+            "next_stage_symbol_node_id": 24040219,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014046,
+            "stage_choice_group_id": 30014023,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 50,000",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014024
+        },
+        {
+            "id": 30014047,
+            "stage_choice_group_id": 30014023,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 200,000",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10080,
+            "next_stage_symbol_node_id": 24040219,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014048,
+            "stage_choice_group_id": 30014024,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "About 200,000",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10080,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014049,
+            "stage_choice_group_id": 30014025,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Carp",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10066,
+            "next_stage_symbol_node_id": 24040221,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014050,
+            "stage_choice_group_id": 30014025,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Sweetfish",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014027
+        },
+        {
+            "id": 30014051,
+            "stage_choice_group_id": 30014025,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Char",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014026
+        },
+        {
+            "id": 30014052,
+            "stage_choice_group_id": 30014026,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Carp",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10066,
+            "next_stage_symbol_node_id": 24040221,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014053,
+            "stage_choice_group_id": 30014026,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Sweetfish",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014028
+        },
+        {
+            "id": 30014054,
+            "stage_choice_group_id": 30014027,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Carp",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10066,
+            "next_stage_symbol_node_id": 24040221,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014055,
+            "stage_choice_group_id": 30014027,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Char",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014028
+        },
+        {
+            "id": 30014056,
+            "stage_choice_group_id": 30014028,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Carp",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10066,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014057,
+            "stage_choice_group_id": 30014029,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Carpet of the sea",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014031
+        },
+        {
+            "id": 30014058,
+            "stage_choice_group_id": 30014029,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Autumn leaves of the sea",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10079,
+            "next_stage_symbol_node_id": 24040223,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014059,
+            "stage_choice_group_id": 30014029,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Cherry blossom of the sea",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014030
+        },
+        {
+            "id": 30014060,
+            "stage_choice_group_id": 30014030,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Carpet of the sea",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014032
+        },
+        {
+            "id": 30014061,
+            "stage_choice_group_id": 30014030,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Autumn leaves of the sea",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10079,
+            "next_stage_symbol_node_id": 24040223,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014062,
+            "stage_choice_group_id": 30014031,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Autumn leaves of the sea",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10079,
+            "next_stage_symbol_node_id": 24040223,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 30014063,
+            "stage_choice_group_id": 30014031,
+            "after_text": "Incorrect!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Cherry blossom of the sea",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 30014032
+        },
+        {
+            "id": 30014064,
+            "stage_choice_group_id": 30014032,
+            "after_text": "Correct!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Autumn leaves of the sea",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 10079,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3830753495500484482
+    },
+    "m_Name": "StaffCreditGroup",
+    "objectArray": [
+        {
+            "id": 1,
+            "name": "ロマンシング サガ リ・ユニバース（2018-2022）",
+            "banner_id": "1001",
+            "background_id": "8142",
+            "priority": 1
+        },
+        {
+            "id": 2,
+            "name": "ロマンシング サガ リ・ユニバース（2023-）",
+            "banner_id": "2001",
+            "background_id": "8763",
+            "priority": 11
+        }
+    ]
+}

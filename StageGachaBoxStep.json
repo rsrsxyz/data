@@ -1,0 +1,357 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6712637284909429862
+    },
+    "m_Name": "StageGachaBoxStep",
+    "objectArray": [
+        {
+            "id": 10001,
+            "stage_gacha_box_id": 10001,
+            "step": 1,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100001
+        },
+        {
+            "id": 10002,
+            "stage_gacha_box_id": 10001,
+            "step": 2,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 1000000001
+        },
+        {
+            "id": 10003,
+            "stage_gacha_box_id": 10002,
+            "step": 1,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100003
+        },
+        {
+            "id": 10004,
+            "stage_gacha_box_id": 10002,
+            "step": 2,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100004
+        },
+        {
+            "id": 10005,
+            "stage_gacha_box_id": 10003,
+            "step": 1,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100005
+        },
+        {
+            "id": 10007,
+            "stage_gacha_box_id": 10004,
+            "step": 1,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100006
+        },
+        {
+            "id": 10008,
+            "stage_gacha_box_id": 10005,
+            "step": 1,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100007
+        },
+        {
+            "id": 10009,
+            "stage_gacha_box_id": 10005,
+            "step": 2,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100008
+        },
+        {
+            "id": 10010,
+            "stage_gacha_box_id": 10005,
+            "step": 3,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100009
+        },
+        {
+            "id": 10011,
+            "stage_gacha_box_id": 10006,
+            "step": 1,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100010
+        },
+        {
+            "id": 10012,
+            "stage_gacha_box_id": 10006,
+            "step": 2,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100011
+        },
+        {
+            "id": 10013,
+            "stage_gacha_box_id": 10007,
+            "step": 1,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100012
+        },
+        {
+            "id": 10014,
+            "stage_gacha_box_id": 10008,
+            "step": 1,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100013
+        },
+        {
+            "id": 10015,
+            "stage_gacha_box_id": 10009,
+            "step": 1,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100014
+        },
+        {
+            "id": 10016,
+            "stage_gacha_box_id": 10009,
+            "step": 2,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100015
+        },
+        {
+            "id": 10017,
+            "stage_gacha_box_id": 10009,
+            "step": 3,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100016
+        },
+        {
+            "id": 10018,
+            "stage_gacha_box_id": 10010,
+            "step": 1,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100017
+        },
+        {
+            "id": 10019,
+            "stage_gacha_box_id": 10010,
+            "step": 2,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100018
+        },
+        {
+            "id": 10020,
+            "stage_gacha_box_id": 10011,
+            "step": 1,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100019
+        },
+        {
+            "id": 10021,
+            "stage_gacha_box_id": 10012,
+            "step": 1,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100020
+        },
+        {
+            "id": 10022,
+            "stage_gacha_box_id": 10013,
+            "step": 1,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100021
+        },
+        {
+            "id": 10023,
+            "stage_gacha_box_id": 10013,
+            "step": 2,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100022
+        },
+        {
+            "id": 10024,
+            "stage_gacha_box_id": 10013,
+            "step": 3,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100023
+        },
+        {
+            "id": 10025,
+            "stage_gacha_box_id": 10014,
+            "step": 1,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100024
+        },
+        {
+            "id": 10026,
+            "stage_gacha_box_id": 10014,
+            "step": 2,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100025
+        },
+        {
+            "id": 10027,
+            "stage_gacha_box_id": 10015,
+            "step": 1,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100026
+        },
+        {
+            "id": 10028,
+            "stage_gacha_box_id": 10016,
+            "step": 1,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100027
+        },
+        {
+            "id": 10029,
+            "stage_gacha_box_id": 10017,
+            "step": 1,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100028
+        },
+        {
+            "id": 10030,
+            "stage_gacha_box_id": 10017,
+            "step": 2,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100029
+        },
+        {
+            "id": 10031,
+            "stage_gacha_box_id": 10017,
+            "step": 3,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100030
+        },
+        {
+            "id": 10032,
+            "stage_gacha_box_id": 10018,
+            "step": 1,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100031
+        },
+        {
+            "id": 10033,
+            "stage_gacha_box_id": 10018,
+            "step": 2,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100032
+        },
+        {
+            "id": 10034,
+            "stage_gacha_box_id": 10019,
+            "step": 1,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100033
+        },
+        {
+            "id": 10035,
+            "stage_gacha_box_id": 10020,
+            "step": 1,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100034
+        },
+        {
+            "id": 10036,
+            "stage_gacha_box_id": 10021,
+            "step": 1,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100035
+        },
+        {
+            "id": 10037,
+            "stage_gacha_box_id": 10021,
+            "step": 2,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100036
+        },
+        {
+            "id": 10038,
+            "stage_gacha_box_id": 10021,
+            "step": 3,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100037
+        },
+        {
+            "id": 10039,
+            "stage_gacha_box_id": 10022,
+            "step": 1,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100038
+        },
+        {
+            "id": 10040,
+            "stage_gacha_box_id": 10022,
+            "step": 2,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100039
+        },
+        {
+            "id": 10041,
+            "stage_gacha_box_id": 10023,
+            "step": 1,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100040
+        },
+        {
+            "id": 10042,
+            "stage_gacha_box_id": 10024,
+            "step": 1,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100041
+        },
+        {
+            "id": 10050,
+            "stage_gacha_box_id": 10029,
+            "step": 1,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100049
+        },
+        {
+            "id": 10051,
+            "stage_gacha_box_id": 10029,
+            "step": 2,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100050
+        },
+        {
+            "id": 10052,
+            "stage_gacha_box_id": 10029,
+            "step": 3,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100051
+        },
+        {
+            "id": 10053,
+            "stage_gacha_box_id": 10030,
+            "step": 1,
+            "is_infinite": 0,
+            "stage_gacha_deck_id": 100052
+        },
+        {
+            "id": 10054,
+            "stage_gacha_box_id": 10030,
+            "step": 2,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100053
+        },
+        {
+            "id": 10055,
+            "stage_gacha_box_id": 10031,
+            "step": 1,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100054
+        },
+        {
+            "id": 10056,
+            "stage_gacha_box_id": 10032,
+            "step": 1,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100055
+        },
+        {
+            "id": 1000000001,
+            "stage_gacha_box_id": 10001,
+            "step": 3,
+            "is_infinite": 1,
+            "stage_gacha_deck_id": 100002
+        }
+    ]
+}

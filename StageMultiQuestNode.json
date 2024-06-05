@@ -1,0 +1,1092 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 4231263262206309366
+    },
+    "m_Name": "StageMultiQuestNode",
+    "objectArray": [
+        {
+            "id": 10001,
+            "quests": [
+                {
+                    "stage_node_quest_id": 1100001
+                },
+                {
+                    "stage_node_quest_id": 1100006
+                },
+                {
+                    "stage_node_quest_id": 1100008
+                }
+            ]
+        },
+        {
+            "id": 10002,
+            "quests": [
+                {
+                    "stage_node_quest_id": 1100002
+                },
+                {
+                    "stage_node_quest_id": 1100005
+                },
+                {
+                    "stage_node_quest_id": 1100007
+                }
+            ]
+        },
+        {
+            "id": 10003,
+            "quests": [
+                {
+                    "stage_node_quest_id": 1100102
+                },
+                {
+                    "stage_node_quest_id": 1100103
+                },
+                {
+                    "stage_node_quest_id": 1100104
+                },
+                {
+                    "stage_node_quest_id": 1100105
+                }
+            ]
+        },
+        {
+            "id": 10016,
+            "quests": [
+                {
+                    "stage_node_quest_id": 1000103
+                },
+                {
+                    "stage_node_quest_id": 1000104
+                }
+            ]
+        },
+        {
+            "id": 10017,
+            "quests": [
+                {
+                    "stage_node_quest_id": 1000106
+                },
+                {
+                    "stage_node_quest_id": 1000107
+                }
+            ]
+        },
+        {
+            "id": 10018,
+            "quests": [
+                {
+                    "stage_node_quest_id": 1100304
+                },
+                {
+                    "stage_node_quest_id": 1100305
+                },
+                {
+                    "stage_node_quest_id": 1100307
+                }
+            ]
+        },
+        {
+            "id": 10019,
+            "quests": [
+                {
+                    "stage_node_quest_id": 1107001
+                },
+                {
+                    "stage_node_quest_id": 1107002
+                },
+                {
+                    "stage_node_quest_id": 1107003
+                }
+            ]
+        },
+        {
+            "id": 10020,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12031406
+                },
+                {
+                    "stage_node_quest_id": 12031407
+                }
+            ]
+        },
+        {
+            "id": 10021,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12031505
+                },
+                {
+                    "stage_node_quest_id": 12031506
+                }
+            ]
+        },
+        {
+            "id": 10024,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12031604
+                },
+                {
+                    "stage_node_quest_id": 12031605
+                }
+            ]
+        },
+        {
+            "id": 10025,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12031707
+                },
+                {
+                    "stage_node_quest_id": 12031708
+                }
+            ]
+        },
+        {
+            "id": 10026,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12030103
+                },
+                {
+                    "stage_node_quest_id": 12030104
+                }
+            ]
+        },
+        {
+            "id": 10027,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12030205
+                },
+                {
+                    "stage_node_quest_id": 12030206
+                }
+            ]
+        },
+        {
+            "id": 10028,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12030210
+                },
+                {
+                    "stage_node_quest_id": 12030211
+                }
+            ]
+        },
+        {
+            "id": 10029,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12030309
+                },
+                {
+                    "stage_node_quest_id": 12030310
+                }
+            ]
+        },
+        {
+            "id": 10030,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12030408
+                },
+                {
+                    "stage_node_quest_id": 12030409
+                }
+            ]
+        },
+        {
+            "id": 10031,
+            "quests": [
+                {
+                    "stage_node_quest_id": 1113001
+                },
+                {
+                    "stage_node_quest_id": 1113002
+                },
+                {
+                    "stage_node_quest_id": 1113003
+                }
+            ]
+        },
+        {
+            "id": 10032,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12050203
+                },
+                {
+                    "stage_node_quest_id": 12050204
+                }
+            ]
+        },
+        {
+            "id": 10033,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12050303
+                },
+                {
+                    "stage_node_quest_id": 12050304
+                }
+            ]
+        },
+        {
+            "id": 10034,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12051104
+                },
+                {
+                    "stage_node_quest_id": 12051105
+                }
+            ]
+        },
+        {
+            "id": 10035,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12052203
+                },
+                {
+                    "stage_node_quest_id": 12052204
+                }
+            ]
+        },
+        {
+            "id": 10036,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12051603
+                },
+                {
+                    "stage_node_quest_id": 12051604
+                }
+            ]
+        },
+        {
+            "id": 10037,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12051904
+                },
+                {
+                    "stage_node_quest_id": 12051905
+                }
+            ]
+        },
+        {
+            "id": 10038,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12052303
+                },
+                {
+                    "stage_node_quest_id": 12052304
+                }
+            ]
+        },
+        {
+            "id": 10039,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12050804
+                },
+                {
+                    "stage_node_quest_id": 12050805
+                }
+            ]
+        },
+        {
+            "id": 10040,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12051404
+                },
+                {
+                    "stage_node_quest_id": 12051405
+                }
+            ]
+        },
+        {
+            "id": 10041,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12051704
+                },
+                {
+                    "stage_node_quest_id": 12051705
+                }
+            ]
+        },
+        {
+            "id": 10042,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12051803
+                },
+                {
+                    "stage_node_quest_id": 12051804
+                }
+            ]
+        },
+        {
+            "id": 10043,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12052003
+                },
+                {
+                    "stage_node_quest_id": 12052004
+                }
+            ]
+        },
+        {
+            "id": 10044,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12052104
+                },
+                {
+                    "stage_node_quest_id": 12052105
+                }
+            ]
+        },
+        {
+            "id": 10045,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12052503
+                },
+                {
+                    "stage_node_quest_id": 12052504
+                }
+            ]
+        },
+        {
+            "id": 10046,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12051004
+                },
+                {
+                    "stage_node_quest_id": 12051005
+                }
+            ]
+        },
+        {
+            "id": 10047,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12050105
+                },
+                {
+                    "stage_node_quest_id": 12050106
+                }
+            ]
+        },
+        {
+            "id": 10048,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12050403
+                },
+                {
+                    "stage_node_quest_id": 12050405
+                }
+            ]
+        },
+        {
+            "id": 10049,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12050504
+                },
+                {
+                    "stage_node_quest_id": 12050505
+                }
+            ]
+        },
+        {
+            "id": 10050,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12050605
+                },
+                {
+                    "stage_node_quest_id": 12050606
+                }
+            ]
+        },
+        {
+            "id": 10051,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12050704
+                },
+                {
+                    "stage_node_quest_id": 12050705
+                }
+            ]
+        },
+        {
+            "id": 10052,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12050903
+                },
+                {
+                    "stage_node_quest_id": 12050904
+                }
+            ]
+        },
+        {
+            "id": 10053,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12051204
+                },
+                {
+                    "stage_node_quest_id": 12051205
+                }
+            ]
+        },
+        {
+            "id": 10054,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12051503
+                },
+                {
+                    "stage_node_quest_id": 12051504
+                }
+            ]
+        },
+        {
+            "id": 10057,
+            "quests": [
+                {
+                    "stage_node_quest_id": 1117001
+                },
+                {
+                    "stage_node_quest_id": 1117002
+                },
+                {
+                    "stage_node_quest_id": 1117003
+                }
+            ]
+        },
+        {
+            "id": 10058,
+            "quests": [
+                {
+                    "stage_node_quest_id": 1118001
+                },
+                {
+                    "stage_node_quest_id": 1118002
+                },
+                {
+                    "stage_node_quest_id": 1118003
+                }
+            ]
+        },
+        {
+            "id": 10059,
+            "quests": [
+                {
+                    "stage_node_quest_id": 1118004
+                },
+                {
+                    "stage_node_quest_id": 1118005
+                },
+                {
+                    "stage_node_quest_id": 1118006
+                }
+            ]
+        },
+        {
+            "id": 10060,
+            "quests": [
+                {
+                    "stage_node_quest_id": 1118007
+                },
+                {
+                    "stage_node_quest_id": 1118008
+                },
+                {
+                    "stage_node_quest_id": 1118009
+                }
+            ]
+        },
+        {
+            "id": 10061,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12070504
+                },
+                {
+                    "stage_node_quest_id": 12070505
+                }
+            ]
+        },
+        {
+            "id": 10062,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12070604
+                },
+                {
+                    "stage_node_quest_id": 12070605
+                }
+            ]
+        },
+        {
+            "id": 10063,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12070704
+                },
+                {
+                    "stage_node_quest_id": 12070705
+                }
+            ]
+        },
+        {
+            "id": 10064,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12070206
+                },
+                {
+                    "stage_node_quest_id": 12070207
+                }
+            ]
+        },
+        {
+            "id": 10065,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12070307
+                },
+                {
+                    "stage_node_quest_id": 12070308
+                }
+            ]
+        },
+        {
+            "id": 10066,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12071306
+                },
+                {
+                    "stage_node_quest_id": 12071307
+                }
+            ]
+        },
+        {
+            "id": 10067,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12071506
+                },
+                {
+                    "stage_node_quest_id": 12071507
+                }
+            ]
+        },
+        {
+            "id": 10068,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12071604
+                },
+                {
+                    "stage_node_quest_id": 12071605
+                }
+            ]
+        },
+        {
+            "id": 10069,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12071704
+                },
+                {
+                    "stage_node_quest_id": 12071705
+                }
+            ]
+        },
+        {
+            "id": 10070,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12071803
+                },
+                {
+                    "stage_node_quest_id": 12071804
+                }
+            ]
+        },
+        {
+            "id": 10071,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12071905
+                },
+                {
+                    "stage_node_quest_id": 12071906
+                }
+            ]
+        },
+        {
+            "id": 10072,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12072004
+                },
+                {
+                    "stage_node_quest_id": 12072005
+                }
+            ]
+        },
+        {
+            "id": 10073,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12072108
+                },
+                {
+                    "stage_node_quest_id": 12072109
+                }
+            ]
+        },
+        {
+            "id": 10074,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12072203
+                },
+                {
+                    "stage_node_quest_id": 12072204
+                }
+            ]
+        },
+        {
+            "id": 10075,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12072308
+                },
+                {
+                    "stage_node_quest_id": 12072309
+                }
+            ]
+        },
+        {
+            "id": 10076,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12072403
+                },
+                {
+                    "stage_node_quest_id": 12072404
+                }
+            ]
+        },
+        {
+            "id": 10077,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12070103
+                },
+                {
+                    "stage_node_quest_id": 12070109
+                }
+            ]
+        },
+        {
+            "id": 10078,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12070805
+                },
+                {
+                    "stage_node_quest_id": 12070806
+                }
+            ]
+        },
+        {
+            "id": 10079,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12070904
+                },
+                {
+                    "stage_node_quest_id": 12070905
+                }
+            ]
+        },
+        {
+            "id": 10080,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12071003
+                },
+                {
+                    "stage_node_quest_id": 12071004
+                }
+            ]
+        },
+        {
+            "id": 10081,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12071105
+                },
+                {
+                    "stage_node_quest_id": 12071106
+                }
+            ]
+        },
+        {
+            "id": 10082,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12072507
+                },
+                {
+                    "stage_node_quest_id": 12072508
+                }
+            ]
+        },
+        {
+            "id": 10083,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12070407
+                },
+                {
+                    "stage_node_quest_id": 12070408
+                }
+            ]
+        },
+        {
+            "id": 20001,
+            "quests": [
+                {
+                    "stage_node_quest_id": 2000019
+                },
+                {
+                    "stage_node_quest_id": 2000020
+                }
+            ]
+        },
+        {
+            "id": 20002,
+            "quests": [
+                {
+                    "stage_node_quest_id": 2000022
+                },
+                {
+                    "stage_node_quest_id": 2000023
+                }
+            ]
+        },
+        {
+            "id": 20003,
+            "quests": [
+                {
+                    "stage_node_quest_id": 2000031
+                },
+                {
+                    "stage_node_quest_id": 2000032
+                }
+            ]
+        },
+        {
+            "id": 20004,
+            "quests": [
+                {
+                    "stage_node_quest_id": 2000042
+                },
+                {
+                    "stage_node_quest_id": 2000043
+                }
+            ]
+        },
+        {
+            "id": 12060101,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12060108
+                },
+                {
+                    "stage_node_quest_id": 12060109
+                }
+            ]
+        },
+        {
+            "id": 12060201,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12060206
+                },
+                {
+                    "stage_node_quest_id": 12060207
+                }
+            ]
+        },
+        {
+            "id": 12060301,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12060307
+                },
+                {
+                    "stage_node_quest_id": 12060308
+                }
+            ]
+        },
+        {
+            "id": 12060302,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12060309
+                },
+                {
+                    "stage_node_quest_id": 12060310
+                }
+            ]
+        },
+        {
+            "id": 12060401,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12060408
+                },
+                {
+                    "stage_node_quest_id": 12060409
+                }
+            ]
+        },
+        {
+            "id": 12060501,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12060503
+                },
+                {
+                    "stage_node_quest_id": 12060504
+                }
+            ]
+        },
+        {
+            "id": 12060601,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12060603
+                },
+                {
+                    "stage_node_quest_id": 12060604
+                }
+            ]
+        },
+        {
+            "id": 12060701,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12060704
+                },
+                {
+                    "stage_node_quest_id": 12060705
+                }
+            ]
+        },
+        {
+            "id": 12060801,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12060803
+                },
+                {
+                    "stage_node_quest_id": 12060804
+                }
+            ]
+        },
+        {
+            "id": 12060901,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12060904
+                },
+                {
+                    "stage_node_quest_id": 12060905
+                }
+            ]
+        },
+        {
+            "id": 12061001,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12061003
+                },
+                {
+                    "stage_node_quest_id": 12061004
+                }
+            ]
+        },
+        {
+            "id": 12061101,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12061104
+                },
+                {
+                    "stage_node_quest_id": 12061105
+                }
+            ]
+        },
+        {
+            "id": 12061201,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12061204
+                },
+                {
+                    "stage_node_quest_id": 12061205
+                }
+            ]
+        },
+        {
+            "id": 12061401,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12061404
+                },
+                {
+                    "stage_node_quest_id": 12061405
+                }
+            ]
+        },
+        {
+            "id": 12061501,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12061503
+                },
+                {
+                    "stage_node_quest_id": 12061504
+                }
+            ]
+        },
+        {
+            "id": 12061601,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12061606
+                },
+                {
+                    "stage_node_quest_id": 12061607
+                }
+            ]
+        },
+        {
+            "id": 12061701,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12061705
+                },
+                {
+                    "stage_node_quest_id": 12061706
+                }
+            ]
+        },
+        {
+            "id": 12061801,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12061804
+                },
+                {
+                    "stage_node_quest_id": 12061805
+                }
+            ]
+        },
+        {
+            "id": 12061901,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12061904
+                },
+                {
+                    "stage_node_quest_id": 12061905
+                }
+            ]
+        },
+        {
+            "id": 12062001,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12062003
+                },
+                {
+                    "stage_node_quest_id": 12062004
+                }
+            ]
+        },
+        {
+            "id": 12062101,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12062104
+                },
+                {
+                    "stage_node_quest_id": 12062105
+                }
+            ]
+        },
+        {
+            "id": 12062201,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12062204
+                },
+                {
+                    "stage_node_quest_id": 12062205
+                }
+            ]
+        },
+        {
+            "id": 12062301,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12062304
+                },
+                {
+                    "stage_node_quest_id": 12062305
+                }
+            ]
+        },
+        {
+            "id": 12062501,
+            "quests": [
+                {
+                    "stage_node_quest_id": 12062505
+                },
+                {
+                    "stage_node_quest_id": 12062506
+                }
+            ]
+        }
+    ]
+}

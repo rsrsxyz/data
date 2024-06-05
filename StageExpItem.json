@@ -1,0 +1,59 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5093295443949543327
+    },
+    "m_Name": "StageExpItem",
+    "objectArray": [
+        {
+            "id": 980001,
+            "name": "[Fighter Records] EXP Stamp (Stage Lv)",
+            "flavor_text": "Can be used to increase Stage Lv for Stages in Fighter Records.<br>*When increasing Stage Lv, one Stamp is used per 100 Stage Lv EXP.<br>*Cannot be used on certain Stages such as Event Stages.",
+            "icon": 980001,
+            "exp": 100,
+            "max_quantity": 99999999,
+            "sort_order": 40000005
+        },
+        {
+            "id": 980002,
+            "name": "EXP Stamp (Stage Lv)",
+            "flavor_text": "Can be used to increase Stage Lv for Stages in Free Quests.<br>*Can only be used on Stages in Records that have been available for 45 days or more.<br>*When increasing Stage Lv, one Stamp is used per 100 Stage Lv EXP.<br>*Cannot be used on certain Stages such as Event Stages.",
+            "icon": 980002,
+            "exp": 100,
+            "max_quantity": 99999999,
+            "sort_order": 40000000
+        },
+        {
+            "id": 980003,
+            "name": "[Scenic Records] EXP Stamp (Stage Lv)",
+            "flavor_text": "Can be used to increase Stage Lv for Stages in Scenic Records.<br>*When increasing Stage Lv, one Stamp is used per 100 Stage Lv EXP.<br>*Cannot be used on certain Stages such as Event Stages.",
+            "icon": 980003,
+            "exp": 100,
+            "max_quantity": 99999999,
+            "sort_order": 40000010
+        },
+        {
+            "id": 980004,
+            "name": "[Star-Friend Records] EXP Stamp (Stage Lv)",
+            "flavor_text": "Can be used to increase Stage Lv for Stages in Star-Friend Records.<br>*When increasing Stage Lv, one Stamp is used per 100 Stage Lv EXP.<br>*Cannot be used on certain Stages such as Event Stages.",
+            "icon": 980004,
+            "exp": 100,
+            "max_quantity": 99999999,
+            "sort_order": 40000015
+        },
+        {
+            "id": 980005,
+            "name": "[Inheritance Records] EXP Stamp (Stage Lv)",
+            "flavor_text": "Can be used to increase Stage Lv for Stages in Inheritance Records.<br>*When increasing Stage Lv, one Stamp is used per 100 Stage Lv EXP.<br>*Cannot be used on certain Stages such as Event Stages.",
+            "icon": 980005,
+            "exp": 100,
+            "max_quantity": 99999999,
+            "sort_order": 40000020
+        }
+    ]
+}

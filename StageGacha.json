@@ -1,0 +1,252 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 5529822388475675309
+    },
+    "m_Name": "StageGacha",
+    "objectArray": [
+        {
+            "id": 10001,
+            "name": "Crescent Records",
+            "stage_gacha_point_id": 10000,
+            "price": 1000,
+            "bulk_draw_count": 100,
+            "background": 1,
+            "pickup_rewards": [
+                {
+                    "type": 15,
+                    "id": 109600100
+                },
+                {
+                    "type": 33,
+                    "id": 961001
+                },
+                {
+                    "type": 5,
+                    "id": 690025
+                },
+                {
+                    "type": 2,
+                    "id": 105001
+                },
+                {
+                    "type": 20,
+                    "id": 881005
+                },
+                {
+                    "type": 33,
+                    "id": 960001
+                }
+            ]
+        },
+        {
+            "id": 10002,
+            "name": "Helmet Records",
+            "stage_gacha_point_id": 10001,
+            "price": 1000,
+            "bulk_draw_count": 100,
+            "background": 1,
+            "pickup_rewards": [
+                {
+                    "type": 15,
+                    "id": 105600300
+                },
+                {
+                    "type": 33,
+                    "id": 961001
+                },
+                {
+                    "type": 5,
+                    "id": 690025
+                },
+                {
+                    "type": 2,
+                    "id": 105001
+                },
+                {
+                    "type": 20,
+                    "id": 881006
+                },
+                {
+                    "type": 33,
+                    "id": 960001
+                }
+            ]
+        },
+        {
+            "id": 10003,
+            "name": "Eversummer Records",
+            "stage_gacha_point_id": 10002,
+            "price": 1000,
+            "bulk_draw_count": 100,
+            "background": 1,
+            "pickup_rewards": [
+                {
+                    "type": 15,
+                    "id": 106600300
+                },
+                {
+                    "type": 33,
+                    "id": 961001
+                },
+                {
+                    "type": 2,
+                    "id": 105001
+                },
+                {
+                    "type": 20,
+                    "id": 881006
+                },
+                {
+                    "type": 33,
+                    "id": 960001
+                },
+                {
+                    "type": 5,
+                    "id": 690025
+                }
+            ]
+        },
+        {
+            "id": 10004,
+            "name": "Fighter Records",
+            "stage_gacha_point_id": 10003,
+            "price": 1000,
+            "bulk_draw_count": 100,
+            "background": 1,
+            "pickup_rewards": [
+                {
+                    "type": 15,
+                    "id": 152600100
+                },
+                {
+                    "type": 33,
+                    "id": 961002
+                },
+                {
+                    "type": 2,
+                    "id": 105001
+                },
+                {
+                    "type": 20,
+                    "id": 881006
+                },
+                {
+                    "type": 33,
+                    "id": 961001
+                },
+                {
+                    "type": 5,
+                    "id": 690025
+                }
+            ]
+        },
+        {
+            "id": 10005,
+            "name": "Scenic Records",
+            "stage_gacha_point_id": 10004,
+            "price": 1000,
+            "bulk_draw_count": 100,
+            "background": 1,
+            "pickup_rewards": [
+                {
+                    "type": 15,
+                    "id": 101600700
+                },
+                {
+                    "type": 33,
+                    "id": 961002
+                },
+                {
+                    "type": 2,
+                    "id": 105001
+                },
+                {
+                    "type": 20,
+                    "id": 881006
+                },
+                {
+                    "type": 33,
+                    "id": 961001
+                },
+                {
+                    "type": 5,
+                    "id": 690025
+                }
+            ]
+        },
+        {
+            "id": 10006,
+            "name": "Star-Friend Records",
+            "stage_gacha_point_id": 10005,
+            "price": 1000,
+            "bulk_draw_count": 100,
+            "background": 1,
+            "pickup_rewards": [
+                {
+                    "type": 15,
+                    "id": 103600400
+                },
+                {
+                    "type": 33,
+                    "id": 961002
+                },
+                {
+                    "type": 2,
+                    "id": 105001
+                },
+                {
+                    "type": 20,
+                    "id": 881006
+                },
+                {
+                    "type": 33,
+                    "id": 961001
+                },
+                {
+                    "type": 5,
+                    "id": 690025
+                }
+            ]
+        },
+        {
+            "id": 10007,
+            "name": "Inheritance Records",
+            "stage_gacha_point_id": 10006,
+            "price": 1000,
+            "bulk_draw_count": 100,
+            "background": 1,
+            "pickup_rewards": [
+                {
+                    "type": 15,
+                    "id": 104600500
+                },
+                {
+                    "type": 33,
+                    "id": 961002
+                },
+                {
+                    "type": 2,
+                    "id": 105001
+                },
+                {
+                    "type": 20,
+                    "id": 881007
+                },
+                {
+                    "type": 33,
+                    "id": 961001
+                },
+                {
+                    "type": 5,
+                    "id": 690025
+                }
+            ]
+        }
+    ]
+}

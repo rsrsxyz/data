@@ -1,0 +1,32 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4758504463889728686
+    },
+    "m_Name": "AdventurerRankExpItem",
+    "objectArray": [
+        {
+            "id": 970001,
+            "name": "Bronze Origami Crane",
+            "flavor_text": "Gives 50 Adventurer Rank EXP upon receiving.",
+            "icon": 1000
+        },
+        {
+            "id": 970002,
+            "name": "Silver Origami Crane",
+            "flavor_text": "Gives 500 Adventurer Rank EXP upon receiving.",
+            "icon": 1001
+        },
+        {
+            "id": 970003,
+            "name": "Gold Origami Crane",
+            "flavor_text": "Gives 5,000 Adventurer Rank EXP upon receiving.",
+            "icon": 1002
+        }
+    ]
+}

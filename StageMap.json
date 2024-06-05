@@ -1,0 +1,908 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 8786773647021546610
+    },
+    "m_Name": "StageMap",
+    "objectArray": [
+        {
+            "id": 10000,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10001,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10002,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10003,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10004,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10005,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10006,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10007,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10008,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10009,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10010,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10011,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10012,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10013,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10014,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10015,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10016,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10017,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10018,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10019,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10020,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10021,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10022,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10023,
+            "name": "Stage",
+            "flavor_text": "A stage in Crescent Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10025,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10026,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10027,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10028,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10029,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10030,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10031,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10032,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10033,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10034,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10035,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10036,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10037,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10038,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10039,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10040,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10041,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10042,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10043,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10044,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10045,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10046,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10047,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10048,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10049,
+            "name": "Stage",
+            "flavor_text": "A stage in Helmet Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10050,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10051,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10052,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10053,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10054,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10055,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10056,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10057,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10058,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10059,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10060,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10061,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10062,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10063,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10064,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10065,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10066,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10067,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10068,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10069,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10070,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10071,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10072,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10073,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10074,
+            "name": "Stage",
+            "flavor_text": "A stage in Eversummer Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10075,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10076,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10077,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10078,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10079,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10080,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10081,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10082,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10083,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10084,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10085,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10086,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10087,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10088,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10089,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10090,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10091,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10092,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10093,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10094,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10095,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10096,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10097,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10098,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10099,
+            "name": "Stage",
+            "flavor_text": "A stage in Fighter Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10100,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10101,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10102,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10103,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10104,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10105,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10106,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10107,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10108,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10109,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10110,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10111,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10112,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10113,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10114,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10115,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10116,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10117,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10118,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10119,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10120,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10121,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10122,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10123,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10124,
+            "name": "Stage",
+            "flavor_text": "A stage in Scenic Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10125,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10126,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10127,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10128,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10129,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10130,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10131,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10132,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10133,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10134,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10135,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10136,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10137,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10138,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10139,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10140,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10141,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10142,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10143,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10144,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10145,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10146,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10147,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10148,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        },
+        {
+            "id": 10149,
+            "name": "Stage",
+            "flavor_text": "A stage in Star-Friend Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000
+        }
+    ]
+}

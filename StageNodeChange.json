@@ -1,0 +1,56 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6925197864555205761
+    },
+    "m_Name": "StageNodeChange",
+    "objectArray": [
+        {
+            "id": 10021001,
+            "from_node_id": 10021003,
+            "to_node_id": 10021004,
+            "is_show_effect": 1,
+            "is_floor_redirect": 1
+        },
+        {
+            "id": 10021002,
+            "from_node_id": 10021004,
+            "to_node_id": 10021005,
+            "is_show_effect": 1,
+            "is_floor_redirect": 1
+        },
+        {
+            "id": 10021003,
+            "from_node_id": 10021005,
+            "to_node_id": 10021006,
+            "is_show_effect": 1,
+            "is_floor_redirect": 1
+        },
+        {
+            "id": 10021004,
+            "from_node_id": 10021006,
+            "to_node_id": 10021007,
+            "is_show_effect": 1,
+            "is_floor_redirect": 1
+        },
+        {
+            "id": 10021005,
+            "from_node_id": 10021007,
+            "to_node_id": 10021008,
+            "is_show_effect": 1,
+            "is_floor_redirect": 1
+        },
+        {
+            "id": 10021006,
+            "from_node_id": 10021008,
+            "to_node_id": 10021009,
+            "is_show_effect": 1,
+            "is_floor_redirect": 1
+        }
+    ]
+}

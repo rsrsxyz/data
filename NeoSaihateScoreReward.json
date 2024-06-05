@@ -1,0 +1,1134 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4670045959448672628
+    },
+    "m_Name": "NeoSaihateScoreReward",
+    "objectArray": [
+        {
+            "id": 100010001,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 5000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010002,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 10000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010003,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 15000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010004,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 20000,
+            "reward_set_id": 8900005,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010005,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 25000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010006,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 30000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010007,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 35000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010008,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 40000,
+            "reward_set_id": 8900002,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010009,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 45000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010010,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 50000,
+            "reward_set_id": 8900006,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010011,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 55000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010012,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 60000,
+            "reward_set_id": 8900002,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010013,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 65000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010014,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 70000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010015,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 75000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010016,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 80000,
+            "reward_set_id": 8900002,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010017,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 85000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010018,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 90000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010019,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 95000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010020,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 100000,
+            "reward_set_id": 8900005,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010021,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 105000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010022,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 110000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010023,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 115000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010024,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 120000,
+            "reward_set_id": 8900002,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010025,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 125000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010026,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 130000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010027,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 135000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010028,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 140000,
+            "reward_set_id": 8900002,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010029,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 145000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010030,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 150000,
+            "reward_set_id": 8900004,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010031,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 155000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010032,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 160000,
+            "reward_set_id": 8900002,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010033,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 165000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010034,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 170000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010035,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 175000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010036,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 180000,
+            "reward_set_id": 8900002,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010037,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 185000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010038,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 190000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010039,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 195000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010040,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 200000,
+            "reward_set_id": 8900002,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010041,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 205000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010042,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 210000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010043,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 215000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010044,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 220000,
+            "reward_set_id": 8900002,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010045,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 225000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010046,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 230000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010047,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 235000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010048,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 240000,
+            "reward_set_id": 8900002,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010049,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 245000,
+            "reward_set_id": 8900001,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010050,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 250000,
+            "reward_set_id": 8900003,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010051,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 255000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010052,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 260000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010053,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 265000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010054,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 270000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010055,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 275000,
+            "reward_set_id": 8900007,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010056,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 280000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010057,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 285000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010058,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 290000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010059,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 295000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010060,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 300000,
+            "reward_set_id": 8900012,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010061,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 305000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010062,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 310000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010063,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 315000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010064,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 320000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010065,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 325000,
+            "reward_set_id": 8900008,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010066,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 330000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010067,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 335000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010068,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 340000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010069,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 345000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010070,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 350000,
+            "reward_set_id": 8900010,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010071,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 355000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010072,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 360000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010073,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 365000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010074,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 370000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010075,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 375000,
+            "reward_set_id": 8900009,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010076,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 380000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010077,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 385000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010078,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 390000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010079,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 395000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010080,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 400000,
+            "reward_set_id": 8900014,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010081,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 405000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010082,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 410000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010083,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 415000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010084,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 420000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010085,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 425000,
+            "reward_set_id": 8900013,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010086,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 430000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010087,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 435000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010088,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 440000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010089,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 445000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010090,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 450000,
+            "reward_set_id": 8900015,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010091,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 455000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010092,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 460000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010093,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 465000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010094,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 470000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010095,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 475000,
+            "reward_set_id": 8900007,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010096,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 480000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010097,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 485000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010098,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 490000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010099,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 495000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010100,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 500000,
+            "reward_set_id": 8900012,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010101,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 505000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010102,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 510000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010103,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 515000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010104,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 520000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010105,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 525000,
+            "reward_set_id": 8900008,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010106,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 530000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010107,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 535000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010108,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 540000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010109,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 545000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010110,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 550000,
+            "reward_set_id": 8900010,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010111,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 555000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010112,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 560000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010113,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 565000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010114,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 570000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010115,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 575000,
+            "reward_set_id": 8900009,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010116,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 580000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010117,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 585000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010118,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 590000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010119,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 595000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010120,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 600000,
+            "reward_set_id": 8900012,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010121,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 605000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010122,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 610000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010123,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 615000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010124,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 620000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010125,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 625000,
+            "reward_set_id": 8900013,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010126,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 630000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010127,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 635000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010128,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 640000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010129,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 645000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010130,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 650000,
+            "reward_set_id": 8900015,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010131,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 655000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010132,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 660000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010133,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 665000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010134,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 670000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010135,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 675000,
+            "reward_set_id": 8900007,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010136,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 680000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010137,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 685000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010138,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 690000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010139,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 695000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010140,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 700000,
+            "reward_set_id": 8900012,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010141,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 705000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010142,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 710000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010143,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 715000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010144,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 720000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010145,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 725000,
+            "reward_set_id": 8900008,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010146,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 730000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010147,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 735000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010148,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 740000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010149,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 745000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010150,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 750000,
+            "reward_set_id": 8900010,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010151,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 755000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010152,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 760000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010153,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 765000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010154,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 770000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010155,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 775000,
+            "reward_set_id": 8900009,
+            "pick_up_reward_type": 1
+        },
+        {
+            "id": 100010156,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 780000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010157,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 785000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010158,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 790000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010159,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 795000,
+            "reward_set_id": 8900011,
+            "pick_up_reward_type": 2
+        },
+        {
+            "id": 100010160,
+            "neo_saihate_score_reward_group_id": 10001,
+            "score": 800000,
+            "reward_set_id": 8900014,
+            "pick_up_reward_type": 1
+        }
+    ]
+}

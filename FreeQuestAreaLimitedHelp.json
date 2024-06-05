@@ -1,0 +1,82 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3556862986774558944
+    },
+    "m_Name": "FreeQuestAreaLimitedHelp",
+    "objectArray": [
+        {
+            "id": 1,
+            "priority": 100,
+            "help_id": 925,
+            "area_ids": [
+                10001
+            ],
+            "start_at": 1702602000,
+            "end_at": 1703811599
+        },
+        {
+            "id": 2,
+            "priority": 100,
+            "help_id": 939,
+            "area_ids": [
+                10003
+            ],
+            "start_at": 1707094800,
+            "end_at": 1708304399
+        },
+        {
+            "id": 5,
+            "priority": 100,
+            "help_id": 957,
+            "area_ids": [
+                10001,
+                10002,
+                10003,
+                10004
+            ],
+            "start_at": 1710464400,
+            "end_at": 1711673999
+        },
+        {
+            "id": 6,
+            "priority": 100,
+            "help_id": 970,
+            "area_ids": [
+                10001,
+                10002,
+                10003,
+                10004,
+                10005,
+                10006
+            ],
+            "start_at": 1713920400,
+            "end_at": 1714438799
+        },
+        {
+            "id": 7,
+            "priority": 100,
+            "help_id": 986,
+            "area_ids": [
+                10007
+            ],
+            "start_at": 1715130000,
+            "end_at": 1716512399
+        },
+        {
+            "id": 8,
+            "priority": 100,
+            "help_id": 987,
+            "area_ids": [
+                10007
+            ],
+            "start_at": 1716512400,
+            "end_at": 1893373199
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -6550399051803168274
+    },
+    "m_Name": "StageGachaTicket",
+    "objectArray": [
+        {
+            "id": 1300001,
+            "name": "Exploration Point (Gold Chest Gtd.)",
+            "flavor_text": "Used to Open 10x Gold Chests in all Records except for the latest Records.",
+            "icon": 1300001,
+            "max_quantity": 99999999,
+            "sort_order": 45000000,
+            "area_id": 0
+        },
+        {
+            "id": 1300002,
+            "name": "[Inheritance Records] Exploration Point (Gold Chest Gtd.)",
+            "flavor_text": "Used to Open 10x Gold Chests in Inheritance Records.",
+            "icon": 1300002,
+            "max_quantity": 99999999,
+            "sort_order": 45000005,
+            "area_id": 10007
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -8685509171974105497
+    },
+    "m_Name": "StageGachaBox",
+    "objectArray": [
+        {
+            "id": 10001,
+            "stage_gacha_id": 10001,
+            "name": "Gold Chest",
+            "stage_gacha_box_type": 4,
+            "rate": 1500
+        },
+        {
+            "id": 10002,
+            "stage_gacha_id": 10001,
+            "name": "Silver Chest",
+            "stage_gacha_box_type": 3,
+            "rate": 2000
+        },
+        {
+            "id": 10003,
+            "stage_gacha_id": 10001,
+            "name": "Bronze Chest",
+            "stage_gacha_box_type": 2,
+            "rate": 3000
+        },
+        {
+            "id": 10004,
+            "stage_gacha_id": 10001,
+            "name": "Wooden Chest",
+            "stage_gacha_box_type": 1,
+            "rate": 3500
+        },
+        {
+            "id": 10005,
+            "stage_gacha_id": 10002,
+            "name": "Gold Chest",
+            "stage_gacha_box_type": 4,
+            "rate": 1500
+        },
+        {
+            "id": 10006,
+            "stage_gacha_id": 10002,
+            "name": "Silver Chest",
+            "stage_gacha_box_type": 3,
+            "rate": 2000
+        },
+        {
+            "id": 10007,
+            "stage_gacha_id": 10002,
+            "name": "Bronze Chest",
+            "stage_gacha_box_type": 2,
+            "rate": 3000
+        },
+        {
+            "id": 10008,
+            "stage_gacha_id": 10002,
+            "name": "Wooden Chest",
+            "stage_gacha_box_type": 1,
+            "rate": 3500
+        },
+        {
+            "id": 10009,
+            "stage_gacha_id": 10003,
+            "name": "Gold Chest",
+            "stage_gacha_box_type": 4,
+            "rate": 1500
+        },
+        {
+            "id": 10010,
+            "stage_gacha_id": 10003,
+            "name": "Silver Chest",
+            "stage_gacha_box_type": 3,
+            "rate": 2000
+        },
+        {
+            "id": 10011,
+            "stage_gacha_id": 10003,
+            "name": "Bronze Chest",
+            "stage_gacha_box_type": 2,
+            "rate": 3000
+        },
+        {
+            "id": 10012,
+            "stage_gacha_id": 10003,
+            "name": "Wooden Chest",
+            "stage_gacha_box_type": 1,
+            "rate": 3500
+        },
+        {
+            "id": 10013,
+            "stage_gacha_id": 10004,
+            "name": "Gold Chest",
+            "stage_gacha_box_type": 4,
+            "rate": 1500
+        },
+        {
+            "id": 10014,
+            "stage_gacha_id": 10004,
+            "name": "Silver Chest",
+            "stage_gacha_box_type": 3,
+            "rate": 2000
+        },
+        {
+            "id": 10015,
+            "stage_gacha_id": 10004,
+            "name": "Bronze Chest",
+            "stage_gacha_box_type": 2,
+            "rate": 3000
+        },
+        {
+            "id": 10016,
+            "stage_gacha_id": 10004,
+            "name": "Wooden Chest",
+            "stage_gacha_box_type": 1,
+            "rate": 3500
+        },
+        {
+            "id": 10017,
+            "stage_gacha_id": 10005,
+            "name": "Gold Chest",
+            "stage_gacha_box_type": 4,
+            "rate": 1500
+        },
+        {
+            "id": 10018,
+            "stage_gacha_id": 10005,
+            "name": "Silver Chest",
+            "stage_gacha_box_type": 3,
+            "rate": 2000
+        },
+        {
+            "id": 10019,
+            "stage_gacha_id": 10005,
+            "name": "Bronze Chest",
+            "stage_gacha_box_type": 2,
+            "rate": 3000
+        },
+        {
+            "id": 10020,
+            "stage_gacha_id": 10005,
+            "name": "Wooden Chest",
+            "stage_gacha_box_type": 1,
+            "rate": 3500
+        },
+        {
+            "id": 10021,
+            "stage_gacha_id": 10006,
+            "name": "Gold Chest",
+            "stage_gacha_box_type": 4,
+            "rate": 1500
+        },
+        {
+            "id": 10022,
+            "stage_gacha_id": 10006,
+            "name": "Silver Chest",
+            "stage_gacha_box_type": 3,
+            "rate": 2000
+        },
+        {
+            "id": 10023,
+            "stage_gacha_id": 10006,
+            "name": "Bronze Chest",
+            "stage_gacha_box_type": 2,
+            "rate": 3000
+        },
+        {
+            "id": 10024,
+            "stage_gacha_id": 10006,
+            "name": "Wooden Chest",
+            "stage_gacha_box_type": 1,
+            "rate": 3500
+        },
+        {
+            "id": 10029,
+            "stage_gacha_id": 10007,
+            "name": "Gold Chest",
+            "stage_gacha_box_type": 4,
+            "rate": 1500
+        },
+        {
+            "id": 10030,
+            "stage_gacha_id": 10007,
+            "name": "Silver Chest",
+            "stage_gacha_box_type": 3,
+            "rate": 2000
+        },
+        {
+            "id": 10031,
+            "stage_gacha_id": 10007,
+            "name": "Bronze Chest",
+            "stage_gacha_box_type": 2,
+            "rate": 3000
+        },
+        {
+            "id": 10032,
+            "stage_gacha_id": 10007,
+            "name": "Wooden Chest",
+            "stage_gacha_box_type": 1,
+            "rate": 3500
+        }
+    ]
+}

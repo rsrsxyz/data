@@ -1,0 +1,2364 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5721945167569823639
+    },
+    "m_Name": "StageGachaDeckCard",
+    "objectArray": [
+        {
+            "id": 100001,
+            "stage_gacha_deck_id": 100001,
+            "count": 1,
+            "reward_id": 109600100,
+            "reward_type": 15,
+            "reward_quantity": 1,
+            "priority": 1,
+            "description": "Weapon equipped with Forging Holy Stone. Can only be equipped with Bow-compatible Styles. Tap on the equipment icon to check ability details."
+        },
+        {
+            "id": 100002,
+            "stage_gacha_deck_id": 100001,
+            "count": 1,
+            "reward_id": 961001,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 2,
+            "description": "Item required for taking the Promotion Exam (Rank 11)."
+        },
+        {
+            "id": 100003,
+            "stage_gacha_deck_id": 1000000001,
+            "count": 60,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 50,
+            "priority": 3,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100004,
+            "stage_gacha_deck_id": 100001,
+            "count": 12,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 50,
+            "priority": 4,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100005,
+            "stage_gacha_deck_id": 100001,
+            "count": 8,
+            "reward_id": 881005,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 5,
+            "description": "Used to unlock 5th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100006,
+            "stage_gacha_deck_id": 100002,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 5,
+            "priority": 6,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100007,
+            "stage_gacha_deck_id": 100002,
+            "count": 0,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 5,
+            "priority": 7,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100008,
+            "stage_gacha_deck_id": 100002,
+            "count": 0,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 5,
+            "priority": 8,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100009,
+            "stage_gacha_deck_id": 100003,
+            "count": 10,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 30,
+            "priority": 9,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100010,
+            "stage_gacha_deck_id": 100003,
+            "count": 16,
+            "reward_id": 881004,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 10,
+            "description": "Used to unlock 4th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100011,
+            "stage_gacha_deck_id": 100003,
+            "count": 10,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 1000,
+            "priority": 11,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100012,
+            "stage_gacha_deck_id": 100003,
+            "count": 10,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 25,
+            "priority": 12,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100013,
+            "stage_gacha_deck_id": 100003,
+            "count": 6,
+            "reward_id": 303001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 13,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100014,
+            "stage_gacha_deck_id": 100003,
+            "count": 8,
+            "reward_id": 304001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 14,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100015,
+            "stage_gacha_deck_id": 100003,
+            "count": 6,
+            "reward_id": 305001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 15,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100016,
+            "stage_gacha_deck_id": 100004,
+            "count": 0,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 1,
+            "priority": 16,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100017,
+            "stage_gacha_deck_id": 100004,
+            "count": 0,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 17,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100018,
+            "stage_gacha_deck_id": 100004,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 3,
+            "priority": 18,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100019,
+            "stage_gacha_deck_id": 100004,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 300,
+            "priority": 19,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100020,
+            "stage_gacha_deck_id": 100004,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 3,
+            "priority": 20,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100021,
+            "stage_gacha_deck_id": 100005,
+            "count": 0,
+            "reward_id": 881003,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 21,
+            "description": "Used to unlock 3rd stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100022,
+            "stage_gacha_deck_id": 100005,
+            "count": 0,
+            "reward_id": 690024,
+            "reward_type": 5,
+            "reward_quantity": 1,
+            "priority": 22,
+            "description": "Material for evolving SS weapons."
+        },
+        {
+            "id": 100023,
+            "stage_gacha_deck_id": 100005,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 2,
+            "priority": 23,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100024,
+            "stage_gacha_deck_id": 100005,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 200,
+            "priority": 24,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100025,
+            "stage_gacha_deck_id": 100005,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 2,
+            "priority": 25,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100026,
+            "stage_gacha_deck_id": 100005,
+            "count": 0,
+            "reward_id": 880009,
+            "reward_type": 20,
+            "reward_quantity": 4,
+            "priority": 26,
+            "description": "Used to unlock Hidden Attribute caps."
+        },
+        {
+            "id": 100027,
+            "stage_gacha_deck_id": 100006,
+            "count": 0,
+            "reward_id": 881002,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 27,
+            "description": "Used to unlock 2nd stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100028,
+            "stage_gacha_deck_id": 100006,
+            "count": 0,
+            "reward_id": 881001,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 28,
+            "description": "Used to unlock 1st stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100029,
+            "stage_gacha_deck_id": 100006,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 1,
+            "priority": 29,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100030,
+            "stage_gacha_deck_id": 100006,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 100,
+            "priority": 30,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100031,
+            "stage_gacha_deck_id": 100006,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 1,
+            "priority": 31,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100032,
+            "stage_gacha_deck_id": 100006,
+            "count": 0,
+            "reward_id": 880009,
+            "reward_type": 20,
+            "reward_quantity": 2,
+            "priority": 32,
+            "description": "Used to unlock Hidden Attribute caps."
+        },
+        {
+            "id": 100033,
+            "stage_gacha_deck_id": 100007,
+            "count": 1,
+            "reward_id": 105600300,
+            "reward_type": 15,
+            "reward_quantity": 1,
+            "priority": 1,
+            "description": "Weapon equipped with Forging Holy Stone. Can only be equipped with M. Arts-compatible Styles. Tap on the equipment icon to check ability details."
+        },
+        {
+            "id": 100034,
+            "stage_gacha_deck_id": 100007,
+            "count": 1,
+            "reward_id": 961001,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 2,
+            "description": "Item required for taking the Promotion Exam (Rank 11)."
+        },
+        {
+            "id": 100035,
+            "stage_gacha_deck_id": 100007,
+            "count": 12,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 50,
+            "priority": 3,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100036,
+            "stage_gacha_deck_id": 100007,
+            "count": 8,
+            "reward_id": 881006,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 4,
+            "description": "Used to unlock 6th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100037,
+            "stage_gacha_deck_id": 100008,
+            "count": 60,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 50,
+            "priority": 5,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100038,
+            "stage_gacha_deck_id": 100009,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 5,
+            "priority": 6,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100039,
+            "stage_gacha_deck_id": 100009,
+            "count": 0,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 5,
+            "priority": 7,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100040,
+            "stage_gacha_deck_id": 100009,
+            "count": 0,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 5,
+            "priority": 8,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100041,
+            "stage_gacha_deck_id": 100010,
+            "count": 10,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 30,
+            "priority": 9,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100042,
+            "stage_gacha_deck_id": 100010,
+            "count": 16,
+            "reward_id": 881005,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 10,
+            "description": "Used to unlock 5th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100043,
+            "stage_gacha_deck_id": 100010,
+            "count": 10,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 1000,
+            "priority": 11,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100044,
+            "stage_gacha_deck_id": 100010,
+            "count": 10,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 25,
+            "priority": 12,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100045,
+            "stage_gacha_deck_id": 100010,
+            "count": 6,
+            "reward_id": 303001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 13,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100046,
+            "stage_gacha_deck_id": 100010,
+            "count": 8,
+            "reward_id": 304001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 14,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100047,
+            "stage_gacha_deck_id": 100010,
+            "count": 6,
+            "reward_id": 305001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 15,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100048,
+            "stage_gacha_deck_id": 100011,
+            "count": 0,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 1,
+            "priority": 16,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100049,
+            "stage_gacha_deck_id": 100011,
+            "count": 0,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 17,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100050,
+            "stage_gacha_deck_id": 100011,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 3,
+            "priority": 18,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100051,
+            "stage_gacha_deck_id": 100011,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 300,
+            "priority": 19,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100052,
+            "stage_gacha_deck_id": 100011,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 3,
+            "priority": 20,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100053,
+            "stage_gacha_deck_id": 100012,
+            "count": 0,
+            "reward_id": 881004,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 21,
+            "description": "Used to unlock 4th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100054,
+            "stage_gacha_deck_id": 100012,
+            "count": 0,
+            "reward_id": 881003,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 22,
+            "description": "Used to unlock 3rd stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100055,
+            "stage_gacha_deck_id": 100012,
+            "count": 0,
+            "reward_id": 690024,
+            "reward_type": 5,
+            "reward_quantity": 1,
+            "priority": 23,
+            "description": "Material for evolving SS weapons."
+        },
+        {
+            "id": 100056,
+            "stage_gacha_deck_id": 100012,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 2,
+            "priority": 24,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100057,
+            "stage_gacha_deck_id": 100012,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 200,
+            "priority": 25,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100058,
+            "stage_gacha_deck_id": 100012,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 2,
+            "priority": 26,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100059,
+            "stage_gacha_deck_id": 100012,
+            "count": 0,
+            "reward_id": 880009,
+            "reward_type": 20,
+            "reward_quantity": 4,
+            "priority": 27,
+            "description": "Used to unlock Hidden Attribute caps."
+        },
+        {
+            "id": 100060,
+            "stage_gacha_deck_id": 100013,
+            "count": 0,
+            "reward_id": 881002,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 28,
+            "description": "Used to unlock 2nd stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100061,
+            "stage_gacha_deck_id": 100013,
+            "count": 0,
+            "reward_id": 881001,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 29,
+            "description": "Used to unlock 1st stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100062,
+            "stage_gacha_deck_id": 100013,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 1,
+            "priority": 30,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100063,
+            "stage_gacha_deck_id": 100013,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 100,
+            "priority": 31,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100064,
+            "stage_gacha_deck_id": 100013,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 1,
+            "priority": 32,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100065,
+            "stage_gacha_deck_id": 100013,
+            "count": 0,
+            "reward_id": 880009,
+            "reward_type": 20,
+            "reward_quantity": 2,
+            "priority": 33,
+            "description": "Used to unlock Hidden Attribute caps."
+        },
+        {
+            "id": 100067,
+            "stage_gacha_deck_id": 100014,
+            "count": 1,
+            "reward_id": 106600300,
+            "reward_type": 15,
+            "reward_quantity": 1,
+            "priority": 1,
+            "description": "Weapon equipped with Forging Holy Stone. Can only be equipped with Gun-compatible Styles. Tap on the equipment icon to check ability details."
+        },
+        {
+            "id": 100068,
+            "stage_gacha_deck_id": 100014,
+            "count": 1,
+            "reward_id": 961001,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 2,
+            "description": "Item required for taking the Promotion Exam (Rank 11)."
+        },
+        {
+            "id": 100069,
+            "stage_gacha_deck_id": 100014,
+            "count": 12,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 50,
+            "priority": 3,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100070,
+            "stage_gacha_deck_id": 100014,
+            "count": 8,
+            "reward_id": 881006,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 4,
+            "description": "Used to unlock 6th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100071,
+            "stage_gacha_deck_id": 100015,
+            "count": 60,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 50,
+            "priority": 5,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100072,
+            "stage_gacha_deck_id": 100016,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 5,
+            "priority": 6,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100073,
+            "stage_gacha_deck_id": 100016,
+            "count": 0,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 5,
+            "priority": 7,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100074,
+            "stage_gacha_deck_id": 100016,
+            "count": 0,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 5,
+            "priority": 8,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100075,
+            "stage_gacha_deck_id": 100017,
+            "count": 10,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 30,
+            "priority": 9,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100076,
+            "stage_gacha_deck_id": 100017,
+            "count": 16,
+            "reward_id": 881005,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 10,
+            "description": "Used to unlock 5th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100077,
+            "stage_gacha_deck_id": 100017,
+            "count": 10,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 1000,
+            "priority": 11,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100078,
+            "stage_gacha_deck_id": 100017,
+            "count": 10,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 25,
+            "priority": 12,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100079,
+            "stage_gacha_deck_id": 100017,
+            "count": 6,
+            "reward_id": 303001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 13,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100080,
+            "stage_gacha_deck_id": 100017,
+            "count": 8,
+            "reward_id": 304001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 14,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100081,
+            "stage_gacha_deck_id": 100017,
+            "count": 6,
+            "reward_id": 305001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 15,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100082,
+            "stage_gacha_deck_id": 100018,
+            "count": 0,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 1,
+            "priority": 16,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100083,
+            "stage_gacha_deck_id": 100018,
+            "count": 0,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 17,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100084,
+            "stage_gacha_deck_id": 100018,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 3,
+            "priority": 18,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100085,
+            "stage_gacha_deck_id": 100018,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 300,
+            "priority": 19,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100086,
+            "stage_gacha_deck_id": 100018,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 3,
+            "priority": 20,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100087,
+            "stage_gacha_deck_id": 100019,
+            "count": 0,
+            "reward_id": 881004,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 21,
+            "description": "Used to unlock 4th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100088,
+            "stage_gacha_deck_id": 100019,
+            "count": 0,
+            "reward_id": 881003,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 22,
+            "description": "Used to unlock 3rd stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100089,
+            "stage_gacha_deck_id": 100019,
+            "count": 0,
+            "reward_id": 690024,
+            "reward_type": 5,
+            "reward_quantity": 1,
+            "priority": 23,
+            "description": "Material for evolving SS weapons."
+        },
+        {
+            "id": 100090,
+            "stage_gacha_deck_id": 100019,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 2,
+            "priority": 24,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100091,
+            "stage_gacha_deck_id": 100019,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 200,
+            "priority": 25,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100092,
+            "stage_gacha_deck_id": 100019,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 2,
+            "priority": 26,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100093,
+            "stage_gacha_deck_id": 100019,
+            "count": 0,
+            "reward_id": 880009,
+            "reward_type": 20,
+            "reward_quantity": 4,
+            "priority": 27,
+            "description": "Used to unlock Hidden Attribute caps."
+        },
+        {
+            "id": 100094,
+            "stage_gacha_deck_id": 100020,
+            "count": 0,
+            "reward_id": 881002,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 28,
+            "description": "Used to unlock 2nd stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100095,
+            "stage_gacha_deck_id": 100020,
+            "count": 0,
+            "reward_id": 881001,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 29,
+            "description": "Used to unlock 1st stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100096,
+            "stage_gacha_deck_id": 100020,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 1,
+            "priority": 30,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100097,
+            "stage_gacha_deck_id": 100020,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 100,
+            "priority": 31,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100098,
+            "stage_gacha_deck_id": 100020,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 1,
+            "priority": 32,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100099,
+            "stage_gacha_deck_id": 100020,
+            "count": 0,
+            "reward_id": 880009,
+            "reward_type": 20,
+            "reward_quantity": 2,
+            "priority": 33,
+            "description": "Used to unlock Hidden Attribute caps."
+        },
+        {
+            "id": 100100,
+            "stage_gacha_deck_id": 100021,
+            "count": 1,
+            "reward_id": 152600100,
+            "reward_type": 15,
+            "reward_quantity": 1,
+            "priority": 1,
+            "description": "Weapon equipped with Forging Holy Stone. Can only be equipped with Staff-compatible Styles. Tap on the equipment icon to check ability details."
+        },
+        {
+            "id": 100101,
+            "stage_gacha_deck_id": 100021,
+            "count": 1,
+            "reward_id": 961002,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 2,
+            "description": "Item required for taking the Promotion Exam (Rank 21)."
+        },
+        {
+            "id": 100102,
+            "stage_gacha_deck_id": 100021,
+            "count": 4,
+            "reward_id": 961001,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 3,
+            "description": "Item required for taking the Promotion Exam (Rank 11)."
+        },
+        {
+            "id": 100103,
+            "stage_gacha_deck_id": 100021,
+            "count": 12,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 50,
+            "priority": 4,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100104,
+            "stage_gacha_deck_id": 100021,
+            "count": 4,
+            "reward_id": 881006,
+            "reward_type": 20,
+            "reward_quantity": 12,
+            "priority": 5,
+            "description": "Used to unlock 6th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100105,
+            "stage_gacha_deck_id": 100022,
+            "count": 60,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 50,
+            "priority": 6,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100106,
+            "stage_gacha_deck_id": 100023,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 5,
+            "priority": 7,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100107,
+            "stage_gacha_deck_id": 100023,
+            "count": 0,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 5,
+            "priority": 8,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100108,
+            "stage_gacha_deck_id": 100023,
+            "count": 0,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 5,
+            "priority": 9,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100109,
+            "stage_gacha_deck_id": 100024,
+            "count": 10,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 30,
+            "priority": 10,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100110,
+            "stage_gacha_deck_id": 100024,
+            "count": 16,
+            "reward_id": 881005,
+            "reward_type": 20,
+            "reward_quantity": 6,
+            "priority": 11,
+            "description": "Used to unlock 5th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100111,
+            "stage_gacha_deck_id": 100024,
+            "count": 10,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 1000,
+            "priority": 12,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100112,
+            "stage_gacha_deck_id": 100024,
+            "count": 10,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 25,
+            "priority": 13,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100113,
+            "stage_gacha_deck_id": 100024,
+            "count": 6,
+            "reward_id": 303001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 14,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100114,
+            "stage_gacha_deck_id": 100024,
+            "count": 8,
+            "reward_id": 304001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 15,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100115,
+            "stage_gacha_deck_id": 100024,
+            "count": 6,
+            "reward_id": 305001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 16,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100116,
+            "stage_gacha_deck_id": 100025,
+            "count": 0,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 1,
+            "priority": 17,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100117,
+            "stage_gacha_deck_id": 100025,
+            "count": 0,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 18,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100118,
+            "stage_gacha_deck_id": 100025,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 3,
+            "priority": 19,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100119,
+            "stage_gacha_deck_id": 100025,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 300,
+            "priority": 20,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100120,
+            "stage_gacha_deck_id": 100025,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 3,
+            "priority": 21,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100121,
+            "stage_gacha_deck_id": 100026,
+            "count": 0,
+            "reward_id": 881004,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 22,
+            "description": "Used to unlock 4th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100122,
+            "stage_gacha_deck_id": 100026,
+            "count": 0,
+            "reward_id": 881003,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 23,
+            "description": "Used to unlock 3rd stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100123,
+            "stage_gacha_deck_id": 100026,
+            "count": 0,
+            "reward_id": 690024,
+            "reward_type": 5,
+            "reward_quantity": 1,
+            "priority": 24,
+            "description": "Material for evolving SS weapons."
+        },
+        {
+            "id": 100124,
+            "stage_gacha_deck_id": 100026,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 2,
+            "priority": 25,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100125,
+            "stage_gacha_deck_id": 100026,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 200,
+            "priority": 26,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100126,
+            "stage_gacha_deck_id": 100026,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 2,
+            "priority": 27,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100127,
+            "stage_gacha_deck_id": 100026,
+            "count": 0,
+            "reward_id": 880009,
+            "reward_type": 20,
+            "reward_quantity": 4,
+            "priority": 28,
+            "description": "Used to unlock Hidden Attribute caps."
+        },
+        {
+            "id": 100128,
+            "stage_gacha_deck_id": 100027,
+            "count": 0,
+            "reward_id": 881002,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 29,
+            "description": "Used to unlock 2nd stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100129,
+            "stage_gacha_deck_id": 100027,
+            "count": 0,
+            "reward_id": 881001,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 30,
+            "description": "Used to unlock 1st stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100130,
+            "stage_gacha_deck_id": 100027,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 1,
+            "priority": 31,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100131,
+            "stage_gacha_deck_id": 100027,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 100,
+            "priority": 32,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100132,
+            "stage_gacha_deck_id": 100027,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 1,
+            "priority": 33,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100133,
+            "stage_gacha_deck_id": 100027,
+            "count": 0,
+            "reward_id": 880009,
+            "reward_type": 20,
+            "reward_quantity": 2,
+            "priority": 34,
+            "description": "Used to unlock Hidden Attribute caps."
+        },
+        {
+            "id": 100134,
+            "stage_gacha_deck_id": 100028,
+            "count": 1,
+            "reward_id": 101600700,
+            "reward_type": 15,
+            "reward_quantity": 1,
+            "priority": 1,
+            "description": "Weapon equipped with Forging Holy Stone. Can only be equipped with Sword-compatible Styles. Tap on the equipment icon to check ability details."
+        },
+        {
+            "id": 100135,
+            "stage_gacha_deck_id": 100028,
+            "count": 1,
+            "reward_id": 961002,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 2,
+            "description": "Item required for taking the Promotion Exam (Rank 21)."
+        },
+        {
+            "id": 100136,
+            "stage_gacha_deck_id": 100028,
+            "count": 4,
+            "reward_id": 961001,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 3,
+            "description": "Item required for taking the Promotion Exam (Rank 11)."
+        },
+        {
+            "id": 100137,
+            "stage_gacha_deck_id": 100028,
+            "count": 12,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 50,
+            "priority": 4,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100138,
+            "stage_gacha_deck_id": 100028,
+            "count": 4,
+            "reward_id": 881006,
+            "reward_type": 20,
+            "reward_quantity": 12,
+            "priority": 5,
+            "description": "Used to unlock 6th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100139,
+            "stage_gacha_deck_id": 100029,
+            "count": 60,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 50,
+            "priority": 6,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100140,
+            "stage_gacha_deck_id": 100030,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 5,
+            "priority": 7,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100141,
+            "stage_gacha_deck_id": 100030,
+            "count": 0,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 5,
+            "priority": 8,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100142,
+            "stage_gacha_deck_id": 100030,
+            "count": 0,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 5,
+            "priority": 9,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100143,
+            "stage_gacha_deck_id": 100031,
+            "count": 10,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 30,
+            "priority": 10,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100144,
+            "stage_gacha_deck_id": 100031,
+            "count": 16,
+            "reward_id": 881005,
+            "reward_type": 20,
+            "reward_quantity": 6,
+            "priority": 11,
+            "description": "Used to unlock 5th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100145,
+            "stage_gacha_deck_id": 100031,
+            "count": 10,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 1000,
+            "priority": 12,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100146,
+            "stage_gacha_deck_id": 100031,
+            "count": 10,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 25,
+            "priority": 13,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100147,
+            "stage_gacha_deck_id": 100031,
+            "count": 6,
+            "reward_id": 303001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 14,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100148,
+            "stage_gacha_deck_id": 100031,
+            "count": 8,
+            "reward_id": 304001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 15,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100149,
+            "stage_gacha_deck_id": 100031,
+            "count": 6,
+            "reward_id": 305001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 16,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100150,
+            "stage_gacha_deck_id": 100032,
+            "count": 0,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 1,
+            "priority": 17,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100151,
+            "stage_gacha_deck_id": 100032,
+            "count": 0,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 18,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100152,
+            "stage_gacha_deck_id": 100032,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 3,
+            "priority": 19,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100153,
+            "stage_gacha_deck_id": 100032,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 300,
+            "priority": 20,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100154,
+            "stage_gacha_deck_id": 100032,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 3,
+            "priority": 21,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100155,
+            "stage_gacha_deck_id": 100033,
+            "count": 0,
+            "reward_id": 881004,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 22,
+            "description": "Used to unlock 4th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100156,
+            "stage_gacha_deck_id": 100033,
+            "count": 0,
+            "reward_id": 881003,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 23,
+            "description": "Used to unlock 3rd stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100157,
+            "stage_gacha_deck_id": 100033,
+            "count": 0,
+            "reward_id": 690024,
+            "reward_type": 5,
+            "reward_quantity": 1,
+            "priority": 24,
+            "description": "Material for evolving SS weapons."
+        },
+        {
+            "id": 100158,
+            "stage_gacha_deck_id": 100033,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 2,
+            "priority": 25,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100159,
+            "stage_gacha_deck_id": 100033,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 200,
+            "priority": 26,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100160,
+            "stage_gacha_deck_id": 100033,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 2,
+            "priority": 27,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100161,
+            "stage_gacha_deck_id": 100033,
+            "count": 0,
+            "reward_id": 880009,
+            "reward_type": 20,
+            "reward_quantity": 4,
+            "priority": 28,
+            "description": "Used to unlock Hidden Attribute caps."
+        },
+        {
+            "id": 100162,
+            "stage_gacha_deck_id": 100034,
+            "count": 0,
+            "reward_id": 881002,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 29,
+            "description": "Used to unlock 2nd stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100163,
+            "stage_gacha_deck_id": 100034,
+            "count": 0,
+            "reward_id": 881001,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 30,
+            "description": "Used to unlock 1st stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100164,
+            "stage_gacha_deck_id": 100034,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 1,
+            "priority": 31,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100165,
+            "stage_gacha_deck_id": 100034,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 100,
+            "priority": 32,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100166,
+            "stage_gacha_deck_id": 100034,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 1,
+            "priority": 33,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100167,
+            "stage_gacha_deck_id": 100034,
+            "count": 0,
+            "reward_id": 880009,
+            "reward_type": 20,
+            "reward_quantity": 2,
+            "priority": 34,
+            "description": "Used to unlock Hidden Attribute caps."
+        },
+        {
+            "id": 100168,
+            "stage_gacha_deck_id": 100035,
+            "count": 1,
+            "reward_id": 103600400,
+            "reward_type": 15,
+            "reward_quantity": 1,
+            "priority": 1,
+            "description": "Weapon equipped with Forging Holy Stone. Can only be equipped with Axe-compatible Styles. Tap on the equipment icon to check ability details."
+        },
+        {
+            "id": 100169,
+            "stage_gacha_deck_id": 100035,
+            "count": 1,
+            "reward_id": 961002,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 2,
+            "description": "Item required for taking the Promotion Exam (Rank 21)."
+        },
+        {
+            "id": 100170,
+            "stage_gacha_deck_id": 100035,
+            "count": 4,
+            "reward_id": 961001,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 3,
+            "description": "Item required for taking the Promotion Exam (Rank 11)."
+        },
+        {
+            "id": 100171,
+            "stage_gacha_deck_id": 100035,
+            "count": 12,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 50,
+            "priority": 4,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100172,
+            "stage_gacha_deck_id": 100035,
+            "count": 4,
+            "reward_id": 881006,
+            "reward_type": 20,
+            "reward_quantity": 12,
+            "priority": 5,
+            "description": "Used to unlock 6th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100173,
+            "stage_gacha_deck_id": 100036,
+            "count": 60,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 50,
+            "priority": 6,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100174,
+            "stage_gacha_deck_id": 100037,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 5,
+            "priority": 7,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100175,
+            "stage_gacha_deck_id": 100037,
+            "count": 0,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 5,
+            "priority": 8,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100176,
+            "stage_gacha_deck_id": 100037,
+            "count": 0,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 5,
+            "priority": 9,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100177,
+            "stage_gacha_deck_id": 100038,
+            "count": 10,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 30,
+            "priority": 10,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100178,
+            "stage_gacha_deck_id": 100038,
+            "count": 16,
+            "reward_id": 881005,
+            "reward_type": 20,
+            "reward_quantity": 6,
+            "priority": 11,
+            "description": "Used to unlock 5th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100179,
+            "stage_gacha_deck_id": 100038,
+            "count": 10,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 1000,
+            "priority": 12,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100180,
+            "stage_gacha_deck_id": 100038,
+            "count": 10,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 25,
+            "priority": 13,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100181,
+            "stage_gacha_deck_id": 100038,
+            "count": 6,
+            "reward_id": 303001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 14,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100182,
+            "stage_gacha_deck_id": 100038,
+            "count": 8,
+            "reward_id": 304001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 15,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100183,
+            "stage_gacha_deck_id": 100038,
+            "count": 6,
+            "reward_id": 305001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 16,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100184,
+            "stage_gacha_deck_id": 100039,
+            "count": 0,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 1,
+            "priority": 17,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100185,
+            "stage_gacha_deck_id": 100039,
+            "count": 0,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 18,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100186,
+            "stage_gacha_deck_id": 100039,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 3,
+            "priority": 19,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100187,
+            "stage_gacha_deck_id": 100039,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 300,
+            "priority": 20,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100188,
+            "stage_gacha_deck_id": 100039,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 3,
+            "priority": 21,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100189,
+            "stage_gacha_deck_id": 100040,
+            "count": 0,
+            "reward_id": 881004,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 22,
+            "description": "Used to unlock 4th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100190,
+            "stage_gacha_deck_id": 100040,
+            "count": 0,
+            "reward_id": 881003,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 23,
+            "description": "Used to unlock 3rd stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100191,
+            "stage_gacha_deck_id": 100040,
+            "count": 0,
+            "reward_id": 690024,
+            "reward_type": 5,
+            "reward_quantity": 1,
+            "priority": 24,
+            "description": "Material for evolving SS weapons."
+        },
+        {
+            "id": 100192,
+            "stage_gacha_deck_id": 100040,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 2,
+            "priority": 25,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100193,
+            "stage_gacha_deck_id": 100040,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 200,
+            "priority": 26,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100194,
+            "stage_gacha_deck_id": 100040,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 2,
+            "priority": 27,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100195,
+            "stage_gacha_deck_id": 100040,
+            "count": 0,
+            "reward_id": 880009,
+            "reward_type": 20,
+            "reward_quantity": 4,
+            "priority": 28,
+            "description": "Used to unlock Hidden Attribute caps."
+        },
+        {
+            "id": 100196,
+            "stage_gacha_deck_id": 100041,
+            "count": 0,
+            "reward_id": 881002,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 29,
+            "description": "Used to unlock 2nd stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100197,
+            "stage_gacha_deck_id": 100041,
+            "count": 0,
+            "reward_id": 881001,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 30,
+            "description": "Used to unlock 1st stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100198,
+            "stage_gacha_deck_id": 100041,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 1,
+            "priority": 31,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100199,
+            "stage_gacha_deck_id": 100041,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 100,
+            "priority": 32,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100200,
+            "stage_gacha_deck_id": 100041,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 1,
+            "priority": 33,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100201,
+            "stage_gacha_deck_id": 100041,
+            "count": 0,
+            "reward_id": 880009,
+            "reward_type": 20,
+            "reward_quantity": 2,
+            "priority": 34,
+            "description": "Used to unlock Hidden Attribute caps."
+        },
+        {
+            "id": 100235,
+            "stage_gacha_deck_id": 100049,
+            "count": 1,
+            "reward_id": 104600500,
+            "reward_type": 15,
+            "reward_quantity": 1,
+            "priority": 1,
+            "description": "Weapon equipped with Forging Holy Stone. Can only be equipped with Club-compatible Styles. Tap on the equipment icon to check ability details."
+        },
+        {
+            "id": 100236,
+            "stage_gacha_deck_id": 100049,
+            "count": 5,
+            "reward_id": 961002,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 2,
+            "description": "Item required for taking the Promotion Exam (Rank 21)."
+        },
+        {
+            "id": 100237,
+            "stage_gacha_deck_id": 100049,
+            "count": 12,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 50,
+            "priority": 3,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100238,
+            "stage_gacha_deck_id": 100049,
+            "count": 4,
+            "reward_id": 881007,
+            "reward_type": 20,
+            "reward_quantity": 12,
+            "priority": 4,
+            "description": "Used to unlock 7th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100239,
+            "stage_gacha_deck_id": 100050,
+            "count": 60,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 50,
+            "priority": 5,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100240,
+            "stage_gacha_deck_id": 100051,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 5,
+            "priority": 6,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100241,
+            "stage_gacha_deck_id": 100051,
+            "count": 0,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 5,
+            "priority": 7,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100242,
+            "stage_gacha_deck_id": 100051,
+            "count": 0,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 5,
+            "priority": 8,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100243,
+            "stage_gacha_deck_id": 100052,
+            "count": 10,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 30,
+            "priority": 9,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100244,
+            "stage_gacha_deck_id": 100052,
+            "count": 5,
+            "reward_id": 961001,
+            "reward_type": 33,
+            "reward_quantity": 2,
+            "priority": 10,
+            "description": "Item required for taking the Promotion Exam (Rank 11)."
+        },
+        {
+            "id": 100245,
+            "stage_gacha_deck_id": 100052,
+            "count": 8,
+            "reward_id": 881006,
+            "reward_type": 20,
+            "reward_quantity": 12,
+            "priority": 11,
+            "description": "Used to unlock 6th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100246,
+            "stage_gacha_deck_id": 100052,
+            "count": 10,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 1000,
+            "priority": 12,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100247,
+            "stage_gacha_deck_id": 100052,
+            "count": 5,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 50,
+            "priority": 13,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100248,
+            "stage_gacha_deck_id": 100052,
+            "count": 6,
+            "reward_id": 303001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 14,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100249,
+            "stage_gacha_deck_id": 100052,
+            "count": 8,
+            "reward_id": 304001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 15,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100250,
+            "stage_gacha_deck_id": 100052,
+            "count": 6,
+            "reward_id": 305001,
+            "reward_type": 4,
+            "reward_quantity": 1,
+            "priority": 16,
+            "description": "Material used to awaken skills/spells at the Dojo."
+        },
+        {
+            "id": 100251,
+            "stage_gacha_deck_id": 100053,
+            "count": 0,
+            "reward_id": 690025,
+            "reward_type": 5,
+            "reward_quantity": 1,
+            "priority": 17,
+            "description": "Material for evolving certain SS weapons."
+        },
+        {
+            "id": 100252,
+            "stage_gacha_deck_id": 100053,
+            "count": 0,
+            "reward_id": 960001,
+            "reward_type": 33,
+            "reward_quantity": 1,
+            "priority": 18,
+            "description": "Item required for taking the Promotion Exam."
+        },
+        {
+            "id": 100253,
+            "stage_gacha_deck_id": 100053,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 3,
+            "priority": 19,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100254,
+            "stage_gacha_deck_id": 100053,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 300,
+            "priority": 20,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100255,
+            "stage_gacha_deck_id": 100053,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 3,
+            "priority": 21,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100256,
+            "stage_gacha_deck_id": 100054,
+            "count": 0,
+            "reward_id": 881005,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 22,
+            "description": "Used to unlock 5th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100257,
+            "stage_gacha_deck_id": 100054,
+            "count": 0,
+            "reward_id": 881004,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 23,
+            "description": "Used to unlock 4th stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100258,
+            "stage_gacha_deck_id": 100054,
+            "count": 0,
+            "reward_id": 881003,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 24,
+            "description": "Used to unlock 3rd stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100259,
+            "stage_gacha_deck_id": 100054,
+            "count": 0,
+            "reward_id": 690024,
+            "reward_type": 5,
+            "reward_quantity": 1,
+            "priority": 25,
+            "description": "Material for evolving SS weapons."
+        },
+        {
+            "id": 100260,
+            "stage_gacha_deck_id": 100054,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 2,
+            "priority": 26,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100261,
+            "stage_gacha_deck_id": 100054,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 200,
+            "priority": 27,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100262,
+            "stage_gacha_deck_id": 100054,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 2,
+            "priority": 28,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100263,
+            "stage_gacha_deck_id": 100054,
+            "count": 0,
+            "reward_id": 880009,
+            "reward_type": 20,
+            "reward_quantity": 4,
+            "priority": 29,
+            "description": "Used to unlock Hidden Attribute caps."
+        },
+        {
+            "id": 100264,
+            "stage_gacha_deck_id": 100055,
+            "count": 0,
+            "reward_id": 881002,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 30,
+            "description": "Used to unlock 2nd stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100265,
+            "stage_gacha_deck_id": 100055,
+            "count": 0,
+            "reward_id": 881001,
+            "reward_type": 20,
+            "reward_quantity": 3,
+            "priority": 31,
+            "description": "Used to unlock 1st stage of Hidden Attribute caps."
+        },
+        {
+            "id": 100266,
+            "stage_gacha_deck_id": 100055,
+            "count": 0,
+            "reward_id": 105001,
+            "reward_type": 2,
+            "reward_quantity": 1,
+            "priority": 32,
+            "description": "Can be used to raise the level cap of any SS-rank Style."
+        },
+        {
+            "id": 100267,
+            "stage_gacha_deck_id": 100055,
+            "count": 0,
+            "reward_id": 860015,
+            "reward_type": 7,
+            "reward_quantity": 100,
+            "priority": 33,
+            "description": "Can be exchanged for items at the Romancing Shop."
+        },
+        {
+            "id": 100268,
+            "stage_gacha_deck_id": 100055,
+            "count": 0,
+            "reward_id": 810003,
+            "reward_type": 8,
+            "reward_quantity": 1,
+            "priority": 34,
+            "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon."
+        },
+        {
+            "id": 100269,
+            "stage_gacha_deck_id": 100055,
+            "count": 0,
+            "reward_id": 880009,
+            "reward_type": 20,
+            "reward_quantity": 2,
+            "priority": 35,
+            "description": "Used to unlock Hidden Attribute caps."
+        }
+    ]
+}

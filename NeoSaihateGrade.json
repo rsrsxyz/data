@@ -1,0 +1,35 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -5428436528341320888
+    },
+    "m_Name": "NeoSaihateGrade",
+    "objectArray": [
+        {
+            "id": 1,
+            "order": 1,
+            "name": "Level 1",
+            "clear_bonus": 40000,
+            "action_bonus": 120000
+        },
+        {
+            "id": 2,
+            "order": 2,
+            "name": "Level 2",
+            "clear_bonus": 100000,
+            "action_bonus": 300000
+        },
+        {
+            "id": 3,
+            "order": 3,
+            "name": "Level 3",
+            "clear_bonus": 250000,
+            "action_bonus": 750000
+        }
+    ]
+}

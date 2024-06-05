@@ -1,0 +1,29 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4145437214552360800
+    },
+    "m_Name": "StageGachaPerformance",
+    "objectArray": [
+        {
+            "id": 1,
+            "performance_type": 1,
+            "weight": 6
+        },
+        {
+            "id": 2,
+            "performance_type": 2,
+            "weight": 2
+        },
+        {
+            "id": 3,
+            "performance_type": 3,
+            "weight": 2
+        }
+    ]
+}
