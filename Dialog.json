@@ -2322,6 +2322,87 @@
             "dialog_type": 1,
             "button2": "",
             "button1": "OK"
+        },
+        {
+            "id": 263,
+            "name": "Bulk_Exchange_Error1",
+            "title": "Exchange Error",
+            "text": "The 1-tap exchange list will be updated as some items have passed the exchange period.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 264,
+            "name": "Bulk_Exchange_Error2",
+            "title": "1-Tap Exchange Error",
+            "text": "There are no more items that can be 1-tap exchanged.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 265,
+            "name": "Trial_Quest_Confirm_1",
+            "title": "Rewards Updated",
+            "text": "Since the First Completion Rewards have been updated, the rewards have also changed.<br>Since there are not enough Spiral Summon Tickets left to perform 1x Summon in the previous Spiral Corridor Ticket Summon, the following will be sent as compensation:<br>{0} free jewels",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 266,
+            "name": "Trial_Quest_Confirm_2",
+            "title": "Rewards Updated",
+            "text": "Since the First Completion Rewards have been updated, the rewards have also changed.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 267,
+            "name": "Multi_mission_Freequest_Complete",
+            "title": "Mission Completed",
+            "text": "Confirm unlocked quest(s)?",
+            "dialog_type": 2,
+            "button2": "No",
+            "button1": "Yes"
+        },
+        {
+            "id": 268,
+            "name": "Certification_Id_Copy",
+            "title": "Confirm",
+            "text": "Authentication code copied to clipboard.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "OK"
+        },
+        {
+            "id": 269,
+            "name": "Sell_Equipment_Confirm",
+            "title": "Confirm Sale",
+            "text": "This equipment cannot be sold.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "Close"
+        },
+        {
+            "id": 270,
+            "name": "Quest_Explore_Open",
+            "title": "Area Unlocked!",
+            "text": "An area has been unlocked.",
+            "dialog_type": 2,
+            "button2": "Close",
+            "button1": "Go"
+        },
+        {
+            "id": 272,
+            "name": "Special_Expedtion_Error",
+            "title": "No Style Selected",
+            "text": "Please select the Styles for the Special Expedition.",
+            "dialog_type": 1,
+            "button2": "",
+            "button1": "Close"
         }
     ]
 }

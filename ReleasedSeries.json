@@ -13,72 +13,92 @@
         {
             "id": 1,
             "series": 11,
-            "open": 1
+            "open": 1,
+            "priority": 10
         },
         {
             "id": 2,
             "series": 12,
-            "open": 1
+            "open": 1,
+            "priority": 20
         },
         {
             "id": 4,
             "series": 13,
-            "open": 1
+            "open": 1,
+            "priority": 40
         },
         {
             "id": 6,
             "series": 21,
-            "open": 1
+            "open": 1,
+            "priority": 60
         },
         {
             "id": 7,
             "series": 22,
-            "open": 1
+            "open": 1,
+            "priority": 70
         },
         {
             "id": 8,
             "series": 23,
-            "open": 1
+            "open": 1,
+            "priority": 80
         },
         {
             "id": 9,
             "series": 31,
-            "open": 1
+            "open": 1,
+            "priority": 90
         },
         {
             "id": 10,
             "series": 32,
-            "open": 1
+            "open": 1,
+            "priority": 100
         },
         {
             "id": 11,
             "series": 41,
-            "open": 1
+            "open": 1,
+            "priority": 110
         },
         {
             "id": 12,
             "series": 51,
-            "open": 1
+            "open": 1,
+            "priority": 120
         },
         {
             "id": 13,
             "series": 52,
-            "open": 0
+            "open": 0,
+            "priority": 130
         },
         {
             "id": 14,
             "series": 61,
-            "open": 1
+            "open": 1,
+            "priority": 140
         },
         {
             "id": 15,
             "series": 71,
-            "open": 1
+            "open": 1,
+            "priority": 150
         },
         {
             "id": 16,
             "series": 1001,
-            "open": 1
+            "open": 1,
+            "priority": 1000
+        },
+        {
+            "id": 17,
+            "series": 63,
+            "open": 1,
+            "priority": 160
         }
     ]
 }

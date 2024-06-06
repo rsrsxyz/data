@@ -39,8 +39,8 @@
         },
         {
             "id": 718100015,
-            "name": "HP非満タン時攻撃強化",
-            "flavor_text": "[味方パーティ生存者全体]<br>HPが満タンではない時、与えるダメージが上昇する",
+            "name": "ATK Boost at Non-Full HP",
+            "flavor_text": "[All Surviving Allies]<br>When HP is not full, increases damage dealt.",
             "icon": 4010,
             "effect_name": "",
             "cue_sheet_name": "",
@@ -57,8 +57,8 @@
         },
         {
             "id": 718100026,
-            "name": "OD攻撃強化",
-            "flavor_text": "[味方パーティ生存者全体]<br>OD攻撃の与えるダメージが上昇する",
+            "name": "OverDrive Attack Boost",
+            "flavor_text": "[All Surviving Allies]<br>Increases damage dealt by OverDrive attacks.",
             "icon": 4010,
             "effect_name": "",
             "cue_sheet_name": "",
@@ -66,8 +66,8 @@
         },
         {
             "id": 718100027,
-            "name": "直接攻撃強化",
-            "flavor_text": "[味方パーティ生存者全体]<br>直接攻撃の与えるダメージが上昇する",
+            "name": "Direct Attack Boost",
+            "flavor_text": "[All Surviving Allies]<br>Increases damage dealt by direct attacks.",
             "icon": 4010,
             "effect_name": "",
             "cue_sheet_name": "",
@@ -75,8 +75,17 @@
         },
         {
             "id": 718100028,
-            "name": "術攻撃強化",
-            "flavor_text": "[味方パーティ生存者全体]<br>術攻撃の与えるダメージが上昇する",
+            "name": "Spell Attack Boost",
+            "flavor_text": "[All Surviving Allies]<br>Increases damage dealt by spell attacks.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100029,
+            "name": "Skill Attack Boost",
+            "flavor_text": "[All Surviving Allies]<br>Increases skill attacks' damage.",
             "icon": 4010,
             "effect_name": "",
             "cue_sheet_name": "",
@@ -84,8 +93,8 @@
         },
         {
             "id": 718100034,
-            "name": "被弾時防御弱化",
-            "flavor_text": "[敵パーティ全体]<br>攻撃を受けた時、自身に「<special_effect=800000541>[挑戦の掟]防御弱化</special_effect>」( 効果2ターン )を付与する<br>※攻撃が命中した時のみ発動",
+            "name": "Defense Down When Attacked",
+            "flavor_text": "[All Enemies]<br>When attacked, grants oneself <special_effect=800000541>[Challenge Rule] Defense Down</special_effect> (2 turn(s)).<br>*Only activates when hit by an attack.",
             "icon": 4003,
             "effect_name": "",
             "cue_sheet_name": "",
@@ -371,6 +380,15 @@
             "se_name": "se_fieldability_well"
         },
         {
+            "id": 718100066,
+            "name": "Indirect Attack Boost",
+            "flavor_text": "[All Surviving Allies]<br>Increases damage dealt by indirect attacks.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
             "id": 718100067,
             "name": "ATK Boost at Full HP",
             "flavor_text": "[All Surviving Allies]<br>When HP is full, increases damage dealt.",
@@ -381,8 +399,8 @@
         },
         {
             "id": 718100068,
-            "name": "HP非満タン時攻撃強化",
-            "flavor_text": "[味方パーティ生存者全体]<br>HPが満タンではない時、与えるダメージが上昇する",
+            "name": "ATK Boost at Non-Full HP",
+            "flavor_text": "[All Surviving Allies]<br>When HP is not full, increases damage dealt.",
             "icon": 4010,
             "effect_name": "",
             "cue_sheet_name": "",
@@ -390,8 +408,8 @@
         },
         {
             "id": 718100069,
-            "name": "OD攻撃強化",
-            "flavor_text": "[味方パーティ生存者全体]<br>OD攻撃の与えるダメージが上昇する",
+            "name": "OverDrive Attack Boost",
+            "flavor_text": "[All Surviving Allies]<br>Increases damage dealt by OverDrive attacks.",
             "icon": 4010,
             "effect_name": "",
             "cue_sheet_name": "",
@@ -399,8 +417,8 @@
         },
         {
             "id": 718100070,
-            "name": "直接攻撃強化",
-            "flavor_text": "[味方パーティ生存者全体]<br>直接攻撃の与えるダメージが上昇する",
+            "name": "Direct Attack Boost",
+            "flavor_text": "[All Surviving Allies]<br>Increases damage dealt by direct attacks.",
             "icon": 4010,
             "effect_name": "",
             "cue_sheet_name": "",
@@ -408,8 +426,26 @@
         },
         {
             "id": 718100071,
-            "name": "術攻撃強化",
-            "flavor_text": "[味方パーティ生存者全体]<br>術攻撃の与えるダメージが上昇する",
+            "name": "Spell Attack Boost",
+            "flavor_text": "[All Surviving Allies]<br>Increases damage dealt by spell attacks.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100072,
+            "name": "Skill Attack Boost",
+            "flavor_text": "[All Surviving Allies]<br>Increases skill attacks' damage.",
+            "icon": 4010,
+            "effect_name": "",
+            "cue_sheet_name": "",
+            "se_name": ""
+        },
+        {
+            "id": 718100073,
+            "name": "Indirect Attack Boost",
+            "flavor_text": "[All Surviving Allies]<br>Increases damage dealt by indirect attacks.",
             "icon": 4010,
             "effect_name": "",
             "cue_sheet_name": "",
@@ -687,8 +723,8 @@
         },
         {
             "id": 718100107,
-            "name": "闘いの恵み・攻",
-            "flavor_text": "[毎ターンの行動選択前]<br>味方パーティ生存者全体に「<special_effect=800000607>[スコアUPチャレンジ]攻撃強化</special_effect>」( 効果1ターン )を付与する",
+            "name": "Battle Nourishment: Attack",
+            "flavor_text": "[Before selecting an action every turn]<br>Grants all surviving allies <special_effect=800000607>[Score Challenge] Attack Boost</special_effect> (1 turn(s)).",
             "icon": 4010,
             "effect_name": "field_dummy",
             "cue_sheet_name": "se_fieldability",
@@ -696,8 +732,8 @@
         },
         {
             "id": 718100108,
-            "name": "闘いの恵み・防",
-            "flavor_text": "[毎ターンの行動選択前]<br>敵パーティ全体に「<special_effect=800000608>[スコアUPチャレンジ]攻撃弱化</special_effect>」( 効果1ターン )を付与する",
+            "name": "Battle Nourishment: Defense",
+            "flavor_text": "[Before selecting an action every turn]<br>Grants all enemies <special_effect=800000608>[Score Challenge] Attack Down</special_effect> (1 turn(s)).",
             "icon": 4003,
             "effect_name": "field_dummy",
             "cue_sheet_name": "se_fieldability",
@@ -705,8 +741,8 @@
         },
         {
             "id": 718100109,
-            "name": "闘いの恵み・特",
-            "flavor_text": "[バトル開始時及びターン終了時]<br>味方パーティ生存者全体のBPを回復する( +10 )<br><br>[毎ターンの行動選択前]<br>味方パーティ生存者全体の腕力・器用さ・素早さ・知力を上昇させる",
+            "name": "Battle Nourishment: Special",
+            "flavor_text": "[Battle Start/End of Turn]<br>Recovers all surviving allies' BP (+10).<br><br>[Before selecting an action every turn]<br>Increases all surviving allies' STR/DEX/AGI/INT.",
             "icon": 4010,
             "effect_name": "field_dummy",
             "cue_sheet_name": "se_fieldability",
@@ -768,8 +804,8 @@
         },
         {
             "id": 718200008,
-            "name": "特定ターン消費BP減少",
-            "flavor_text": "[ラウンド開始から数えて3の倍数のターン]<br>味方パーティ生存者全体の全ての技・術の消費BPが0になる<br>※直前のターンの終了時に気絶状態から復帰した戦士は含まれない",
+            "name": "BP Cost Reduction on Specific Turns",
+            "flavor_text": "[On every 3 turns counting from the start of round]<br>All surviving allies' skill/spell BP cost is reduced to 0.<br>*Warriors who returned from unconsciousness at the end of the previous turn are not included.",
             "icon": 4010,
             "effect_name": "",
             "cue_sheet_name": "",
@@ -795,8 +831,8 @@
         },
         {
             "id": 718200012,
-            "name": "毎ターンHP回復",
-            "flavor_text": "[ターン終了時]<br>味方パーティ生存者全体のHPを割合回復する( 対象の最大HPの30% )",
+            "name": "Recover HP Every Turn",
+            "flavor_text": "[End of Turn]<br>Recovers a portion of all surviving allies' HP (30% of target's Max HP).",
             "icon": 4007,
             "effect_name": "",
             "cue_sheet_name": "",

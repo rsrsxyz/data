@@ -20650,7 +20650,7 @@
         },
         {
             "id": 7401,
-            "ribbon": "Exploration Point Increased!",
+            "ribbon": "",
             "campaign_type": 3,
             "rate": 20.0,
             "reward_type": 37,
@@ -21344,6 +21344,65 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7503,
+            "ribbon": "",
+            "campaign_type": 10,
+            "rate": 1.5,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7504,
+            "ribbon": "",
+            "campaign_type": 10,
+            "rate": 10.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7506,
+            "ribbon": "Dragonrise Anniversary Key Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013921
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7507,
+            "ribbon": "Dragonrise Anniversary Coin Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013919
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7508,
+            "ribbon": "",
+            "campaign_type": 10,
+            "rate": 15.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7514,
             "ribbon": "2x Exploration Point Drop Slots!",
             "campaign_type": 5,
@@ -21357,8 +21416,21 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7515,
+            "ribbon": "2x Exploration Point Drop Slots!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                500080001
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7551,
-            "ribbon": "歴戦のかけらドロップ中！",
+            "ribbon": "",
             "campaign_type": 5,
             "rate": 0.0,
             "reward_type": 0,

@@ -248,13 +248,19 @@
             "id": 42,
             "key": "memory_rematch_finish_max_process_count",
             "type": "integer",
-            "value": "50"
+            "value": "100"
         },
         {
             "id": 43,
             "key": "stamina_over_limit_rate",
             "type": "integer",
             "value": "20"
+        },
+        {
+            "id": 44,
+            "key": "campaign_unlock_item_limit_seconds",
+            "type": "integer",
+            "value": "86400"
         },
         {
             "id": 45,
@@ -273,6 +279,24 @@
             "key": "account_delete_facebook_website_url",
             "type": "string",
             "value": "https://facebook.com/help/170585223002660"
+        },
+        {
+            "id": 48,
+            "key": "special_expedition_grind_limit",
+            "type": "integer",
+            "value": "100"
+        },
+        {
+            "id": 49,
+            "key": "trial_quest_apology_jewel",
+            "type": "integer",
+            "value": "300"
+        },
+        {
+            "id": 54,
+            "key": "show_authentication_code_confirm_button_start_at",
+            "type": "integer",
+            "value": "1893380400"
         }
     ]
 }

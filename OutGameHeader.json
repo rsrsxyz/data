@@ -252,7 +252,7 @@
         },
         {
             "id": 317,
-            "title_name": "Select Style",
+            "title_name": "Select Amplification Target",
             "marquee_id": 37,
             "help_id": 262
         },
@@ -770,6 +770,24 @@
             "id": 2303,
             "title_name": "Ranking",
             "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 2401,
+            "title_name": "List of Past Titles",
+            "marquee_id": 0,
+            "help_id": 0
+        },
+        {
+            "id": 2501,
+            "title_name": "Special Expeditions",
+            "marquee_id": 56,
+            "help_id": 1022
+        },
+        {
+            "id": 2502,
+            "title_name": "Select Style",
+            "marquee_id": 57,
             "help_id": 0
         }
     ]

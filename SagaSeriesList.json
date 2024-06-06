@@ -1,0 +1,501 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 341853301682846957
+    },
+    "m_Name": "SagaSeriesList",
+    "objectArray": [
+        {
+            "id": 10001,
+            "saga_series_category_id": 10001,
+            "name": "The Final Fantasy Legend (GB)",
+            "sub_text": "Released 12/15/1989",
+            "official_website_url": "https://www.jp.square-enix.com/game/detail/saga/",
+            "saga_series_model_ids": [
+                1,
+                131
+            ],
+            "series_for_credit_ids": [
+                10
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 10002,
+            "saga_series_category_id": 10001,
+            "name": "The Final Fantasy Legend (WSC)",
+            "sub_text": "Released 3/2/2002",
+            "official_website_url": "https://www.jp.square-enix.com/game/detail/saga/",
+            "saga_series_model_ids": [
+                11
+            ],
+            "series_for_credit_ids": [
+                999
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 20001,
+            "saga_series_category_id": 20001,
+            "name": "Final Fantasy Legend II",
+            "sub_text": "Released 12/14/1990",
+            "official_website_url": "https://www.jp.square-enix.com/game/detail/saga2/",
+            "saga_series_model_ids": [
+                1
+            ],
+            "series_for_credit_ids": [
+                20
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 30001,
+            "saga_series_category_id": 30001,
+            "name": "SaGa 2: GODDESS OF DESTINY",
+            "sub_text": "Released 9/17/2009",
+            "official_website_url": "https://www.jp.square-enix.com/game/detail/saga2god/",
+            "saga_series_model_ids": [
+                21
+            ],
+            "series_for_credit_ids": [
+                999
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 40001,
+            "saga_series_category_id": 40001,
+            "name": "Final Fantasy Legend III",
+            "sub_text": "Released 12/13/1991",
+            "official_website_url": "https://www.jp.square-enix.com/game/detail/saga3/",
+            "saga_series_model_ids": [
+                1
+            ],
+            "series_for_credit_ids": [
+                30
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 50001,
+            "saga_series_category_id": 50001,
+            "name": "SaGa 3: Shadow or Light",
+            "sub_text": "Released 1/6/2011",
+            "official_website_url": "",
+            "saga_series_model_ids": [
+                21
+            ],
+            "series_for_credit_ids": [
+                999
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 60001,
+            "saga_series_category_id": 60001,
+            "name": "COLLECTION of SaGa FINAL FANTASY LEGEND",
+            "sub_text": "Released 9/22/2021",
+            "official_website_url": "https://www.jp.square-enix.com/saga_collection/",
+            "saga_series_model_ids": [
+                141,
+                101,
+                161
+            ],
+            "series_for_credit_ids": [
+                999
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 70001,
+            "saga_series_category_id": 70001,
+            "name": "Romancing SaGa (SFC)",
+            "sub_text": "Released 1/28/1992",
+            "official_website_url": "https://www.jp.square-enix.com/game/detail/romancingsaga1/",
+            "saga_series_model_ids": [
+                41,
+                131,
+                111
+            ],
+            "series_for_credit_ids": [
+                40
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 70002,
+            "saga_series_category_id": 70001,
+            "name": "Romancing SaGa (WSC)",
+            "sub_text": "Released 12/20/2001",
+            "official_website_url": "https://www.jp.square-enix.com/game/detail/romancingsaga1/",
+            "saga_series_model_ids": [
+                11
+            ],
+            "series_for_credit_ids": [
+                999
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 80001,
+            "saga_series_category_id": 80001,
+            "name": "Romancing SaGa -Minstrel Song-",
+            "sub_text": "Released 4/21/2005",
+            "official_website_url": "https://www.jp.square-enix.com/game/detail/romasaga_ms/",
+            "saga_series_model_ids": [
+                61,
+                121
+            ],
+            "series_for_credit_ids": [
+                100
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 80002,
+            "saga_series_category_id": 80001,
+            "name": "Romancing SaGa -Minstrel Song- Remastered",
+            "sub_text": "Released 12/1/2022",
+            "official_website_url": "https://www.jp.square-enix.com/saga_minstrelsong/",
+            "saga_series_model_ids": [
+                141,
+                101,
+                161,
+                71,
+                81
+            ],
+            "series_for_credit_ids": [
+                999
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 90001,
+            "saga_series_category_id": 90001,
+            "name": "Romancing SaGa 2 (SFC)",
+            "sub_text": "Released 12/10/1993",
+            "official_website_url": "https://www.jp.square-enix.com/game/detail/romancingsaga2/",
+            "saga_series_model_ids": [
+                41,
+                131,
+                111
+            ],
+            "series_for_credit_ids": [
+                50
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 90002,
+            "saga_series_category_id": 90001,
+            "name": "Romancing SaGa 2 (Remaster)",
+            "sub_text": "Released 3/24/2016",
+            "official_website_url": "http://www.jp.square-enix.com/romasaga2/",
+            "saga_series_model_ids": [
+                141,
+                101,
+                161,
+                31,
+                71,
+                91,
+                171
+            ],
+            "series_for_credit_ids": [
+                999
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 100001,
+            "saga_series_category_id": 100001,
+            "name": "Romancing SaGa 3 (SFC)",
+            "sub_text": "Released 11/11/1995",
+            "official_website_url": "https://www.jp.square-enix.com/game/detail/romancingsaga3/",
+            "saga_series_model_ids": [
+                41,
+                111
+            ],
+            "series_for_credit_ids": [
+                60
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 100002,
+            "saga_series_category_id": 100001,
+            "name": "Romancing SaGa 3 (Remaster)",
+            "sub_text": "Released 11/11/2019",
+            "official_website_url": "https://www.jp.square-enix.com/romasaga3/#section1",
+            "saga_series_model_ids": [
+                141,
+                101,
+                161,
+                31,
+                71,
+                91,
+                171
+            ],
+            "series_for_credit_ids": [
+                999
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 110001,
+            "saga_series_category_id": 110001,
+            "name": "SaGa Frontier",
+            "sub_text": "Released 7/11/1997",
+            "official_website_url": "https://www.jp.square-enix.com/game/detail/sf/",
+            "saga_series_model_ids": [
+                51,
+                121
+            ],
+            "series_for_credit_ids": [
+                70
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 110002,
+            "saga_series_category_id": 110001,
+            "name": "SaGa Frontier Remastered",
+            "sub_text": "Released 4/15/2021",
+            "official_website_url": "https://www.jp.square-enix.com/saga_frontier/",
+            "saga_series_model_ids": [
+                141,
+                101,
+                161,
+                71
+            ],
+            "series_for_credit_ids": [
+                999
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 120001,
+            "saga_series_category_id": 120001,
+            "name": "SaGa Frontier 2",
+            "sub_text": "Released 4/1/1999",
+            "official_website_url": "https://www.jp.square-enix.com/game/detail/sf2/",
+            "saga_series_model_ids": [
+                51,
+                121
+            ],
+            "series_for_credit_ids": [
+                80
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 130001,
+            "saga_series_category_id": 130001,
+            "name": "UNLIMITED SaGa",
+            "sub_text": "Released 12/19/2002",
+            "official_website_url": "https://www.jp.square-enix.com/game/detail/usaga/",
+            "saga_series_model_ids": [
+                61
+            ],
+            "series_for_credit_ids": [
+                90
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 140001,
+            "saga_series_category_id": 140001,
+            "name": "Emperors SaGa",
+            "sub_text": "2012.9.18 ～ 2017.4.28",
+            "official_website_url": "",
+            "saga_series_model_ids": [
+                131
+            ],
+            "series_for_credit_ids": [
+                999
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 150001,
+            "saga_series_category_id": 150001,
+            "name": "Imperial SaGa",
+            "sub_text": "2015.6.18 ～ 2019.12.26",
+            "official_website_url": "",
+            "saga_series_model_ids": [
+                181
+            ],
+            "series_for_credit_ids": [
+                999
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 160001,
+            "saga_series_category_id": 160001,
+            "name": "Imperial SaGa Eclipce",
+            "sub_text": "Released 10/31/2019",
+            "official_website_url": "https://www.eclipse.imperialsaga.jp/",
+            "saga_series_model_ids": [
+                181,
+                151
+            ],
+            "series_for_credit_ids": [
+                999
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 170001,
+            "saga_series_category_id": 170001,
+            "name": "SaGa SCARLET GRACE",
+            "sub_text": "Released 12/15/2016",
+            "official_website_url": "https://www.jp.square-enix.com/game/detail/saga_sg/",
+            "saga_series_model_ids": [
+                31
+            ],
+            "series_for_credit_ids": [
+                110
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 180001,
+            "saga_series_category_id": 180001,
+            "name": "SaGa SCARLET GRACE: AMBITIONS",
+            "sub_text": "Released 8/2/2018",
+            "official_website_url": "https://www.jp.square-enix.com/saga_sg_hiiro/",
+            "saga_series_model_ids": [
+                141,
+                101,
+                161,
+                71
+            ],
+            "series_for_credit_ids": [
+                120
+            ],
+            "credit_names": [
+                "クレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 190001,
+            "saga_series_category_id": 190001,
+            "name": "Romancing SaGa Re;univerSe",
+            "sub_text": "Released 12/6/2018",
+            "official_website_url": "https://www.jp.square-enix.com/saga_reuniverse/",
+            "saga_series_model_ids": [
+                141,
+                171
+            ],
+            "series_for_credit_ids": [
+                130,
+                131
+            ],
+            "credit_names": [
+                "ポルカ編\nクレジット",
+                "リアム編/シィレイ編\nクレジット"
+            ],
+            "start_at": 0,
+            "end_at": 0
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -8080980245255624595
+    },
+    "m_Name": "SpecialExpedition",
+    "objectArray": [
+        {
+            "id": 1,
+            "name": "Aurum",
+            "is_growth": 1,
+            "required_special_expedition_item_id": 1400001,
+            "required_quantity": 10,
+            "daily_clear_limit": 0,
+            "drop_group_ids": [
+                880000048
+            ],
+            "sort_order": 24041701,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 2,
+            "name": "Style EXP",
+            "is_growth": 1,
+            "required_special_expedition_item_id": 1400001,
+            "required_quantity": 10,
+            "daily_clear_limit": 0,
+            "drop_group_ids": [],
+            "sort_order": 24041702,
+            "start_at": 0,
+            "end_at": 0
+        }
+    ]
+}

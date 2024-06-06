@@ -411,6 +411,22 @@
             "close_at": 0
         },
         {
+            "id": 6700033,
+            "name": "The Plateau",
+            "required_quest_id": 0,
+            "required_player_rank": 0,
+            "required_hours": 21,
+            "ticket_cost": 120,
+            "drop_group_ids": [
+                880000046,
+                880000047
+            ],
+            "background_id": 700000164,
+            "sort_order": 996,
+            "open_at": 1717635600,
+            "close_at": 1720313999
+        },
+        {
             "id": 1006700001,
             "name": "WJS Marathon",
             "required_quest_id": 0,

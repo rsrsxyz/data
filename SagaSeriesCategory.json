@@ -1,0 +1,353 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -1495898596940998806
+    },
+    "m_Name": "SagaSeriesCategory",
+    "objectArray": [
+        {
+            "id": 10001,
+            "icon_id": 10001,
+            "introduction_banner_ids": [
+                10001,
+                10002,
+                10003
+            ],
+            "category_name": "The Final Fantasy Legend",
+            "bgm_id": 120194,
+            "text": "The first RPG released for a portable console. This first title included several unique game mechanics, such as doing away with the leveling system of conventional RPGs in favor of having characters grow and develop in different ways depending on their class, defying convention by having weapons that could only be used a certain number of times, and the inability to revive once hearts, representing life points, reached zero. This established the foundation for subsequent SaGa titles. This was Square's first title to sell over a million units and it set the blueprint for what RPGs on handheld systems should be.\n\nThere is a tower at the center of the world supposedly leading to Paradise, and the young protagonists set out on a journey to reach it. What awaits them at the summit as they adventure through worlds with different histories and civilizations?\nIn 2002, a remake was released for the WSC, and in 2007, a version was ported to mobile. Furthermore, the Sa•Ga Collection was released in 2021, a port of all three GB titles from the SaGa series.\n\n[Abbreviations]\nGB: Game Boy\nWSC: WonderSwan Color",
+            "is_align_center": 0,
+            "apple_store_url": "https://apps.apple.com/jp/app/sa-ga-collection/id1565119568",
+            "android_store_url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.SagaCollection_Sjp&pcampaignid=web_share",
+            "priority": 10001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 20001,
+            "icon_id": 20001,
+            "introduction_banner_ids": [
+                20001,
+                20002
+            ],
+            "category_name": "Final Fantasy Legend II",
+            "bgm_id": 130323,
+            "text": "A sequel to THE FINAL FANTASY LEGEND, which was released about a year later. This title further refined the distinctive game mechanics of its predecessor, offering players a number of new features to improve playability while retaining its unique growth systems for each race. Although numbered as 2, it was released as a completely new title with a different worldview from the previous installment. It depicts the adventures of the protagonists traveling through nine worlds in search of the MAGI stones, legacies of the gods. This installment also introduces the Mech race, which appears in subsequent titles across the SaGa series. Additionally,  Sensei the slime makes its first appearance as a companion to the protagonists at the beginning of the story, and has since become a mascot for the series.\nOne night, the protagonist decides to embark on a journey to pursue his father, who left and entrusted him with a MAGI stone. The journey, initially aimed at finding the 77 magical MAGI stones and his father, who is charged with protecting them, gradually transitions into a mission to prevent the world's destruction.\nIn 2009, a full 3D remake titled SaGa 2: Hihou Densetsu - Goddess of Destiny was released for the DS. Furthermore, in 2021, the Sa•Ga Collection, which completely ported three titles from the SaGa series, was released.\n\n[Abbreviations]\nDS: Nintendo DS",
+            "is_align_center": 0,
+            "apple_store_url": "https://apps.apple.com/jp/app/sa-ga-collection/id1565119568",
+            "android_store_url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.SagaCollection_Sjp&pcampaignid=web_share",
+            "priority": 20001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 30001,
+            "icon_id": 30001,
+            "introduction_banner_ids": [
+                30001
+            ],
+            "category_name": "SaGa 2: GODDESS OF DESTINY",
+            "bgm_id": 120372,
+            "text": "A full remake of 1990 GB release of THE FINAL FANTASY LEGEND II, known as SaGa 2: HIHOU DENSETSU in Japan, released as a DS title in 2009. This title commemorated the 20th anniversary of the SaGa series.\nCharacter designs were newly drawn and graphics redesigned in 3D. The game evolved to make it easier to play. The storyline follows the flow of the original as an adventure about the protagonist, who starts out searching for his father and eventually travels to nine different worlds finding MAGI stones with mysterious powers. While the worldview remains unchanged, the system has evolved into a more exhilarating battle system that incorporates combos, a popular element introduced in SaGa Frontier, and a limit drive system that allows players to aim for one-shot counters. The addition of new sub-events and characters provided new enjoyment not only for players new to SaGa 2, but also for fans who have played the game before.\n\n[Abbreviations]\nGB: Game Boy\nDS: Nintendo DS",
+            "is_align_center": 0,
+            "apple_store_url": "",
+            "android_store_url": "",
+            "priority": 30001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 40001,
+            "icon_id": 40001,
+            "introduction_banner_ids": [
+                40001,
+                40002
+            ],
+            "category_name": "Final Fantasy Legend III",
+            "bgm_id": 130322,
+            "text": "The final entry in the FINAL FANTASY LEGEND/SaGa trilogy on the GB. The growth system was completely revamped, where characters level up via experience points and the concepts of magic levels and MP were introduced. On the other hand, limitations on weapon and magic usage have been removed. Instead, the ability to transform by eating \"meat\" after battles or attaching \"parts\" has been introduced, allowing for diverse growth and party compositions, showcasing a unique aspect typical of the SaGa series.\n\nAn endless stream of water and monsters spewed forth from the colossal water jar that appeared in the world, leading the world on a path to destruction. To save the distant future, young heroes embark on a journey through four worlds comprising the present, past, future, and alternate dimensions, riding the legendary combat aircraft Talon, sealed as a divine relic. Following SaGa 2: Hihou Densetsu, a full 3D remake titled SaGa 3: Jikuu no Hasha - Shadow or Light was released for the DS in 2011. Furthermore, in 2021, the Sa•Ga Collection, which ported all three SaGa titles, was launched.\n\n[Abbreviations]\nGB: Game Boy\nDS: Nintendo DS",
+            "is_align_center": 0,
+            "apple_store_url": "https://apps.apple.com/jp/app/sa-ga-collection/id1565119568",
+            "android_store_url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.SagaCollection_Sjp&pcampaignid=web_share",
+            "priority": 40001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 50001,
+            "icon_id": 50001,
+            "introduction_banner_ids": [
+                50001,
+                50002
+            ],
+            "category_name": "SaGa 3: Shadow or Light",
+            "bgm_id": 120148,
+            "text": "The 1991 GB release of Final Fantasy Legend III [Final] was fully remade and released as a DS title in 2011. Utilizing the 3D models introduced in the 2009 release of SaGa 2: Hihou Densetsu - Goddess of Destiny, this remake featured a battle system that makes full use of the \"time\" motif through the system called Time Gear. It incorporates significant enhancements and remakes, including popular elements such as combos and the scouting feature for monsters. Additionally, the character growth system, previously based on levels in the original, has been completely overhauled. There are deeper explorations of key characters like Curtis and Gloriaaa, as well as newly added events and endings, making it a release with such volume that it's referred to as both a remake and a new installment.\n\n[Abbreviations]\nGB: Game Boy\nDS: Nintendo DS",
+            "is_align_center": 0,
+            "apple_store_url": "",
+            "android_store_url": "",
+            "priority": 50001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 60001,
+            "icon_id": 60001,
+            "introduction_banner_ids": [
+                60001
+            ],
+            "category_name": "COLLECTION of SaGa FINAL FANTASY LEGEND",
+            "bgm_id": 120389,
+            "text": "The three GB SaGa titles, SaGa 1, SaGa 2, and SaGa 3 were ported and re-released in 2020 as a commemorative work for the series' 30th anniversary. \nIn addition to features that emphasize enjoyable gameplay, such as high-speed play mode, it also includes functions like vertical mode play to emulate the sensation of playing on the original system. The English versions of these titles, Final Fantasy Legend, are also included in this release. It is available on multiple platforms including Switch, Steam, and smartphones.\n\n[Abbreviations]\nGB: Game Boy\nSwitch: Nintendo Switch",
+            "is_align_center": 0,
+            "apple_store_url": "https://apps.apple.com/jp/app/sa-ga-collection/id1565119568",
+            "android_store_url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.SagaCollection_Sjp&pcampaignid=web_share",
+            "priority": 60001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 70001,
+            "icon_id": 70001,
+            "introduction_banner_ids": [
+                70001,
+                70002,
+                70003,
+                70004
+            ],
+            "category_name": "Romancing SaGa",
+            "bgm_id": 130275,
+            "text": "There existed three malicious deities in Mardias, the land of the gods. As the revival of the banished god Saruin draws near, eight young heroes, each with different backgrounds and purposes, embark on their journey. Meeting various companions and overcoming trials along the way, they eventually find themselves thrust into a battle for the fate of the world.\nReleased in 1992 for the SFC, this is the first installment of the series later known as Romancing SaGa. Character designs by Tomomi Kobayashi drastically changed the series' appearance. At its core lies the free scenario system, where players freely choose destinations and events, allowing freedom in player-driven adventures. With various choices, resulting events, and unrestricted progression, each player can weave their own unique story, adding depth to the grand world.\nAdvancements in platform specs extended the possibilities of pixel art. Formations, along with skill proficiency and weapon-specific levels, laid the groundwork for the glimmering system. Instead of a traditional level-up system, parameters increase based on actions chosen by the player during battles, offering high degrees of freedom.\nIn 2001, the series saw its first port on the WSC featuring additional content such as new events and battles with one of the three gods, Schiele. In 2009, a mobile version based on the WSC version was released. A full remake of this game, Romancing SaGa: Minstrel Song was released in 2005, followed by Romancing SaGa: Minstrel Song - Remastered in 2022.\n\n[Abbreviations]\nSFC: Super Famicom\nWSC: WonderSwan Color",
+            "is_align_center": 0,
+            "apple_store_url": "",
+            "android_store_url": "",
+            "priority": 70001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 80001,
+            "icon_id": 80001,
+            "introduction_banner_ids": [
+                80001,
+                80002,
+                80003,
+                80004
+            ],
+            "category_name": "Romancing SaGa -Minstrel Song-",
+            "bgm_id": 130400,
+            "text": "\"The gods created man, but man creates his own SaGa.\" A complete remake of Romancing SaGa, released for the PS2 in 2005.\nThe free scenario system from Romancing SaGa 1, which allows for a highly customizable experience, remains intact in this title. Furthermore, scenarios and episodes have been added, character voices implemented, and character design has been completely renewed. The use of 3D models in the graphics goes beyond a mere remake.\nThe battle system incorporates popular elements from the SaGa series such as Formations, Glimmers, and Combos. Additionally, this work enhances battles with various elements such as powering up characters through skill level and class training, utilizing the Mode System adopted for weapons and skills, and diverse elements like the \"Grace of Elore\" to rescue players from dire situations, adding further depth to the battles.\nThe land of Mardias was created by the Creator, Marda. Now, in that land where gods once fought and disappeared, eight heroes set off on their own journeys, as if guided by fate. Although the evil god Saruin was trapped by the Fatestones and the noble sacrifice of the Silver Warrior hero Mirza, the gods of evil are rising once more. The journey of these eight individuals unfolds through various encounters and partings. What kind of story will these eight travelers weave?\nIn 2022, Romancing SaGa -Minstrel Song- Remaster was released on PS5, PS4, Switch, Steam, and smartphones. The remastered version includes improvements such as higher resolution graphics, additional events and playable characters, and features like fast-forward function to enhance playability.\n\n[Abbreviation]\nPS2: PlayStation 2\nPS4: PlayStation 4\nPS5: PlayStation 5\nSwitch: Nintendo Switch",
+            "is_align_center": 0,
+            "apple_store_url": "https://apps.apple.com/jp/app/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0-%E3%82%B5%E3%82%AC-%E3%83%9F%E3%83%B3%E3%82%B9%E3%83%88%E3%83%AC%E3%83%AB%E3%82%BD%E3%83%B3%E3%82%B0-%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id1614201408",
+            "android_store_url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.RomancingSaGaMinstrelSongjp&hl=ja-JP",
+            "priority": 80001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 90001,
+            "icon_id": 90001,
+            "introduction_banner_ids": [
+                90001,
+                90002,
+                90003,
+                90004
+            ],
+            "category_name": "Romancing SaGa 2",
+            "bgm_id": 130290,
+            "text": "The second installment in the Romancing SaGa series, it was released in 1993 as an SFC game. Combining the Free Scenario System, which surprised players in the previous title, with the Emperor Succession System, where the adventure spans generations with different protagonists, the game presented a magnificent story unparalleled by others. Players assumed the role of the Emperor of Varennes, once a great empire now reduced to a regional power. In order to reunite the chaotic world, they must repeatedly select the next emperor from among their allies using Inheritance magic and engage in battle against the formidable Seven Heroes.\nThis game builds on the battle system from the previous title, Romancing SaGa 1, and introduces the Glimmer mechanic that would become a staple in subsequent SaGa series titles. Players have flashes of inspiration to unleash powerful techniques using weapons, as well as anticipate attacks and nullify them with Parry, providing opportunities for turning the tide in challenging battles. Formations also evolved, where different formations confer various special effects, allowing the Emperor and party to gain advantages in combat.\nIn 2016, a remastered version was released for smartphones and PS Vita, featuring significant visual improvements such as refined background graphics. Additional elements introduced from the original feature phone version, such as classes and dungeons, along with enhancements in gameplay and the ability to carry over certain items and skills, were also implemented. In 2017, the remastered version was further enhanced and released on multiple platforms including PS4, XONE, Switch, and Steam, building upon the remastered version released in 2016.\n\n[Abbreviations]\nSFC: Super Famicom\nPS Vita: PlayStation Vita\nPS4: PlayStation 4\nXONE: Xbox One\nSwitch: Nintendo Switch",
+            "is_align_center": 0,
+            "apple_store_url": "https://apps.apple.com/jp/app/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0-%E3%82%B5%E3%82%AC%EF%BC%92/id1083834924",
+            "android_store_url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.romancingsaga2_jp&hl=ja-JP",
+            "priority": 90001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 100001,
+            "icon_id": 100001,
+            "introduction_banner_ids": [
+                100001,
+                100002,
+                100003,
+                100004
+            ],
+            "category_name": "Romancing SaGa 3",
+            "bgm_id": 120035,
+            "text": "Once every 300 years, the existence of the world is threatened. Who is the Child of Destiny and what fate do they carry?\nThe third entry in the Romancing SaGa series, released in 1995. It was the final SaGa entry on the SFC and became the culmination of the series, incorporating elements such as the well-received Free Scenario, Formations, and Glimmers. Among all the releases up to that point, it became the most popular title in the series. The Free Scenario System adopted in this title also provides some guidelines for necessary events to progress, contributing to the ease of gameplay. Tactical formations in battle, and glimmers to learn skills and wards are enhanced in this Romancing SaGa, but in addition, this installment introduced Commander Mode. By selecting Commander Mode, battles, typically fought with a party of five, can now be conducted with a maximum of six members, including the one commander. Elements such as formation skills and fusion spells available only in this mode significantly improved the gameplay experience. Furthermore, simulation games like Business Acquisition, where players engage in asset trading, and Army Combat, where players take command of military battles, were included as mini-games with elements to explore, captivating many players.\nThe story is set in a world where every 300 years, a catastrophe known as the Rise of Morastrum, which reaps all living beings, occurs. During the Eclipse that happened 600 years ago, only one child survived, who grew up to become the Archfiend, commanding powerful Sinistrals from the Abyss to rule the world. 300 years ago, another child survived, drove the four ruling Sinistrals back to the Abyss, saved the world, and was later called the Matriarch. And now, 15 years ago, the third Rise of Morastrum occurred. The thread of fate woven by the Children of Destiny, individuals destined to determine the fate of the world, and the protagonists, is depicted.\nIn 2019, a remastered version was released. It was made available on eight platforms including PS4, smartphones, and Steam, and features beautifully redrawn HD pixel graphics, additional new stories and dungeons, and a \"New Game Plus\" mode allowing players to carry over items and strength from previous playthroughs.\n\n[Abbreviations]\nSFC: Super Famicom\nPS4: PlayStation 4",
+            "is_align_center": 0,
+            "apple_store_url": "https://apps.apple.com/jp/app/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0-%E3%82%B5%E3%82%AC%EF%BC%93/id1442497118",
+            "android_store_url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.RomancingSaGa3ww&hl=ja-JP",
+            "priority": 100001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 110001,
+            "icon_id": 110001,
+            "introduction_banner_ids": [
+                110001,
+                110002,
+                110003,
+                110004
+            ],
+            "category_name": "SaGa Frontier",
+            "bgm_id": 130436,
+            "text": "In 1997, the seventh installment of the SaGa series was released on the PS, featuring a completely different approach from the unified worldview of the previous Romancing SaGa series. With a significant leap in hardware performance, the game incorporated 3D for maps, battlefields, and characters, enhancing depth, camera work, and animations.\nIntroducing a system that would come to be loved in subsequent SaGa titles, the game debuted the Combo System. When activated, players could unleash a series of consecutive attacks or spells on enemies, with up to five connected techniques or spell names shown. The original names for these link combinations became a buzzworthy topic due to the exhilarating feeling they brought to battles. Additionally, familiar races such as mechs and monsters from the series' Game Boy entries reappeared, each with its own growth system, adding to the diverse and chaotic game world.\nSet in a chaotic space with floating Regions, the world features various towns, cities, organizations, alternate dimensions, and dungeons within these regions, all accessible by ships called Region Ships. The game's Free Scenario mode underwent further evolution, allowing players to choose one of seven protagonists to start their journey, each with unique stories and endings. With increased elements for character development and mysteries scattered throughout the adventure, fans loved talking about the game.\nThe narrative follows seven individuals, each with their own motives: a hero standing against evil, a spellcaster fated to defeat their own counterpart, a half-mystic girl wandering between humans and mystics, a mech who has forgotten its mission, a carefree young man, a monster striving to save its homeland, and a woman seeking vengeance for her slain lover. As they embark on a journey across the vast sea of regions, each player weaves their own story.\nIn 2021, an HD remaster titled SaGa Frontier Remastered was released on multiple platforms including Switch and PS4. Introducing an eighth protagonist named Fuse along with new scenarios, the game allowed players to fall in love with the title again by experiencing scenes from different perspectives. With high-resolution graphics, a user-friendly UI, and features like double speed and scenario charts, this remaster goes beyond mere graphical enhancements, offering an enhanced gameplay experience.\n\n[Abbreviation]\nPS: PlayStation\nGB: Game Boy\nSwitch: Nintendo Switch\nPS4: PlayStation 4",
+            "is_align_center": 0,
+            "apple_store_url": "https://apps.apple.com/jp/app/%E3%82%B5%E3%82%AC-%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2-%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id1543852060",
+            "android_store_url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.SaGaFrontierRemastered_jp&hl=ja-JP",
+            "priority": 110001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 120001,
+            "icon_id": 120001,
+            "introduction_banner_ids": [
+                120001,
+                120002,
+                120003
+            ],
+            "category_name": "SaGa Frontier 2",
+            "bgm_id": 130424,
+            "text": "Some things can only be seen after a fulfilling life. -- \"History\".\nReleased on the PS in 1999, SaGa Frontier 2 offers a different worldview in the SaGa series, even though it follows the series name with a number. This title has drastically transformed its graphic representation and game system from the Romancing SaGa series and SaGa Frontier, making it even more distinctive as a creative original.\nIn terms of graphic representation, it adopted a faint watercolor-style despite 3D polygons becoming more popular in the latter half of the PlayStation era. It received high praise for its beauty, as if entering the world of a picture book, garnering many fervent fans. Additionally, the battle system had Party Battles, incorporating familiar \"glimmers\" and \"combos\", along with modes like Duels against single enemies and Combat, highly eventful simulation battles where you command armies to fulfill victory conditions, diversifying the battle formats and enhancing the gameplay experience from a systems perspective.\nIts most notable feature is the mechanic known as \"History Choice,\" which could be considered an evolution of \"Free Scenario\". Players can play story events in any order they like, except for some events. By choosing scenes from various points, players can experience a \"nameless story\" woven by various characters or a \"historical legacy\" spanning approximately 100 years. There are scenarios such as Gustave's Storyline, depicting the battle of Gustave XIII, who was born without the ability to use magic, in a world where using magic is commonplace, and the subsequent history. Also, there's the Knights Storyline, depicting the fate of Wil (William Knights) and the Knights family as they try to bury the mighty ancient artifact, the Egg, which brings disaster to the world.\n\n[Abbreviations]\nPS: PlayStation",
+            "is_align_center": 0,
+            "apple_store_url": "",
+            "android_store_url": "",
+            "priority": 120001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 130001,
+            "icon_id": 130001,
+            "introduction_banner_ids": [
+                130001,
+                130002
+            ],
+            "category_name": "UNLIMITED SaGa",
+            "bgm_id": 120293,
+            "text": "This title was released for the PS2 in 2002. Among notable SaGa titles, it stands out for its uniqueness and innovation. Featuring an adventurous system without the concept of field maps and a battle system with unparalleled freedom in combinations, it showcases a variety of ambitious new systems.\nThe story tells of a highly advanced ancient civilization that flourished thousands of years ago—the so-called Golden Age, during which seven colossal structures existed across the world. Known as the Seven Wonders, they are believed to be places where the power of the gods still slumbers. Legend has it that when the power hidden within these wonders is unleashed, the Creator will be resurrected, and the Golden Age will return. However, no one has ever confirmed this legend. Amidst this, there were seven young people who attended the Regina Leone Festival. Although they set out on their journeys with different goals, they gradually influence each other through their adventures, becoming entangled in the mysteries of the Seven Wonders.\nAdopting the beloved Free Scenario System from the SaGa series, players choose one protagonist from among the seven and embark on their adventure. Unlike traditional RPGs, this game lacks field maps or world maps. Instead, it employs a new system called the Moving Phase, where players progress by moving one square at a time within maps equivalent to field maps in normal RPGs. This creates a sensation akin to playing a board game, with features such as encountering treasure chests, traps, or monsters when stopping on certain squares. The battle system utilizes reel slots, allowing five actions per turn. Players have the freedom to either allocate all five actions to one character or distribute them among five different characters, offering highly flexible combat.\n\n[Abbreviations]\nPS2: PlayStation 2",
+            "is_align_center": 0,
+            "apple_store_url": "",
+            "android_store_url": "",
+            "priority": 130001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 140001,
+            "icon_id": 140001,
+            "introduction_banner_ids": [
+                140001,
+                140002,
+                140003,
+                140004
+            ],
+            "category_name": "Emperors SaGa",
+            "bgm_id": 120039,
+            "text": "In 2012, the first mobile social game of the SaGa series was launched. Set in the world of Chaospolis, which is said to have been born from several intertwining dimensions, the original story of Emperors SaGa links the past and the future. Familiar elements such as Mardias from Romancing SaGa and the Kingdom of Loanne from Romancing SaGa 3 are present, while the story progresses in the Empire of Varennes from Romancing SaGa 2, creating a world that is reminiscent and appealing to series fans. Additionally, episodes written by Akitoshi Kawazu, such as Romancing SaGa 2 ZERO, depicting the time when the Seven Heroes were human, received great excitement upon release.\nThe game unfolds in five arcs. The first chapter, The Silver Emperor Arc, follows the Silver Emperor as he confronts destructive threats. The second chapter, The Imperial Succession Arc, focuses on Selma, the daughter of the Silver Emperor, as she becomes the new empress. The third arc, Twin Emperors of Light and Darkness Arc, depicts the story of Sirius and Sothis, twin protagonists confronting the anomalies in Lieve Earth. The fourth chapter, The Akashic Babel Arc, narrates the adventures of the youth Touji and the mysterious swordswoman Maka as they aim for the top of the tower that grants wishes. In the final chapter, The Glaciers Arc, the story revolves around Shinon, a young boy attempting to save his childhood friend Pamela trapped in a world engulfed by blizzards and ice. The game features a card battle system where players develop cards depicting various characters. It incorporates elements such as Formations, Ultimate Techniques, and Inheritance, which have been loved throughout the series.\nUnfortunately, the service was discontinued in 2017, leaving behind fond memories.",
+            "is_align_center": 0,
+            "apple_store_url": "",
+            "android_store_url": "",
+            "priority": 140001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 150001,
+            "icon_id": 150001,
+            "introduction_banner_ids": [
+                150001,
+                150002,
+                150003
+            ],
+            "category_name": "Imperial SaGa",
+            "bgm_id": 120396,
+            "text": "Released in 2015, this is the first PC browser game in the SaGa series.\nPopular elements such as Free Scenario, glimmers, and formations are incorporated, along with the iconic combo system introduced in SaGa Frontier. The game adopts a turn-based battle system where players deploy a troupe of five characters plus one commander. Its unique formation system allows players to change formations every turn, adding strategic depth by enabling players to choose appropriate formations based on the opponents and situation, thus enriching the battle experience.\nSet in the composite world of Dysnomia, shrouded in the miasma of darkness, the story revolves around Adel, the protagonist and emperor, who is both a god and a human. Among the four chapters, players have the choice to decide who becomes the emperor in chapters 2 and 3, allowing them to enjoy the grand narrative spun across generations by numerous captivating characters. Alongside original characters, iconic characters from previous SaGa series titles gather to join Adel in his battle against the Three Evil Gods.\nWhile many typical browser games lack clear endings, this game features distinct endings. After clearing the game, players have the option to start the story again and explore different choices and routes.\nDue to the discontinuation of Flash support in December 2019, the service for this game ended. However, in October 2019, a sequel titled \"Imperial SaGa Eclipse\" was launched.",
+            "is_align_center": 0,
+            "apple_store_url": "",
+            "android_store_url": "",
+            "priority": 150001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 160001,
+            "icon_id": 160001,
+            "introduction_banner_ids": [
+                160001,
+                160002,
+                160003
+            ],
+            "category_name": "Imperial SaGa Eclipce",
+            "bgm_id": 120397,
+            "text": "Launched in 2019 and still running to this day, Imperial SaGa Eclipse is a PC and smartphone-compatible browser game that serves as a sequel to the browser game Imperial SaGa released. With improved accessibility, it has attracted not only existing fans from the previous installment but also new players. While inheriting the world of Imperial SaGa, it weaves a new story set in the fresh setting of Dimilheim.\nThe game system has been completely overhauled from its predecessor. While retaining familiar SaGa elements such as glimmers, combos, and formations, the gameplay unfolds in turn-based battles on a 5x5 grid, introducing original features unique to this installment. Players can enjoy battles with increased strategic depth by utilizing techniques such as activating Ultimate moves when the gauge is at 100%, using Morale for a \"Full Assault,\" and employing Support Skills to assist allies.\nThe highly praised scenarios from the previous game remain intact. In addition to the \"Story\" mode where players can enjoy new scenarios, the game also includes a \"Chronicle\" mode where players can experience scenarios from the previous game. With a diverse cast of engaging characters, the narrative strikes a balance between light-heartedness and depth, making it enjoyable for both newcomers to the SaGa series and veterans alike. Centered around the protagonist Liber, the story intertwines with warriors from alternate worlds who made appearances in the previous installment, and history is written alongside the antagonistic faction True Shadow Empire and the Star Beasts, harboring the power to destroy the world.",
+            "is_align_center": 0,
+            "apple_store_url": "",
+            "android_store_url": "",
+            "priority": 160001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 170001,
+            "icon_id": 170001,
+            "introduction_banner_ids": [
+                170001,
+                170002
+            ],
+            "category_name": "SaGa SCARLET GRACE",
+            "bgm_id": 120027,
+            "text": "Released in 2016 for the PS Vita platform, this game marked a return to portable gaming devices for the first time since the Game Boy, following its predecessors on home consoles, mobile phones, and PCs.\nIt portrays the peculiar tale of four protagonists—a noblewoman, a young farmer, a female potter, and an executioner—as they encounter the enigmatic evil god the Firebringer, said to bring chaos to the world. In addition to the conventional Free Scenario System, the game features a Free World System, where players can freely traverse the world map, visit scattered towns and dungeons, and advance the story based on their choices and actions. Depending on the player's decisions, entirely different scenarios unfold. In battle, players can enjoy elements such as gimmers and formations as refined throughout the series. The game also adopts a timeline-based system where the order of actions changes depending on the skills used. As techniques consume BP shared among all allies, strategic thinking in distributing BP becomes crucial, enhancing the depth and flexibility of combat.\nThis ambitious work by Akitoshi Kawazu presents a new worldview, offering players an immersive experience in a fresh setting.\n\n[Abbreviations]\nPS Vita: PlayStation Vita",
+            "is_align_center": 0,
+            "apple_store_url": "",
+            "android_store_url": "",
+            "priority": 170001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 180001,
+            "icon_id": 180001,
+            "introduction_banner_ids": [
+                180001,
+                180002
+            ],
+            "category_name": "SaGa SCARLET GRACE: AMBITIONS",
+            "bgm_id": 120348,
+            "text": "This title was released as an upgraded version in 2018 with various new elements added to SaGa Scarlet Grace. It was released across multiple platforms such as smartphones, Switch, Steam, and PS4.\nNew features include character voices and new characters \"Sabit\" and \"Tsubaki (Camelia),\" as well as expanded scenarios and events. In battle, additional skills, spells, equipment, formations, enemy monsters, and bosses were introduced. Significant adjustments were made to the system, including the ability to freely switch between two types of UI and updates to the party edit function. Usability was overhauled to the smallest details, resulting in an extremely enjoyable gameplay experience. While retaining the charm of the original, it offers a completely reconstructed and new experience. This upgraded version garnered significant attention not only from players who have yet to experience the world of SaGa Scarlet Grace, but also from those who extensively played previous installments.\n\n[Abbreviations]\nSwitch: Nintendo Switch\nPS4: PlayStation 4",
+            "is_align_center": 0,
+            "apple_store_url": "https://apps.apple.com/jp/app/%E3%82%B5%E3%82%AC-%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88-%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9-%E7%B7%8B%E8%89%B2%E3%81%AE%E9%87%8E%E6%9C%9B/id1237505458",
+            "android_store_url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.SaGaSCARLETGRACEj&hl=ja-JP",
+            "priority": 180001,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 190001,
+            "icon_id": 190001,
+            "introduction_banner_ids": [
+                190001,
+                190002,
+                190003,
+                190004
+            ],
+            "category_name": "Romancing SaGa Re;univerSe",
+            "bgm_id": 100001,
+            "text": "As a brand new installment in the Romancing SaGa series, service began in December 2018 as a smartphone app. Set 300 years after Romancing SaGa 3, the story follows the journey of Polka, a circus acrobat, as he sets out to rescue his kidnapped sister. Later, the narrative expands to include a diverse cast of characters, including Liam, a university student who challenges the mystery of the Sleeper Incidents as a pilot for the investigative agency Clavis, and Shirei, a wandering minstrel with an unusual talent for chronicling tales. This diverse cast of characters contributes to an epic story that transcends the boundaries of the series. Incorporating popular elements such as glimmers, formations, and combos, the battle system achieves strategic and exhilarating battles using BP for skills and spells. While offering plenty of depth for dedicated players, it provides a convenient way to enjoy battles and scenarios on smartphones, making it a fresh addition to the SaGa series.\nThe service has also been available on PC via Google Play Games (beta version) since 2023.",
+            "is_align_center": 0,
+            "apple_store_url": "https://apps.apple.com/jp/app/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0-%E3%82%B5%E3%82%AC-%E3%83%AA-%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9-%E6%88%A6%E7%95%A5rpg/id1397702917",
+            "android_store_url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.RSRS&hl=ja-JP",
+            "priority": 190001,
+            "start_at": 0,
+            "end_at": 0
+        }
+    ]
+}

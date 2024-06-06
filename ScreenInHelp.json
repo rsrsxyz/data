@@ -4438,7 +4438,7 @@
         {
             "id": 458,
             "name": "Quest_Event_1370",
-            "title": "Battle with Tu Kwai",
+            "title": "Battle with Tu Kwai (2021)",
             "size": 3,
             "banners": [
                 10280
@@ -6385,7 +6385,7 @@
             "banners": [
                 11291,
                 11405,
-                11406,
+                11512,
                 11418
             ],
             "info_id": 0
@@ -7595,7 +7595,8 @@
                 11351,
                 11352,
                 11353,
-                11355
+                11355,
+                11457
             ],
             "info_id": 0
         },
@@ -8298,6 +8299,31 @@
             "info_id": 0
         },
         {
+            "id": 973,
+            "name": "Quest_Neo_saihate_top",
+            "title": "To the Top! Wells of Challenge",
+            "size": 3,
+            "banners": [
+                11434,
+                11435,
+                11436,
+                11437
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 974,
+            "name": "Quest_Neo_saihate_top",
+            "title": "To the Top! Wells of Challenge",
+            "size": 3,
+            "banners": [
+                11438,
+                11439,
+                11440
+            ],
+            "info_id": 0
+        },
+        {
             "id": 975,
             "name": "Quest_Event_10006",
             "title": "Adventures Ahead Star Friends Assemble! BOX",
@@ -8412,6 +8438,37 @@
             "info_id": 0
         },
         {
+            "id": 988,
+            "name": "Quest_Event_10008",
+            "title": "Dragonrise Anniversary Festival",
+            "size": 3,
+            "banners": [
+                11456,
+                11458
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 990,
+            "name": "Quest_Event_10008",
+            "title": "Dragonrise Anniversary Festival",
+            "size": 3,
+            "banners": [
+                11456
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 991,
+            "name": "Quest_Event_1658",
+            "title": "Battle with Earth Dragon",
+            "size": 3,
+            "banners": [
+                11461
+            ],
+            "info_id": 0
+        },
+        {
             "id": 992,
             "name": "Quest_Event_1659",
             "title": "4th Anniversary Eve Battle Memories",
@@ -8439,6 +8496,16 @@
                 11091,
                 10545,
                 10546
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 1022,
+            "name": "Special_Expedition",
+            "title": "Special Expeditions",
+            "size": 2,
+            "banners": [
+                11500
             ],
             "info_id": 0
         },

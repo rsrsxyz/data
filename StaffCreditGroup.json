@@ -12,17 +12,19 @@
     "objectArray": [
         {
             "id": 1,
-            "name": "ロマンシング サガ リ・ユニバース（2018-2022）",
-            "banner_id": "1001",
+            "series_for_credit_id": 130,
+            "name": "",
+            "banner_id": "",
             "background_id": "8142",
-            "priority": 1
+            "priority": 0
         },
         {
             "id": 2,
-            "name": "ロマンシング サガ リ・ユニバース（2023-）",
-            "banner_id": "2001",
+            "series_for_credit_id": 131,
+            "name": "",
+            "banner_id": "",
             "background_id": "8763",
-            "priority": 11
+            "priority": 0
         }
     ]
 }

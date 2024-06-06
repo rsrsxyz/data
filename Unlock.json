@@ -113,6 +113,14 @@
             "trigger_player_rank": 0,
             "scenario_script_name": "",
             "lock_feature_name": "Special Missions"
+        },
+        {
+            "id": 28,
+            "feature_to_unlock": "NeoSaihate",
+            "trigger_quest_id": 100201053,
+            "trigger_player_rank": 75,
+            "scenario_script_name": "90008-010",
+            "lock_feature_name": "To the Top! Wells of Challenge"
         }
     ]
 }

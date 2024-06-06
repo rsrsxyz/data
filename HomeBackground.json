@@ -937,9 +937,20 @@
         {
             "id": 1000000041,
             "start_at": 1716944400,
-            "end_at": 1717721999,
+            "end_at": 1717635599,
             "background_id": 10012,
             "bgm": 120340,
+            "offset_x": 0.0,
+            "offset_y": 0.0,
+            "is_pan": 1,
+            "home_npc": 0
+        },
+        {
+            "id": 1000000042,
+            "start_at": 1717635600,
+            "end_at": 1718240399,
+            "background_id": 10013,
+            "bgm": 120385,
             "offset_x": 0.0,
             "offset_y": 0.0,
             "is_pan": 1,

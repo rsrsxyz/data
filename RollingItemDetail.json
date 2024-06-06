@@ -1,0 +1,149 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 668723585394351473
+    },
+    "m_Name": "RollingItemDetail",
+    "objectArray": [
+        {
+            "id": 1000101,
+            "rolling_item_id": 1000100,
+            "reward_type": 20,
+            "reward_id": 881001,
+            "reward_quantity": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000102,
+            "rolling_item_id": 1000200,
+            "reward_type": 20,
+            "reward_id": 880009,
+            "reward_quantity": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000103,
+            "rolling_item_id": 1000300,
+            "reward_type": 11,
+            "reward_id": 830001,
+            "reward_quantity": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000104,
+            "rolling_item_id": 1000400,
+            "reward_type": 2,
+            "reward_id": 103001,
+            "reward_quantity": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000105,
+            "rolling_item_id": 1000500,
+            "reward_type": 20,
+            "reward_id": 881002,
+            "reward_quantity": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000106,
+            "rolling_item_id": 1000600,
+            "reward_type": 2,
+            "reward_id": 104001,
+            "reward_quantity": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000107,
+            "rolling_item_id": 1000700,
+            "reward_type": 1,
+            "reward_id": 100003,
+            "reward_quantity": 100,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000108,
+            "rolling_item_id": 1000800,
+            "reward_type": 20,
+            "reward_id": 881003,
+            "reward_quantity": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000109,
+            "rolling_item_id": 1000900,
+            "reward_type": 20,
+            "reward_id": 881004,
+            "reward_quantity": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000110,
+            "rolling_item_id": 1001000,
+            "reward_type": 33,
+            "reward_id": 960001,
+            "reward_quantity": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000111,
+            "rolling_item_id": 1001100,
+            "reward_type": 20,
+            "reward_id": 881005,
+            "reward_quantity": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000112,
+            "rolling_item_id": 1001200,
+            "reward_type": 33,
+            "reward_id": 961001,
+            "reward_quantity": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1000113,
+            "rolling_item_id": 1001300,
+            "reward_type": 20,
+            "reward_id": 881006,
+            "reward_quantity": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 2000002,
+            "rolling_item_id": 2000002,
+            "reward_type": 1,
+            "reward_id": 100002,
+            "reward_quantity": 1,
+            "start_at": 0,
+            "end_at": 0
+        },
+        {
+            "id": 1002000001,
+            "rolling_item_id": 2000001,
+            "reward_type": 8,
+            "reward_id": 810075,
+            "reward_quantity": 1,
+            "start_at": 0,
+            "end_at": 0
+        }
+    ]
+}

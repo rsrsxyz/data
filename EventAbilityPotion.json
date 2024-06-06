@@ -179,6 +179,42 @@
             "event_ability_potion_type": 1
         },
         {
+            "id": 940054,
+            "name": "4th Anniv. Appreciation Stage EXP Booster III [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 3x Stage Lv EXP in all Records for 24 hours after use. (Until [1719449999] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1719449999,
+            "icon": 940051,
+            "sort_order": 23123110,
+            "event_ability_group_id": 1436,
+            "duration_seconds": 86400,
+            "event_ability_potion_type": 1
+        },
+        {
+            "id": 940055,
+            "name": "4th Anniv. Appreciation Attribute Growth Booster V [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 5x attribute gains for all characters for 24 hours after use.  (Until [1719449999] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1719449999,
+            "icon": 940052,
+            "sort_order": 23123105,
+            "event_ability_group_id": 1437,
+            "duration_seconds": 86400,
+            "event_ability_potion_type": 1
+        },
+        {
+            "id": 940056,
+            "name": "4th Anniv. Appreciation Skill/Spell Rank Booster III [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 3x skill/spell rank up amount for all characters for 24 hours after use. (Until [1719449999] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1719449999,
+            "icon": 940053,
+            "sort_order": 23123100,
+            "event_ability_group_id": 1438,
+            "duration_seconds": 86400,
+            "event_ability_potion_type": 1
+        },
+        {
             "id": 1000940001,
             "name": "Halloween Party Night Booster [Ltd. Time]",
             "flavor_text": "[Limited Time] Item that grants 3x attribute gains for a character in all battle quests for 1 hour after use. (Until [1669337999] <tz>)",

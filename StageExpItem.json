@@ -54,6 +54,15 @@
             "exp": 100,
             "max_quantity": 99999999,
             "sort_order": 40000020
+        },
+        {
+            "id": 980006,
+            "name": "[Dragonrise Records] EXP Stamp (Stage Lv)",
+            "flavor_text": "Can be used to increase Stage Lv for Stages in Dragonrise Records.<br>*When increasing Stage Lv, one Stamp is used per 100 Stage Lv EXP.<br>*Cannot be used on certain Stages such as Event Stages.",
+            "icon": 980006,
+            "exp": 100,
+            "max_quantity": 99999999,
+            "sort_order": 40000025
         }
     ]
 }

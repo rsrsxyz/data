@@ -3269,7 +3269,7 @@
         {
             "id": 540004410,
             "drama_character_type": 1,
-            "name": "ヴェノム",
+            "name": "Venom",
             "style_id": 228803,
             "dot_id": 228803,
             "thumbnail_id": 228803
@@ -3277,7 +3277,7 @@
         {
             "id": 540004420,
             "drama_character_type": 1,
-            "name": "ラプタス",
+            "name": "Raptus",
             "style_id": 228803,
             "dot_id": 228803,
             "thumbnail_id": 228803
@@ -3285,7 +3285,7 @@
         {
             "id": 540004430,
             "drama_character_type": 1,
-            "name": "カラミティ",
+            "name": "Calamity",
             "style_id": 228803,
             "dot_id": 228803,
             "thumbnail_id": 228803
@@ -4451,9 +4451,17 @@
             "thumbnail_id": 229407
         },
         {
+            "id": 540005970,
+            "drama_character_type": 1,
+            "name": "Lady of Beginnings",
+            "style_id": 711113,
+            "dot_id": 711113,
+            "thumbnail_id": 711113
+        },
+        {
             "id": 540005980,
             "drama_character_type": 1,
-            "name": "ワグナス",
+            "name": "Wagnas",
             "style_id": 229107,
             "dot_id": 229107,
             "thumbnail_id": 229107
@@ -4461,7 +4469,7 @@
         {
             "id": 540005990,
             "drama_character_type": 1,
-            "name": "ノエル",
+            "name": "Noel",
             "style_id": 229211,
             "dot_id": 229211,
             "thumbnail_id": 229211
@@ -4469,7 +4477,7 @@
         {
             "id": 540006000,
             "drama_character_type": 1,
-            "name": "ロックブーケ",
+            "name": "Rocbouquet",
             "style_id": 229317,
             "dot_id": 229317,
             "thumbnail_id": 229317
@@ -4477,7 +4485,7 @@
         {
             "id": 540006010,
             "drama_character_type": 1,
-            "name": "スービエ",
+            "name": "Subier",
             "style_id": 229404,
             "dot_id": 229404,
             "thumbnail_id": 229404
@@ -4485,7 +4493,7 @@
         {
             "id": 540006020,
             "drama_character_type": 1,
-            "name": "ダンターグ",
+            "name": "Dantarg",
             "style_id": 229506,
             "dot_id": 229506,
             "thumbnail_id": 229506
@@ -4493,7 +4501,7 @@
         {
             "id": 540006030,
             "drama_character_type": 1,
-            "name": "ボクオーン",
+            "name": "Bokhohn",
             "style_id": 229603,
             "dot_id": 229603,
             "thumbnail_id": 229603
@@ -4501,7 +4509,7 @@
         {
             "id": 540006040,
             "drama_character_type": 1,
-            "name": "クジンシー",
+            "name": "Kzinssie",
             "style_id": 229706,
             "dot_id": 229706,
             "thumbnail_id": 229706
@@ -4969,6 +4977,62 @@
             "style_id": 0,
             "dot_id": 716200,
             "thumbnail_id": 0
+        },
+        {
+            "id": 540006720,
+            "drama_character_type": 1,
+            "name": "Mako",
+            "style_id": 238401,
+            "dot_id": 238400,
+            "thumbnail_id": 238401
+        },
+        {
+            "id": 540006730,
+            "drama_character_type": 1,
+            "name": "Tsunanori Mido",
+            "style_id": 630101,
+            "dot_id": 630100,
+            "thumbnail_id": 630101
+        },
+        {
+            "id": 540006740,
+            "drama_character_type": 1,
+            "name": "Siugnas",
+            "style_id": 630301,
+            "dot_id": 630300,
+            "thumbnail_id": 630301
+        },
+        {
+            "id": 540006750,
+            "drama_character_type": 1,
+            "name": "Diva No. 5",
+            "style_id": 630601,
+            "dot_id": 630600,
+            "thumbnail_id": 630601
+        },
+        {
+            "id": 540006760,
+            "drama_character_type": 1,
+            "name": "Bonnie",
+            "style_id": 630401,
+            "dot_id": 630400,
+            "thumbnail_id": 630401
+        },
+        {
+            "id": 540006770,
+            "drama_character_type": 1,
+            "name": "Formina",
+            "style_id": 630501,
+            "dot_id": 630500,
+            "thumbnail_id": 630501
+        },
+        {
+            "id": 540006780,
+            "drama_character_type": 1,
+            "name": "Ameya",
+            "style_id": 630201,
+            "dot_id": 630200,
+            "thumbnail_id": 630201
         },
         {
             "id": 549900010,
@@ -7477,10 +7541,18 @@
         {
             "id": 549903530,
             "drama_character_type": 2,
-            "name": "ラプタスの侍女",
+            "name": "Raptus's Maid",
             "style_id": 0,
             "dot_id": 9900219,
             "thumbnail_id": 0
+        },
+        {
+            "id": 549903540,
+            "drama_character_type": 2,
+            "name": "True Seven Heroes",
+            "style_id": 9900220,
+            "dot_id": 9900220,
+            "thumbnail_id": 9900220
         }
     ]
 }

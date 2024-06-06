@@ -1,0 +1,23 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3973777939103132172
+    },
+    "m_Name": "SpecialExpeditionItem",
+    "objectArray": [
+        {
+            "id": 1400001,
+            "name": "Special Expedition Ticket (Collection)",
+            "flavor_text": "Use to attempt Style EXP and Aurum Special Expeditions.",
+            "icon": 1400001,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24041701
+        }
+    ]
+}

@@ -72,6 +72,15 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 39990030
+        },
+        {
+            "id": 10007,
+            "name": "[Dragonrise Records] Exploration Point",
+            "flavor_text": "Item required for Open Chests in Dragonrise Records.",
+            "icon": 10008,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 39990035
         }
     ]
 }

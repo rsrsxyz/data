@@ -33580,6 +33580,36 @@
             ]
         },
         {
+            "id": 6585,
+            "event_ability_type": 3,
+            "rate": 5.0,
+            "reward_bonuses": [],
+            "drop_group_ids": []
+        },
+        {
+            "id": 6586,
+            "event_ability_type": 7,
+            "rate": 3.0,
+            "reward_bonuses": [],
+            "drop_group_ids": []
+        },
+        {
+            "id": 6587,
+            "event_ability_type": 8,
+            "rate": 3.0,
+            "reward_bonuses": [],
+            "drop_group_ids": []
+        },
+        {
+            "id": 6589,
+            "event_ability_type": 4,
+            "rate": 0.0,
+            "reward_bonuses": [],
+            "drop_group_ids": [
+                21013920
+            ]
+        },
+        {
             "id": 10001,
             "event_ability_type": 1,
             "rate": 0.0,

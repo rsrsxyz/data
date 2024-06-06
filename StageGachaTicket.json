@@ -27,6 +27,15 @@
             "max_quantity": 99999999,
             "sort_order": 45000005,
             "area_id": 10007
+        },
+        {
+            "id": 1300003,
+            "name": "[Dragonrise Records] Exploration Point (Gold Chest Gtd.)",
+            "flavor_text": "Used to Open 10x Gold Chests in Dragonrise Records.",
+            "icon": 1300003,
+            "max_quantity": 99999999,
+            "sort_order": 45000010,
+            "area_id": 10008
         }
     ]
 }

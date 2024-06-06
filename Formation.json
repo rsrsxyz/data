@@ -1604,8 +1604,8 @@
         },
         {
             "id": 1058,
-            "name": "オーバーアクセラレート",
-            "flavor_text": "パーティ全体の全ての能力が上昇する汎用陣形。<br>全体の被ダメージが軽減され、ターン終了時にODゲージが上昇し、幅広い敵に対応することができる。",
+            "name": "Over Acceleration",
+            "flavor_text": "All-purpose formation that boosts the party's all attributes. Reduces damage taken and increases the party's OD gauges at the end of turn. Can be used against a wide range of enemies.",
             "positions": [
                 {
                     "x": 25,
@@ -1631,6 +1631,38 @@
                     "x": 29,
                     "y": 43,
                     "formation_bonus_id": 1180
+                }
+            ]
+        },
+        {
+            "id": 1059,
+            "name": "Eagle Wings",
+            "flavor_text": "Special formation that increases END/WIL, recovers HP/BP at end of turn, and increases OD gauges for all but one member. For sustained battles.",
+            "positions": [
+                {
+                    "x": 25,
+                    "y": 43,
+                    "formation_bonus_id": 1181
+                },
+                {
+                    "x": 8,
+                    "y": 16,
+                    "formation_bonus_id": 1182
+                },
+                {
+                    "x": 12,
+                    "y": 6,
+                    "formation_bonus_id": 1182
+                },
+                {
+                    "x": 38,
+                    "y": 6,
+                    "formation_bonus_id": 1182
+                },
+                {
+                    "x": 43,
+                    "y": 16,
+                    "formation_bonus_id": 1182
                 }
             ]
         },

@@ -1,0 +1,90 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 9066681450517905
+    },
+    "m_Name": "SagaSeriesModel",
+    "objectArray": [
+        {
+            "id": 1,
+            "model_name": "GB"
+        },
+        {
+            "id": 11,
+            "model_name": "WSC"
+        },
+        {
+            "id": 21,
+            "model_name": "DS"
+        },
+        {
+            "id": 31,
+            "model_name": "PS Vita"
+        },
+        {
+            "id": 41,
+            "model_name": "SFC"
+        },
+        {
+            "id": 51,
+            "model_name": "PS"
+        },
+        {
+            "id": 61,
+            "model_name": "PS2"
+        },
+        {
+            "id": 71,
+            "model_name": "PS4"
+        },
+        {
+            "id": 81,
+            "model_name": "PS5"
+        },
+        {
+            "id": 91,
+            "model_name": "Xbox One"
+        },
+        {
+            "id": 101,
+            "model_name": "Switch"
+        },
+        {
+            "id": 111,
+            "model_name": "Virtual Console"
+        },
+        {
+            "id": 121,
+            "model_name": "Game Archives"
+        },
+        {
+            "id": 131,
+            "model_name": "Mobile"
+        },
+        {
+            "id": 141,
+            "model_name": "Smartphone"
+        },
+        {
+            "id": 151,
+            "model_name": "Smartphone Browser"
+        },
+        {
+            "id": 161,
+            "model_name": "Steam"
+        },
+        {
+            "id": 171,
+            "model_name": "Windows"
+        },
+        {
+            "id": 181,
+            "model_name": "PC Browser"
+        }
+    ]
+}

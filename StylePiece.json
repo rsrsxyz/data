@@ -379,6 +379,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 121307,
+            "name": "SS Goddess Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [New Year's Wishes] Goddess.",
+            "icon": 121307,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 121501,
             "name": "SS Hana Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Hana of Hatchobori] Hana.",
@@ -1607,6 +1615,14 @@
             "name": "SS Silver Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Opal of Wind Be Mine] Silver.",
             "icon": 213807,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 213810,
+            "name": "SS Silver Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [No Drinks for You!] Silver.",
+            "icon": 213810,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -5555,6 +5571,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 239210,
+            "name": "SS Byunei Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [This Is Formal Kimono?] Byunei.",
+            "icon": 239210,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 239301,
             "name": "S Aunus Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S ['Tis Fate...] Aunus.",
@@ -5639,6 +5663,14 @@
             "name": "SS Forneus Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Supremacy Remains Mine!] Forneus.",
             "icon": 239406,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 239407,
+            "name": "SS Forneus Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Witness My Art] Forneus.",
+            "icon": 239407,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -6081,6 +6113,14 @@
             "icon": 311302,
             "selling_price": 40,
             "exchange_cost": 50
+        },
+        {
+            "id": 311303,
+            "name": "SS Silence Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Happy New Year, Silence] Silence.",
+            "icon": 311303,
+            "selling_price": 100,
+            "exchange_cost": 250
         },
         {
             "id": 311401,
@@ -9615,6 +9655,14 @@
             "name": "SS Sumire Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Cutest Girl!] Sumire.",
             "icon": 716104,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 716105,
+            "name": "SS Sumire Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Soar High!] Sumire.",
+            "icon": 716105,
             "selling_price": 100,
             "exchange_cost": 250
         },

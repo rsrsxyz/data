@@ -1658,6 +1658,20 @@
             "pc_enemy_skill_hold_motion": 0
         },
         {
+            "id": 101153,
+            "pc_flag": 0,
+            "name": "Real Queen Jo",
+            "enemy_class": 1,
+            "species": [
+                1,
+                97
+            ],
+            "gender": 2,
+            "sprite_studio": 1,
+            "illust": 1011531,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
             "id": 102001,
             "pc_flag": 0,
             "name": "Hooligan",
@@ -3032,7 +3046,7 @@
         {
             "id": 103031,
             "pc_flag": 0,
-            "name": "Hogrider",
+            "name": "War Hog",
             "enemy_class": 3,
             "species": [
                 4
@@ -4735,6 +4749,19 @@
             "pc_enemy_skill_hold_motion": 0
         },
         {
+            "id": 104073,
+            "pc_flag": 0,
+            "name": "Gargoyle",
+            "enemy_class": 4,
+            "species": [
+                83
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1040731,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
             "id": 104074,
             "pc_flag": 0,
             "name": "Knight Servant",
@@ -5619,6 +5646,19 @@
             "pc_enemy_skill_hold_motion": 0
         },
         {
+            "id": 105060,
+            "pc_flag": 0,
+            "name": "Demon Grass",
+            "enemy_class": 5,
+            "species": [
+                6
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1050601,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
             "id": 105064,
             "pc_flag": 0,
             "name": "Strangler",
@@ -5739,6 +5779,32 @@
             "pc_enemy_skill_hold_motion": 0
         },
         {
+            "id": 105073,
+            "pc_flag": 0,
+            "name": "Trent",
+            "enemy_class": 5,
+            "species": [
+                6
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1050731,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 105074,
+            "pc_flag": 0,
+            "name": "Shrieker",
+            "enemy_class": 5,
+            "species": [
+                6
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1050741,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
             "id": 105075,
             "pc_flag": 0,
             "name": "Crystallized Tree",
@@ -5778,6 +5844,59 @@
             "pc_enemy_skill_hold_motion": 0
         },
         {
+            "id": 105078,
+            "pc_flag": 0,
+            "name": "Demon Seed",
+            "enemy_class": 5,
+            "species": [
+                6,
+                82
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1050781,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 105079,
+            "pc_flag": 0,
+            "name": "Grass Dancer",
+            "enemy_class": 5,
+            "species": [
+                6
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1050791,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 105080,
+            "pc_flag": 0,
+            "name": "Grass Dancer",
+            "enemy_class": 5,
+            "species": [
+                6
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1050801,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 105081,
+            "pc_flag": 0,
+            "name": "Grass Dancer",
+            "enemy_class": 5,
+            "species": [
+                6
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1050811,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
             "id": 105082,
             "pc_flag": 0,
             "name": "Floral Mine",
@@ -5802,6 +5921,19 @@
             "gender": 9,
             "sprite_studio": 0,
             "illust": 1050831,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 105084,
+            "pc_flag": 0,
+            "name": "Florence",
+            "enemy_class": 5,
+            "species": [
+                6
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1050841,
             "pc_enemy_skill_hold_motion": 0
         },
         {
@@ -6640,6 +6772,33 @@
             "pc_enemy_skill_hold_motion": 0
         },
         {
+            "id": 106067,
+            "pc_flag": 0,
+            "name": "Sniper Ant",
+            "enemy_class": 6,
+            "species": [
+                7,
+                82
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1060671,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 106068,
+            "pc_flag": 0,
+            "name": "Beetle Cruiser",
+            "enemy_class": 6,
+            "species": [
+                7
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1060681,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
             "id": 106069,
             "pc_flag": 0,
             "name": "Rumblebug",
@@ -6663,6 +6822,19 @@
             "gender": 9,
             "sprite_studio": 0,
             "illust": 1060701,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 106074,
+            "pc_flag": 0,
+            "name": "Armor Beetle",
+            "enemy_class": 6,
+            "species": [
+                7
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1060741,
             "pc_enemy_skill_hold_motion": 0
         },
         {
@@ -7575,6 +7747,59 @@
             "gender": 9,
             "sprite_studio": 1,
             "illust": 1994761,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 107086,
+            "pc_flag": 0,
+            "name": "Claw Crab",
+            "enemy_class": 7,
+            "species": [
+                8
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1070861,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 107087,
+            "pc_flag": 0,
+            "name": "Under Cover",
+            "enemy_class": 7,
+            "species": [
+                8
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1070871,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 107088,
+            "pc_flag": 0,
+            "name": "King Gator",
+            "enemy_class": 7,
+            "species": [
+                8,
+                10
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1070881,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 107089,
+            "pc_flag": 0,
+            "name": "Slaughter",
+            "enemy_class": 7,
+            "species": [
+                8
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1070891,
             "pc_enemy_skill_hold_motion": 0
         },
         {
@@ -10646,6 +10871,61 @@
             "pc_enemy_skill_hold_motion": 0
         },
         {
+            "id": 112085,
+            "pc_flag": 0,
+            "name": "Ghoula",
+            "enemy_class": 12,
+            "species": [
+                13
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1120851,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 112088,
+            "pc_flag": 0,
+            "name": "Lich",
+            "enemy_class": 12,
+            "species": [
+                13,
+                84
+            ],
+            "gender": 9,
+            "sprite_studio": 1,
+            "illust": 1130481,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 112089,
+            "pc_flag": 0,
+            "name": "High Disciple",
+            "enemy_class": 12,
+            "species": [
+                13,
+                84
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1130621,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 112090,
+            "pc_flag": 0,
+            "name": "High Disciple",
+            "enemy_class": 12,
+            "species": [
+                13,
+                84
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1130611,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
             "id": 113001,
             "pc_flag": 0,
             "name": "Eerie Skull",
@@ -11373,6 +11653,20 @@
             "gender": 9,
             "sprite_studio": 0,
             "illust": 1130621,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 113064,
+            "pc_flag": 0,
+            "name": "Anima Beast",
+            "enemy_class": 13,
+            "species": [
+                13,
+                84
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1120601,
             "pc_enemy_skill_hold_motion": 0
         },
         {
@@ -12774,6 +13068,19 @@
             "gender": 9,
             "sprite_studio": 0,
             "illust": 1150601,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 115065,
+            "pc_flag": 0,
+            "name": "Xenotype",
+            "enemy_class": 15,
+            "species": [
+                99
+            ],
+            "gender": 9,
+            "sprite_studio": 0,
+            "illust": 1150651,
             "pc_enemy_skill_hold_motion": 0
         },
         {
@@ -19416,7 +19723,7 @@
         {
             "id": 199487,
             "pc_flag": 0,
-            "name": "スウィートチョコの巨兵 ",
+            "name": "Sweet Chocolate Colossus",
             "enemy_class": 99,
             "species": [
                 3
@@ -19429,7 +19736,7 @@
         {
             "id": 199488,
             "pc_flag": 0,
-            "name": "ビターチョコの巨兵",
+            "name": "Bitter Chocolate Colossus",
             "enemy_class": 99,
             "species": [
                 3
@@ -19437,6 +19744,19 @@
             "gender": 9,
             "sprite_studio": 1,
             "illust": 1994881,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 199493,
+            "pc_flag": 0,
+            "name": "？？？",
+            "enemy_class": 99,
+            "species": [
+                99
+            ],
+            "gender": 9,
+            "sprite_studio": 1,
+            "illust": 1994931,
             "pc_enemy_skill_hold_motion": 0
         },
         {
@@ -19456,7 +19776,7 @@
         {
             "id": 199496,
             "pc_flag": 0,
-            "name": "リアルクィーン・ヴェノム",
+            "name": "Real Queen Venom",
             "enemy_class": 99,
             "species": [
                 7,
@@ -19470,7 +19790,7 @@
         {
             "id": 199504,
             "pc_flag": 0,
-            "name": "イゴマール",
+            "name": "Igomahl",
             "enemy_class": 99,
             "species": [
                 97
@@ -19483,7 +19803,7 @@
         {
             "id": 199505,
             "pc_flag": 0,
-            "name": "イゴマール",
+            "name": "Igomahl",
             "enemy_class": 99,
             "species": [
                 97
@@ -19496,7 +19816,7 @@
         {
             "id": 199506,
             "pc_flag": 0,
-            "name": "イゴマール",
+            "name": "Igomahl",
             "enemy_class": 99,
             "species": [
                 97
@@ -19504,6 +19824,20 @@
             "gender": 2,
             "sprite_studio": 1,
             "illust": 1992221,
+            "pc_enemy_skill_hold_motion": 0
+        },
+        {
+            "id": 199510,
+            "pc_flag": 0,
+            "name": "Hell Winger",
+            "enemy_class": 99,
+            "species": [
+                5,
+                82
+            ],
+            "gender": 9,
+            "sprite_studio": 1,
+            "illust": 1991391,
             "pc_enemy_skill_hold_motion": 0
         },
         {
