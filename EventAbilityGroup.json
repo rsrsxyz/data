@@ -6333,6 +6333,42 @@
             "priority": 531,
             "featured_start_at": 0,
             "featured_end_at": 0
+        },
+        {
+            "id": 1000000756,
+            "event_ability_category_id": 1000000507,
+            "name": "4th Anniv. Appreciation Round 2 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Light Purple Mineral drops in Dragonrise Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 532,
+            "featured_start_at": 0,
+            "featured_end_at": 0
+        },
+        {
+            "id": 1000000757,
+            "event_ability_category_id": 1000000508,
+            "name": "4th Anniv. Appreciation Round 2 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains and 3x skill/spell rank up amount in Free Quests<br>・Bonus Light Purple Mineral drops in Dragonrise Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 533,
+            "featured_start_at": 0,
+            "featured_end_at": 0
+        },
+        {
+            "id": 1000000758,
+            "event_ability_category_id": 1000000509,
+            "name": "4th Anniv. Appreciation Round 2 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains and 3x skill/spell rank up amount in Free Quests<br>・Bonus Light Purple Mineral drops in Dragonrise Records<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 534,
+            "featured_start_at": 0,
+            "featured_end_at": 0
         }
     ]
 }

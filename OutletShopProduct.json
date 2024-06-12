@@ -22948,6 +22948,78 @@
             "is_bulk_exchange": 1
         },
         {
+            "id": 101033,
+            "name": "Elemental Shutter",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 5,
+            "outlet_shop_tab_id": 5001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 50010435,
+            "rewards": [
+                {
+                    "type": 19,
+                    "id": 1057,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101034,
+            "name": "Battle Axe of the Earth",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1500,
+            "priority": 30137015,
+            "rewards": [
+                {
+                    "type": 15,
+                    "id": 103508300,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101035,
+            "name": "Dancer's Spear",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1500,
+            "priority": 30132035,
+            "rewards": [
+                {
+                    "type": 15,
+                    "id": 108509200,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
             "id": 1000100001,
             "name": "[Boba]",
             "description": "",

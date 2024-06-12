@@ -23976,7 +23976,7 @@
         {
             "id": 702102897,
             "name": "Great Captain",
-            "flavor_text": "[When being attacked]<br>Grants all other surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)) and <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).<br><br>[When another surviving ally is being attacked*]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/2 turn(s)) and <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br>*Number of activation will not be affected even if multiple allies are being attacked.<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110300390>Quickspin+</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=110300385>Whirlwind Splitter</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities, Skill/Spell Counterattacks, and Skills/Spells activated by skill/spell effects are not included.",
+            "flavor_text": "[When being attacked]<br>Grants all other surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)) and <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).<br><br>[When another surviving ally is being attacked*]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/2 turn(s)) and <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br>*Number of activation will not be affected even if multiple allies are being attacked.<br><br>[When landing an attack with an Attack type skill/spell†]<br><skill=110300390>Quickspin+</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack†]<br><skill=110300385>Whirlwind Splitter</skill> will be activated.<br>(Activates using skill Rank 1).<br>†Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043930,
@@ -24131,7 +24131,7 @@
         {
             "id": 702102912,
             "name": "Expert Archer",
-            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110900687>Emerald Supershot</skill> will be activated.<br>(Activates using skill Rank 1).<br><br><On odd turns counting from the start of battle><br>Grants oneself <special_effect=800000485>Clear Focus (1x)</special_effect> (no turn limit).<br><br><On even turns counting from the start of battle><br><skill=110900689>Dream Shot+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.<br><br>[When landing an attack with Emerald Supershot activated by this Ability]<br><skill=110900687>Emerald Supershot</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110900687>Emerald Supershot</skill> will be activated.<br>(Activates using skill Rank 1).<br><br><On odd turns counting from the start of battle><br>Grants oneself <special_effect=800000485>Clear Focus (1x)</special_effect> (no turn limit).<br><br><On even turns counting from the start of battle><br><skill=110900689>Dream Shot+</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[When landing an attack with Emerald Supershot activated by this Ability]<br><skill=110900687>Emerald Supershot</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043956,
@@ -80301,6 +80301,402 @@
                 802040745
             ],
             "icon": 4001,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100663,
+            "name": "Light-Clad",
+            "flavor_text": "[When landing a sun attack]<br>Increases own WIL (medium effect).<br>Increases own status ailments resistances (large effect).<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br><br>[When being attacked]<br>Increases own STR/DEX/AGI/INT (small effect).<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802014097,
+                802024098,
+                802024099,
+                802024100,
+                802024101,
+                802024102,
+                802024103,
+                802024104,
+                802024105,
+                802024106,
+                802024107,
+                1802041067,
+                802013900,
+                802013901,
+                802013902,
+                802013903,
+                802043899
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100664,
+            "name": "Castaway in Valhalland",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000095>Heat Up</special_effect> (large effect) (Max times: 3 times per battle).<br>Grants all surviving allies <special_effect=800000096>Defense Up</special_effect> (medium effect) (Max times: 3 times per battle).<br>Recovers own BP (+1).<br><br>[After activating Light-Clad Impact]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)) (very high chance).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)) (high chance).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041549,
+                1802041068,
+                802043909,
+                802043910,
+                802043911
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100665,
+            "name": "Castaway in Valhalland: Effect 1",
+            "flavor_text": "[Start of turn]<br>Activates the following (Max times: 3 times per battle):<br>・Grants all surviving allies <special_effect=800000095>Heat Up</special_effect> (large effect).<br>・Grants all surviving allies <special_effect=800000096>Defense Up</special_effect> (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                801041945,
+                802042846
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100666,
+            "name": "Rosalian Swordsmanship",
+            "flavor_text": "Increases attack damage for all allies (extreme effect).<br><br>[Start of round]<br>Grants all surviving allies <special_effect=1800000055>Light-Clad</special_effect> (5 turn(s)).<br><br>[When attacking with sun attacks]<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043475,
+                1802041069,
+                1802041070
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100667,
+            "name": "Rosalian Swordsmanship: Effect 1",
+            "flavor_text": "[Start of round]<br>Grants all surviving allies <special_effect=1800000055>Light-Clad</special_effect> (5 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041071
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100668,
+            "name": "Rosalian Swordsmanship: Effect 2",
+            "flavor_text": "[When attacking with sun attacks]<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042122
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100669,
+            "name": "Light-Clad",
+            "flavor_text": "[When landing a sun attack]<br>Increases own WIL (medium effect).<br>Increases own status ailments resistances (large effect).<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br><br>[When being attacked]<br>Increases own STR/DEX/AGI/INT (small effect).<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802014097,
+                802024098,
+                802024099,
+                802024100,
+                802024101,
+                802024102,
+                802024103,
+                802024104,
+                802024105,
+                802024106,
+                802024107,
+                1802041067,
+                802013900,
+                802013901,
+                802013902,
+                802013903,
+                802043899
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100670,
+            "name": "Thief's True Value",
+            "flavor_text": "[When landing an attack]<br>Recovers own BP (+1).<br>Grants oneself and 1 random surviving ally <special_effect=800000001>Attack Boost</special_effect> (small effect/2 turn(s)).<br>Grants oneself and 1 random surviving ally <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110700501>Screwdriver+</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br><skill=110700512>Gold Conductor</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br><skill=110900691>Accumulative Shot</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041072,
+                1802041073,
+                1802041074,
+                1802041075
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100671,
+            "name": "Thief's True Value: Effect 1",
+            "flavor_text": "[When landing an attack]<br>Recovers own BP (+1).<br>Grants oneself and 1 random surviving ally <special_effect=800000001>Attack Boost</special_effect> (small effect/2 turn(s)).<br>Grants oneself and 1 random surviving ally <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040742,
+                1802041076,
+                1802041077,
+                1802041078,
+                1802041079
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100672,
+            "name": "Thief's True Value: Effect 2",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110700501>Screwdriver+</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043947
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100673,
+            "name": "Thief's True Value: Effect 3",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110700512>Gold Conductor</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043948
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100674,
+            "name": "Thief's True Value: Effect 4",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110900691>Accumulative Shot</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043949
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100675,
+            "name": "Valhallan Warrior",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+4).<br><br>[When landing an attack]<br>Recovers own BP (+1).<br><br>[When landing an OD attack*/Weak attack*]<br>Reduces own STR (large effect).<br><skill=110300382>Ice Axe Mad Strike</skill> is then activated 2 times.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041534,
+                802041462,
+                1802041080
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100676,
+            "name": "Valhallan Warrior: Effect",
+            "flavor_text": "[When landing an OD attack*/Weak attack*]<br>Reduces own STR (large effect).<br><skill=110300382>Ice Axe Mad Strike</skill> is then activated 2 times.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043996,
+                1802041081,
+                1802041081
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100677,
+            "name": "Warrioress's Pride",
+            "flavor_text": "Attacks' damage increases (very large effect).<br>When attacked, damage taken will be reduced (extreme effect).<br><br>[After activating an OD attack*]<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/1 turn(s)) and <special_effect=800000015>Defense Boost</special_effect> (large effect/1 turn(s)).<br>Grants oneself <special_effect=1800000056>Valhallan Supremacy</special_effect> (1 turn(s)).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040346,
+                802040768,
+                1802041082
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100678,
+            "name": "Warrioress's Pride: Effect",
+            "flavor_text": "[After activating an OD attack*]<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/1 turn(s)) and <special_effect=800000015>Defense Boost</special_effect> (large effect/1 turn(s)).<br>Grants oneself <special_effect=1800000056>Valhallan Supremacy</special_effect> (1 turn(s)).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802040955,
+                802043448,
+                1802041083
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100679,
+            "name": "Valhallan Supremacy",
+            "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).<br>Recovers own BP (+1).<br>Cures oneself from all status ailments and removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041741,
+                802040460,
+                802040844,
+                802040834
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100680,
+            "name": "Treasure Seeker",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000481>Leader (2x)</special_effect> (1 turn(s)).<br>Recovers own BP (+2).<br><br>[At the end of every 3 turns counting from the start of battle]<br>Recovers all surviving allies' HP (small effect).<br>Recovers a random amount of all surviving allies' BP individually (+3 to +7).<br><br>[At the end of every 6 turns counting from the start of battle]<br>Restores the use limit of <skill=110300383>Pirate's Command</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043937,
+                802043950,
+                1802041084
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100681,
+            "name": "Treasure Seeker: Effect 3",
+            "flavor_text": "[At the end of every 6 turns counting from the start of battle]<br>Restores the use limit of <skill=110300383>Pirate's Command</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042502
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100682,
+            "name": "The Gray Swordsman",
+            "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>[Start of battle]<br>Grants oneself <special_effect=800000187>Elemental Enhance (Slash)</special_effect> (super extreme effect) and <special_effect=800000473>Swordsman's Guidance</special_effect> (Effect: permanent in battle).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110200553>Gravedigger+</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a very high chance to:<br>Activate <skill=110200554>Elegant Ice Flower</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040448,
+                1802041085,
+                802043898,
+                1802041086,
+                1802041087
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100683,
+            "name": "Child of Nisa",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000489>Mother of Earth's Blessing</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110300389>Flame Hawk+</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a high chance to:<br>Activate <skill=1110300044>Hellfire Wheel</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[On OD attacks]<br>Grants all surviving allies <special_effect=800000392>Defense Boost (Skill)</special_effect> (large effect/1 turn(s)).<br><br>[End of turn]<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                801042233,
+                1802041088,
+                1802041089,
+                1802041090,
+                1802041091
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100684,
+            "name": "Child of Nisa: Effect 1",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110300389>Flame Hawk+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043993
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100685,
+            "name": "Child of Nisa: Effect 2",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=1110300044>Hellfire Wheel</skill> will be activated (high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041092
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100686,
+            "name": "Child of Nisa: Effect 3",
+            "flavor_text": "[On OD attacks]<br>Grants all surviving allies <special_effect=800000392>Defense Boost (Skill)</special_effect> (large effect/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043994
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100687,
+            "name": "Travelling Dancer",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000119>Evasion (1 time)</special_effect> (1 turn(s)).<br>Recovers own BP (+2).<br>Has a very high chance to:<br>Grant oneself <special_effect=800000119>Evasion (1 time)</special_effect> (1 turn(s)).<br><br>[End of turn]<br>If no damage is taken by oneself during the turn, activates the following:<br>・Recovers all surviving allies' HP (small effect).<br>・Recovers all surviving allies' BP (+1).<br>・Increases all surviving allies' OD gauges (small effect).<br>・Grants oneself <special_effect=800000488>Passionate Step (1x)</special_effect> (no turn limit).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043976,
+                1802041093,
+                1802041094
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100688,
+            "name": "Travelling Dancer: Effect 2",
+            "flavor_text": "[Start of turn]<br>Has a very high chance to:<br>Grant oneself <special_effect=800000119>Evasion (1 time)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041731
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100689,
+            "name": "Travelling Dancer: Effect 3",
+            "flavor_text": "[End of turn]<br>If no damage is taken by oneself during the turn, activates the following:<br>・Recovers all surviving allies' HP (small effect).<br>・Recovers all surviving allies' BP (+1).<br>・Increases all surviving allies' OD gauges (small effect).<br>・Grants oneself <special_effect=800000488>Passionate Step (1x)</special_effect> (no turn limit).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043980,
+                1802041095,
+                1802041096,
+                802043979
+            ],
+            "icon": 4010,
             "rarity": 0,
             "sort_order": 0
         },

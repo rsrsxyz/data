@@ -763,6 +763,22 @@
             "exchange_cost": 250
         },
         {
+            "id": 210111,
+            "name": "SS Albert Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [With the Armor of God] Albert.",
+            "icon": 210111,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 210112,
+            "name": "SS Albert Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Cold Trains Me] Albert.",
+            "icon": 210112,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 210201,
             "name": "A Jamil Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of A [Thief Swift as the Wind] Jamil. ",
@@ -827,6 +843,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 210211,
+            "name": "SS Jamil Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [First Job Well Done] Jamil.",
+            "icon": 210211,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 210301,
             "name": "S Gray Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Wandering Adventurer] Gray. ",
@@ -883,6 +907,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 210310,
+            "name": "SS Gray Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Adventures Are Always Fun] Gray.",
+            "icon": 210310,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 210401,
             "name": "A Hawke Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of A [Ride the Wind!] Hawke.",
@@ -919,6 +951,14 @@
             "name": "SS Hawke Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Don't Fear the Storm!] Hawke.",
             "icon": 210407,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 210408,
+            "name": "SS Hawke Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Where's the Treasure?] Hawke.",
+            "icon": 210408,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -975,6 +1015,14 @@
             "name": "SS Aisha Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [This Is Western Style, Right?] Aisha.",
             "icon": 210509,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 210510,
+            "name": "SS Aisha Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Where Is Everyone?] Aisha.",
+            "icon": 210510,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -1051,6 +1099,22 @@
             "exchange_cost": 250
         },
         {
+            "id": 210614,
+            "name": "SS Claudia Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Joy of Not Knowing] Claudia.",
+            "icon": 210614,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 210615,
+            "name": "SS Claudia Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Shoot the Evil!] Claudia.",
+            "icon": 210615,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 210701,
             "name": "S Barbara Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Passionate Dancer] Barbara. ",
@@ -1107,6 +1171,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 210710,
+            "name": "SS Barbara Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Is This Valuable?] Barbara.",
+            "icon": 210710,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 210801,
             "name": "A Sif Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of A [You Don't Cut It] Sif. ",
@@ -1159,6 +1231,14 @@
             "name": "SS Sif Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Monsters Lie Ahead] Sif.",
             "icon": 210807,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 210808,
+            "name": "SS Sif Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'll Take Care of Them!] Sif.",
+            "icon": 210808,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -1447,6 +1527,14 @@
             "name": "SS Neidhart Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Time to Risk Your Life] Neidhart.",
             "icon": 212406,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 212408,
+            "name": "SS Neidhart Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Under the Protection of Men] Neidhart.",
+            "icon": 212408,
             "selling_price": 100,
             "exchange_cost": 250
         },

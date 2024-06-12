@@ -4948,6 +4948,83 @@
             "offset_y": 0,
             "unique_stage_node_size": 2,
             "is_node_base_display": 1
+        },
+        {
+            "id": 10546,
+            "stage_node_asset_type": 5,
+            "content_id": 10177,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 0,
+            "offset_y": 0,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 0
+        },
+        {
+            "id": 10548,
+            "stage_node_asset_type": 5,
+            "content_id": 10178,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 0,
+            "offset_y": 0,
+            "unique_stage_node_size": 3,
+            "is_node_base_display": 0
+        },
+        {
+            "id": 10557,
+            "stage_node_asset_type": 5,
+            "content_id": 10184,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 0,
+            "offset_y": -30,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 0
+        },
+        {
+            "id": 10558,
+            "stage_node_asset_type": 5,
+            "content_id": 10185,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 0,
+            "offset_y": -30,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 0
+        },
+        {
+            "id": 10559,
+            "stage_node_asset_type": 3,
+            "content_id": 199495,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 0,
+            "offset_y": 30,
+            "unique_stage_node_size": 3,
+            "is_node_base_display": 1
+        },
+        {
+            "id": 10560,
+            "stage_node_asset_type": 5,
+            "content_id": 10193,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 0,
+            "offset_y": 0,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 0
+        },
+        {
+            "id": 10561,
+            "stage_node_asset_type": 5,
+            "content_id": 10194,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 0,
+            "offset_y": -30,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 0
         }
     ]
 }

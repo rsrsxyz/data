@@ -3861,6 +3861,94 @@
             "joint_asset_id": 10001
         },
         {
+            "id": 100270101,
+            "stage_floor_id": 10027001,
+            "from_node_id": 10027001,
+            "from_edge_joint_id": 0,
+            "to_node_id": 0,
+            "joint_x": 305,
+            "joint_y": 750,
+            "edge_asset_id": 10001,
+            "joint_asset_id": 10001
+        },
+        {
+            "id": 100270102,
+            "stage_floor_id": 10027001,
+            "from_node_id": 0,
+            "from_edge_joint_id": 100270101,
+            "to_node_id": 10027013,
+            "joint_x": 0,
+            "joint_y": 0,
+            "edge_asset_id": 10001,
+            "joint_asset_id": 10001
+        },
+        {
+            "id": 100270103,
+            "stage_floor_id": 10027001,
+            "from_node_id": 10027013,
+            "from_edge_joint_id": 0,
+            "to_node_id": 0,
+            "joint_x": 265,
+            "joint_y": 600,
+            "edge_asset_id": 10001,
+            "joint_asset_id": 10001
+        },
+        {
+            "id": 100270104,
+            "stage_floor_id": 10027001,
+            "from_node_id": 0,
+            "from_edge_joint_id": 100270103,
+            "to_node_id": 10027014,
+            "joint_x": 0,
+            "joint_y": 0,
+            "edge_asset_id": 10001,
+            "joint_asset_id": 10001
+        },
+        {
+            "id": 100270105,
+            "stage_floor_id": 10027001,
+            "from_node_id": 10027014,
+            "from_edge_joint_id": 0,
+            "to_node_id": 10027041,
+            "joint_x": 0,
+            "joint_y": 0,
+            "edge_asset_id": 10001,
+            "joint_asset_id": 10001
+        },
+        {
+            "id": 100270201,
+            "stage_floor_id": 10027002,
+            "from_node_id": 10027016,
+            "from_edge_joint_id": 0,
+            "to_node_id": 0,
+            "joint_x": 435,
+            "joint_y": 730,
+            "edge_asset_id": 10001,
+            "joint_asset_id": 10001
+        },
+        {
+            "id": 100270202,
+            "stage_floor_id": 10027002,
+            "from_node_id": 0,
+            "from_edge_joint_id": 100270201,
+            "to_node_id": 10027028,
+            "joint_x": 0,
+            "joint_y": 0,
+            "edge_asset_id": 10001,
+            "joint_asset_id": 10001
+        },
+        {
+            "id": 100270203,
+            "stage_floor_id": 10027002,
+            "from_node_id": 10027028,
+            "from_edge_joint_id": 0,
+            "to_node_id": 10027042,
+            "joint_x": 0,
+            "joint_y": 0,
+            "edge_asset_id": 10001,
+            "joint_asset_id": 10001
+        },
+        {
             "id": 200260101,
             "stage_floor_id": 20026001,
             "from_node_id": 20026001,

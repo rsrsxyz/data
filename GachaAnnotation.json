@@ -9,5 +9,14 @@
         "m_PathID": -3720925401617433574
     },
     "m_Name": "GachaAnnotation",
-    "objectArray": []
+    "objectArray": [
+        {
+            "id": 1001000001,
+            "annotation_text": "*Illustrations of certain Styles may include characters that will not appear in this Summon.<br>*Summon Medals have an expiration date. Please check the news for details."
+        },
+        {
+            "id": 1001000002,
+            "annotation_text": "*Illustrations of certain Styles may include characters that will not appear in this Summon.<br>*Summons must be performed during the availability period. When this period ends, you can no longer perform this Summon.<br>*Summon Medals have an expiration date. Please check the news for details.<br>*The SS Styles available in this Summon will only be the Pickup SS Styles."
+        }
+    ]
 }

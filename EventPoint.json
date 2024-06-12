@@ -2673,6 +2673,28 @@
             "selling_price": 0
         },
         {
+            "id": 800333,
+            "name": "Romancing Festival Medal 174",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800333,
+            "max_quantity": 99999999,
+            "expired_at": 1720659599,
+            "sort_order": 24061260,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 800334,
+            "name": "Romancing Festival Medal 175",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800334,
+            "max_quantity": 99999999,
+            "expired_at": 1720659599,
+            "sort_order": 24061255,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -9357,6 +9379,28 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 24052130,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1100955,
+            "name": "Mining Pickaxe",
+            "flavor_text": "Item used in Excavate! Treasure in the Mine.",
+            "icon": 1100955,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24061200,
+            "stage_gacha_point_id": 10007,
+            "selling_price": 0
+        },
+        {
+            "id": 1100956,
+            "name": "Light Purple Mineral",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100956,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24061205,
             "stage_gacha_point_id": 0,
             "selling_price": 0
         },

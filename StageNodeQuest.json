@@ -5541,6 +5541,135 @@
             "initial_grindable": 0
         },
         {
+            "id": 1127001,
+            "name": "Excavate! Treasure in the Mine: Upper Floor-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20105001,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10007
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 100183,
+            "drop_group_ids": [
+                500080001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210133011,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1127002,
+            "name": "Excavate! Treasure in the Mine: Middle Floor-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20113801,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10007
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 100184,
+            "drop_group_ids": [
+                500080001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210133021,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1127004,
+            "name": "Excavate! Treasure in the Mine: Bottom Floor-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10007
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 100185,
+            "drop_group_ids": [
+                500080001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210133041,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
             "id": 2000001,
             "name": "Chronicler of Heroes",
             "growth_count": 1,

@@ -38554,6 +38554,74 @@
             "excluded_quest_group_ids": []
         },
         {
+            "id": 7650,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10008
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7524
+            ],
+            "start_at": 1718240400,
+            "end_at": 1719449999,
+            "priority": 0,
+            "flavor_text": "Light Purple Mineral Drops in Dragonrise Records",
+            "detail": "・Light Purple Mineral drops in Dragonrise Records",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7651,
+            "displays_campaign": 0,
+            "quest_category": 0,
+            "area_ids": [],
+            "stage_ids": [],
+            "quest_ids": [
+                1127001,
+                1127002,
+                1127004
+            ],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7525
+            ],
+            "start_at": 1718240400,
+            "end_at": 1893373199,
+            "priority": 0,
+            "flavor_text": "",
+            "detail": "",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7674,
+            "displays_campaign": 0,
+            "quest_category": 0,
+            "area_ids": [],
+            "stage_ids": [],
+            "quest_ids": [
+                1127004
+            ],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7539
+            ],
+            "start_at": 1718240400,
+            "end_at": 1893373199,
+            "priority": 0,
+            "flavor_text": "",
+            "detail": "",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
             "id": 50001,
             "displays_campaign": 0,
             "quest_category": 13,
@@ -91782,6 +91850,35 @@
             "priority": 0,
             "flavor_text": "5x Style EXP Campaign",
             "detail": "・5x Style EXP in Dragonrise Records",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 1000002683,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10001,
+                10002,
+                10003,
+                10004,
+                10005,
+                10006,
+                10007,
+                10008
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7354
+            ],
+            "start_at": 1718240400,
+            "end_at": 1718845199,
+            "priority": 0,
+            "flavor_text": "5x Style EXP Campaign",
+            "detail": "・5x Style EXP in Free Quests",
             "featured_start_at": 0,
             "featured_end_at": 0,
             "excluded_quest_group_ids": []
