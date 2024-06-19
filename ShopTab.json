@@ -984,6 +984,27 @@
             "priority": 9997
         },
         {
+            "id": 10330,
+            "shop_id": 4900663,
+            "name": "Pickup Styles",
+            "shop_filter_type": 1,
+            "priority": 9999
+        },
+        {
+            "id": 10331,
+            "shop_id": 4900663,
+            "name": "Other Styles",
+            "shop_filter_type": 1,
+            "priority": 9998
+        },
+        {
+            "id": 10332,
+            "shop_id": 4900663,
+            "name": "Misc.",
+            "shop_filter_type": 2,
+            "priority": 9997
+        },
+        {
             "id": 10336,
             "shop_id": 4900668,
             "name": "Pickup Styles",

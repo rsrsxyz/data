@@ -13529,6 +13529,516 @@
             "quest_clear_bundle": 270,
             "displays_enemy_information": 1,
             "typical_formation_id": 0
+        },
+        {
+            "id": 400002711,
+            "quest_type": 1,
+            "name": "Spiral Corridor Floor 271",
+            "growth_count": 1,
+            "clear_limit": 0,
+            "banner": 700000177,
+            "stamina": 0,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "illust_id": 1070171,
+            "typical_enemy_ids": [],
+            "sort_order": 271,
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_rewards": [
+                {
+                    "type": 43,
+                    "id": 2000002,
+                    "quantity": 5
+                },
+                {
+                    "type": 43,
+                    "id": 2000001,
+                    "quantity": 3
+                },
+                {
+                    "type": 43,
+                    "id": 1001000,
+                    "quantity": 20
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "area_id": 509,
+            "battle_id": 400012011,
+            "scenario_id": 0,
+            "prev_quest_ids": [
+                400002701
+            ],
+            "start_at": 1718845200,
+            "end_at": 0,
+            "twitter_button_id": 0,
+            "local_area_id": 400000281,
+            "quest_clear_bundle": 271,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 400002721,
+            "quest_type": 1,
+            "name": "Spiral Corridor Floor 272",
+            "growth_count": 1,
+            "clear_limit": 0,
+            "banner": 700000177,
+            "stamina": 0,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "illust_id": 1120071,
+            "typical_enemy_ids": [],
+            "sort_order": 272,
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_rewards": [
+                {
+                    "type": 43,
+                    "id": 2000002,
+                    "quantity": 5
+                },
+                {
+                    "type": 43,
+                    "id": 2000001,
+                    "quantity": 3
+                },
+                {
+                    "type": 43,
+                    "id": 1001000,
+                    "quantity": 20
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "area_id": 509,
+            "battle_id": 400012021,
+            "scenario_id": 0,
+            "prev_quest_ids": [
+                400002701
+            ],
+            "start_at": 1718845200,
+            "end_at": 0,
+            "twitter_button_id": 0,
+            "local_area_id": 400000281,
+            "quest_clear_bundle": 272,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 400002731,
+            "quest_type": 1,
+            "name": "Spiral Corridor Floor 273",
+            "growth_count": 1,
+            "clear_limit": 0,
+            "banner": 700000177,
+            "stamina": 0,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "illust_id": 1130371,
+            "typical_enemy_ids": [],
+            "sort_order": 273,
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_rewards": [
+                {
+                    "type": 43,
+                    "id": 2000002,
+                    "quantity": 5
+                },
+                {
+                    "type": 43,
+                    "id": 2000001,
+                    "quantity": 3
+                },
+                {
+                    "type": 43,
+                    "id": 1001000,
+                    "quantity": 20
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "area_id": 509,
+            "battle_id": 400012031,
+            "scenario_id": 0,
+            "prev_quest_ids": [
+                400002701
+            ],
+            "start_at": 1718845200,
+            "end_at": 0,
+            "twitter_button_id": 0,
+            "local_area_id": 400000281,
+            "quest_clear_bundle": 273,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 400002741,
+            "quest_type": 1,
+            "name": "Spiral Corridor Floor 274",
+            "growth_count": 1,
+            "clear_limit": 0,
+            "banner": 700000177,
+            "stamina": 0,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "illust_id": 1020071,
+            "typical_enemy_ids": [],
+            "sort_order": 274,
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_rewards": [
+                {
+                    "type": 43,
+                    "id": 2000002,
+                    "quantity": 5
+                },
+                {
+                    "type": 43,
+                    "id": 2000001,
+                    "quantity": 3
+                },
+                {
+                    "type": 43,
+                    "id": 1001000,
+                    "quantity": 20
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "area_id": 509,
+            "battle_id": 400012041,
+            "scenario_id": 0,
+            "prev_quest_ids": [
+                400002701
+            ],
+            "start_at": 1718845200,
+            "end_at": 0,
+            "twitter_button_id": 0,
+            "local_area_id": 400000281,
+            "quest_clear_bundle": 274,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 400002751,
+            "quest_type": 1,
+            "name": "Spiral Corridor Floor 275",
+            "growth_count": 1,
+            "clear_limit": 0,
+            "banner": 700000177,
+            "stamina": 0,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "illust_id": 1070201,
+            "typical_enemy_ids": [],
+            "sort_order": 275,
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_rewards": [
+                {
+                    "type": 43,
+                    "id": 2000002,
+                    "quantity": 5
+                },
+                {
+                    "type": 43,
+                    "id": 2000001,
+                    "quantity": 3
+                },
+                {
+                    "type": 43,
+                    "id": 1001300,
+                    "quantity": 6
+                },
+                {
+                    "type": 43,
+                    "id": 1001000,
+                    "quantity": 20
+                },
+                {
+                    "type": 43,
+                    "id": 1000200,
+                    "quantity": 4
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "area_id": 509,
+            "battle_id": 400012051,
+            "scenario_id": 0,
+            "prev_quest_ids": [
+                400002701
+            ],
+            "start_at": 1718845200,
+            "end_at": 0,
+            "twitter_button_id": 0,
+            "local_area_id": 400000281,
+            "quest_clear_bundle": 275,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 400002761,
+            "quest_type": 1,
+            "name": "Spiral Corridor Floor 276",
+            "growth_count": 1,
+            "clear_limit": 0,
+            "banner": 700000177,
+            "stamina": 0,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "illust_id": 1060211,
+            "typical_enemy_ids": [],
+            "sort_order": 276,
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_rewards": [
+                {
+                    "type": 43,
+                    "id": 2000002,
+                    "quantity": 5
+                },
+                {
+                    "type": 43,
+                    "id": 2000001,
+                    "quantity": 3
+                },
+                {
+                    "type": 43,
+                    "id": 1001000,
+                    "quantity": 20
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "area_id": 509,
+            "battle_id": 400012061,
+            "scenario_id": 0,
+            "prev_quest_ids": [
+                400002701
+            ],
+            "start_at": 1718845200,
+            "end_at": 0,
+            "twitter_button_id": 0,
+            "local_area_id": 400000281,
+            "quest_clear_bundle": 276,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 400002771,
+            "quest_type": 1,
+            "name": "Spiral Corridor Floor 277",
+            "growth_count": 1,
+            "clear_limit": 0,
+            "banner": 700000177,
+            "stamina": 0,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "illust_id": 1130291,
+            "typical_enemy_ids": [],
+            "sort_order": 277,
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_rewards": [
+                {
+                    "type": 43,
+                    "id": 2000002,
+                    "quantity": 5
+                },
+                {
+                    "type": 43,
+                    "id": 2000001,
+                    "quantity": 3
+                },
+                {
+                    "type": 43,
+                    "id": 1001000,
+                    "quantity": 20
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "area_id": 509,
+            "battle_id": 400012071,
+            "scenario_id": 0,
+            "prev_quest_ids": [
+                400002701
+            ],
+            "start_at": 1718845200,
+            "end_at": 0,
+            "twitter_button_id": 0,
+            "local_area_id": 400000281,
+            "quest_clear_bundle": 277,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 400002781,
+            "quest_type": 1,
+            "name": "Spiral Corridor Floor 278",
+            "growth_count": 1,
+            "clear_limit": 0,
+            "banner": 700000177,
+            "stamina": 0,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "illust_id": 1140091,
+            "typical_enemy_ids": [],
+            "sort_order": 278,
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_rewards": [
+                {
+                    "type": 43,
+                    "id": 2000002,
+                    "quantity": 5
+                },
+                {
+                    "type": 43,
+                    "id": 2000001,
+                    "quantity": 3
+                },
+                {
+                    "type": 43,
+                    "id": 1001000,
+                    "quantity": 20
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "area_id": 509,
+            "battle_id": 400012081,
+            "scenario_id": 0,
+            "prev_quest_ids": [
+                400002701
+            ],
+            "start_at": 1718845200,
+            "end_at": 0,
+            "twitter_button_id": 0,
+            "local_area_id": 400000281,
+            "quest_clear_bundle": 278,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 400002791,
+            "quest_type": 1,
+            "name": "Spiral Corridor Floor 279",
+            "growth_count": 1,
+            "clear_limit": 0,
+            "banner": 700000177,
+            "stamina": 0,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "illust_id": 1110091,
+            "typical_enemy_ids": [],
+            "sort_order": 279,
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_rewards": [
+                {
+                    "type": 43,
+                    "id": 2000002,
+                    "quantity": 5
+                },
+                {
+                    "type": 43,
+                    "id": 2000001,
+                    "quantity": 3
+                },
+                {
+                    "type": 43,
+                    "id": 1001000,
+                    "quantity": 20
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "area_id": 509,
+            "battle_id": 400012091,
+            "scenario_id": 0,
+            "prev_quest_ids": [
+                400002701
+            ],
+            "start_at": 1718845200,
+            "end_at": 0,
+            "twitter_button_id": 0,
+            "local_area_id": 400000281,
+            "quest_clear_bundle": 279,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
+        },
+        {
+            "id": 400002801,
+            "quest_type": 1,
+            "name": "Spiral Corridor Floor 280",
+            "growth_count": 1,
+            "clear_limit": 0,
+            "banner": 700000177,
+            "stamina": 0,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "illust_id": 1120831,
+            "typical_enemy_ids": [],
+            "sort_order": 280,
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_rewards": [
+                {
+                    "type": 43,
+                    "id": 2000002,
+                    "quantity": 5
+                },
+                {
+                    "type": 43,
+                    "id": 2000001,
+                    "quantity": 3
+                },
+                {
+                    "type": 43,
+                    "id": 1001300,
+                    "quantity": 6
+                },
+                {
+                    "type": 43,
+                    "id": 1001000,
+                    "quantity": 20
+                },
+                {
+                    "type": 43,
+                    "id": 1000200,
+                    "quantity": 4
+                }
+            ],
+            "rewards": [],
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "area_id": 509,
+            "battle_id": 400012101,
+            "scenario_id": 0,
+            "prev_quest_ids": [
+                400002701
+            ],
+            "start_at": 1718845200,
+            "end_at": 0,
+            "twitter_button_id": 0,
+            "local_area_id": 400000281,
+            "quest_clear_bundle": 280,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0
         }
     ]
 }

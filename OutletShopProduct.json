@@ -22828,6 +22828,30 @@
             "is_bulk_exchange": 1
         },
         {
+            "id": 101021,
+            "name": "Radiant Stone",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3005,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1500,
+            "priority": 30050330,
+            "rewards": [
+                {
+                    "type": 7,
+                    "id": 1100951,
+                    "quantity": 1000
+                }
+            ],
+            "is_only_not_owned": 0,
+            "only_not_owned_possible_count": 0,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
             "id": 101022,
             "name": "Azure Dragon Trident",
             "description": "",
@@ -24955,6 +24979,30 @@
                 {
                     "type": 14,
                     "id": 1000220402,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 1000100092,
+            "name": "SS Dragon Knight Style",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 2,
+            "outlet_shop_tab_id": 2001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 2000,
+            "priority": 20129070,
+            "rewards": [
+                {
+                    "type": 14,
+                    "id": 213502,
                     "quantity": 1
                 }
             ],

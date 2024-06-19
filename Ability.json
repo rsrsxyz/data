@@ -12219,7 +12219,7 @@
         {
             "id": 702101877,
             "name": "Dragonwing Flash",
-            "flavor_text": "[After activating an OD attack*]<br>Activates the following:<br>・<skill=110200327>Wing Bash</skill> will be activated.<br>(Activates using skill Rank 1).<br>・Recovers own BP (+5).<br>・Grants oneself <special_effect=800000095>Heat Up</special_effect> (medium effect) (Max times: 3 times per battle).<br><br>*Skills/Spells activated by this Ability and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[After activating an OD attack*]<br>Activates the following:<br>・<skill=110200327>Wing Bash</skill> will be activated.<br>(Activates using skill Rank 1).<br>・Recovers own BP (+5).<br>・Grants oneself <special_effect=800000095>Heat Up</special_effect> (medium effect) (Max times: 3 times per battle).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042140,
@@ -23101,7 +23101,7 @@
         {
             "id": 702102817,
             "name": "Dragon's Destiny",
-            "flavor_text": "[On OD attacks]<br>Grants oneself <special_effect=800000080>\"End of Turn: Recover HP\"</special_effect> (very large effect/1 turn(s)).<br><br>[When landing an attack on an Human enemy]<br>Grants oneself <special_effect=800000080>\"End of Turn: Recover HP\"</special_effect> (very small effect/1 turn(s)).<br>Recovers own BP (+1).<br><br>[When landing an attack with an Attack type skill/spell†]<br>Takes recoil damage for oneself (10% of Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.<br><skill=110500518>Lightning Tempest</skill> will be activated 2 times.<br>(Activates using skill Rank 1).<br>†Skills/Spells activated by Abilities, Skill/Spell Counterattacks, and Skills/Spells activated by skill/spell effects are not included.",
+            "flavor_text": "[On OD attacks]<br>Grants oneself <special_effect=800000080>\"End of Turn: Recover HP\"</special_effect> (very large effect/1 turn(s)).<br><br>[When landing an attack on a Human enemy]<br>Grants oneself <special_effect=800000080>\"End of Turn: Recover HP\"</special_effect> (very small effect/1 turn(s)).<br>Recovers own BP (+1).<br><br>[When landing an attack with an Attack type skill/spell†]<br>Takes recoil damage* for oneself (10% of Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.<br><skill=110500518>Lightning Tempest</skill> will be activated 2 times.<br>(Activates using skill Rank 1).<br>†Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043969,
@@ -23250,7 +23250,7 @@
         {
             "id": 702102830,
             "name": "Tight Bond",
-            "flavor_text": "[Start of turn]<br>When all allies are still surviving, activates the following:<br>・Grants oneself and 1 random surviving ally <special_effect=800000001>Attack Boost</special_effect> (large effect/1 turn(s)).<br>・Grants oneself and 1 random surviving ally <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br>・Recovers own and 1 random surviving ally's HP (small effect).<br>・Recovers 1 random surviving ally's BP (+2).",
+            "flavor_text": "[Start of turn]<br>When all allies are still surviving, activates the following:<br>・Grants oneself and 1 random surviving ally <special_effect=800000001>Attack Boost</special_effect> (large effect/1 turn(s)).<br>・Grants oneself and 1 random surviving ally <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br>・Recovers 1 random surviving ally's HP (small effect).<br>・Recovers 1 random surviving ally's BP (+2).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043826,
@@ -23370,7 +23370,7 @@
         {
             "id": 702102839,
             "name": "Limited High Power",
-            "flavor_text": "Weak attacks' damage increases (extreme effect).<br>OD attacks' damage increases (super extreme effect).<br><br>[End of turn]<br>Activates the following (Max times: 3 times per battle):<br>・Recovers own BP (+5).<br>・Grants oneself <special_effect=800000169>Heat Down</special_effect> (small effect).",
+            "flavor_text": "Weak attacks' damage increases (super extreme effect).<br>OD attacks' damage increases (super extreme effect).<br><br>[End of turn]<br>Activates the following (Max times: 3 times per battle):<br>・Recovers own BP (+5).<br>・Grants oneself <special_effect=800000169>Heat Down</special_effect> (small effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042732,
@@ -23597,7 +23597,7 @@
         {
             "id": 702102863,
             "name": "Cat's Pride",
-            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>[When landing an attack]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/5 turn(s)).<br>Recovers own BP (+1).<br>Takes recoil damage for oneself (20% of Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500531>Thumping Animal March</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities, Skill/Spell Counterattacks, and Skills/Spells activated by skill/spell effects are not included.",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>[When landing an attack]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/5 turn(s)).<br>Recovers own BP (+1).<br>Takes recoil damage for oneself (20% of Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500531>Thumping Animal March</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040520,
@@ -25702,8 +25702,8 @@
         },
         {
             "id": 702103039,
-            "name": "体術の天稟Ⅴ",
-            "flavor_text": "体術装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
+            "name": "Intrinsic M. Arts Ⅴ",
+            "flavor_text": "When attacking with M. Arts, attack damage increases (extreme effect).<br>When attacked by an attack that would cause Resist, reduces damage taken (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041025,
@@ -49495,7 +49495,7 @@
         {
             "id": 708300271,
             "name": "Late Bloom Power: Attack",
-            "flavor_text": "On certain turns counting from the start of battle (Turn 5/every 4 turns after Turn 5)]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (small effect).",
+            "flavor_text": "[On certain turns counting from the start of battle (Turn 5/every 4 turns after Turn 5)]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (small effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808040511
@@ -50460,7 +50460,7 @@
         {
             "id": 708300415,
             "name": "Off & Def Even Up Ⅱ",
-            "flavor_text": "On certain turns counting from the start of battle (Turn 1/every 2 turns after Turn 1), grants oneself <special_effect=800000095>Heat Up</special_effect> (medium effect).<br>Grants the user <special_effect=800000096>Defense Up</special_effect> (small effect).",
+            "flavor_text": "[On certain turns counting from the start of battle (Turn 1/every 2 turns after Turn 1)]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (medium effect).<br>Grants oneself <special_effect=800000096>Defense Up</special_effect> (small effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808040811,
@@ -80701,6 +80701,255 @@
             "sort_order": 0
         },
         {
+            "id": 1702100690,
+            "name": "Lots of Play",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+4).<br>Grants all surviving allies <special_effect=800000461>Frenzy Dance (1x)</special_effect> (no turn limit).<br>Grants all surviving allies <special_effect=800000095>Heat Up</special_effect> (large effect).<br>Grants all surviving allies <special_effect=800000096>Defense Up</special_effect> (very large effect).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (large effect/3 turn(s)).<br><br>[Start of turn]<br>Grants all surviving allies <special_effect=1800000057>All-In Rush (2x)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041534,
+                802043815,
+                801041348,
+                1802041097,
+                802043929,
+                1802041098
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100691,
+            "name": "Lots of Play: Effect",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=1800000057>All-In Rush (2x)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041099
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100692,
+            "name": "All-In Rush (2x)",
+            "flavor_text": "When landing an attack, activates the following (Max times: 2):<br>・Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/2 turn(s)).<br>・Grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042162,
+                802043727
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100693,
+            "name": "Double Power",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br>When attacked, damage taken will be reduced (very large effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110800526>Assault</skill> will be activated 2 time(s).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040741,
+                802040448,
+                1802041100
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100694,
+            "name": "Double Power: Effect",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110800526>Assault</skill> will be activated 2 time(s).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043823,
+                802043823
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100695,
+            "name": "Great Dragon's Majesty",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+1).<br><br>[When attacked and HP reaches 0]<br>Returns to 100% of Max HP (Max times: 1 time per battle).<br><br>[When landing an attack]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/5 turn(s)) and <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).<br>Grants the target <special_effect=800000035>Defense Down</special_effect> (small effect/2 turn(s)).<br>Removes target's buffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.<br><br>[End of turn]<br>Recovers own BP (+2).<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040323,
+                802043682,
+                1802041101,
+                1802041102
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100696,
+            "name": "Great Dragon's Majesty: Effect 1",
+            "flavor_text": "[When landing an attack]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/5 turn(s)) and <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).<br>Grants the target <special_effect=800000035>Defense Down</special_effect> (small effect/2 turn(s)).<br>Removes target's buffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043883,
+                802043968,
+                802043800,
+                1802041103
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100697,
+            "name": "Great Dragon's Majesty: Effect 2",
+            "flavor_text": "[End of turn]<br>Recovers own BP (+2).<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040754,
+                802041741
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100698,
+            "name": "Rousing Bond",
+            "flavor_text": "[When another surviving ally is being attacked*]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (small effect/2 turn(s)).<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br>*Number of activation will not be affected even if multiple allies are being attacked.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042237,
+                802042238
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100699,
+            "name": "Fateful Encounter",
+            "flavor_text": "When all allies are still surviving, reduces damage taken for all allies (very large effect).<br><br>[Start of battle]<br>Recovers own BP (+2).<br><br>[End of turn]<br>Grants oneself <special_effect=800000463>Tight Bond (4x)</special_effect> (10 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040322,
+                1802041104,
+                802043832
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100700,
+            "name": "Roaring Crimson",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+10).<br><br>[Start of turn]<br>Grants oneself <special_effect=1800000058>Dragon's Pursuit</special_effect> (2 turn(s)).<br><br>[When attacking with a Normal attack]<br><skill=110500523>Prominence Charge</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[End of turn]<br>Fills up own OD gauge (very high chance).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041285,
+                1802041105,
+                1802041106,
+                1802041107
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100701,
+            "name": "Roaring Crimson: Effect 1",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=1800000058>Dragon's Pursuit</special_effect> (2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041108
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100702,
+            "name": "Roaring Crimson: Effect 2",
+            "flavor_text": "On normal attacks, activates <skill=110500523>Prominence Charge</skill>.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043853
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100703,
+            "name": "Roaring Crimson: Effect 3",
+            "flavor_text": "[End of turn]<br>Fills up own OD gauge (very high chance).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041940
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100704,
+            "name": "Dragon's Pursuit",
+            "flavor_text": "[After activating an OD attack*]<br>Grants oneself <special_effect=800000005>Heat Attack Boost</special_effect> (large effect/3 turn(s)).<br>Reduces target's STR/AGI (medium effect).<br><br><In the case of a column attack><br><skill=110500522>Tail Attack Breath</skill> will be activated.<br>(Activates using skill Rank 1).<br><br><In the case of an all-range attack><br><skill=110500523>Prominence Charge</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041109,
+                1802041110,
+                1802041111,
+                802043835,
+                802043838
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100705,
+            "name": "Impregnable Fortress",
+            "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>[Start of battle]<br>Grants oneself <special_effect=800000222>Formal Stance</special_effect> (Effect: permanent in battle).<br><br>[When an ally is being attacked]<br>Takes an ally's place in being attacked, and reduces the damage (very high chance).<br><br>[When being attacked]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040448,
+                802042210,
+                801042070,
+                1802041112
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100706,
+            "name": "Impregnable Fortress: Effect",
+            "flavor_text": "[When being attacked]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041113,
+                802040069
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100707,
+            "name": "Dragon Knight's Protection",
+            "flavor_text": "Attacks' damage increases (very large effect).<br><br>[Start of battle]<br>Grants all surviving allies <special_effect=800000149>Damage Block (5 times)</special_effect> (no turn limit).<br>Grants all surviving allies <special_effect=800000462>Rest & Fight Ⅰ</special_effect> (Effect: permanent in battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040346,
+                1802041114,
+                1802041115,
+                1802041116
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
             "id": 1702200002,
             "name": "Cover of Night",
             "flavor_text": "[Start of round]<br>Has oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).",
@@ -82158,6 +82407,21 @@
             "sort_order": 0
         },
         {
+            "id": 1708100011,
+            "name": "Dragon Knight's Protection",
+            "flavor_text": "Attacks' damage increases (very large effect).<br><br>[Start of battle]<br>Grants all surviving allies <special_effect=800000149>Damage Block (5 times)</special_effect> (no turn limit).<br>Grants all surviving allies <special_effect=800000462>Rest & Fight Ⅰ</special_effect> (Effect: permanent in battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040346,
+                1802041114,
+                1802041115,
+                1808040043
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
             "id": 1708300001,
             "name": "Poison Rally",
             "flavor_text": "[Start of turn]<br>Inflicts <special_effect=800000083>poison</special_effect> on oneself (10 turn(s)).<br>Inflicts <special_effect=800000083>poison</special_effect> on all enemies (10 turn(s)).",
@@ -82328,6 +82592,18 @@
             "sort_order": 0
         },
         {
+            "id": 1708400008,
+            "name": "End of Turn: Recover HP",
+            "flavor_text": "[End of turn]<br>If no damage is taken by oneself during the turn, recovers all surviving allies' HP (very small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1808040044
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
             "id": 1708600001,
             "name": "Breath of the Void",
             "flavor_text": "When landing an attack that defeats the target, removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
@@ -82488,6 +82764,21 @@
             "special_effect_ids": [
                 1808040041,
                 1808040042
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1708600015,
+            "name": "Great Dragon's Majesty",
+            "flavor_text": "[When landing an attack]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/5 turn(s)) and <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).<br>Grants the target <special_effect=800000035>Defense Down</special_effect> (small effect/2 turn(s)).<br>Removes target's buffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043883,
+                802043968,
+                802043800,
+                1802041103
             ],
             "icon": 4010,
             "rarity": 0,

@@ -131,6 +131,21 @@
             "lock_text": ""
         },
         {
+            "id": 17,
+            "multi_mission_group_id": 11,
+            "title": "Collect! Five Dragons Festival Co-op Missions",
+            "summary": "Get Dragon Mark Stones",
+            "description": "Get Dragon Mark Stones in Free Quests",
+            "area_id": 10008,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1718845200,
+            "end_at": 1719795599,
+            "priority": 10000,
+            "lock_text": ""
+        },
+        {
             "id": 1000000001,
             "multi_mission_group_id": 1000000001,
             "title": "Fight Together! Fateful Showdown Co-op Missions",

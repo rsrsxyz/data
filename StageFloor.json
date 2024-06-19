@@ -1166,6 +1166,39 @@
             "quest_bg_id": 700000086
         },
         {
+            "id": 10024001,
+            "name": "Cave 1",
+            "stage_id": 19910024,
+            "floor": 1,
+            "bg_id": 0,
+            "battle_bg_id": 700000189,
+            "bgm_id": 130112,
+            "node_asset_theme": 1,
+            "quest_bg_id": 700000189
+        },
+        {
+            "id": 10024002,
+            "name": "Cave 2",
+            "stage_id": 19910024,
+            "floor": 2,
+            "bg_id": 0,
+            "battle_bg_id": 700000189,
+            "bgm_id": 130112,
+            "node_asset_theme": 1,
+            "quest_bg_id": 700000189
+        },
+        {
+            "id": 10024003,
+            "name": "Cave 3",
+            "stage_id": 19910024,
+            "floor": 3,
+            "bg_id": 0,
+            "battle_bg_id": 700000189,
+            "bgm_id": 130112,
+            "node_asset_theme": 1,
+            "quest_bg_id": 700000189
+        },
+        {
             "id": 10027001,
             "name": "Upper Floor",
             "stage_id": 19910027,

@@ -128,6 +128,15 @@
             "end_at": 0
         },
         {
+            "id": 2000001,
+            "rolling_item_id": 2000001,
+            "reward_type": 8,
+            "reward_id": 810082,
+            "reward_quantity": 1,
+            "start_at": 1718845200,
+            "end_at": 0
+        },
+        {
             "id": 2000002,
             "rolling_item_id": 2000002,
             "reward_type": 1,
@@ -143,7 +152,7 @@
             "reward_id": 810075,
             "reward_quantity": 1,
             "start_at": 0,
-            "end_at": 0
+            "end_at": 1718845199
         }
     ]
 }

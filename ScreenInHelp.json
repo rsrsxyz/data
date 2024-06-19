@@ -6384,9 +6384,9 @@
             "size": 3,
             "banners": [
                 11291,
-                11405,
+                11466,
                 11512,
-                11418
+                11468
             ],
             "info_id": 0
         },
@@ -8479,6 +8479,16 @@
             "info_id": 0
         },
         {
+            "id": 993,
+            "name": "Quest_Event_10008",
+            "title": "Collect & Forge! Dragon Treasure!",
+            "size": 3,
+            "banners": [
+                11463
+            ],
+            "info_id": 0
+        },
+        {
             "id": 998,
             "name": "Quest_Event_10008",
             "title": "Excavate! Treasure in the Mine",
@@ -9132,6 +9142,16 @@
             "size": 3,
             "banners": [
                 1000000102
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 1000000055,
+            "name": "Quest_Event_1000001044",
+            "title": "Dragons Challenge Festival",
+            "size": 3,
+            "banners": [
+                1000000103
             ],
             "info_id": 0
         }

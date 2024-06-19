@@ -38378,6 +38378,50 @@
             "excluded_quest_group_ids": []
         },
         {
+            "id": 7615,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10008
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7509
+            ],
+            "start_at": 1718845200,
+            "end_at": 1720054799,
+            "priority": 0,
+            "flavor_text": "Red Dragon Scale Drops in Dragonrise Records",
+            "detail": "・Red Dragon Scale drops in Dragonrise Records",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7616,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [],
+            "stage_ids": [
+                19910024
+            ],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7510
+            ],
+            "start_at": 1718845200,
+            "end_at": 1720054799,
+            "priority": 0,
+            "flavor_text": "Red Dragon Claw Drops in the Target Stage",
+            "detail": "・Red Dragon Claw drops in Collect & Forge! Dragon Treasure!",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
             "id": 7623,
             "displays_campaign": 1,
             "quest_category": 0,
@@ -38549,6 +38593,55 @@
             "priority": 0,
             "flavor_text": "2x Exploration Point Drop Slots Campaign",
             "detail": "・2x Exploration Point drop slots in Free Quests",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7646,
+            "displays_campaign": 1,
+            "quest_category": 13,
+            "area_ids": [],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7520
+            ],
+            "start_at": 1718845200,
+            "end_at": 1719795599,
+            "priority": 0,
+            "flavor_text": "Dragon Mark Stone Drops in Free Quests",
+            "detail": "・Dragon Mark Stone drops in Free Quests",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": [
+                1
+            ]
+        },
+        {
+            "id": 7649,
+            "displays_campaign": 0,
+            "quest_category": 0,
+            "area_ids": [],
+            "stage_ids": [],
+            "quest_ids": [
+                1124001,
+                1124002,
+                1124003,
+                1124004,
+                1124005,
+                1124006
+            ],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7521
+            ],
+            "start_at": 1718845200,
+            "end_at": 1893373199,
+            "priority": 0,
+            "flavor_text": "",
+            "detail": "",
             "featured_start_at": 0,
             "featured_end_at": 0,
             "excluded_quest_group_ids": []
@@ -91879,6 +91972,31 @@
             "priority": 0,
             "flavor_text": "5x Style EXP Campaign",
             "detail": "・5x Style EXP in Free Quests",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 1000002684,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10008
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                1000002793,
+                1000002794,
+                1000002799,
+                1000002798
+            ],
+            "start_at": 1718845200,
+            "end_at": 1719449999,
+            "priority": 0,
+            "flavor_text": "Daily Limited Supply Drops Campaign in Dragonrise Records",
+            "detail": "・Daily limited-supply Testament of the Mighty: Rank 5/6/7 drops in Dragonrise Records<br>・Daily limited-supply Auto Rematch Ticket drops in Dragonrise Records",
             "featured_start_at": 0,
             "featured_end_at": 0,
             "excluded_quest_group_ids": []

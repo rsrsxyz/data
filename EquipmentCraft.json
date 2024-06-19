@@ -3223,6 +3223,23 @@
             "end_at": 0
         },
         {
+            "id": 176,
+            "reward_type": 18,
+            "reward_id": 409522500,
+            "materials": [
+                {
+                    "type": 7,
+                    "id": 1100951,
+                    "quantity": 1000
+                }
+            ],
+            "aurum": 20000,
+            "limit_count": 0,
+            "priority": 1150,
+            "start_at": 1718845200,
+            "end_at": 0
+        },
+        {
             "id": 1000000002,
             "reward_type": 15,
             "reward_id": 1108400100,

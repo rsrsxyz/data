@@ -4433,6 +4433,17 @@
             "is_node_base_display": 1
         },
         {
+            "id": 10479,
+            "stage_node_asset_type": 3,
+            "content_id": 199048,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 25,
+            "offset_y": -50,
+            "unique_stage_node_size": 3,
+            "is_node_base_display": 1
+        },
+        {
             "id": 10484,
             "stage_node_asset_type": 5,
             "content_id": 10168,
@@ -4948,6 +4959,72 @@
             "offset_y": 0,
             "unique_stage_node_size": 2,
             "is_node_base_display": 1
+        },
+        {
+            "id": 10540,
+            "stage_node_asset_type": 3,
+            "content_id": 104011,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 0,
+            "offset_y": 0,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 1
+        },
+        {
+            "id": 10541,
+            "stage_node_asset_type": 3,
+            "content_id": 104015,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 0,
+            "offset_y": 0,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 1
+        },
+        {
+            "id": 10542,
+            "stage_node_asset_type": 3,
+            "content_id": 104021,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 0,
+            "offset_y": 0,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 1
+        },
+        {
+            "id": 10543,
+            "stage_node_asset_type": 3,
+            "content_id": 104006,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": -10,
+            "offset_y": 61,
+            "unique_stage_node_size": 3,
+            "is_node_base_display": 1
+        },
+        {
+            "id": 10544,
+            "stage_node_asset_type": 3,
+            "content_id": 104009,
+            "is_flipped": 1,
+            "motion_id": 0,
+            "offset_x": -10,
+            "offset_y": 61,
+            "unique_stage_node_size": 3,
+            "is_node_base_display": 1
+        },
+        {
+            "id": 10545,
+            "stage_node_asset_type": 5,
+            "content_id": 10182,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 25,
+            "offset_y": -40,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 0
         },
         {
             "id": 10546,

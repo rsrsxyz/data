@@ -1491,6 +1491,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 212301,
+            "name": "SS Herman (RS1/MS) Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Let's Stock Up] Herman (RS1/MS).",
+            "icon": 212301,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 212401,
             "name": "S Neidhart Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Black Prince] Neidhart. ",
@@ -1663,6 +1671,22 @@
             "name": "SS Dragon Knight Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Eugen's Successor] Dragon Knight.",
             "icon": 213501,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 213502,
+            "name": "SS Dragon Knight Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Eugen's Faith] Dragon Knight.",
+            "icon": 213502,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 213503,
+            "name": "SS Dragon Knight Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Dragon & Knight] Dragon Knight.",
+            "icon": 213503,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -2519,6 +2543,14 @@
             "name": "SS Penelope Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Music Is All About Freedom] Penelope.",
             "icon": 221862,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 222011,
+            "name": "SS Rose (RS2) Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Mage for Hire] Rose (RS2).",
+            "icon": 222011,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -4604,8 +4636,8 @@
         },
         {
             "id": 232151,
-            "name": "A Herman Piece",
-            "flavor_text": "Can be used to either exchange for or raise the level cap of A [I'll Get Even with Forneus] Herman. ",
+            "name": "A Herman (RS3) Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of A [I'll Get Even with Forneus] Herman (RS3).",
             "icon": 232151,
             "selling_price": 40,
             "exchange_cost": 50
@@ -5091,6 +5123,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 234405,
+            "name": "SS Gwayne Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Today Is My Birthday?] Gwayne.",
+            "icon": 234405,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 235101,
             "name": "SS Matriarch Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Vanquish the Sinistrals!] Matriarch.",
@@ -5419,6 +5459,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 237101,
+            "name": "SS Dragonlord Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Guardian of Huang] Dragonlord.",
+            "icon": 237101,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 237201,
             "name": "SS Nacht Zweiger Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Raging Soul on a Rampage] Nacht Zweiger.",
@@ -5519,6 +5567,14 @@
             "name": "SS Bunnie Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [It's My Year!] Bunnie.",
             "icon": 238304,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 238401,
+            "name": "SS Mako Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Mako's a Cat?] Mako.",
+            "icon": 238401,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -9131,6 +9187,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 711206,
+            "name": "SS Genryu Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Flying] Genryu.",
+            "icon": 711206,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 711301,
             "name": "S Bertrand Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Archfiend's Illegitimate Son] Bertrand.",
@@ -9503,6 +9567,14 @@
             "name": "SS Merlot-Syrah Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Wow, Fireworks Are Pretty!] Merlot-Syrah.",
             "icon": 712306,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 712307,
+            "name": "SS Merlot-Syrah Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Double Dragon] Merlot-Syrah.",
+            "icon": 712307,
             "selling_price": 100,
             "exchange_cost": 250
         },
