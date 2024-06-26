@@ -36,6 +36,15 @@
             "max_quantity": 99999999,
             "sort_order": 45000010,
             "area_id": 10008
+        },
+        {
+            "id": 1300004,
+            "name": "[Competition Records] Exploration Point (Gold Chest Gtd.)",
+            "flavor_text": "Used to Open 10x Gold Chests in Competition Records.",
+            "icon": 1300004,
+            "max_quantity": 99999999,
+            "sort_order": 45000015,
+            "area_id": 10009
         }
     ]
 }

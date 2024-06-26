@@ -24999,7 +24999,7 @@
         {
             "id": 702102981,
             "name": "Blazing Runner",
-            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000158>Over Enhance</special_effect> (super extreme effect).<br>Fills up own OD gauge.<br>Recovers own BP (+3).<br>Takes recoil damage* for oneself (50% of Max HP).<br><br>[After activating an OD attack†]<br>Grants oneself <special_effect=800000547>Evasion (4 times)</special_effect> (1 turn(s)).<br>Takes recoil damage* for oneself (99% of Max HP).<br><skill=110500542>Dead Heat</skill> will be activated 3 times.<br>(Activates using skill Rank 1).<br>†Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.<br><br>*Recoil damage can't be reduced by effects that reduce damage taken.<br><br>[End of turn]<br>Recovers own BP (+2).<br>Fills up own OD gauge (very high chance).",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000158>Over Enhance</special_effect> (super extreme effect).<br>Fills up own OD gauge.<br>Recovers own BP (+3).<br>Takes recoil damage* for oneself (50% of Max HP).<br><br>[After activating an OD attack†]<br>Grants oneself <special_effect=800000547>Evasion (4 times)</special_effect> (1 turn(s)).<br>Takes recoil damage* for oneself (99% of Max HP).<br><skill=110500542>Dead Heat</skill> will be activated 3 times.<br>(Activates using skill Rank 1).<br>†Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>*Recoil damage can't be reduced by effects that reduce damage taken.<br><br>[End of turn]<br>Recovers own BP (+2).<br>Fills up own OD gauge (very high chance).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044169,
@@ -80944,6 +80944,276 @@
                 1802041114,
                 1802041115,
                 1802041116
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100708,
+            "name": "Macha's Teaching (1x)",
+            "flavor_text": "When attacking with spells, activates the following (Max times: 1):<br>・Increases all surviving allies' INT/WIL (medium effect).<br>・Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)).<br>・Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).<br>*If this Special Stance is granted by an Attack type skill/spell effect, the attack is also included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041117,
+                1802041118,
+                1802041119,
+                802044062
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100709,
+            "name": "Unconventional Racer",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+5).<br><br>[Start of turn]<br>Grants all surviving allies <special_effect=800000135>Enhance Sorcery</special_effect> (extreme effect) (Max times: 5 times per battle).<br>Grants all surviving allies <special_effect=1800000059>Macha's Teaching (1x)</special_effect> (1 turn(s)).<br>Grants oneself <special_effect=800000011>Morale Up (medium)</special_effect> (1 turn(s)).<br>Grants oneself <special_effect=800000025>Guard Up (medium)</special_effect> (1 turn(s)).<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044214,
+                1802041120,
+                1802041121,
+                1802041122
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100710,
+            "name": "Unconventional Racer: Effect 2",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=1800000059>Macha's Teaching (1x)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041123
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100711,
+            "name": "Capricious Racer",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=125100484>Crimson Flare+</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating an OD attack*]<br><skill=125100475>Capricious Meteor Swarm</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Increases own OD gauge (extreme effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044068,
+                802041918
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100712,
+            "name": "Opening Prep",
+            "flavor_text": "[Start of battle]<br>Grants all surviving allies <special_effect=800000236>Max BP Increase</special_effect> (Increase: 5/Effect: permanent in battle).<br>Increases all surviving allies' STR/END/AGI/WIL (extreme effect).<br><br>[Start of turn]<br>Increases own STR/END/AGI/WIL (small effect).<br>Grants oneself <special_effect=800000119>Evasion (1 time)</special_effect> (1 turn(s)).<br><br>[On every 3 turns counting from the start of battle]<br>Recovers all surviving allies' BP (+3).<br>Increases all surviving allies' STR/END/AGI/WIL (very large effect).<br>Recovers all surviving allies' HP (medium effect).<br><br>[On every 6 turns counting from the start of battle]<br>Recovers all surviving allies' BP (+6).<br>Increases all surviving allies' STR/END/AGI/WIL (extreme effect).<br>Grants all surviving allies <special_effect=800000119>Evasion (1 time)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044027,
+                802014028,
+                802014029,
+                802014030,
+                802014031,
+                1802041124,
+                1802041125,
+                1802041126
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100713,
+            "name": "Opening Prep: Effect 1",
+            "flavor_text": "[Start of turn]<br>Increases own STR/END/AGI/WIL (small effect).<br>Grants oneself <special_effect=800000119>Evasion (1 time)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041129,
+                1802041130,
+                1802041131,
+                1802041132,
+                802041731
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100714,
+            "name": "Opening Prep: Effect 2",
+            "flavor_text": "[On every 3 turns counting from the start of battle]<br>Recovers all surviving allies' BP (+3).<br>Increases all surviving allies' STR/END/AGI/WIL (very large effect).<br>Recovers all surviving allies' HP (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044051,
+                802014033,
+                802014034,
+                802014035,
+                1802041127,
+                802012267
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100715,
+            "name": "Opening Prep: Effect 3",
+            "flavor_text": "[On every 6 turns counting from the start of battle]<br>Recovers all surviving allies' BP (+6).<br>Increases all surviving allies' STR/END/AGI/WIL (extreme effect).<br>Grants all surviving allies <special_effect=800000119>Evasion (1 time)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044037,
+                802014028,
+                802014029,
+                802014030,
+                1802041128,
+                802044053
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100716,
+            "name": "Maximum Top Speed",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br>When attacked, damage taken will be reduced (very large effect).<br><br>[When landing an attack]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (medium effect) (Max times: 50 times per battle).<br>Recovers own BP (+1).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=1110500122>Vacuum Wave</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[When being directly attacked]<br>Reduces damage taken and counterattacks with <skill=110500535>Rush+</skill>.<br>(Activates using skill Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040741,
+                802040448,
+                802044038,
+                1802041133,
+                802044042
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100717,
+            "name": "Maximum Top Speed: Effect 2",
+            "flavor_text": "[When landing an attack]<br>Recovers own BP (+1).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=1110500122>Vacuum Wave</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040742,
+                1802041134
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100718,
+            "name": "Illusion Dragon User",
+            "flavor_text": "Increases attack damage for all allies (extreme effect).<br>Reduces damage taken for all allies (very large effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=125600555>Absorb+</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating an OD attack*]<br><skill=125600505>Dragon Illusion Dance</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[On every 3 turns counting from the start of battle]<br>Restores the use limit of <skill=125600504>Illusion Dragon Purple Impact</skill> by 1 (Number of uses will not exceed the use limit at start of battle).<br><br>[When attacked and HP reaches 0]<br>Recovers all surviving allies' HP (very large effect).<br><br>[End of turn]<br>When knocked unconscious, recovers own HP (very large effect).<br>(Will not activate when knocked unconscious by poison damage).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043475,
+                802043476,
+                1802041135,
+                802044277,
+                1802041136,
+                1802041137
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100719,
+            "name": "Illusion Dragon User: Effect 1",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=125600555>Absorb+</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating an OD attack*]<br><skill=125600505>Dragon Illusion Dance</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041138,
+                802044019
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100720,
+            "name": "Ironwall Racer",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br><br>[On every 3 turns counting from the start of battle]<br>Grants all surviving allies <special_effect=800000230>Defense Boost (3x)</special_effect> (very large effect/3 turn(s)).<br>Recovers all surviving allies' HP (medium effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110600460>Healing Trigger</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a very high chance to:<br>Activate <skill=1110600065>Proton Rocket+</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041139,
+                1802041140,
+                1802041141,
+                1802041142
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100721,
+            "name": "Ironwall Racer: Effect 4",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=1110600065>Proton Rocket+</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041143
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100722,
+            "name": "Equestrian Valor",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000202>BP Cost Reduction</special_effect> (Reduction: 6/6 turn(s)).<br><br>[Start of round]<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/10 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/9 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/8 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/7 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/6 turn(s)).<br><br>[Start of turn]<br>Increases own STR (large effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044087,
+                1802041144,
+                1802041145
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100723,
+            "name": "Equestrian Valor: Effect 1",
+            "flavor_text": "[Start of round]<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/10 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/9 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/8 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/7 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/6 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044008,
+                802044088,
+                802044089,
+                802044009,
+                802044010
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100724,
+            "name": "Assault Horsemanship",
+            "flavor_text": "[Start of round]<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/10 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/9 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/8 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/7 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/6 turn(s)).<br><br>[Start of turn]<br>Increases own STR (large effect).<br>Recovers own BP (+5) (Max times: 3 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041146,
+                1802041147,
+                1802041148
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100725,
+            "name": "Assault Horsemanship: Effect 1",
+            "flavor_text": "[Start of round]<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/10 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/9 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/8 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/7 turn(s)).<br>Grants oneself <special_effect=800000116>Weak Attack Boost</special_effect> (super extreme effect/6 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044090,
+                802044088,
+                802044089,
+                802044009,
+                802044010
             ],
             "icon": 4010,
             "rarity": 0,

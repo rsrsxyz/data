@@ -9,5 +9,28 @@
         "m_PathID": -5529020518527396794
     },
     "m_Name": "NeoSaihateWell",
-    "objectArray": []
+    "objectArray": [
+        {
+            "id": 100002,
+            "name": "Well of Professor's Pets",
+            "banner_id": 10004,
+            "neo_saihate_quest_ids": [
+                10000201,
+                10000202,
+                10000203
+            ],
+            "icon": 1990791
+        },
+        {
+            "id": 100003,
+            "name": "Well of Savnok and Co.",
+            "banner_id": 10003,
+            "neo_saihate_quest_ids": [
+                10000301,
+                10000302,
+                10000303
+            ],
+            "icon": 1992411
+        }
+    ]
 }

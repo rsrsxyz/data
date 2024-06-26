@@ -81,6 +81,15 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 39990035
+        },
+        {
+            "id": 10008,
+            "name": "[Competition Records] Exploration Point",
+            "flavor_text": "Item required for Open Chests in Competition Records.",
+            "icon": 10009,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 39990040
         }
     ]
 }

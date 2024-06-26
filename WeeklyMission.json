@@ -2849,6 +2849,17 @@
             "trigger_player_rank": 0
         },
         {
+            "id": 400,
+            "summary": "Complete To the Top! Wells of Challenge 1 Time",
+            "description": "Complete To the Top! Wells of Challenge 1 time",
+            "reward_type": 7,
+            "reward_id": 860015,
+            "reward_quantity": 10000,
+            "priority": 3010,
+            "ribbon_text": "",
+            "trigger_player_rank": 75
+        },
+        {
             "id": 1000000001,
             "summary": "Defeat 600 Enemies",
             "description": "Defeat 600 enemies",

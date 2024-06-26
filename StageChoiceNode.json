@@ -275,6 +275,18 @@
             "override_node_asset_id": 0
         },
         {
+            "id": 10025008,
+            "text": "An obstacle! (*You can choose the remaining options after you reach the finish line.)",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 10025001,
+            "next_stage_symbol_node_id": 22030101,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
             "id": 10027002,
             "text": "There's ore. You may be able to dig something out.",
             "after_text": "",
@@ -847,6 +859,54 @@
             "is_all": 1,
             "stage_choice_group_id": 20197001,
             "next_stage_symbol_node_id": 22080057,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
+            "id": 20205005,
+            "text": "There are two doors. Both appear to be locked.",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 20219003,
+            "next_stage_symbol_node_id": 22031109,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
+            "id": 20206004,
+            "text": "Is there a way to scale the wall?",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 20219004,
+            "next_stage_symbol_node_id": 22031109,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
+            "id": 20219015,
+            "text": "Offer a stone.",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 20219001,
+            "next_stage_symbol_node_id": 22031109,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
+            "id": 20219028,
+            "text": "The door is locked.",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 20219002,
+            "next_stage_symbol_node_id": 22031109,
             "next_stage_choice_node_id": 0,
             "override_node_asset_id": 0
         },

@@ -7687,6 +7687,30 @@
             "is_bulk_exchange": 1
         },
         {
+            "id": 100332,
+            "name": "SaGa Soul T-Shirt",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3003,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 30333015,
+            "rewards": [
+                {
+                    "type": 17,
+                    "id": 305500800,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
             "id": 100333,
             "name": "Divine Boots",
             "description": "",
@@ -19663,6 +19687,30 @@
             "is_bulk_exchange": 1
         },
         {
+            "id": 100852,
+            "name": "SS Flammar Style",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 2,
+            "outlet_shop_tab_id": 2001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 2000,
+            "priority": 20130367,
+            "rewards": [
+                {
+                    "type": 14,
+                    "id": 212502,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
             "id": 100854,
             "name": "SS Raphael (RS1/MS) Style",
             "description": "",
@@ -22828,6 +22876,150 @@
             "is_bulk_exchange": 1
         },
         {
+            "id": 101014,
+            "name": "S Sirius Style",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 2,
+            "outlet_shop_tab_id": 2001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 500,
+            "priority": 20120635,
+            "rewards": [
+                {
+                    "type": 14,
+                    "id": 510301,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101015,
+            "name": "S Maka Style",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 2,
+            "outlet_shop_tab_id": 2001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 500,
+            "priority": 20120630,
+            "rewards": [
+                {
+                    "type": 14,
+                    "id": 510601,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101016,
+            "name": "S Sinon Style",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 2,
+            "outlet_shop_tab_id": 2001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 500,
+            "priority": 20120625,
+            "rewards": [
+                {
+                    "type": 14,
+                    "id": 510701,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101017,
+            "name": "S Sothis Style",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 2,
+            "outlet_shop_tab_id": 2001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 500,
+            "priority": 20120620,
+            "rewards": [
+                {
+                    "type": 14,
+                    "id": 510401,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101018,
+            "name": "S Pamela Style",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 2,
+            "outlet_shop_tab_id": 2001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 500,
+            "priority": 20120615,
+            "rewards": [
+                {
+                    "type": 14,
+                    "id": 510801,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101019,
+            "name": "S Touji Style",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 2,
+            "outlet_shop_tab_id": 2001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 500,
+            "priority": 20120610,
+            "rewards": [
+                {
+                    "type": 14,
+                    "id": 510501,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
             "id": 101021,
             "name": "Radiant Stone",
             "description": "",
@@ -23040,6 +23232,126 @@
             ],
             "is_only_not_owned": 1,
             "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101040,
+            "name": "Cat's Claw",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 30135000,
+            "rewards": [
+                {
+                    "type": 15,
+                    "id": 105500400,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101041,
+            "name": "Beam Rifle",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 30134000,
+            "rewards": [
+                {
+                    "type": 15,
+                    "id": 106500300,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101042,
+            "name": "(Fire) Psychic Sword",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 30130007,
+            "rewards": [
+                {
+                    "type": 15,
+                    "id": 151500400,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101048,
+            "name": "[Competition Records] Exploration Point (Gold Chest Gtd.)",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 1,
+            "outlet_shop_tab_id": 1004,
+            "outlet_shop_product_group_id": 10045,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 40000,
+            "priority": 10465015,
+            "rewards": [
+                {
+                    "type": 40,
+                    "id": 1300004,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 0,
+            "only_not_owned_possible_count": 0,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101049,
+            "name": "[Competition Records] Exploration Point",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 1,
+            "outlet_shop_tab_id": 1004,
+            "outlet_shop_product_group_id": 10045,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 750,
+            "priority": 10460060,
+            "rewards": [
+                {
+                    "type": 37,
+                    "id": 10008,
+                    "quantity": 1000
+                }
+            ],
+            "is_only_not_owned": 0,
+            "only_not_owned_possible_count": 0,
             "outlet_shop_product_stack_id": 0,
             "is_bulk_exchange": 1
         },

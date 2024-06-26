@@ -260,6 +260,42 @@
             "reward_type": 37,
             "reward_id": 10007,
             "reward_quantity": 1000
+        },
+        {
+            "id": 10007,
+            "name": "Stage",
+            "flavor_text": "A stage in Competition Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000,
+            "stage_map_ids": [
+                10175,
+                10176,
+                10177,
+                10178,
+                10179,
+                10180,
+                10181,
+                10182,
+                10183,
+                10184,
+                10185,
+                10186,
+                10187,
+                10188,
+                10189,
+                10190,
+                10191,
+                10192,
+                10193,
+                10194,
+                10195,
+                10196,
+                10197,
+                10198,
+                10199
+            ],
+            "reward_type": 37,
+            "reward_id": 10008,
+            "reward_quantity": 1000
         }
     ]
 }

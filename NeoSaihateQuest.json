@@ -9,5 +9,36 @@
         "m_PathID": -8547758083717107990
     },
     "m_Name": "NeoSaihateQuest",
-    "objectArray": []
+    "objectArray": [
+        {
+            "id": 10000201,
+            "grade": 1,
+            "battle_id": 550001022
+        },
+        {
+            "id": 10000202,
+            "grade": 2,
+            "battle_id": 550001022
+        },
+        {
+            "id": 10000203,
+            "grade": 3,
+            "battle_id": 550001023
+        },
+        {
+            "id": 10000301,
+            "grade": 1,
+            "battle_id": 550001032
+        },
+        {
+            "id": 10000302,
+            "grade": 2,
+            "battle_id": 550001032
+        },
+        {
+            "id": 10000303,
+            "grade": 3,
+            "battle_id": 550001033
+        }
+    ]
 }

@@ -9,5 +9,58 @@
         "m_PathID": -199262198182035798
     },
     "m_Name": "NeoSaihate",
-    "objectArray": []
+    "objectArray": [
+        {
+            "id": 100001,
+            "name_prefix": "#1 ",
+            "area_id": 890001,
+            "start_at": 1719795600,
+            "end_at": 1720400399,
+            "neo_saihate_well_ids": [
+                100003
+            ],
+            "field_abilities": [
+                {
+                    "id": 718100044
+                },
+                {
+                    "id": 718100016
+                },
+                {
+                    "id": 718200009
+                }
+            ],
+            "neo_saihate_score_reward_group_id": 1000200001,
+            "neo_saihate_total_score_rank_pattern": 10001,
+            "event_mission_tab_id": 0,
+            "currency_items": [],
+            "shop_id": 0
+        },
+        {
+            "id": 100002,
+            "name_prefix": "#2 ",
+            "area_id": 890001,
+            "start_at": 1720400400,
+            "end_at": 1721005199,
+            "neo_saihate_well_ids": [
+                100002
+            ],
+            "field_abilities": [
+                {
+                    "id": 718100040
+                },
+                {
+                    "id": 718100014
+                },
+                {
+                    "id": 718100036
+                }
+            ],
+            "neo_saihate_score_reward_group_id": 1000200001,
+            "neo_saihate_total_score_rank_pattern": 10001,
+            "event_mission_tab_id": 0,
+            "currency_items": [],
+            "shop_id": 0
+        }
+    ]
 }

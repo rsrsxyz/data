@@ -814,7 +814,7 @@
         {
             "id": 718200009,
             "name": "BP Cost Reduction (Stack) on Specific Turns",
-            "flavor_text": "On certain turns counting from the start of round (Turn 2/every 2 turns after Turn 2), grants all surviving allies <special_effect=800000567>[Challenge Rule] BP Cost Reduction</special_effect> (Reduction: 1/Effect: permanent in battle) (Max times: 20 times per round).",
+            "flavor_text": "At the end of certain turns counting from the start of round (Turn 2/every 2 turns after Turn 2), grants all surviving allies <special_effect=800000567>[Challenge Rule] BP Cost Reduction</special_effect> (Reduction: 1/Effect: permanent in battle) (Max times: 20 times per round).",
             "icon": 4010,
             "effect_name": "",
             "cue_sheet_name": "",

@@ -59,6 +59,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 110107,
+            "name": "SS Human Male Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Full Loadout!] Human Male.",
+            "icon": 110107,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 110201,
             "name": "S Human Female Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Expert Climber] Human Female.",
@@ -95,6 +103,14 @@
             "name": "SS Human Female Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [It's My Turn!] Human Female.",
             "icon": 110206,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 110207,
+            "name": "SS Human Female Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Rider Has to Be Light] Human Female.",
+            "icon": 110207,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -1543,6 +1559,14 @@
             "name": "SS Neidhart Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Under the Protection of Men] Neidhart.",
             "icon": 212408,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 212409,
+            "name": "SS Neidhart Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Winning With My Horse!] Neidhart.",
+            "icon": 212409,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -5483,6 +5507,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 237203,
+            "name": "SS Nacht Zweiger Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Easy Victory!] Nacht Zweiger.",
+            "icon": 237203,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 237901,
             "name": "A Kyrdlund's Mayor Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of A [I Am the Mayor] Kyrdlund's Mayor. ",
@@ -6679,6 +6711,14 @@
             "name": "SS Princess Rei Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Trust Your Fortune?] Princess Rei.",
             "icon": 313106,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 313107,
+            "name": "SS Princess Rei Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [This IS a Dragon] Princess Rei.",
+            "icon": 313107,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -8631,6 +8671,14 @@
             "name": "SS Macha Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Surfing Is Easy!] Macha.",
             "icon": 619106,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 619107,
+            "name": "SS Macha Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [No Rules] Macha.",
+            "icon": 619107,
             "selling_price": 100,
             "exchange_cost": 250
         },

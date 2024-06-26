@@ -309,6 +309,30 @@
             "event_ability_group_id": 1000000693,
             "duration_seconds": 86400,
             "event_ability_potion_type": 2
+        },
+        {
+            "id": 1000940009,
+            "name": "4th Anniv. Closing Attribute Growth Booster V [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 5x attribute gains for all characters for 24 hours after use.  (Until [1721955599] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1721955599,
+            "icon": 1000940009,
+            "sort_order": 24062610,
+            "event_ability_group_id": 1000000765,
+            "duration_seconds": 86400,
+            "event_ability_potion_type": 1
+        },
+        {
+            "id": 1000940010,
+            "name": "4th Anniv. Closing Skill/Spell Rank Booster III [Ltd. Time]",
+            "flavor_text": "[Limited Time] Item that grants 3x skill/spell rank up amount for all characters for 24 hours after use. (Until [1721955599] <tz>)",
+            "max_quantity": 9999,
+            "expired_at": 1721955599,
+            "icon": 1000940010,
+            "sort_order": 24062600,
+            "event_ability_group_id": 1000000766,
+            "duration_seconds": 86400,
+            "event_ability_potion_type": 1
         }
     ]
 }

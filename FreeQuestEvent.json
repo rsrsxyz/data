@@ -1972,6 +1972,46 @@
             "end_at": 1718845199
         },
         {
+            "id": 1000134,
+            "name": "Rampage! Dragon Cup Missions",
+            "priority": 1,
+            "is_notify": 1,
+            "is_all": 0,
+            "area_ids": [],
+            "stage_ids": [
+                19910025
+            ],
+            "event_mission_tab_id": 442,
+            "currency": 4,
+            "currency_id": 1100954,
+            "shop_id": 4900670,
+            "panel_shop_id": 0,
+            "event_box_gacha_id": 0,
+            "help_id": 996,
+            "start_at": 1719450000,
+            "end_at": 1720659599
+        },
+        {
+            "id": 1000135,
+            "name": "Rampage! Dragon Cup Exchange",
+            "priority": 1,
+            "is_notify": 1,
+            "is_all": 0,
+            "area_ids": [],
+            "stage_ids": [
+                19910025
+            ],
+            "event_mission_tab_id": 0,
+            "currency": 4,
+            "currency_id": 1100954,
+            "shop_id": 4900670,
+            "panel_shop_id": 0,
+            "event_box_gacha_id": 0,
+            "help_id": 996,
+            "start_at": 1720659600,
+            "end_at": 1721869199
+        },
+        {
             "id": 1000143,
             "name": "Excavate! Treasure in the Mine",
             "priority": 1,
@@ -2010,6 +2050,52 @@
             "help_id": 998,
             "start_at": 1719450000,
             "end_at": 1720659599
+        },
+        {
+            "id": 1000153,
+            "name": "Rampage! Dragon Cup (Competition Records)",
+            "priority": 1,
+            "is_notify": 0,
+            "is_all": 0,
+            "area_ids": [],
+            "stage_ids": [
+                19920205,
+                19920206,
+                19920207,
+                19920208,
+                19920209,
+                19920210,
+                19920211,
+                19920212,
+                19920213,
+                19920214,
+                19920215,
+                19920216,
+                19920217,
+                19920218,
+                19920219,
+                19920220,
+                19920221,
+                19920222,
+                19920223,
+                19920224,
+                19920225,
+                19920226,
+                19920227,
+                19920228,
+                19920229,
+                19930021,
+                19930022
+            ],
+            "event_mission_tab_id": 442,
+            "currency": 4,
+            "currency_id": 1100954,
+            "shop_id": 4900670,
+            "panel_shop_id": 0,
+            "event_box_gacha_id": 0,
+            "help_id": 0,
+            "start_at": 1719450000,
+            "end_at": 1720141199
         }
     ]
 }

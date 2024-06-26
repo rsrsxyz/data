@@ -2132,6 +2132,63 @@
             "next_stage_choice_node_id": 0
         },
         {
+            "id": 10025001,
+            "stage_choice_group_id": 10025001,
+            "after_text": "",
+            "message_type": 0,
+            "title": "",
+            "button_text": "Go around from the right",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200046,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10025002,
+            "stage_choice_group_id": 10025001,
+            "after_text": "",
+            "message_type": 0,
+            "title": "",
+            "button_text": "Go straight through!",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200046,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10025003,
+            "stage_choice_group_id": 10025001,
+            "after_text": "",
+            "message_type": 0,
+            "title": "",
+            "button_text": "Swerve to the left",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200046,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
             "id": 10027001,
             "stage_choice_group_id": 10027001,
             "after_text": "Excavated with the pickaxe!",
@@ -3382,6 +3439,120 @@
             "title": "",
             "button_text": "Offer a prayer.",
             "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20219001,
+            "stage_choice_group_id": 20219001,
+            "after_text": "Offered a stone.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a yellow stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200044,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20219002,
+            "stage_choice_group_id": 20219001,
+            "after_text": "Offered a stone.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a black stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200045,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20219003,
+            "stage_choice_group_id": 20219002,
+            "after_text": "The door opened! You are able to proceed now.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the key.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200043,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20219004,
+            "stage_choice_group_id": 20219003,
+            "after_text": "Opened the door on the left. Let's go ahead.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Open the door on the left.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200042,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20219005,
+            "stage_choice_group_id": 20219003,
+            "after_text": "Opened the door on the right. Let's go ahead.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Open the door on the right.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200042,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20219006,
+            "stage_choice_group_id": 20219004,
+            "after_text": "Hooked the rope. You can now climb up the castle wall.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the rope.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200041,
+                    "price": 1
+                }
+            ],
             "displays_reward": 0,
             "reward_set_id": 0,
             "next_stage_symbol_node_id": 0,

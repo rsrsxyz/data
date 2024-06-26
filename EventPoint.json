@@ -2706,6 +2706,28 @@
             "selling_price": 0
         },
         {
+            "id": 800335,
+            "name": "Romancing Festival Medal 177",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800400,
+            "max_quantity": 99999999,
+            "expired_at": 1721869199,
+            "sort_order": 24062690,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 800336,
+            "name": "Romancing Festival Medal 178",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800401,
+            "max_quantity": 99999999,
+            "expired_at": 1721869199,
+            "sort_order": 24062685,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -9427,6 +9449,17 @@
             "selling_price": 1
         },
         {
+            "id": 1100954,
+            "name": "Race Saddle",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100954,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24062650,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 1100955,
             "name": "Mining Pickaxe",
             "flavor_text": "Item used in Excavate! Treasure in the Mine.",
@@ -9886,6 +9919,72 @@
             "expired_at": 0,
             "sort_order": 24060610,
             "stage_gacha_point_id": 10007,
+            "selling_price": 0
+        },
+        {
+            "id": 1200041,
+            "name": "Rope [Competition Records]",
+            "flavor_text": "Item used in Competition Records.",
+            "icon": 1200041,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24062655,
+            "stage_gacha_point_id": 10008,
+            "selling_price": 0
+        },
+        {
+            "id": 1200042,
+            "name": "Old Key [Competition Records]",
+            "flavor_text": "Item used in Competition Records.",
+            "icon": 1200042,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24062660,
+            "stage_gacha_point_id": 10008,
+            "selling_price": 0
+        },
+        {
+            "id": 1200043,
+            "name": "Hidden Storage Room Key [Competition Records]",
+            "flavor_text": "Item used in Competition Records.",
+            "icon": 1200043,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24062665,
+            "stage_gacha_point_id": 10008,
+            "selling_price": 0
+        },
+        {
+            "id": 1200044,
+            "name": "Yellowstone Tribute [Competition Records]",
+            "flavor_text": "Item used in Competition Records.",
+            "icon": 1200044,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24062670,
+            "stage_gacha_point_id": 10008,
+            "selling_price": 0
+        },
+        {
+            "id": 1200045,
+            "name": "Blackstone Tribute [Competition Records]",
+            "flavor_text": "Item used in Competition Records.",
+            "icon": 1200045,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24062675,
+            "stage_gacha_point_id": 10008,
+            "selling_price": 0
+        },
+        {
+            "id": 1200046,
+            "name": "Race Point",
+            "flavor_text": "Item used in Rampage! Dragon Cup.",
+            "icon": 1200046,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24062680,
+            "stage_gacha_point_id": 10008,
             "selling_price": 0
         },
         {

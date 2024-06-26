@@ -63,6 +63,15 @@
             "exp": 100,
             "max_quantity": 99999999,
             "sort_order": 40000025
+        },
+        {
+            "id": 980007,
+            "name": "[Competition Records] EXP Stamp (Stage Lv)",
+            "flavor_text": "Can be used to increase Stage Lv for Stages in Competition Records.<br>*When increasing Stage Lv, one Stamp is used per 100 Stage Lv EXP.<br>*Cannot be used on certain Stages such as Event Stages.",
+            "icon": 980007,
+            "exp": 100,
+            "max_quantity": 99999999,
+            "sort_order": 40000030
         }
     ]
 }

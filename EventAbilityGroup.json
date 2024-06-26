@@ -6405,6 +6405,66 @@
             "priority": 537,
             "featured_start_at": 0,
             "featured_end_at": 0
+        },
+        {
+            "id": 1000000762,
+            "event_ability_category_id": 1000000513,
+            "name": "4th Anniv. Closing Round 1 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Race Saddle drops in Competition Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 538,
+            "featured_start_at": 0,
+            "featured_end_at": 0
+        },
+        {
+            "id": 1000000763,
+            "event_ability_category_id": 1000000514,
+            "name": "4th Anniv. Closing Round 1 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains and 3x skill/spell rank up amount in Free Quests<br>・Bonus Race Saddle drops in Competition Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 539,
+            "featured_start_at": 0,
+            "featured_end_at": 0
+        },
+        {
+            "id": 1000000764,
+            "event_ability_category_id": 1000000515,
+            "name": "4th Anniv. Closing Round 1 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains and 3x skill/spell rank up amount in Free Quests<br>・Bonus Race Saddle drops in Competition Records<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 540,
+            "featured_start_at": 0,
+            "featured_end_at": 0
+        },
+        {
+            "id": 1000000765,
+            "event_ability_category_id": 1000000516,
+            "name": "4th Anniv. Closing Attribute Growth Booster V",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains in battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 541,
+            "featured_start_at": 0,
+            "featured_end_at": 0
+        },
+        {
+            "id": 1000000766,
+            "event_ability_category_id": 1000000517,
+            "name": "4th Anniv. Closing Skill/Spell Rank Booster III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x skill/spell rank up amount in battle quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 542,
+            "featured_start_at": 0,
+            "featured_end_at": 0
         }
     ]
 }
