@@ -419,6 +419,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 121503,
+            "name": "SS Hana Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Making Dutch Confectionery!] Hana.",
+            "icon": 121503,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 121601,
             "name": "SS Ki Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Blessings Upon You!] Ki.",
@@ -1391,6 +1399,14 @@
             "name": "SS Myriam Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Even Fire Mages Love the Sea!] Myriam.",
             "icon": 211408,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 211409,
+            "name": "SS Myriam Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Call Me a Love Mage] Myriam.",
+            "icon": 211409,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -4379,6 +4395,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 231110,
+            "name": "SS Tatyana Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Sweets Day!] Tatyana.",
+            "icon": 231110,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 231301,
             "name": "A Muse Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of A [Beautiful Blossom of Hope] Muse. ",
@@ -6451,6 +6475,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 311907,
+            "name": "SS Lyza Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Special Menu for Today] Lyza.",
+            "icon": 311907,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 312001,
             "name": "SS M Black Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Warrior's Solitude] M Black.",
@@ -7747,6 +7779,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 323204,
+            "name": "SS Primiera Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Capturing Anima] Primiera.",
+            "icon": 323204,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 323301,
             "name": "SS Meythia Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Swing Away] Meythia.",
@@ -8175,6 +8215,14 @@
             "name": "SS Sothis Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [First Princess of Bent Empire] Sothis.",
             "icon": 510402,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 510404,
+            "name": "SS Sothis Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Umm... Eat...] Sothis.",
+            "icon": 510404,
             "selling_price": 100,
             "exchange_cost": 250
         },

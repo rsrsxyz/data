@@ -38832,6 +38832,141 @@
             "excluded_quest_group_ids": []
         },
         {
+            "id": 7657,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10009
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7532
+            ],
+            "start_at": 1720141200,
+            "end_at": 1721350799,
+            "priority": 0,
+            "flavor_text": "Assorted Chocolate Bag Drops in Competition Records",
+            "detail": "・Assorted Chocolate Bag drops in Competition Records",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7658,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [],
+            "stage_ids": [],
+            "quest_ids": [
+                1128002,
+                1128003,
+                1128004,
+                1128005
+            ],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7533
+            ],
+            "start_at": 1720141200,
+            "end_at": 1721350799,
+            "priority": 0,
+            "flavor_text": "Heart Box of Chocolates Drops in the Target Stage",
+            "detail": "・Heart Box of Chocolates drops in Which Side Are You On? Bitter or Sweet!",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7660,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [],
+            "stage_ids": [],
+            "quest_ids": [
+                1128002
+            ],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7535
+            ],
+            "start_at": 1720141200,
+            "end_at": 1721350799,
+            "priority": 0,
+            "flavor_text": "Bitter Cacao Beans Drops in the Target Quest",
+            "detail": "・Bitter Cacao Beans drops in the quest \"Bitter\" in Which Side Are You On? Bitter or Sweet!",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7661,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [],
+            "stage_ids": [],
+            "quest_ids": [
+                1128004
+            ],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7536
+            ],
+            "start_at": 1720141200,
+            "end_at": 1721350799,
+            "priority": 0,
+            "flavor_text": "Bitter Cacao Beans Drops in the Target Quest",
+            "detail": "・Bitter Cacao Beans drops in the quest \"Bitter Chocolate Colossus\" in Which Side Are You On? Bitter or Sweet!",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7662,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [],
+            "stage_ids": [],
+            "quest_ids": [
+                1128003
+            ],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7537
+            ],
+            "start_at": 1720141200,
+            "end_at": 1721350799,
+            "priority": 0,
+            "flavor_text": "Sweet Berries Drops in the Target Quest",
+            "detail": "・Sweet Berries drops in the quest \"Sweet\" in Which Side Are You On? Bitter or Sweet!",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7663,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [],
+            "stage_ids": [],
+            "quest_ids": [
+                1128005
+            ],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7538
+            ],
+            "start_at": 1720141200,
+            "end_at": 1721350799,
+            "priority": 0,
+            "flavor_text": "Sweet Berries Drops in the Target Quest",
+            "detail": "・Sweet Berries drops in the quest \"Sweet Chocolate Colossus\" in Which Side Are You On? Bitter or Sweet!",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
             "id": 7674,
             "displays_campaign": 0,
             "quest_category": 0,
@@ -92136,6 +92271,31 @@
             "priority": 0,
             "flavor_text": "Daily Limited Supply Drops Campaign in Dragonrise Records",
             "detail": "・Daily limited-supply Testament of the Mighty: Rank 5/6/7 drops in Dragonrise Records<br>・Daily limited-supply Auto Rematch Ticket drops in Dragonrise Records",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 1000002685,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10009
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                1000002793,
+                1000002794,
+                1000002799,
+                1000002798
+            ],
+            "start_at": 1720141200,
+            "end_at": 1720745999,
+            "priority": 0,
+            "flavor_text": "Daily Limited Supply Drops Campaign in Competition Records",
+            "detail": "・Daily limited-supply Testament of the Mighty: Rank 5/6/7 drops in Competition Records<br>・Daily limited-supply Auto Rematch Ticket drops in Competition Records",
             "featured_start_at": 0,
             "featured_end_at": 0,
             "excluded_quest_group_ids": []

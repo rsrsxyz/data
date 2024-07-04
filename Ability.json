@@ -25688,8 +25688,8 @@
         },
         {
             "id": 702103038,
-            "name": "棍棒の天稟Ⅴ",
-            "flavor_text": "棍棒装備時、攻撃の与ダメージが上昇する( 効果極大 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>Resist攻撃を受けた時、敵の攻撃を回避する( 確率大 )",
+            "name": "Intrinsic Club Ⅴ",
+            "flavor_text": "When attacking with clubs, attack damage increases (extreme effect).<br>When attacked by an attack that would cause Resist, reduces damage taken (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041728,
@@ -26435,7 +26435,7 @@
         {
             "id": 702103105,
             "name": "Quiet Feelings",
-            "flavor_text": "[Start of battle]<br>Recovers own BP (+4).<br><br>[Start of turn]<br>Recovers own BP (+3).<br>Grants oneself <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).<br><br>[After activating Vertical Grim*]<br>Grants oneself <special_effect=800000543>Grim Combo</special_effect> (1 turn(s)).<br>*Skills/Spells activated on Special Stances and Energy Charge Skills/Spells are not included.",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+4).<br><br>[Start of turn]<br>Recovers own BP (+3).<br>Grants oneself <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).<br><br>[After activating Vertical Grim*]<br>Grants oneself <special_effect=800000543>Grim Combo</special_effect> (1 turn(s)).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041534,
@@ -81214,6 +81214,159 @@
                 802044089,
                 802044009,
                 802044010
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100726,
+            "name": "Silent Love",
+            "flavor_text": "Increases attack damage for all allies (extreme effect).<br>Reduces damage taken for all allies (very large effect).<br><br>[Start of turn]<br>Recovers all surviving allies' HP (very small effect).<br>Grants all surviving allies <special_effect=800000542>Bitter Present (1x)</special_effect> (1 turn(s)).<br>Grants all surviving allies <special_effect=800000095>Heat Up</special_effect> (medium effect) (Max times: 5 times per battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043475,
+                802043476,
+                802044143,
+                1802041149
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100727,
+            "name": "Bitter Defender",
+            "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>[Start of turn]<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).<br>Grants oneself <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).<br>Grants oneself <special_effect=800000158>Over Enhance</special_effect> (extreme effect) (Max times: 5 times per battle).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=1110300045>Giri Choco Bash</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br>Recovers all surviving allies' HP (small effect).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040448,
+                1802041150,
+                1802041151,
+                1802041152,
+                1802041153
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100728,
+            "name": "Bitter Defender: Effect 4",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=1110300045>Giri Choco Bash</skill> will be activated.<br><br>[After activating an OD attack]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br>Recovers all surviving allies' HP (small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041154,
+                802044187,
+                1802041155
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100729,
+            "name": "Another DSC",
+            "flavor_text": "After activating an attack*, <skill=110500539>DSC</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                801042184
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100730,
+            "name": "Greedy Girl",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+1).<br>Grants oneself <special_effect=800000548>Pass It On</special_effect> (Effect: permanent in battle).<br>Grants all other surviving allies <special_effect=800000548>Pass It On</special_effect> (1 turn(s)).<br><br>[Start of turn]<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br>Recovers own BP (+1).<br>Grants oneself <special_effect=800000340>Weak Stamp</special_effect> (1 turn(s)).<br><br>[When recovery actions are made]<br>Recovers own BP (+5).<br>Grants the target <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).<br>*Recovery actions: Actions made by recovery type skills/spells.<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=110400356>Sugary Full Course</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040323,
+                1802041156,
+                1802041157,
+                802044172,
+                802044174,
+                802044175
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100731,
+            "name": "Pass It On",
+            "flavor_text": "[When being attacked]<br>Increases all other surviving allies' END/WIL (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802014282,
+                802014283
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100732,
+            "name": "Mesmerized (10x)",
+            "flavor_text": "When being attacked, recovers all surviving enemies' HP (very small effect) (Max times: 10/*Only activates when hit by an attack).<br>*If this Special Stance is granted by an Attack type skill/spell effect, the attack is also included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041158
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100733,
+            "name": "Piping Hot Gift",
+            "flavor_text": "Heat attacks' damage increases (super extreme effect).<br><br>[Start of battle]<br>Recovers own BP (+5).<br>Grants oneself <special_effect=800000544>Lovely Present</special_effect> (1 turn(s)).<br><br>[Start of turn]<br>Recovers own BP (+2).<br>Grants oneself <special_effect=800000545>Another Fire (1x)</special_effect> (5 turn(s)).<br>Grants a random enemy <special_effect=1800000061>Crazy Love (1x)</special_effect> (5 turn(s)).<br>Grants a random enemy <special_effect=1800000062>Mesmerized (1x)</special_effect> (5 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042167,
+                802044214,
+                802044164,
+                1802041159
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100734,
+            "name": "Piping Hot Gift: Effect",
+            "flavor_text": "[Start of turn]<br>Recovers own BP (+2).<br>Grants oneself <special_effect=800000545>Another Fire (1x)</special_effect> (5 turn(s)).<br>Grants a random enemy <special_effect=1800000061>Crazy Love (1x)</special_effect> (5 turn(s)).<br>Grants a random enemy <special_effect=1800000062>Mesmerized (1x)</special_effect> (5 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040754,
+                802044166,
+                1802041160,
+                1802041161
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100735,
+            "name": "Crazy Love (1x)",
+            "flavor_text": "When being attacked, grants all surviving enemies <special_effect=800000001>Attack Boost</special_effect> (medium effect/2 turn(s)) (Max times: 1/*Only activates when hit by an attack).<br>*If this Special Stance is granted by an Attack type skill/spell effect, the attack is also included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042919
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100736,
+            "name": "Mesmerized (1x)",
+            "flavor_text": "When being attacked, recovers all surviving enemies' HP (very small effect) (Max times: 1/*Only activates when hit by an attack).<br>*If this Special Stance is granted by an Attack type skill/spell effect, the attack is also included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041158
             ],
             "icon": 4010,
             "rarity": 0,

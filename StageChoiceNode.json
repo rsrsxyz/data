@@ -563,6 +563,54 @@
             "override_node_asset_id": 0
         },
         {
+            "id": 10028006,
+            "text": "Which side are you on? ",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 10028001,
+            "next_stage_symbol_node_id": 22030101,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
+            "id": 10028007,
+            "text": "Which side are you on? ",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 10028002,
+            "next_stage_symbol_node_id": 22030101,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
+            "id": 10028008,
+            "text": "Add your secret ingredient! (*Get Special Bitter Cacao Beans from Co-op Missions.)",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 10028003,
+            "next_stage_symbol_node_id": 22030101,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
+            "id": 10028009,
+            "text": "Add your secret ingredient! (*Get Special Sweet Berries from Co-op Missions.)",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 10028004,
+            "next_stage_symbol_node_id": 22030101,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
             "id": 20078010,
             "text": "Offer a stone.",
             "after_text": "",

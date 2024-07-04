@@ -61,6 +61,32 @@
             "event_mission_tab_id": 0,
             "currency_items": [],
             "shop_id": 0
+        },
+        {
+            "id": 100003,
+            "name_prefix": "#3 ",
+            "area_id": 890001,
+            "start_at": 1721005200,
+            "end_at": 1721609999,
+            "neo_saihate_well_ids": [
+                100001
+            ],
+            "field_abilities": [
+                {
+                    "id": 718100057
+                },
+                {
+                    "id": 718100035
+                },
+                {
+                    "id": 718200010
+                }
+            ],
+            "neo_saihate_score_reward_group_id": 1000200001,
+            "neo_saihate_total_score_rank_pattern": 10001,
+            "event_mission_tab_id": 0,
+            "currency_items": [],
+            "shop_id": 0
         }
     ]
 }

@@ -2626,6 +2626,82 @@
             "next_stage_choice_node_id": 0
         },
         {
+            "id": 10028001,
+            "stage_choice_group_id": 10028001,
+            "after_text": "",
+            "message_type": 0,
+            "title": "",
+            "button_text": "Go for slightly bitter.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200047,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10028002,
+            "stage_choice_group_id": 10028002,
+            "after_text": "",
+            "message_type": 0,
+            "title": "",
+            "button_text": "Go for really sweet.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200047,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10028003,
+            "stage_choice_group_id": 10028003,
+            "after_text": "",
+            "message_type": 0,
+            "title": "",
+            "button_text": "Add Special Bitter Cacao Beans.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200048,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10028004,
+            "stage_choice_group_id": 10028004,
+            "after_text": "",
+            "message_type": 0,
+            "title": "",
+            "button_text": "Add Special Sweet Berries.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200049,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
             "id": 20078001,
             "stage_choice_group_id": 20078001,
             "after_text": "A new path has opened.",

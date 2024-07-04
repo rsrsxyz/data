@@ -8298,6 +8298,64 @@
             "end_at": 1720659599
         },
         {
+            "id": 4900675,
+            "shop_type": 4,
+            "banner": 1000344,
+            "currency": 0,
+            "currency_item_ids": [],
+            "currency_items": [
+                {
+                    "currency": 4,
+                    "id": 800338
+                }
+            ],
+            "shop_tab_category": 1,
+            "shop_filter_type": 0,
+            "priority": 10314,
+            "start_at": 1720141200,
+            "end_at": 1722560399
+        },
+        {
+            "id": 4900676,
+            "shop_type": 4,
+            "banner": 1000345,
+            "currency": 0,
+            "currency_item_ids": [],
+            "currency_items": [
+                {
+                    "currency": 4,
+                    "id": 800339
+                }
+            ],
+            "shop_tab_category": 1,
+            "shop_filter_type": 0,
+            "priority": 10313,
+            "start_at": 1720141200,
+            "end_at": 1722560399
+        },
+        {
+            "id": 4900678,
+            "shop_type": 4,
+            "banner": 901248,
+            "currency": 0,
+            "currency_item_ids": [],
+            "currency_items": [
+                {
+                    "currency": 4,
+                    "id": 1100963
+                },
+                {
+                    "currency": 4,
+                    "id": 1100964
+                }
+            ],
+            "shop_tab_category": 2,
+            "shop_filter_type": 2,
+            "priority": 7086,
+            "start_at": 1720141200,
+            "end_at": 1722560399
+        },
+        {
             "id": 5000001,
             "shop_type": 4,
             "banner": 480016,
@@ -10595,6 +10653,24 @@
             "priority": 10307,
             "start_at": 1717635600,
             "end_at": 1721955599
+        },
+        {
+            "id": 1004900142,
+            "shop_type": 4,
+            "banner": 1001000091,
+            "currency": 0,
+            "currency_item_ids": [],
+            "currency_items": [
+                {
+                    "currency": 4,
+                    "id": 1001100258
+                }
+            ],
+            "shop_tab_category": 9,
+            "shop_filter_type": 2,
+            "priority": 6600,
+            "start_at": 1720141200,
+            "end_at": 1893373199
         }
     ]
 }

@@ -1342,6 +1342,39 @@
             "quest_bg_id": 0
         },
         {
+            "id": 10028001,
+            "name": "Bitter or Sweet",
+            "stage_id": 19910028,
+            "floor": 1,
+            "bg_id": 100049,
+            "battle_bg_id": 0,
+            "bgm_id": 130174,
+            "node_asset_theme": 1,
+            "quest_bg_id": 700000162
+        },
+        {
+            "id": 10028002,
+            "name": "Bitter",
+            "stage_id": 19910028,
+            "floor": 2,
+            "bg_id": 0,
+            "battle_bg_id": 700000004,
+            "bgm_id": 130174,
+            "node_asset_theme": 1,
+            "quest_bg_id": 700000004
+        },
+        {
+            "id": 10028003,
+            "name": "Sweet",
+            "stage_id": 19910028,
+            "floor": 3,
+            "bg_id": 0,
+            "battle_bg_id": 700000002,
+            "bgm_id": 130174,
+            "node_asset_theme": 1,
+            "quest_bg_id": 700000002
+        },
+        {
             "id": 20026001,
             "name": "Hot Sand Sea: South",
             "stage_id": 19920026,

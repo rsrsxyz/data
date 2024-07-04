@@ -11,6 +11,17 @@
     "m_Name": "NeoSaihateWell",
     "objectArray": [
         {
+            "id": 100001,
+            "name": "Well of Silver Dragon",
+            "banner_id": 10001,
+            "neo_saihate_quest_ids": [
+                10000101,
+                10000102,
+                10000103
+            ],
+            "icon": 1990901
+        },
+        {
             "id": 100002,
             "name": "Well of Professor's Pets",
             "banner_id": 10004,

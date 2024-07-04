@@ -5192,6 +5192,39 @@
             "is_node_base_display": 0
         },
         {
+            "id": 10562,
+            "stage_node_asset_type": 5,
+            "content_id": 10186,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 0,
+            "offset_y": 0,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 1
+        },
+        {
+            "id": 10563,
+            "stage_node_asset_type": 5,
+            "content_id": 10187,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 0,
+            "offset_y": 0,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 1
+        },
+        {
+            "id": 10564,
+            "stage_node_asset_type": 5,
+            "content_id": 10188,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 30,
+            "offset_y": -18,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 1
+        },
+        {
             "id": 10565,
             "stage_node_asset_type": 5,
             "content_id": 10189,
@@ -5265,6 +5298,28 @@
             "motion_id": 0,
             "offset_x": 0,
             "offset_y": 0,
+            "unique_stage_node_size": 3,
+            "is_node_base_display": 1
+        },
+        {
+            "id": 10574,
+            "stage_node_asset_type": 5,
+            "content_id": 10206,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 26,
+            "offset_y": 27,
+            "unique_stage_node_size": 3,
+            "is_node_base_display": 1
+        },
+        {
+            "id": 10575,
+            "stage_node_asset_type": 5,
+            "content_id": 10205,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 26,
+            "offset_y": 27,
             "unique_stage_node_size": 3,
             "is_node_base_display": 1
         },
@@ -5355,6 +5410,50 @@
             "offset_y": 0,
             "unique_stage_node_size": 2,
             "is_node_base_display": 0
+        },
+        {
+            "id": 10589,
+            "stage_node_asset_type": 5,
+            "content_id": 10201,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 0,
+            "offset_y": 0,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 0
+        },
+        {
+            "id": 10590,
+            "stage_node_asset_type": 5,
+            "content_id": 10202,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 0,
+            "offset_y": 0,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 0
+        },
+        {
+            "id": 10591,
+            "stage_node_asset_type": 5,
+            "content_id": 10203,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 30,
+            "offset_y": -18,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 1
+        },
+        {
+            "id": 10592,
+            "stage_node_asset_type": 5,
+            "content_id": 10204,
+            "is_flipped": 0,
+            "motion_id": 0,
+            "offset_x": 30,
+            "offset_y": -18,
+            "unique_stage_node_size": 2,
+            "is_node_base_display": 1
         }
     ]
 }

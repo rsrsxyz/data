@@ -146,6 +146,36 @@
             "lock_text": ""
         },
         {
+            "id": 18,
+            "multi_mission_group_id": 12,
+            "title": "Which Side Are You On? Bitter or Sweet! Co-op Missions",
+            "summary": "Get Bitter Cacao Beans",
+            "description": "Get Bitter Cacao Beans from Which Side Are You On? Bitter or Sweet!",
+            "area_id": 10009,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1720141200,
+            "end_at": 1721350799,
+            "priority": 10000,
+            "lock_text": ""
+        },
+        {
+            "id": 19,
+            "multi_mission_group_id": 12,
+            "title": "Which Side Are You On? Bitter or Sweet! Co-op Missions",
+            "summary": "Get Sweet Berries",
+            "description": "Get Sweet Berries from Which Side Are You On? Bitter or Sweet!",
+            "area_id": 10009,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1720141200,
+            "end_at": 1721350799,
+            "priority": 9999,
+            "lock_text": ""
+        },
+        {
             "id": 1000000001,
             "multi_mission_group_id": 1000000001,
             "title": "Fight Together! Fateful Showdown Co-op Missions",

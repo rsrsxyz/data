@@ -2728,6 +2728,28 @@
             "selling_price": 0
         },
         {
+            "id": 800338,
+            "name": "Romancing Festival Medal 179",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800402,
+            "max_quantity": 99999999,
+            "expired_at": 1722560399,
+            "sort_order": 24070460,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 800339,
+            "name": "Romancing Festival Medal 180",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800403,
+            "max_quantity": 99999999,
+            "expired_at": 1722560399,
+            "sort_order": 24070455,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -9493,6 +9515,50 @@
             "selling_price": 0
         },
         {
+            "id": 1100961,
+            "name": "Bitter Cacao Beans",
+            "flavor_text": "Tally item for Which Side Are You On? Bitter or Sweet! Co-op Missions. Obtained from corresponding events.",
+            "icon": 1100961,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24070450,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1100962,
+            "name": "Sweet Berries",
+            "flavor_text": "Tally item for Which Side Are You On? Bitter or Sweet! Co-op Missions. Obtained from corresponding events.",
+            "icon": 1100962,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24070445,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1100963,
+            "name": "Assorted Chocolate Bag",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100963,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24070440,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1100964,
+            "name": "Heart Box of Chocolates",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100964,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24070435,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 1200001,
             "name": "Yellowstone Tribute [Fighter Records]",
             "flavor_text": "Item used in Fighter Records.",
@@ -9985,6 +10051,39 @@
             "expired_at": 0,
             "sort_order": 24062680,
             "stage_gacha_point_id": 10008,
+            "selling_price": 0
+        },
+        {
+            "id": 1200047,
+            "name": "Melted Chocolate",
+            "flavor_text": "Item used in Which Side Are You On? Bitter or Sweet! (Until [1721350799] <tz>)",
+            "icon": 1200047,
+            "max_quantity": 99999999,
+            "expired_at": 1721350799,
+            "sort_order": 24070430,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1200048,
+            "name": "Special Bitter Cacao Beans",
+            "flavor_text": "Obtained from Which Side Are You On? Bitter or Sweet! Co-op Missions. Can be used in Which Side Are You On? Bitter or Sweet! (Until [1721350799] <tz>)",
+            "icon": 1200048,
+            "max_quantity": 99999999,
+            "expired_at": 1721350799,
+            "sort_order": 24070425,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1200049,
+            "name": "Special Sweet Berries",
+            "flavor_text": "Obtained from Which Side Are You On? Bitter or Sweet! Co-op Missions. Can be used in Which Side Are You On? Bitter or Sweet! (Until [1721350799] <tz>)",
+            "icon": 1200049,
+            "max_quantity": 99999999,
+            "expired_at": 1721350799,
+            "sort_order": 24070420,
+            "stage_gacha_point_id": 0,
             "selling_price": 0
         },
         {
@@ -11370,6 +11469,17 @@
             "max_quantity": 99999999,
             "expired_at": 1718931599,
             "sort_order": 24050799,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1001100258,
+            "name": "Skin Medal",
+            "flavor_text": "Can be exchanged for Skins at the Skin Medal Exchange.",
+            "icon": 1001100258,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24070499,
             "stage_gacha_point_id": 0,
             "selling_price": 0
         },
