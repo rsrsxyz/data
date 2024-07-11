@@ -8489,6 +8489,27 @@
             "info_id": 0
         },
         {
+            "id": 994,
+            "name": "Quest_Event_10008",
+            "title": "Competition Training Dojo",
+            "size": 3,
+            "banners": [
+                11464,
+                11465
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 995,
+            "name": "Quest_Event_10008",
+            "title": "Competition Training Dojo",
+            "size": 3,
+            "banners": [
+                11464
+            ],
+            "info_id": 0
+        },
+        {
             "id": 996,
             "name": "Quest_Event_10009",
             "title": "Rampage! Dragon Cup",
@@ -8525,6 +8546,16 @@
             "size": 3,
             "banners": [
                 11473
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 1000,
+            "name": "Quest_Event_10009",
+            "title": "Free Quests Exploration Support Campaign",
+            "size": 3,
+            "banners": [
+                11475
             ],
             "info_id": 0
         },
@@ -9182,6 +9213,16 @@
             "size": 3,
             "banners": [
                 1000000103
+            ],
+            "info_id": 0
+        },
+        {
+            "id": 1000000056,
+            "name": "Quest_Event_1000001045",
+            "title": "Pink Fist Training Festival",
+            "size": 3,
+            "banners": [
+                1000000104
             ],
             "info_id": 0
         }

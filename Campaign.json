@@ -38422,6 +38422,28 @@
             "excluded_quest_group_ids": []
         },
         {
+            "id": 7618,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10009
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7512
+            ],
+            "start_at": 1720746000,
+            "end_at": 1721955599,
+            "priority": 0,
+            "flavor_text": "Competition Tile Drops in Competition Records",
+            "detail": "・Competition Tile drops in Competition Records",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
             "id": 7623,
             "displays_campaign": 1,
             "quest_category": 0,
@@ -38593,6 +38615,28 @@
             "priority": 0,
             "flavor_text": "2x Exploration Point Drop Slots Campaign",
             "detail": "・2x Exploration Point drop slots in Free Quests",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7644,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [],
+            "stage_ids": [
+                19910026
+            ],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7518
+            ],
+            "start_at": 1720746000,
+            "end_at": 1721955599,
+            "priority": 0,
+            "flavor_text": "Training Proof [Competition] Drops in the Target Stage",
+            "detail": "・Training Proof [Competition] drops in Competition Training Dojo",
             "featured_start_at": 0,
             "featured_end_at": 0,
             "excluded_quest_group_ids": []
@@ -38827,6 +38871,28 @@
             "priority": 0,
             "flavor_text": "Race Saddle Drops in Competition Records",
             "detail": "・Race Saddle drops in Competition Records",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7656,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10009
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7531
+            ],
+            "start_at": 1721005200,
+            "end_at": 1721955599,
+            "priority": 0,
+            "flavor_text": "Free Quests Exploration Coin Drops in Competition Records",
+            "detail": "・Free Quests Exploration Coin drops in Competition Records",
             "featured_start_at": 0,
             "featured_end_at": 0,
             "excluded_quest_group_ids": []

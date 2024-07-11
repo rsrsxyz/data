@@ -6501,6 +6501,42 @@
             "priority": 545,
             "featured_start_at": 0,
             "featured_end_at": 0
+        },
+        {
+            "id": 1000000770,
+            "event_ability_category_id": 1000000521,
+            "name": "4th Anniv. Closing Round 3 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Competition Tile/Training Proof [Competition] [Ltd. Time] drops in Competition Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 546,
+            "featured_start_at": 0,
+            "featured_end_at": 0
+        },
+        {
+            "id": 1000000771,
+            "event_ability_category_id": 1000000522,
+            "name": "4th Anniv. Closing Round 3 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains and 3x skill/spell rank up amount in Free Quests<br>・Bonus Competition Tile/Training Proof [Competition] [Ltd. Time] drops in Competition Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 547,
+            "featured_start_at": 0,
+            "featured_end_at": 0
+        },
+        {
+            "id": 1000000772,
+            "event_ability_category_id": 1000000523,
+            "name": "4th Anniv. Closing Round 3 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains and 3x skill/spell rank up amount in Free Quests<br>・Bonus Competition Tile/Training Proof [Competition] [Ltd. Time] drops in Competition Records<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 548,
+            "featured_start_at": 0,
+            "featured_end_at": 0
         }
     ]
 }

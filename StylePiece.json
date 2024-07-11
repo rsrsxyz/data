@@ -675,6 +675,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 130802,
+            "name": "SS Faye Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Helping Arthur!] Faye.",
+            "icon": 130802,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 130901,
             "name": "S Borgin Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [A Sage Who Saves] Borgin.",
@@ -4635,6 +4643,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 232002,
+            "name": "SS Paul (RS3) Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Kids Are So Carefree] Paul (RS3).",
+            "icon": 232002,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 232101,
             "name": "S Black Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Treasure's All Mine] Black. ",
@@ -7211,6 +7227,22 @@
             "exchange_cost": 250
         },
         {
+            "id": 319801,
+            "name": "SS Rose (SF1) Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Free From Babysitting] Rose (SF1).",
+            "icon": 319801,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 320001,
+            "name": "SS Pinkpunch Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Wanna Get Clawed?] Pinkpunch.",
+            "icon": 320001,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 320101,
             "name": "S Gustave Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Gustave the Steel] Gustave. ",
@@ -8027,6 +8059,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 410702,
+            "name": "SS Armic Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Big Catch] Armic.",
+            "icon": 410702,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 411101,
             "name": "A Henri Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of A [King of Escata] Henri. ",
@@ -8671,6 +8711,14 @@
             "name": "SS Tsubaki Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Defending a Witch?] Tsubaki.",
             "icon": 619002,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 619003,
+            "name": "SS Tsubaki Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Forget the Witches for Now] Tsubaki.",
+            "icon": 619003,
             "selling_price": 100,
             "exchange_cost": 250
         },

@@ -23236,6 +23236,78 @@
             "is_bulk_exchange": 1
         },
         {
+            "id": 101037,
+            "name": "Canary Bow",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1500,
+            "priority": 30131020,
+            "rewards": [
+                {
+                    "type": 15,
+                    "id": 109508200,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101038,
+            "name": "Cute Wear",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3003,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 30333085,
+            "rewards": [
+                {
+                    "type": 17,
+                    "id": 305502300,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101039,
+            "name": "Faerie's Heels",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3003,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 30330070,
+            "rewards": [
+                {
+                    "type": 17,
+                    "id": 308502200,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
             "id": 101040,
             "name": "Cat's Claw",
             "description": "",
@@ -23352,6 +23424,30 @@
             ],
             "is_only_not_owned": 0,
             "only_not_owned_possible_count": 0,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 1001020,
+            "name": "Saintly Veil",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3003,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 30332100,
+            "rewards": [
+                {
+                    "type": 17,
+                    "id": 306503400,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
             "outlet_shop_product_stack_id": 0,
             "is_bulk_exchange": 1
         },

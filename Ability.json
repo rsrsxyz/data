@@ -56728,9 +56728,9 @@
         },
         {
             "id": 711100552,
-            "name": "Water Dragon+",
-            "flavor_text": "Water Dragon's attack damage increases by 99%.",
-            "simple_flavor_text": "Water Dragon +99%",
+            "name": "Strom+",
+            "flavor_text": "Strom's attack damage increases by 99%.",
+            "simple_flavor_text": "Strom +99%",
             "special_effect_ids": [
                 811040668
             ],
@@ -81373,6 +81373,202 @@
             "sort_order": 0
         },
         {
+            "id": 1702100737,
+            "name": "Pink Mystic",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br>When attacked, damage taken will be reduced (very large effect).<br><br>[Start of turn]<br>Grants all other surviving allies <special_effect=800000470>Attack Boost (Male/Unknown)</special_effect> (super extreme effect/1 turn(s)).<br>Grants all other surviving allies <special_effect=800000471>Defense Boost (Male/Unknown)</special_effect> (very large effect/1 turn(s)).<br>Recovers all surviving allies' HP (very small effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500528>Cutie Strike</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=1110500124>Lovely Yell</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040741,
+                802040448,
+                802043865,
+                802043867,
+                802043868
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100738,
+            "name": "Vengeful Sister",
+            "flavor_text": "Attacks' damage increases (very large effect).<br>When attacked, damage taken will be reduced (extreme effect).<br><br>[Start of battle]<br>Recovers own BP (+3).<br>Grants oneself <special_effect=800000467>Chain Attack (Saturn Blade)</special_effect> (4 turn(s)).<br><br>[When being attacked]<br>Grants oneself <special_effect=800000468>Axe of Vengeance (1x)</special_effect> (4 turn(s)).<br><br>[When attacked and HP reaches 0]<br>Returns to 100% of Max HP (Max times: 1 time per battle).<br><br>[End of turn]<br>Increases own OD gauge (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040346,
+                802040768,
+                802040520,
+                802043854,
+                802043856,
+                802042314,
+                802041748
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100739,
+            "name": "Witch Hunter",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (large effect/1 turn(s)).<br>Increases all surviving allies' status ailments resistances (large effect).<br><br>[When landing an attack]<br>Recovers own BP (+2).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110700512>Gold Conductor</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041162,
+                1802041163,
+                1802041164
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100740,
+            "name": "Witch Hunter: Effect 1",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (large effect/1 turn(s)).<br>Increases all surviving allies' status ailments resistances (large effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041192,
+                1802041165,
+                1802041166,
+                1802041167,
+                1802041168,
+                1802041169,
+                1802041170,
+                1802041171,
+                1802041172,
+                1802041173,
+                1802041174,
+                1802041175
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100741,
+            "name": "Witch Hunter: Effect 2",
+            "flavor_text": "[When landing an attack]<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040961
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100742,
+            "name": "Witch Hunter: Effect 3",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110700512>Gold Conductor</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043948
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100743,
+            "name": "Steal (2x)",
+            "flavor_text": "When landing an attack, activates the following (Max times: 2):<br>・Reduces target's STR/END/DEX/INT/WIL (small effect).<br>・Increases own STR/END/DEX/INT/WIL (small effect).<br>・Grants the target <special_effect=800000035>Defense Down</special_effect> (small effect/1 turn(s)).<br>・Grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041176,
+                1802041177,
+                1802041178,
+                1802041179,
+                1802041180,
+                1802041181,
+                1802041182,
+                1802041183,
+                1802041184,
+                1802041185,
+                1802041186,
+                1802041187
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100744,
+            "name": "Steal (2x)",
+            "flavor_text": "When landing an attack, activates the following (Max times: 2):<br>・Reduces target's STR/END/DEX/INT/WIL (small effect).<br>・Increases own STR/END/DEX/INT/WIL (small effect).<br>・Grants the target <special_effect=800000035>Defense Down</special_effect> (small effect/1 turn(s)).<br>・Grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041176,
+                1802041177,
+                1802041178,
+                1802041179,
+                1802041180,
+                1802041181,
+                1802041182,
+                1802041183,
+                1802041184,
+                1802041185,
+                1802041186,
+                1802041187
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100745,
+            "name": "Lad With a Dream",
+            "flavor_text": "[Start of battle]<br>Fills up all surviving allies' OD gauges.<br>Grants all surviving allies <special_effect=800000158>Over Enhance</special_effect> (super extreme effect).<br><br>[End of turn]<br>Increases all surviving allies' OD gauges (small effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110900695>Maiming Volley</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[On OD attacks*]<br>Grants all surviving allies <special_effect=1800000063>Steal (2x)</special_effect> (no turn limit).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042257,
+                802042258,
+                802043746,
+                1802041188
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100746,
+            "name": "Lad With a Dream: Effect",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110900695>Maiming Volley</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[On OD attacks*]<br>Grants all surviving allies <special_effect=1800000063>Steal (2x)</special_effect> (no turn limit).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044267,
+                1802041189
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100747,
+            "name": "Chapa Fisher",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br>When attacked, damage taken will be reduced (very large effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500551>Air Fist</skill> and <skill=1110500126>Super Brute Force</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040741,
+                802040448,
+                1802041190
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100748,
+            "name": "Chapa Fisher: Effect",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110500551>Air Fist</skill> and <skill=1110500126>Super Brute Force</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044095,
+                1802041191
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
             "id": 1702200002,
             "name": "Cover of Night",
             "flavor_text": "[Start of round]<br>Has oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).",
@@ -82919,6 +83115,61 @@
             "simple_flavor_text": "",
             "special_effect_ids": [
                 1808040035
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1708300007,
+            "name": "Atk Down/Def Boost Ⅱ",
+            "flavor_text": "[Start of turn]<br>Grants all enemies <special_effect=800000029>Attack Down</special_effect> (small effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043734,
+                802041640
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1708300008,
+            "name": "Pink Mystic",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br>When attacked, damage taken will be reduced (very large effect).<br><br>[Start of turn]<br>Grants all other surviving allies <special_effect=800000470>Attack Boost (Male/Unknown)</special_effect> (super extreme effect/1 turn(s)).<br>Grants all other surviving allies <special_effect=800000471>Defense Boost (Male/Unknown)</special_effect> (very large effect/1 turn(s)).<br>Recovers all surviving allies' HP (very small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040741,
+                802040448,
+                1808040045
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1708300009,
+            "name": "Pink Mystic: Effect",
+            "flavor_text": "[Start of turn]<br>Grants all other surviving allies <special_effect=800000470>Attack Boost (Male/Unknown)</special_effect> (super extreme effect/1 turn(s)).<br>Grants all other surviving allies <special_effect=800000471>Defense Boost (Male/Unknown)</special_effect> (very large effect/1 turn(s)).<br>Recovers all surviving allies' HP (very small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043869,
+                802043871,
+                1808040046
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1708300010,
+            "name": "Destruction Tips Ⅰ (STR)",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Grants the target <special_effect=800000035>Defense Down</special_effect> (small effect/2 turn(s)).<br>Reduces target's STR (medium effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1808040047,
+                802043995,
+                802014157
             ],
             "icon": 4010,
             "rarity": 0,

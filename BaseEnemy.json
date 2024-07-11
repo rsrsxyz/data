@@ -24951,6 +24951,20 @@
             "pc_enemy_skill_hold_motion": 1
         },
         {
+            "id": 1000213081,
+            "pc_flag": 1,
+            "name": "Faye",
+            "enemy_class": 99,
+            "species": [
+                1,
+                97
+            ],
+            "gender": 2,
+            "sprite_studio": 0,
+            "illust": 130800,
+            "pc_enemy_skill_hold_motion": 1
+        },
+        {
             "id": 1000221021,
             "pc_flag": 1,
             "name": "Jamil",
@@ -25342,6 +25356,20 @@
             "pc_enemy_skill_hold_motion": 1
         },
         {
+            "id": 1000223201,
+            "pc_flag": 1,
+            "name": "Paul",
+            "enemy_class": 99,
+            "species": [
+                1,
+                96
+            ],
+            "gender": 1,
+            "sprite_studio": 0,
+            "illust": 232002,
+            "pc_enemy_skill_hold_motion": 1
+        },
+        {
             "id": 1000223261,
             "pc_flag": 1,
             "name": "Boston",
@@ -25492,6 +25520,34 @@
             "pc_enemy_skill_hold_motion": 2
         },
         {
+            "id": 1000231981,
+            "pc_flag": 1,
+            "name": "Rose",
+            "enemy_class": 99,
+            "species": [
+                1,
+                97
+            ],
+            "gender": 2,
+            "sprite_studio": 0,
+            "illust": 319800,
+            "pc_enemy_skill_hold_motion": 1
+        },
+        {
+            "id": 1000232001,
+            "pc_flag": 1,
+            "name": "Pinkpunch",
+            "enemy_class": 99,
+            "species": [
+                19,
+                97
+            ],
+            "gender": 2,
+            "sprite_studio": 0,
+            "illust": 320000,
+            "pc_enemy_skill_hold_motion": 1
+        },
+        {
             "id": 1000232011,
             "pc_flag": 1,
             "name": "Gustave",
@@ -25531,6 +25587,19 @@
             "gender": 2,
             "sprite_studio": 0,
             "illust": 323202,
+            "pc_enemy_skill_hold_motion": 1
+        },
+        {
+            "id": 1000241071,
+            "pc_flag": 1,
+            "name": "Armic",
+            "enemy_class": 99,
+            "species": [
+                96
+            ],
+            "gender": 1,
+            "sprite_studio": 0,
+            "illust": 410702,
             "pc_enemy_skill_hold_motion": 1
         },
         {
@@ -25601,6 +25670,20 @@
             "gender": 2,
             "sprite_studio": 0,
             "illust": 611203,
+            "pc_enemy_skill_hold_motion": 1
+        },
+        {
+            "id": 1000261901,
+            "pc_flag": 1,
+            "name": "Tsubaki",
+            "enemy_class": 99,
+            "species": [
+                1,
+                97
+            ],
+            "gender": 2,
+            "sprite_studio": 0,
+            "illust": 619003,
             "pc_enemy_skill_hold_motion": 1
         },
         {

@@ -6340,6 +6340,381 @@
             "initial_grindable": 0
         },
         {
+            "id": 1126001,
+            "name": "Competition Training Dojo",
+            "growth_count": 1,
+            "stamina": 0,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_reward_set_id": 3000037,
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "battle_id": 200132011,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 0,
+            "is_event_ability_target": 0,
+            "is_adventurer_rank_drop_enabled": 0,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1126002,
+            "name": "Training Dojo (Metal Dummy): 14 BP",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10008
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000026,
+            "drop_group_ids": [
+                500090001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200132071,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1126003,
+            "name": "Training Dojo (Metal Dummy): 7 BP",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10008
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000026,
+            "drop_group_ids": [
+                500090001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200132061,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1126004,
+            "name": "Training Dojo (Metal Dummy): 2 BP",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10008
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000026,
+            "drop_group_ids": [
+                500090001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200132051,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1126005,
+            "name": "Training Dojo (Wooden Dummy): 14 BP",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10008
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000026,
+            "drop_group_ids": [
+                500090001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200132041,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 8,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1126006,
+            "name": "Training Dojo (Wooden Dummy): 7 BP",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10008
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000026,
+            "drop_group_ids": [
+                500090001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200132031,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 7,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1126007,
+            "name": "Training Dojo (Wooden Dummy): 2 BP",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10008
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000026,
+            "drop_group_ids": [
+                500090001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200132021,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 6,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1126008,
+            "name": "Training Dojo (Metal Dummy): 20 BP",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10008
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000026,
+            "drop_group_ids": [
+                500090001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200132091,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1126009,
+            "name": "Training Dojo (Wooden Dummy): 20 BP",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10008
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000026,
+            "drop_group_ids": [
+                500090001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200132081,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 9,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
             "id": 1127001,
             "name": "Excavate! Treasure in the Mine: Upper Floor-1",
             "growth_count": 1,

@@ -1287,6 +1287,17 @@
             "quest_bg_id": 700000215
         },
         {
+            "id": 10026001,
+            "name": "",
+            "stage_id": 19910026,
+            "floor": 1,
+            "bg_id": 0,
+            "battle_bg_id": 700000056,
+            "bgm_id": 130218,
+            "node_asset_theme": 1,
+            "quest_bg_id": 700000056
+        },
+        {
             "id": 10027001,
             "name": "Upper Floor",
             "stage_id": 19910027,

@@ -1356,6 +1356,40 @@
             ]
         },
         {
+            "id": 1126001,
+            "quests": [
+                {
+                    "stage_node_quest_id": 1126008
+                },
+                {
+                    "stage_node_quest_id": 1126002
+                },
+                {
+                    "stage_node_quest_id": 1126003
+                },
+                {
+                    "stage_node_quest_id": 1126004
+                }
+            ]
+        },
+        {
+            "id": 1126002,
+            "quests": [
+                {
+                    "stage_node_quest_id": 1126009
+                },
+                {
+                    "stage_node_quest_id": 1126005
+                },
+                {
+                    "stage_node_quest_id": 1126006
+                },
+                {
+                    "stage_node_quest_id": 1126007
+                }
+            ]
+        },
+        {
             "id": 12060101,
             "quests": [
                 {

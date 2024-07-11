@@ -1005,6 +1005,27 @@
             "priority": 9997
         },
         {
+            "id": 10333,
+            "shop_id": 4900664,
+            "name": "Pickup Styles",
+            "shop_filter_type": 1,
+            "priority": 9999
+        },
+        {
+            "id": 10334,
+            "shop_id": 4900664,
+            "name": "Other Styles",
+            "shop_filter_type": 1,
+            "priority": 9998
+        },
+        {
+            "id": 10335,
+            "shop_id": 4900664,
+            "name": "Misc.",
+            "shop_filter_type": 2,
+            "priority": 9997
+        },
+        {
             "id": 10336,
             "shop_id": 4900668,
             "name": "Pickup Styles",
@@ -1084,6 +1105,27 @@
         {
             "id": 10347,
             "shop_id": 4900672,
+            "name": "Misc.",
+            "shop_filter_type": 2,
+            "priority": 9997
+        },
+        {
+            "id": 10348,
+            "shop_id": 4900674,
+            "name": "Pickup Styles",
+            "shop_filter_type": 1,
+            "priority": 9999
+        },
+        {
+            "id": 10349,
+            "shop_id": 4900674,
+            "name": "Other Styles",
+            "shop_filter_type": 1,
+            "priority": 9998
+        },
+        {
+            "id": 10350,
+            "shop_id": 4900674,
             "name": "Misc.",
             "shop_filter_type": 2,
             "priority": 9997

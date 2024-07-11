@@ -805,7 +805,7 @@
         {
             "id": 718200008,
             "name": "BP Cost Reduction on Specific Turns",
-            "flavor_text": "[On every 3 turns counting from the start of round]<br>All surviving allies' skill/spell BP cost is reduced to 0.<br>*Warriors who returned from unconsciousness at the end of the previous turn are not included.",
+            "flavor_text": "[On every 3 turns counting from the start of round]<br>All surviving allies' skill/spell BP cost is reduced to 0.<br>*Warriors who return from unconsciousness just before the end of the turn are not included.",
             "icon": 4010,
             "effect_name": "",
             "cue_sheet_name": "",

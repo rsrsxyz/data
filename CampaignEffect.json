@@ -21429,6 +21429,19 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7512,
+            "ribbon": "Competition Tile Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013928
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7514,
             "ribbon": "2x Exploration Point Drop Slots!",
             "campaign_type": 5,
@@ -21450,6 +21463,19 @@
             "reward_id": 0,
             "drop_group_ids": [
                 500080001
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7518,
+            "ribbon": "Training Proof [Competition] Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013929
             ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0
@@ -21546,6 +21572,19 @@
             "reward_id": 0,
             "drop_group_ids": [
                 21013939
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7531,
+            "ribbon": "Free Quests Exploration Coin Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013940
             ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0

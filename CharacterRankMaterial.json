@@ -33,6 +33,14 @@
             "icon": "961002",
             "max_quantity": 9999999,
             "sort_order": 49999940
+        },
+        {
+            "id": 961003,
+            "name": "Promotion Certificate III",
+            "flavor_text": "Item required for taking the Promotion Exam (Rank 31).",
+            "icon": "961003",
+            "max_quantity": 9999999,
+            "sort_order": 49999935
         }
     ]
 }

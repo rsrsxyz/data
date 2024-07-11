@@ -2684,6 +2684,17 @@
             "selling_price": 0
         },
         {
+            "id": 800332,
+            "name": "SaGa Soul Medal 22",
+            "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+            "icon": 800332,
+            "max_quantity": 99999999,
+            "expired_at": 1723165199,
+            "sort_order": 24071160,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 800333,
             "name": "Romancing Festival Medal 174",
             "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -2724,6 +2735,17 @@
             "max_quantity": 99999999,
             "expired_at": 1721869199,
             "sort_order": 24062685,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 800337,
+            "name": "SaGa Soul Medal 23",
+            "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+            "icon": 800600,
+            "max_quantity": 99999999,
+            "expired_at": 1723165199,
+            "sort_order": 24071155,
             "stage_gacha_point_id": 0,
             "selling_price": 0
         },
@@ -9471,6 +9493,17 @@
             "selling_price": 1
         },
         {
+            "id": 1100953,
+            "name": "Competition Tile",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100953,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24071150,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 1100954,
             "name": "Race Saddle",
             "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -9511,6 +9544,28 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 24061940,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1100958,
+            "name": "Training Proof [Competition] [Ltd. Time]",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items. (Until [1723165199] <tz>)",
+            "icon": 1100958,
+            "max_quantity": 99999999,
+            "expired_at": 1723165199,
+            "sort_order": 24071145,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1100959,
+            "name": "Free Quests Exploration Coin [Ltd. Time]",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for SS weapons, SS Gear, and other items.",
+            "icon": 1100918,
+            "max_quantity": 99999999,
+            "expired_at": 1723165199,
+            "sort_order": 24071110,
             "stage_gacha_point_id": 0,
             "selling_price": 0
         },
