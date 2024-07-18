@@ -315,6 +315,40 @@
                     "id": 690025
                 }
             ]
+        },
+        {
+            "id": 10010,
+            "name": "Bonds Records",
+            "stage_gacha_point_id": 10009,
+            "price": 1000,
+            "bulk_draw_count": 100,
+            "background": 1,
+            "pickup_rewards": [
+                {
+                    "type": 15,
+                    "id": 108601200
+                },
+                {
+                    "type": 33,
+                    "id": 961003
+                },
+                {
+                    "type": 2,
+                    "id": 105001
+                },
+                {
+                    "type": 20,
+                    "id": 881007
+                },
+                {
+                    "type": 33,
+                    "id": 961002
+                },
+                {
+                    "type": 5,
+                    "id": 690025
+                }
+            ]
         }
     ]
 }

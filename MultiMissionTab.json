@@ -176,6 +176,36 @@
             "lock_text": ""
         },
         {
+            "id": 23,
+            "multi_mission_group_id": 13,
+            "title": "Round 1 Challenge! [Ultra Hard] Real Queen Venom",
+            "summary": "<size=+3>Complete Battle with Real Queen Venom</size><br>Co-op Mission: [Ultra Hard]　　　　Solo Mission: [Normal]",
+            "description": "Complete Battle with Real Queen Venom on specific difficulties<br>・Co-op Mission: [Ultra Hard]<br>・Solo Mission: [Normal]",
+            "area_id": 1664,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1721610000,
+            "end_at": 1724029199,
+            "priority": 9994,
+            "lock_text": ""
+        },
+        {
+            "id": 24,
+            "multi_mission_group_id": 13,
+            "title": "Round 1 Challenge! [Romancing] Real Queen Venom",
+            "summary": "<size=+3>Complete Battle with Real Queen Venom</size><br>Co-op Mission: [Romancing]　　　　Solo Mission: [Normal]",
+            "description": "Complete Battle with Real Queen Venom on specific difficulties<br>・Co-op Mission: [Romancing]<br>・Solo Mission: [Normal]",
+            "area_id": 1664,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1721610000,
+            "end_at": 1724029199,
+            "priority": 9995,
+            "lock_text": ""
+        },
+        {
             "id": 1000000001,
             "multi_mission_group_id": 1000000001,
             "title": "Fight Together! Fateful Showdown Co-op Missions",

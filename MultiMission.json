@@ -6962,6 +6962,78 @@
             "priority": 9983
         },
         {
+            "id": 200400,
+            "multi_mission_tab_id": 23,
+            "description": "Complete [Ultra Hard]",
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 500
+                }
+            ],
+            "priority": 9993
+        },
+        {
+            "id": 200401,
+            "multi_mission_tab_id": 24,
+            "description": "Complete [Romancing]",
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 500
+                }
+            ],
+            "priority": 9992
+        },
+        {
+            "id": 200402,
+            "multi_mission_tab_id": 23,
+            "description": "Complete [Normal]",
+            "rewards": [
+                {
+                    "type": 4,
+                    "id": 403030,
+                    "quantity": 46
+                },
+                {
+                    "type": 4,
+                    "id": 404030,
+                    "quantity": 75
+                },
+                {
+                    "type": 4,
+                    "id": 405030,
+                    "quantity": 30
+                },
+                {
+                    "type": 1,
+                    "id": 100003,
+                    "quantity": 100000
+                }
+            ],
+            "priority": 9991
+        },
+        {
+            "id": 200403,
+            "multi_mission_tab_id": 24,
+            "description": "Complete [Normal]",
+            "rewards": [
+                {
+                    "type": 7,
+                    "id": 1100322,
+                    "quantity": 3
+                },
+                {
+                    "type": 1,
+                    "id": 100003,
+                    "quantity": 100000
+                }
+            ],
+            "priority": 9990
+        },
+        {
             "id": 1000000001,
             "multi_mission_tab_id": 1000000001,
             "description": "Get 200 items",

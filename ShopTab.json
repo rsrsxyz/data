@@ -1173,6 +1173,48 @@
             "priority": 9997
         },
         {
+            "id": 10368,
+            "shop_id": 4900682,
+            "name": "Pickup Styles",
+            "shop_filter_type": 1,
+            "priority": 9999
+        },
+        {
+            "id": 10369,
+            "shop_id": 4900682,
+            "name": "Other Styles",
+            "shop_filter_type": 1,
+            "priority": 9998
+        },
+        {
+            "id": 10370,
+            "shop_id": 4900682,
+            "name": "Misc.",
+            "shop_filter_type": 2,
+            "priority": 9997
+        },
+        {
+            "id": 10371,
+            "shop_id": 4900683,
+            "name": "Pickup Styles",
+            "shop_filter_type": 1,
+            "priority": 9999
+        },
+        {
+            "id": 10372,
+            "shop_id": 4900683,
+            "name": "Other Styles",
+            "shop_filter_type": 1,
+            "priority": 9998
+        },
+        {
+            "id": 10373,
+            "shop_id": 4900683,
+            "name": "Misc.",
+            "shop_filter_type": 2,
+            "priority": 9997
+        },
+        {
             "id": 1000010001,
             "shop_id": 4900480,
             "name": "Pickup Styles",
@@ -2228,6 +2270,34 @@
             "name": "Misc.",
             "shop_filter_type": 2,
             "priority": 9998
+        },
+        {
+            "id": 1000010152,
+            "shop_id": 1004900144,
+            "name": "Romancing Fest.",
+            "shop_filter_type": 1,
+            "priority": 9999
+        },
+        {
+            "id": 1000010153,
+            "shop_id": 1004900144,
+            "name": "UDX Summon",
+            "shop_filter_type": 1,
+            "priority": 9998
+        },
+        {
+            "id": 1000010154,
+            "shop_id": 1004900144,
+            "name": "SaGa Soul",
+            "shop_filter_type": 1,
+            "priority": 9997
+        },
+        {
+            "id": 1000010155,
+            "shop_id": 1004900144,
+            "name": "Items",
+            "shop_filter_type": 2,
+            "priority": 9996
         }
     ]
 }

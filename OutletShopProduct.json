@@ -22828,6 +22828,54 @@
             "is_bulk_exchange": 1
         },
         {
+            "id": 100992,
+            "name": "Speculation EX",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 5,
+            "outlet_shop_tab_id": 5001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 50010420,
+            "rewards": [
+                {
+                    "type": 19,
+                    "id": 1055,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 100993,
+            "name": "Hunter's Gambit EX",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 5,
+            "outlet_shop_tab_id": 5001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 50010430,
+            "rewards": [
+                {
+                    "type": 19,
+                    "id": 1056,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
             "id": 100995,
             "name": "[Star-Friend Records] Exploration Point",
             "description": "",
@@ -23424,6 +23472,102 @@
             ],
             "is_only_not_owned": 0,
             "only_not_owned_possible_count": 0,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101051,
+            "name": "Promotion Certificate III",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 1,
+            "outlet_shop_tab_id": 1002,
+            "outlet_shop_product_group_id": 10024,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 150000,
+            "priority": 10210028,
+            "rewards": [
+                {
+                    "type": 33,
+                    "id": 961003,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 0,
+            "only_not_owned_possible_count": 0,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101054,
+            "name": "[Bonds Records] Exploration Point (Gold Chest Gtd.)",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 1,
+            "outlet_shop_tab_id": 1004,
+            "outlet_shop_product_group_id": 10045,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 40000,
+            "priority": 10465020,
+            "rewards": [
+                {
+                    "type": 40,
+                    "id": 1300005,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 0,
+            "only_not_owned_possible_count": 0,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101055,
+            "name": "[Bonds Records] Exploration Point",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 1,
+            "outlet_shop_tab_id": 1004,
+            "outlet_shop_product_group_id": 10045,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 750,
+            "priority": 10460065,
+            "rewards": [
+                {
+                    "type": 37,
+                    "id": 10009,
+                    "quantity": 1000
+                }
+            ],
+            "is_only_not_owned": 0,
+            "only_not_owned_possible_count": 0,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101056,
+            "name": "Ring of Crimson Strike",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3004,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1500,
+            "priority": 30430180,
+            "rewards": [
+                {
+                    "type": 18,
+                    "id": 409523000,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
             "outlet_shop_product_stack_id": 0,
             "is_bulk_exchange": 1
         },

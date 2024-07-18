@@ -6537,6 +6537,42 @@
             "priority": 548,
             "featured_start_at": 0,
             "featured_end_at": 0
+        },
+        {
+            "id": 1000000773,
+            "event_ability_category_id": 1000000524,
+            "name": "SaGa THE STAGE Reforged Bonds Round 1 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Reforged Bonds Coin (Red) drops in Bonds Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 549,
+            "featured_start_at": 0,
+            "featured_end_at": 0
+        },
+        {
+            "id": 1000000774,
+            "event_ability_category_id": 1000000525,
+            "name": "SaGa THE STAGE Reforged Bonds Round 1 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains and 3x skill/spell rank up amount in Free Quests<br>・Bonus Reforged Bonds Coin (Red) drops in Bonds Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 550,
+            "featured_start_at": 0,
+            "featured_end_at": 0
+        },
+        {
+            "id": 1000000775,
+            "event_ability_category_id": 1000000526,
+            "name": "SaGa THE STAGE Reforged Bonds Round 1 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains and 3x skill/spell rank up amount in Free Quests<br>・Bonus Reforged Bonds Coin (Red) drops in Bonds Records<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 551,
+            "featured_start_at": 0,
+            "featured_end_at": 0
         }
     ]
 }

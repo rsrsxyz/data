@@ -439,6 +439,151 @@
             ],
             "style_exp": 10000,
             "start_at": 0
+        },
+        {
+            "id": 31,
+            "rank": 31,
+            "value": 0.5,
+            "materials": [
+                {
+                    "type": 33,
+                    "id": 960001,
+                    "quantity": 100
+                },
+                {
+                    "type": 33,
+                    "id": 961003,
+                    "quantity": 1
+                }
+            ],
+            "style_exp": 10000,
+            "start_at": 1721350800
+        },
+        {
+            "id": 32,
+            "rank": 32,
+            "value": 0.5,
+            "materials": [
+                {
+                    "type": 33,
+                    "id": 960001,
+                    "quantity": 100
+                }
+            ],
+            "style_exp": 10000,
+            "start_at": 1721350800
+        },
+        {
+            "id": 33,
+            "rank": 33,
+            "value": 0.5,
+            "materials": [
+                {
+                    "type": 33,
+                    "id": 960001,
+                    "quantity": 110
+                }
+            ],
+            "style_exp": 10000,
+            "start_at": 1721350800
+        },
+        {
+            "id": 34,
+            "rank": 34,
+            "value": 0.5,
+            "materials": [
+                {
+                    "type": 33,
+                    "id": 960001,
+                    "quantity": 110
+                }
+            ],
+            "style_exp": 10000,
+            "start_at": 1721350800
+        },
+        {
+            "id": 35,
+            "rank": 35,
+            "value": 0.5,
+            "materials": [
+                {
+                    "type": 33,
+                    "id": 960001,
+                    "quantity": 120
+                }
+            ],
+            "style_exp": 10000,
+            "start_at": 1721350800
+        },
+        {
+            "id": 36,
+            "rank": 36,
+            "value": 0.5,
+            "materials": [
+                {
+                    "type": 33,
+                    "id": 960001,
+                    "quantity": 120
+                }
+            ],
+            "style_exp": 10000,
+            "start_at": 1721350800
+        },
+        {
+            "id": 37,
+            "rank": 37,
+            "value": 0.5,
+            "materials": [
+                {
+                    "type": 33,
+                    "id": 960001,
+                    "quantity": 130
+                }
+            ],
+            "style_exp": 10000,
+            "start_at": 1721350800
+        },
+        {
+            "id": 38,
+            "rank": 38,
+            "value": 0.5,
+            "materials": [
+                {
+                    "type": 33,
+                    "id": 960001,
+                    "quantity": 130
+                }
+            ],
+            "style_exp": 10000,
+            "start_at": 1721350800
+        },
+        {
+            "id": 39,
+            "rank": 39,
+            "value": 0.5,
+            "materials": [
+                {
+                    "type": 33,
+                    "id": 960001,
+                    "quantity": 140
+                }
+            ],
+            "style_exp": 10000,
+            "start_at": 1721350800
+        },
+        {
+            "id": 40,
+            "rank": 40,
+            "value": 0.5,
+            "materials": [
+                {
+                    "type": 33,
+                    "id": 960001,
+                    "quantity": 140
+                }
+            ],
+            "style_exp": 10000,
+            "start_at": 1721350800
         }
     ]
 }

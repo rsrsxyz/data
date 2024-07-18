@@ -26014,7 +26014,7 @@
         },
         {
             "id": 702103067,
-            "name": "Sword of Justice: Effect 2",
+            "name": "Sword of Justice: Effect 3",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -26081,7 +26081,7 @@
         {
             "id": 702103076,
             "name": "Shucho's Power",
-            "flavor_text": "[When landing an attack]<br>Recovers own BP (+1).<br><br>[When landing a Weak attack*]<br><skill=110100545>Fireclad Flash</skill> will be activated 2 times.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=110100548>Shucho Concerto</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Increases own OD gauge (very large effect).",
+            "flavor_text": "[When landing an attack]<br>Recovers own BP (+1).<br><br>[When landing a Weak attack*]<br><skill=110100545>Fireclad Flash</skill> will be activated 2 times.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=110100548>Shucho Concerto</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Increases own OD gauge (very large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041462,
@@ -26149,7 +26149,7 @@
         },
         {
             "id": 702103082,
-            "name": "Lifesaving Water: Effect",
+            "name": "Lifesaving Water: Effect 2",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -26475,7 +26475,7 @@
         },
         {
             "id": 702103108,
-            "name": "Boss's Shout: Effect",
+            "name": "Boss's Shout: Effect 1",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -26653,8 +26653,8 @@
         },
         {
             "id": 702103125,
-            "name": "再会への決意",
-            "flavor_text": "[バトル開始時] <br>自身のBPを回復する( +3 )<br>味方生存者全体に「<special_effect=800000576>奮勢・技(1回)</special_effect>」( 効果ターン数制限なし )を付与する<br>味方生存者全体に「<special_effect=800000577>奮勢・術(1回)</special_effect>」( 効果ターン数制限なし )を付与する<br><br>[技攻撃(※)命中時]<br>「<skill=110100549>ノクターナルチェイス</skill>」が発動する<br>( 技Rank1で発動 )<br><br>[術攻撃(※)命中時]<br>「<skill=125100504>フランマニックス</skill>」が発動する<br>( 術Rank1で発動 )<br><br>※「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「技・術の効果により発動する技・術」は含まない",
+            "name": "Determined to Reunite",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br>Grants all surviving allies <special_effect=800000576>Momentum: Skill (1x)</special_effect> (no turn limit).<br>Grants all surviving allies <special_effect=800000577>Momentum: Spell (1x)</special_effect> (no turn limit).<br><br>[When landing a skill attack*]<br><skill=110100549>Nocturnal Chase</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[When landing a spell attack*]<br><skill=125100504>Flamma Nix</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated by Abilities, Skill/Spell Counterattacks, and Skills/Spells activated by skill/spell effects are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040520,
@@ -26668,7 +26668,7 @@
         },
         {
             "id": 702103126,
-            "name": "奮勢・技(1回)",
+            "name": "Momentum: Skill (1x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -26683,7 +26683,7 @@
         },
         {
             "id": 702103127,
-            "name": "奮勢・術(1回)",
+            "name": "Momentum: Spell (1x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -26698,7 +26698,7 @@
         },
         {
             "id": 702103128,
-            "name": "再会への決意・効果",
+            "name": "Determined to Reunite: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -26779,7 +26779,7 @@
         },
         {
             "id": 702103134,
-            "name": "ウィークポイント(打/防御弱化)",
+            "name": "Weak Point (Blunt/Defense Down)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -26791,8 +26791,8 @@
         },
         {
             "id": 702103135,
-            "name": "啓明の一閃Ⅰ(腕力・素早さ)",
-            "flavor_text": "[攻撃命中時]<br>自身のHPを回復する( 効果極小 )<br>自身のBPを回復する( +1 )<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」( 効果中/効果2ターン )を付与する<br>自身の腕力・素早さを上昇させる( 効果小 )",
+            "name": "Flash of Inspiration Ⅰ (STR/AGI)",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/2 turn(s)).<br>Increases own STR/AGI (small effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040750,
@@ -26807,8 +26807,8 @@
         },
         {
             "id": 702103136,
-            "name": "ガントレットの呪い",
-            "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>かつ、攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br><br>[バトル開始時] <br>自身のBPを回復する( +3 )<br>味方生存者全体に「<special_effect=800000580>属攻の恩恵(打/攻撃強化)</special_effect>」( 効果バトル中永続 )を付与する<br>敵全体に「<special_effect=800000579>ウィークポイント(打/防御弱化)</special_effect>」( 効果1ターン )を付与する<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110500564>マシンガンジャブ+</skill>」が発動する<br>「<skill=110500565>千手観音+</skill>」が発動する<br>「<skill=110500566>マッハパンチ+</skill>」が発動する<br>( それぞれ技Rank1で発動 )<br>※「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>ただしバトル開始時、自身が代償LPダメージを2受ける",
+            "name": "Gauntlet's Curse",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br>When attacked, damage taken will be reduced (very large effect).<br><br>[Start of battle]<br>Recovers own BP (+3).<br>Grants all surviving allies <special_effect=800000580>Elemental Atk Blessings (Blunt/Attack Boost)</special_effect> (Effect: permanent in battle).<br>Grants all enemies <special_effect=800000579>Weak Point (Blunt/Defense Down)</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500564>Dual Gunner+</skill> will be activated.<br>(Activates using skill Rank 1).<br><skill=110500565>Guanyin+</skill> will be activated.<br>(Activates using skill Rank 1).<br><skill=110500566>Hummingbird+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.<br><br>[Start of battle]<br>Loses 2 LP as recoil damage.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040741,
@@ -26851,7 +26851,7 @@
         },
         {
             "id": 702103139,
-            "name": "属攻の恩恵(打/攻撃強化)",
+            "name": "Elemental Atk Blessings (Blunt/Attack Boost)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27016,7 +27016,7 @@
         },
         {
             "id": 702103154,
-            "name": "ターン終了時HP回復(極小)",
+            "name": "End of Turn: Recover HP (very small)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27028,8 +27028,8 @@
         },
         {
             "id": 702103155,
-            "name": "夢への前進",
-            "flavor_text": "[バトル開始時]<br>味方生存者全体に「<special_effect=800000201>エレメントエンハンス(打)</special_effect>」( 効果超極大 )を付与する<br> <br>[ターン開始時]<br>自身のBPを回復する( +2 )<br>味方生存者全体に「<special_effect=800000583>ディガーの鼓舞(1回)</special_effect>」( 効果1ターン )を付与する<br><br>[回復行動時(※)]<br>味方生存者全体に「<special_effect=800000015>防御強化</special_effect>」( 効果大/効果2ターン )を付与する<br>対象に「<special_effect=800000137>ダメージ無効(間接)</special_effect>」( 効果1ターン )を付与する<br>※タイプが「回復」の技・術での回復を指す",
+            "name": "Toward a Dream",
+            "flavor_text": "[Start of battle]<br>Grants all surviving allies <special_effect=800000201>Elemental Enhance (Blunt)</special_effect> (super extreme effect).<br><br>[Start of turn]<br>Recovers own BP (+2).<br>Grants all surviving allies <special_effect=800000583>Digger's Encouragement (1x)</special_effect> (1 turn(s)).<br><br>[When recovery actions are made]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (large effect/2 turn(s)).<br>Grants the target <special_effect=800000137>Nullify Damage (Indirect)</special_effect> (1 turn(s)).<br>*Recovery actions: Actions made by recovery type skills/spells.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044350,
@@ -27042,7 +27042,7 @@
         },
         {
             "id": 702103156,
-            "name": "夢への前進・効果①",
+            "name": "Toward a Dream: Effect 1",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27055,7 +27055,7 @@
         },
         {
             "id": 702103157,
-            "name": "ディガーの鼓舞(1回)",
+            "name": "Digger's Encouragement (1x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27068,7 +27068,7 @@
         },
         {
             "id": 702103158,
-            "name": "夢への前進・効果②",
+            "name": "Toward a Dream: Effect 2",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27119,8 +27119,8 @@
         },
         {
             "id": 702103163,
-            "name": "灼熱の暴君",
-            "flavor_text": "[バトル開始時] <br>自身のBPを回復する( +3 )<br>自身に「<special_effect=800000644>デュアルキャスト(キロノヴァ+)</special_effect>」( 効果2ターン )を付与する<br><br>[ターン開始時]<br>敵全体に「<special_effect=800000585>獄炎の傷跡(10回)</special_effect>」( 効果1ターン )を付与する<br>敵全体に「<special_effect=800000029>攻撃弱化</special_effect>」( 効果中/効果1ターン )を付与する<br>自身に「<special_effect=800000644>デュアルキャスト(キロノヴァ+)</special_effect>」( 効果3ターン )を付与する( 確率特大 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125100522>メテオクエーサー</skill>」が発動する<br>( 術Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「技・術の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+            "name": "Scorching Tyrant",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br>Grants oneself <special_effect=800000644>Dual Cast (Kilonova+)</special_effect> (2 turn(s)).<br><br>[Start of turn]<br>Grants all enemies <special_effect=800000585>Hellfire Scars (10x)</special_effect> (1 turn(s)).<br>Grants all enemies <special_effect=800000029>Attack Down</special_effect> (medium effect/1 turn(s)).<br>Grants oneself <special_effect=800000644>Dual Cast (Kilonova+)</special_effect> (3 turn(s)) (very high chance).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=125100522>Meteor Quasar</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040520,
@@ -27136,7 +27136,7 @@
         },
         {
             "id": 702103164,
-            "name": "灼熱の暴君・効果①",
+            "name": "Scorching Tyrant: Effect 1",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27148,7 +27148,7 @@
         },
         {
             "id": 702103165,
-            "name": "獄炎の傷跡(10回)",
+            "name": "Hellfire Scars (10x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27174,8 +27174,8 @@
         },
         {
             "id": 702103167,
-            "name": "イグナイトオーラ",
-            "flavor_text": "熱属性を含む攻撃の与ダメージが上昇する( 効果極大 )<br>熱属性を含む攻撃時、自身のBPを回復する( +2 )<br>Resist攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
+            "name": "Ignite Aura",
+            "flavor_text": "Heat attacks' damage increases (extreme effect).<br>When attacking with heat attacks, recovers own BP (+2).<br>When attacked by an attack that would cause Resist, damage taken will be reduced (very large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041469,
@@ -27188,7 +27188,7 @@
         },
         {
             "id": 702103169,
-            "name": "Sword of Justice: Effect 3",
+            "name": "Sword of Justice: Effect 4",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27201,7 +27201,7 @@
         {
             "id": 702103170,
             "name": "Genbu's Power",
-            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br>Increases all surviving allies STR/END/DEX/AGI/INT/WIL/LOV/CHA (large effect).<br>Recovers all surviving allies' BP (+1).<br><br>[On OD attacks]<br>Recovers all surviving allies' HP (small effect).<br>Grants all surviving allies <special_effect=800000026>Guard Up (large)</special_effect> (2 turn(s)).",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (large effect).<br>Recovers all surviving allies' BP (+1).<br><br>[On OD attacks]<br>Recovers all surviving allies' HP (small effect).<br>Grants all surviving allies <special_effect=800000026>Guard Up (large)</special_effect> (2 turn(s)).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044400,
@@ -27235,8 +27235,8 @@
         },
         {
             "id": 702103172,
-            "name": "謎の生き物",
-            "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +1 )<br><br>[ラウンド開始時]<br>自身に「<special_effect=800000604>カポエラパシュート</special_effect>」( 効果1ターン )を付与する<br><br>[攻撃対象を倒した時]<br>自身のBPを回復する( 倒した数によらず回復量は+8 )",
+            "name": "Mysterious Creature",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+1).<br><br>[Start of round]<br>Grants oneself <special_effect=800000604>Capoeira Pursuit</special_effect> (1 turn(s)).<br><br>[When landing an attack that defeats the target]<br>Recovers own BP (only 8 BP will be recovered even if multiple targets are defeated).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040323,
@@ -27249,7 +27249,7 @@
         },
         {
             "id": 702103173,
-            "name": "謎の生き物・効果",
+            "name": "Mysterious Creature: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27261,8 +27261,8 @@
         },
         {
             "id": 702103174,
-            "name": "甘美なる暗闇",
-            "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br>Weak攻撃の場合、さらに与ダメージが上昇する( 効果超極大 )<br>術攻撃の場合、さらに与ダメージが上昇する( 効果超極大 )<br><br>[バトル開始時]<br>自身のBPを回復する( +1 )<br>自身に「<special_effect=800000097>ダメージブロック</special_effect>」( 効果3ターン )を付与する<br><br>[熱属性を含む攻撃かつWeak攻撃(※)を命中させた時]<br>「<skill=125100498>バーニングダーク</skill>」が発動する<br>( 術Rank1で発動 )<br><br>[冷属性を含む攻撃かつWeak攻撃(※)を命中させた時]<br>「<skill=125200355>スペクタクルゲート</skill>」が発動する<br>( 術Rank1で発動 )<br><br>[陰属性を含む攻撃かつWeak攻撃(※)を命中させた時]<br>「<skill=125100500>ドミナントブレイズ+</skill>」が発動する<br>( 術Rank1で発動 )<br><br>※「特殊状態の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+            "name": "Sweet Darkness",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br>When landing a Weak attack, damage increases further (super extreme effect).<br>When landing a spell attack, damage increases further (super extreme effect).<br><br>[Start of battle]<br>Recovers own BP (+1).<br>Grants oneself <special_effect=800000097>Damage Block</special_effect> (3 turn(s)).<br><br>[When landing a heat Weak attack*]<br><skill=125100498>Dark Burn</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[When landing a cold Weak attack*]<br><skill=125200355>Spectacle Portal</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[When landing a shadow Weak attack*]<br><skill=125100500>Dominant Blaze+</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated on Special Stances, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040741,
@@ -27278,7 +27278,7 @@
         },
         {
             "id": 702103175,
-            "name": "甘美なる暗闇・効果",
+            "name": "Sweet Darkness: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27292,8 +27292,8 @@
         },
         {
             "id": 702103176,
-            "name": "纏いし闇",
-            "flavor_text": "[OD攻撃(※)を発動後]<br>「<skill=125200356>チェックメイト</skill>」が発動する<br>( 術Rank1で発動 )<br><br>[熱属性を含む攻撃かつOD攻撃(※)を発動後]<br>「<skill=125100501>スプリットブレイズ</skill>」が発動する<br>( 術Rank1で発動 )<br><br>[冷属性を含む攻撃かつOD攻撃(※)を発動後]<br>「<skill=125100502>オッドサークル</skill>」が発動する<br>( 術Rank1で発動 )<br><br>[陰属性を含む攻撃かつOD攻撃(※)を発動後]<br>「<skill=125100516>トワイライトダウン</skill>」が発動する<br>( 術Rank1で発動 )<br><br>※「特殊状態の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>[ターン終了時]<br>自身のBPを回復する( +3 )<br>自身のODゲージを上昇させる( 効果特大 )",
+            "name": "Veiled in Darkness",
+            "flavor_text": "[After activating an OD attack*]<br><skill=125200356>Checkmate</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating a heat OD attack*]<br><skill=125100501>Split Blaze</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating a cold OD attack*]<br><skill=125100502>Odd Circle</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating a shadow OD attack*]<br><skill=125100516>Twilight Fall</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated on Special Stances, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Recovers own BP (+3).<br>Increases own OD gauge (very large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044443,
@@ -27306,7 +27306,7 @@
         },
         {
             "id": 702103177,
-            "name": "纏いし闇・効果",
+            "name": "Veiled in Darkness: Effect",
             "flavor_text": " ",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27396,8 +27396,8 @@
         },
         {
             "id": 702103186,
-            "name": "鋼の心",
-            "flavor_text": "味方全体に以下の効果が発動する<br>・攻撃の与ダメージが上昇する( 効果超極大 )<br>・攻撃を受けた時、被ダメージを軽減する( 効果大 )<br>・熱属性を含む攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br>・冷属性を含む攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br>・雷属性を含む攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br>・陽属性を含む攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br>・陰属性を含む攻撃を受けた時、被ダメージを軽減する( 効果特大 )",
+            "name": "Heart of Steel",
+            "flavor_text": "Activates the following for all allies:<br>・Attacks' damage increases (super extreme effect).<br>・When attacked, damage taken will be reduced (large effect).<br>・When hit by an attack which has heat damage, damage taken will be reduced (very large effect).<br>・When hit by an attack which has cold damage, damage taken will be reduced (very large effect).<br>・When hit by an attack which has lightning damage, damage taken will be reduced (very large effect).<br>・When hit by an attack which has sun damage, damage taken will be reduced (very large effect).<br>・When hit by an attack which has shadow damage, damage taken will be reduced (very large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044770,
@@ -27414,8 +27414,8 @@
         },
         {
             "id": 702103187,
-            "name": "新たな旅立ち",
-            "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br><br>[バトル開始時] <br>自身のBPを回復する( +2 )<br><br>[ターン開始時]<br>自身のBPを回復する( +3 )<br>味方生存者全体の腕力・精神を上昇させる( 効果大 )<br>味方生存者全体に「<special_effect=800000619>被弾時BP回復(+1)(3回)</special_effect>」( 効果1ターン )を付与する<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110200567>暴れ斬り</skill>」が発動する<br>「<skill=110200566>グランツストライク</skill>」が発動する<br>( それぞれ技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+            "name": "A New Journey",
+            "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>[Start of battle]<br>Recovers own BP (+2).<br><br>[Start of turn]<br>Recovers own BP (+3).<br>Increases all surviving allies' STR/WIL (large effect).<br>Grants all surviving allies <special_effect=800000619>Recover BP (+1) When Attacked (3x)</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110200567>Rampage Slash</skill> will be activated.<br>(Activates using skill Rank 1).<br><skill=110200566>Granz Strike</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040448,
@@ -27442,8 +27442,8 @@
         },
         {
             "id": 702103191,
-            "name": "恐怖の宴",
-            "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +1 )<br>敵全体に「<special_effect=800000601>贄となる恐怖</special_effect>」( 効果バトル中永続 )を付与する<br><br>[攻撃命中時]<br>対象に「<special_effect=800000602>贄となる恐怖(1回)</special_effect>」( 効果3ターン )を付与する<br>自身のBPを回復する( +1 )<br><br>[サプレッションヒットを命中させた時]<br>対象に「<special_effect=800000629>贄となる恐怖(2回)</special_effect>」( 効果3ターン )を付与する<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110500572>獄門爪殺法</skill>」が発動する<br>( 技Rank1で発動 )<br>※「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+            "name": "Feast of Fear",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+1).<br>Grants all enemies <special_effect=800000601>Sacrificial Fear</special_effect> (Effect: permanent in battle).<br><br>[When landing an attack]<br>Grants the target <special_effect=800000602>Sacrificial Fear (1x)</special_effect> (3 turn(s)).<br>Recovers own BP (+1).<br><br>[When landing an attack with Suppression Hit]<br>Grants the target <special_effect=800000629>Sacrificial Fear (2x)</special_effect> (3 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500572>Hell Scratch</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040323,
@@ -27457,7 +27457,7 @@
         },
         {
             "id": 702103192,
-            "name": "恐怖の宴・効果",
+            "name": "Feast of Fear: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27471,7 +27471,7 @@
         },
         {
             "id": 702103193,
-            "name": "贄となる恐怖",
+            "name": "Sacrificial Fear",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27487,7 +27487,7 @@
         },
         {
             "id": 702103194,
-            "name": "贄となる恐怖(1回)",
+            "name": "Sacrificial Fear (1x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27503,8 +27503,8 @@
         },
         {
             "id": 702103195,
-            "name": "戦慄の眼光",
-            "flavor_text": "[ターン開始時]<br>ランダムな敵1体に「<special_effect=800000031>モラルダウン(中)</special_effect>」( 効果1ターン )を付与する<br>ランダムな敵1体に「<special_effect=800000037>ガードダウン(中)</special_effect>」( 効果1ターン )を付与する<br>ランダムな敵1体の腕力を低下させる( 効果大 )<br>ランダムな敵1体の知力を低下させる( 効果大 )",
+            "name": "Horrifying Gaze",
+            "flavor_text": "[Start of turn]<br>Grants a random enemy <special_effect=800000031>Morale Down (medium)</special_effect> (1 turn(s)).<br>Grants a random enemy <special_effect=800000037>Guard Down (medium)</special_effect> (1 turn(s)).<br>Reduces a random enemy's STR (large effect).<br>Reduces a random enemy's INT (large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044477,
@@ -27518,7 +27518,7 @@
         },
         {
             "id": 702103196,
-            "name": "カポエラパシュート",
+            "name": "Capoeira Pursuit",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27544,7 +27544,7 @@
         },
         {
             "id": 702103198,
-            "name": "邪悪なオーラ(2回)",
+            "name": "Sinister Aura (2x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27560,8 +27560,8 @@
         },
         {
             "id": 702103199,
-            "name": "アニマを求める者",
-            "flavor_text": "攻撃の与ダメージが上昇する( 効果超極大 )<br>攻撃を受けた時、被ダメージを軽減する( 効果大 )<br><br>[バトル開始時] <br>自身のBPを回復する( +1 )<br>味方生存者全体に「<special_effect=800000605>邪悪なオーラ(2回)</special_effect>」( 効果ターン数制限なし )を付与する<br><br>[ターン開始時]<br>自身のBPを回復する( +3 )<br>自身の知力を上昇させる( 効果特大 )<br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果極大 )を付与する( 上限回数:バトル中5回 )",
+            "name": "Anima Seeker",
+            "flavor_text": "Attacks' damage increases (super extreme effect).<br>When attacked, damage taken will be reduced (large effect).<br><br>[Start of battle]<br>Recovers own BP (+1).<br>Grants all surviving allies <special_effect=800000605>Sinister Aura (2x)</special_effect> (no turn limit).<br><br>[Start of turn]<br>Recovers own BP (+3)<br>Increases own INT (very large effect).<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (extreme effect) (Max times: 5 times per battle).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041182,
@@ -27578,8 +27578,8 @@
         },
         {
             "id": 702103200,
-            "name": "欲望のままに",
-            "flavor_text": "[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110500577>ノクターン+</skill>」が発動する<br>( 技Rank1で発動 )<br><br>[OD攻撃(※)を発動後]<br>「<skill=110500578>ノワールアステロイド</skill>」が発動する<br>( 技Rank1で発動 )<br><br>※「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>[ターン終了時]<br>自身のODゲージを上昇させる( 効果特大 )",
+            "name": "As Desires Dictate",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110500577>Nocturne+</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=110500578>Asteroid Noir</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Increases own OD gauge (very large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044490,
@@ -27591,7 +27591,7 @@
         },
         {
             "id": 702103201,
-            "name": "欲望のままに・効果",
+            "name": "As Desires Dictate: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27604,8 +27604,8 @@
         },
         {
             "id": 702103202,
-            "name": "マシンに託した想い",
-            "flavor_text": "味方全体への被ダメージを軽減する( 効果中 )<br><br>[バトル開始時]<br>味方生存者全体に「<special_effect=800000618>サティスファイドパワー</special_effect>」( 効果バトル中永続 )を付与する<br><br>[ターン終了時]<br>味方生存者全体のHPを回復する( 効果極小 )<br>味方生存者全体の腕力・体力・器用さ・素早さ・知力・精神・愛・魅力の能力ダウン状態を解除する",
+            "name": "Entrusted to the Machine",
+            "flavor_text": "Reduces damage taken for all allies (medium effect).<br><br>[Start of battle]<br>Grants all surviving allies <special_effect=800000618>サティスファイドパワー</special_effect> (Effect: permanent in battle).<br><br>[End of turn]<br>Recovers all surviving allies' HP (very small effect).<br>Removes all surviving allies' debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041541,
@@ -27619,7 +27619,7 @@
         },
         {
             "id": 702103203,
-            "name": "マシンに託した想い・効果",
+            "name": "Entrusted to the Machine: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27632,8 +27632,8 @@
         },
         {
             "id": 702103204,
-            "name": "正義を為す執政",
-            "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果大 )<br><br>[ターン開始時]<br>自身のBPを回復する( +2 )<br>自身を「<special_effect=800000073>挑発</special_effect>」状態( 効果中/効果4ターン )にする<br>自身以外の味方生存者全体を「<special_effect=800000074>ステルス</special_effect>」状態( 効果小/効果2ターン )にする<br><br>[攻撃を受けた時]<br>自身が「溜め状態」の場合、以下の効果が発動する<br>・味方生存者全体の体力・精神を上昇させる( 効果中 )<br>・自身に「<special_effect=800000001>攻撃強化</special_effect>」( 効果特大/効果3ターン )を付与する<br>・自身に「<special_effect=800000015>防御強化</special_effect>」( 効果大/効果1ターン )を付与する<br><br>[詠唱気合打ちを発動後]<br>自身に「<special_effect=800000636>後攻の構え(2回)</special_effect>」(  効果ターン数制限なし )を付与する",
+            "name": "Governor of Justice",
+            "flavor_text": "When attacked, damage taken will be reduced (large effect).<br>[Start of turn]<br>Recovers own BP (+2).<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).<br>Puts all other surviving allies into a <special_effect=800000074>stealth</special_effect> stance (small effect/2 turn(s)).<br><br>[When being attacked]<br>When in Energy Charge Stance, activates the following:<br>・Increases all surviving allies' END/WIL (medium effect).<br>・Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/3 turn(s)).<br>・Grants oneself <special_effect=800000015>Defense Boost</special_effect> (very large effect/1 turn(s)).<br><br>[After activating Cast Focusing Strike]<br>Grants oneself <special_effect=800000636>Last Attack Stance (2x)</special_effect> (no turn limit).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040361,
@@ -27647,7 +27647,7 @@
         },
         {
             "id": 702103205,
-            "name": "正義を為す執政・効果",
+            "name": "Governor of Justice: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27663,8 +27663,8 @@
         },
         {
             "id": 702103206,
-            "name": "影に潜む者",
-            "flavor_text": "[バトル開始時] <br>自身のBPを回復する( +5 )<br>自身に「<special_effect=800000611>ダメージブロック(15回)</special_effect>」( 効果ターン数制限なし )を付与する<br><br>[ターン終了時]<br>そのターンに自身がダメージを受けていなかった場合、以下の効果が発動する<br>・自身のBPを回復する( +12 )<br>・自身のODゲージを満タンにする<br>・自身の「紫影連撃」の使用回数制限を回復する( +1/バトル開始時点の回数より多くならない )",
+            "name": "Lurking in the Shadows",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+5).<br>Grants oneself <special_effect=800000611>\"Damage Block (15 times)\"</special_effect> (no turn limit).<br><br>[End of turn]<br>If no damage is taken by oneself during the turn, activates the following:<br>・Recovers own BP (+12).<br>・Fills up own OD gauge.<br>・Restores the use limit of Purple Shadow Strikes by 1 (Number of uses will not exceed the use limit at start of battle).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044214,
@@ -27677,7 +27677,7 @@
         },
         {
             "id": 702103207,
-            "name": "影に潜む者・効果",
+            "name": "Lurking in the Shadows: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27691,8 +27691,8 @@
         },
         {
             "id": 702103208,
-            "name": "暗殺者の矜持",
-            "flavor_text": "[ターン開始時]<br>敵全体に「<special_effect=800000612>ウィークポイント(斬/防御弱化)</special_effect>」( 効果1ターン )を付与する<br><br>[攻撃命中時]<br>自身に「<special_effect=800000002>斬属性攻撃強化</special_effect>」( 効果特大/効果2ターン )を付与する<br><br>[紫影連撃を発動後]<br>「<skill=110100552>無影殺+</skill>」「<skill=110100553>デッドエンド</skill>」が順に発動する<br>( それぞれ技Rank1で発動 )",
+            "name": "Assassin's Pride",
+            "flavor_text": "[Start of turn]<br>Grants all enemies <special_effect=800000612>Weak Point (Slash/Defense Down)</special_effect> (1 turn(s)).<br><br>[When landing an attack]<br>Grants oneself <special_effect=800000002>Slash Attack Boost</special_effect> (very large effect/2 turn(s)).<br><br>[After activating Purple Shadow Strikes]<br>Activates <skill=110100552>Shadowless Strike+</skill> (Activates using skill Rank 1) and <skill=110100553>Dead End</skill> (Activates using skill Rank 1) in that order.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044680,
@@ -27704,7 +27704,7 @@
         },
         {
             "id": 702103209,
-            "name": "ウィークポイント(斬/防御弱化)",
+            "name": "Weak Point (Slash/Defense Down)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27716,8 +27716,8 @@
         },
         {
             "id": 702103210,
-            "name": "二振りの刃",
-            "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +10 )<br>自身に「<special_effect=800000202>消費BP減少</special_effect>」( 減少量10/効果2ターン )を付与する<br><br>[ラウンド開始時]<br>味方生存者全体に「<special_effect=800000116>Weak攻撃強化</special_effect>」( 効果極大/効果10ターン )を付与する<br>味方生存者全体に「<special_effect=800000116>Weak攻撃強化</special_effect>」( 効果極大/効果9ターン )を付与する<br>味方生存者全体に「<special_effect=800000116>Weak攻撃強化</special_effect>」( 効果極大/効果8ターン )を付与する<br>味方生存者全体に「<special_effect=800000116>Weak攻撃強化</special_effect>」( 効果極大/効果7ターン )を付与する<br>味方生存者全体に「<special_effect=800000116>Weak攻撃強化</special_effect>」( 効果極大/効果6ターン )を付与する",
+            "name": "Two Blades",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+10).<br>Grants oneself <special_effect=800000202>BP Cost Reduction</special_effect> (Reduction: 10/2 turn(s)).<br><br>[Start of round]<br>Grants all surviving allies <special_effect=800000116>Weak Attack Boost</special_effect> (extreme effect/10 turn(s)).<br>Grants all surviving allies <special_effect=800000116>Weak Attack Boost</special_effect> (extreme effect/9 turn(s)).<br>Grants all surviving allies <special_effect=800000116>Weak Attack Boost</special_effect> (extreme effect/8 turn(s)).<br>Grants all surviving allies <special_effect=800000116>Weak Attack Boost</special_effect> (extreme effect/7 turn(s)).<br>Grants all surviving allies <special_effect=800000116>Weak Attack Boost</special_effect> (extreme effect/6 turn(s)).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041285,
@@ -27730,7 +27730,7 @@
         },
         {
             "id": 702103211,
-            "name": "二振りの刃・効果",
+            "name": "Two Blades: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27746,8 +27746,8 @@
         },
         {
             "id": 702103212,
-            "name": "進撃の火蓋",
-            "flavor_text": "[バトル開始時]<br>自身に「<special_effect=800000440>強襲の号令</special_effect>」( 効果ターン数制限なし )を付与する<br>味方生存者全体に「<special_effect=800000236>最大BP増加</special_effect>」( 増加量10/効果5ターン )を付与する<br>味方生存者全体のBPを回復する( +5 )<br><br>[ラウンド開始時]<br>味方生存者全体に「<special_effect=800000026>ガードアップ(大)</special_effect>」( 効果5ターン )を付与する",
+            "name": "Commencement of Advance",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000440>Assault Decree</special_effect> (no turn limit).<br>Grants all surviving allies <special_effect=800000236>Max BP Increase</special_effect> (Increase: 10/ 5 turn(s)).<br>Recovers all surviving allies' BP (+5).<br><br>[Start of round]<br>Grants all surviving allies <special_effect=800000026>Guard Up (large)</special_effect> (5 turn).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044678,
@@ -27761,7 +27761,7 @@
         },
         {
             "id": 702103213,
-            "name": "ラウンド開始時 ガードアップ",
+            "name": "Round Start: Guard Up",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27773,8 +27773,8 @@
         },
         {
             "id": 702103217,
-            "name": "老巧の策士",
-            "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +2 )<br><br>[ターン開始時]<br>自身のBPを回復する( +2 )<br>味方生存者全体に「<special_effect=800000420>属攻の恩恵(熱/防御強化)</special_effect>」( 効果1ターン )を付与する<br>味方生存者全体に「<special_effect=800000615>属攻の恩恵(熱/体力・精神)</special_effect>」( 効果1ターン )を付与する<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125100508>火炎地獄</skill>」が発動する<br>( 術Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」「技・術の効果により発動する技・術」は含まない",
+            "name": "Veteran Strategist",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>[Start of turn]<br>Recovers own BP (+2).<br>Grants all surviving allies <special_effect=800000420>Elemental Atk Blessings (Heat/Defense Boost)</special_effect> (1 turn(s)).<br>Grants all surviving allies <special_effect=800000615>Elemental Atk Blessings (Heat/END/WIL)</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=125100508>Flame Hell</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by Abilities, Skill/Spell Counterattacks, and Skills/Spells activated by skill/spell effects are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040322,
@@ -27788,7 +27788,7 @@
         },
         {
             "id": 702103219,
-            "name": "属攻の恩恵(熱/体力・精神)",
+            "name": "Elemental Atk Blessings (Heat/END/WIL)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27827,7 +27827,7 @@
         },
         {
             "id": 702103223,
-            "name": "能力促進Ⅰ(腕力・体力・器用さ)",
+            "name": "Attribute Enhancement Ⅰ (STR/END/DEX)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27841,7 +27841,7 @@
         },
         {
             "id": 702103224,
-            "name": "邪悪なオーラ(2回)",
+            "name": "Sinister Aura (2x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27857,7 +27857,7 @@
         },
         {
             "id": 702103225,
-            "name": "新たな旅立ち・効果",
+            "name": "A New Journey: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27872,7 +27872,7 @@
         },
         {
             "id": 702103226,
-            "name": "被弾時BP回復(+1)(3回)",
+            "name": "Recover BP (+1) When Attacked (3x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27884,8 +27884,8 @@
         },
         {
             "id": 702103227,
-            "name": "歴戦の斧士",
-            "flavor_text": "[バトル開始時]<br>味方生存者全体に「<special_effect=800000637>ウェポンエンハンス(斧)</special_effect>」( 効果超極大 )を付与する<br>味方生存者全体に「<special_effect=800000625>斧の真骨頂</special_effect>」( 効果バトル中永続 )を付与する<br><br>[OD攻撃(※)を発動後]<br>「<skill=110300519>猛烈斬り+</skill>」「<skill=110300520>スピニングアクス</skill>」が発動する<br>( それぞれ技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「技・術の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>[ターン終了時]<br>自身のODゲージを上昇させる( 効果大 )",
+            "name": "Veteran Axe Wielder",
+            "flavor_text": "[Start of battle]<br>Grants all surviving allies <special_effect=800000637>Weapon Enhance (Axe)</special_effect> (super extreme effect).<br>Grants all surviving allies <special_effect=800000625>Ultimate Axe Mastery</special_effect> (Effect: permanent in battle).<br><br>[After activating an OD attack*]<br><skill=110300519>Savage Slash+</skill> (Activates using skill Rank 1) and <skill=110300520>Spinning Axe</skill> (Activates using skill Rank 1) will be activated.<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Increases own OD gauge (large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044559,
@@ -27899,7 +27899,7 @@
         },
         {
             "id": 702103228,
-            "name": "斧の真骨頂",
+            "name": "Ultimate Axe Mastery",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27914,8 +27914,8 @@
         },
         {
             "id": 702103233,
-            "name": "叶えたい願い",
-            "flavor_text": "味方全体への被ダメージを軽減する( 効果特大 )<br><br>[ターン開始時]<br>味方生存者全体に「<special_effect=800000620>斬気の闘志(2回)</special_effect>」( 効果1ターン )、「<special_effect=800000633>熱気の闘志(2回)</special_effect>」( 効果1ターン )を付与する<br><br>[護炎剣を発動後]<br>「<skill=110100557>剣炎二斬</skill>」が発動する<br>( 技Rank1で発動 )<br><br>[炎斬波を発動後]<br>「<skill=125100520>斬炎二輪</skill>」が発動する<br>( 術Rank1で発動 )<br><br>[剣炎連撃(※)を発動後]<br>「<skill=110100557>剣炎二斬</skill>」が発動する<br>「<skill=125100520>斬炎二輪</skill>」が発動する<br>( それぞれ技・術Rank1で発動 )<br>※「技・術の効果により発動する技・術」は含まない",
+            "name": "A Wish to Fulfill",
+            "flavor_text": "Reduces damage taken for all allies (very large effect).<br><br>[Start of turn]<br>Grants all surviving allies <special_effect=800000620>Slash Fighting Spirit (2x)</special_effect> (1 turn(s)) and <special_effect=800000633>Heat Fighting Spirit (2x)</special_effect> (1 turn(s)).<br><br>[After activating Defensive Flame Slash]<br><skill=125100520>Dual Flame Slash</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[After activating Flame Slashing Wave]<br><skill=125100520>Dual Flame Spin</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating Swordflame Combination*]<br><skill=110100557>Dual Flame Slash</skill> will be activated.<br>(Activates using skill/spell Rank 1).<br><skill=125100520>Dual Flame Spin</skill> will be activated.<br>(Activates using skill/spell Rank 1).<br>Skills/Spells activated by skill/spell effects are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043476,
@@ -27928,7 +27928,7 @@
         },
         {
             "id": 702103234,
-            "name": "斬気の闘志(2回)",
+            "name": "Slash Fighting Spirit (2x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27943,7 +27943,7 @@
         },
         {
             "id": 702103235,
-            "name": "叶えたい願い・効果②",
+            "name": "A Wish to Fulfill: Effect 2",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27958,8 +27958,8 @@
         },
         {
             "id": 702103236,
-            "name": "夢追いの剣士",
-            "flavor_text": "攻撃時、味方生存者全体に「<special_effect=800000015>防御強化</special_effect>」( 効果小/効果1ターン )を付与する<br>技攻撃時、味方生存者全体に「<special_effect=800000002>斬属性攻撃強化</special_effect>」( 効果大/効果2ターン )を付与する<br>術攻撃時、味方生存者全体に「<special_effect=800000005>熱属性攻撃強化</special_effect>」( 効果大/効果2ターン )を付与する",
+            "name": "Dream-Chasing Swordsman",
+            "flavor_text": "When attacking, grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).<br>When attacking with skill attacks, grants all surviving allies <special_effect=800000002>Slash Attack Boost</special_effect> (large effect/2 turn(s)).<br>When attacking with spell attacks, grants all surviving allies <special_effect=800000005>Heat Attack Boost</special_effect> (large effect/2 turn(s)).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044586,
@@ -27972,7 +27972,7 @@
         },
         {
             "id": 702103237,
-            "name": "ターン終了時ODゲージ上昇(極小)",
+            "name": "End of Turn: OD Gauge Up (v. small)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -27984,7 +27984,7 @@
         },
         {
             "id": 702103238,
-            "name": "反撃の好機",
+            "name": "Chance for Counter",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28001,7 +28001,7 @@
         },
         {
             "id": 702103239,
-            "name": "ターン終了時HP回復(中)",
+            "name": "End of Turn: Recover HP (med.)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28013,7 +28013,7 @@
         },
         {
             "id": 702103240,
-            "name": "デュアルキャスト(フレイムハンマー+)",
+            "name": "Dual Cast (Flame Hammer+)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28025,8 +28025,8 @@
         },
         {
             "id": 702103241,
-            "name": "術士の援護",
-            "flavor_text": "攻撃の与ダメージが上昇する( 効果極大 )<br><br>[ターン開始時]<br>味方生存者全体のHPを回復する( 効果極小 )<br>味方生存者全体に「<special_effect=800000015>防御強化</special_effect>」( 効果中/効果1ターン )を付与する<br>自身に「<special_effect=800000135>エンハンスソーサリー</special_effect>」( 効果超極大 )を付与する( 上限回数:バトル中3回 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125100515>焼殺+</skill>」が発動する<br>( 術Rank1で発動 )<br>※「アビリティ効果により発動する技・術」「特殊状態の効果により発動する技・術」「技・術の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「カウンター効果による反撃技・術」は含まない",
+            "name": "Spell Caster's Support",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br><br>[Start of turn]<br>Recovers all surviving allies' HP (very small effect).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br>Grants oneself <special_effect=800000135>Enhance Sorcery</special_effect> (super extreme effect) (Max times: 3 times per battle).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=125100515>Incineration+</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated by Abilities, Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040741,
@@ -28040,7 +28040,7 @@
         },
         {
             "id": 702103242,
-            "name": "術士の援護・効果",
+            "name": "Spell Caster's Support: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28065,8 +28065,8 @@
         },
         {
             "id": 702103244,
-            "name": "智慧のコツⅠ(知力)",
-            "flavor_text": "[攻撃命中時]<br>自身のHPを回復する( 効果極小 )<br>自身のBPを回復する( +1 )<br>自身に「<special_effect=800000015>防御強化</special_effect>」( 効果小/効果2ターン )を付与する<br>自身の知力を上昇させる( 効果小 )",
+            "name": "Wisdom Tips Ⅰ (INT)",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).<br>Increases own INT (small effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040750,
@@ -28080,8 +28080,8 @@
         },
         {
             "id": 702103245,
-            "name": "頼もしいヴィジランツ",
-            "flavor_text": "[バトル開始時]<br>自身に「<special_effect=800000622>反撃の好機</special_effect>」( 効果バトル中永続 )を付与する<br>自身以外の味方生存者全体に「<special_effect=800000623>結晶の守護(1回)</special_effect>」( 効果ターン数制限なし )を付与する<br><br>[味方が全員生存している時]<br>味方全体の与ダメージが上昇する( 効果特大 )<br>味方全体への被ダメージを軽減する( 効果大 )<br><br>[味方が1体以上気絶・戦線離脱している時]<br>味方全体の与ダメージが上昇する( 効果極大 )<br>味方全体への被ダメージを軽減する( 効果特大 )",
+            "name": "Reliable Sentry",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000622>Chance for Counter</special_effect> (Effect: permanent in battle).<br>Grants all other surviving allies <special_effect=800000623>Crystal Protection (1x)</special_effect> (no turn limit).<br><br>[When all allies are still surviving]<br>Increases attack damage for all allies (very large effect).<br>Reduces damage taken for all allies (large effect).<br><br>[When 1 or more allies are unconscious/LP is 0]<br>Increases attack damage for all allies (extreme effect).<br>Reduces damage taken for all allies (very large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044605,
@@ -28097,7 +28097,7 @@
         },
         {
             "id": 702103246,
-            "name": "結晶の守護(1回)",
+            "name": "Crystal Protection (1x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28112,8 +28112,8 @@
         },
         {
             "id": 702103247,
-            "name": "激化する力Ⅳ",
-            "flavor_text": "[ターン開始時]<br>以下の効果が発動する( 上限回数:バトル中5回 )<br>・自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果特大 )を付与する<br>・自身に「<special_effect=800000096>ディフェンスアップ</special_effect>」( 効果大 )を付与する",
+            "name": "Intensifying Power Ⅳ",
+            "flavor_text": "[Start of turn]<br>Activates the following (Max times: 5 times per battle):<br>・Grants oneself <special_effect=800000095>Heat Up</special_effect> (very large effect).<br>・Grants oneself <special_effect=800000096>Defense Up</special_effect> (large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041585,
@@ -28125,8 +28125,8 @@
         },
         {
             "id": 702103248,
-            "name": "ハイプロテクトヒーリング",
-            "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>ターン終了時、自身のHPを回復する( 効果小 )",
+            "name": "High Protective Healing",
+            "flavor_text": "When attacked, damage taken will be reduced (extreme effect).<br><br>[End of turn]<br>Recovers own HP (small effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040768,
@@ -28138,7 +28138,7 @@
         },
         {
             "id": 702103249,
-            "name": "ターン終了時 HP回復",
+            "name": "End of Turn: Recover HP",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28150,7 +28150,7 @@
         },
         {
             "id": 702103252,
-            "name": "能力促進Ⅰ(素早さ・知力・精神)",
+            "name": "Attribute Enhancement Ⅰ (AGI/INT/WIL)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28164,7 +28164,7 @@
         },
         {
             "id": 702103255,
-            "name": "贄となる恐怖(2回)",
+            "name": "Sacrificial Fear (2x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28180,8 +28180,8 @@
         },
         {
             "id": 702103256,
-            "name": "三角形を求める拳士",
-            "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br><br>[直接攻撃を受けた時]<br>被ダメージを軽減し「<skill=110500582>稲妻キック+</skill>」でカウンター攻撃する<br>( 技Rank1で発動 )",
+            "name": "Triangle-Seeking Martial Artist",
+            "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>When being directly attacked, reduces damage and counterattacks with <skill=110500582>Thunder Kick+</skill>.<br>(Activates using skill Rank 1).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040448,
@@ -28193,7 +28193,7 @@
         },
         {
             "id": 702103259,
-            "name": "クグツ追撃",
+            "name": "Kugutsu Follow-Up",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28205,8 +28205,8 @@
         },
         {
             "id": 702103260,
-            "name": "精霊を求める者",
-            "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +2 )<br><br>[攻撃命中時]<br>味方生存者全体の腕力・器用さ・素早さ・知力を上昇させる( 効果中 )<br><br>[OD攻撃(※)を発動後]<br>「<skill=110700524>乱れ突き+</skill>」が発動する<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「技・術の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>[ターン終了時]<br>自身のBPを回復する( +1 )<br>自身のODゲージを上昇させる( 効果中 )",
+            "name": "Seeker of Spirits",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>[When landing an attack]<br>Increases all surviving allies' STR/DEX/AGI/INT (medium effect).<br><br>[After activating an OD attack*]<br><skill=110700524>Mega Thrust+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Recovers own BP (+1).<br>Increases own OD gauge (medium effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040322,
@@ -28221,7 +28221,7 @@
         },
         {
             "id": 702103263,
-            "name": "ターン開始時 知力アップ",
+            "name": "Turn Start: INT Up",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28233,7 +28233,7 @@
         },
         {
             "id": 702103264,
-            "name": "叶えたい願い・効果①",
+            "name": "A Wish to Fulfill: Effect 1",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28246,7 +28246,7 @@
         },
         {
             "id": 702103265,
-            "name": "熱気の闘志(2回)",
+            "name": "Heat Fighting Spirit (2x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28261,7 +28261,7 @@
         },
         {
             "id": 702103266,
-            "name": "撃破時 BP回復",
+            "name": "Recover BP on Enemy KO",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28273,7 +28273,7 @@
         },
         {
             "id": 702103267,
-            "name": "ネコを求める者・効果②",
+            "name": "Seeker of Cats: Effect 2",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28286,8 +28286,8 @@
         },
         {
             "id": 702103268,
-            "name": "マジカルフィールド",
-            "flavor_text": "[ターン開始時]<br>味方生存者全体に「<special_effect=800000001>攻撃強化</special_effect>」( 効果大/効果1ターン )を付与する<br>味方生存者全体に「<special_effect=800000135>エンハンスソーサリー</special_effect>」( 効果特大 )を付与する( 上限回数:バトル中5回 )",
+            "name": "Magical Field",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000135>Enhance Sorcery</special_effect> (very large effect) (Max times: 5 times per battle).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044676,
@@ -28299,7 +28299,7 @@
         },
         {
             "id": 702103269,
-            "name": "マジカルアップ(4回)",
+            "name": "Magical Up (4x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28311,7 +28311,7 @@
         },
         {
             "id": 702103271,
-            "name": "老巧の策士・効果",
+            "name": "Veteran Strategist: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28324,7 +28324,7 @@
         },
         {
             "id": 702103273,
-            "name": "ターン開始時 ウィークポイント(斬/防御弱化)",
+            "name": "Turn Start: Weak Point (Slash/Defense Down)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28336,7 +28336,7 @@
         },
         {
             "id": 702103274,
-            "name": "暗殺者の矜持・効果",
+            "name": "Assassin's Pride: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28349,7 +28349,7 @@
         },
         {
             "id": 702103275,
-            "name": "ライブパワー・効果①",
+            "name": "Live Power: Effect 1",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28368,7 +28368,7 @@
         },
         {
             "id": 702103276,
-            "name": "ライブパワー・効果②",
+            "name": "Live Power: Effect 2",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28380,8 +28380,8 @@
         },
         {
             "id": 702103277,
-            "name": "「心」を求める者",
-            "flavor_text": "味方全体の与ダメージが上昇する( 効果極大 )<br>味方全体への被ダメージを軽減する( 効果大 )<br><br>[ラウンド開始時]<br>味方生存者全体に「<special_effect=800000635>ライブパワー</special_effect>」( 効果3ターン )を付与する<br><br>[ターン終了時]<br>味方生存者全体のHPを回復する( 効果極小 )",
+            "name": "Seeker of the \"Heart\"",
+            "flavor_text": "Increases attack damage for all allies (extreme effect).<br>Reduces damage taken for all allies (large effect).<br><br>[Start of round]<br>Grants all surviving allies <special_effect=800000635>Live Power</special_effect> (3 turn(s)).<br><br>[End of turn]<br>Recovers all surviving allies' HP (very small effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043475,
@@ -28395,7 +28395,7 @@
         },
         {
             "id": 702103278,
-            "name": "「心」を求める者・効果",
+            "name": "Seeker of the \"Heart\": Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28408,7 +28408,7 @@
         },
         {
             "id": 702103279,
-            "name": "属攻の恩恵(熱/防御強化)",
+            "name": "Elemental Atk Blessings (Heat/Defense Boost)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28420,8 +28420,8 @@
         },
         {
             "id": 702103280,
-            "name": "魅力的な存在を求める者",
-            "flavor_text": "[バトル開始時]<br>自身に「<special_effect=800000187>エレメントエンハンス(斬)</special_effect>」( 効果極大 )を付与する<br>自身に「<special_effect=800000139>エレメントエンハンス(陰)</special_effect>」( 効果極大 )を付与する<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110100572>ブラッドスパルタン+</skill>」が2回発動する<br>( 技Rank1で発動 )<br>※「技・術の効果により発動する技・術」「特殊状態の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>ただし、バトル開始時自身が代償LPダメージを3受ける",
+            "name": "Seeker of Beauty",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000187>Elemental Enhance (Slash)</special_effect> (extreme effect).<br>Grants oneself <special_effect=800000139>Elemental Enhance (Shadow)</special_effect> (extreme effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><<skill=110100572>Blood Rage+</skill> will be activated 2 times.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by skill/spell effects, Skills/Spells activated on Special Stances, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[Start of battle]<br>Loses 3 LP as recoil damage.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044877,
@@ -28448,8 +28448,8 @@
         },
         {
             "id": 702103282,
-            "name": "アクスフィールド",
-            "flavor_text": "[ターン開始時]<br>味方生存者全体に「<special_effect=800000001>攻撃強化</special_effect>」( 効果大/効果1ターン )を付与する<br>味方生存者全体に「<special_effect=800000637>ウェポンエンハンス(斧)</special_effect>」( 効果極大 )を付与する( 上限回数:バトル中4回 )",
+            "name": "Axe Field",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/1 turn(s)).<br>Grants all surviving allies <special_effect=800000637>Weapon Enhance (Axe)</special_effect> (extreme effect) (Max times: 4 times per battle).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044188,
@@ -28461,7 +28461,7 @@
         },
         {
             "id": 702103283,
-            "name": "ターン開始時 ウェポンエンハンス(斧)",
+            "name": "Turn Start: Weapon Enhance (Axe)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28473,8 +28473,8 @@
         },
         {
             "id": 702103284,
-            "name": "迎撃の心得",
-            "flavor_text": "[打属性を含む攻撃時]<br>自身のHPを回復する( 効果極小 )<br>自身の体力・精神・愛・魅力を上昇させる( 効果中 )<br><br>[攻撃を受けた時]<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」( 効果中/効果2ターン )を付与する<br>自身の腕力・器用さ・素早さ・知力を上昇させる( 効果中 )",
+            "name": "Attack Response Knowledge",
+            "flavor_text": "[When attacking with blunt attacks]<br>Recovers own HP (very small effect).<br>Increases own END/WIL/LOV/CHA (medium effect).<br><br>[When being attacked]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/2 turn(s)).<br>Increases own STR/DEX/AGI/INT (medium effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044803,
@@ -28494,7 +28494,7 @@
         },
         {
             "id": 702103285,
-            "name": "後攻の構え(2回)",
+            "name": "Last Attack Stance (2x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28506,8 +28506,8 @@
         },
         {
             "id": 702103286,
-            "name": "弓道部の新鋭",
-            "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +3 )<br>自身に「<special_effect=800000222>フォーマルスタンス</special_effect>」( 効果バトル中永続 )を付与する<br><br>[ターン開始時]<br>自身のHPを回復する( 効果極小 )<br><br>[直接攻撃を受けた時]<br>被ダメージを軽減し「<skill=110900699>さみだれ光弓</skill>」でカウンター攻撃する<br>( 技Rank1で発動 )<br><br>[攻撃命中時]<br>自身に「<special_effect=800000096>ディフェンスアップ</special_effect>」( 効果中 )を付与する( 上限回数:バトル中10回 )",
+            "name": "Archery Club's Rising Star",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br>Grants oneself <special_effect=800000222>Formal Stance</special_effect> (Effect: permanent in battle).<br><br>[Start of turn]<br>Recovers own HP (very small effect).<br><br>[When being directly attacked]<br>Reduces damage and counterattacks with <skill=110900699>Summer Rain Light Arrows</skill>.<br>(Activates using skill Rank 1).<br><br>[When landing an attack]<br>Grants oneself <special_effect=800000096>Defense Up</special_effect> (medium effect) (Max times: 10 times per battle).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040520,
@@ -28522,8 +28522,8 @@
         },
         {
             "id": 702103287,
-            "name": "堅固衰勢Ⅴ(知力)",
-            "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br>攻撃命中時、対象の知力を低下させる( 確率大/効果大 )",
+            "name": "Firm Impair Ⅴ (INT)",
+            "flavor_text": "When attacked, damage taken will be reduced (extreme effect).<br>When landing an attack, reduces target's INT (high chance/large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040768,
@@ -28535,7 +28535,7 @@
         },
         {
             "id": 702103291,
-            "name": "頂きに立つ者・効果①",
+            "name": "The One Atop: Effect 1",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28547,7 +28547,7 @@
         },
         {
             "id": 702103292,
-            "name": "弓道部の新鋭・効果②",
+            "name": "Archery Club's Rising Star: Effect 2",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28559,8 +28559,8 @@
         },
         {
             "id": 702103293,
-            "name": "学園の支配者",
-            "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +10 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110200573>神罰剣</skill>」が発動する<br>一定の確率( 確率特大 )で、「<skill=110200574>天雷・無窮自在</skill>」が発動する<br>( それぞれ技Rank1で発動 )<br><br>[OD攻撃(※)を発動後]<br>味方生存者全体に「<special_effect=800000015>防御強化</special_effect>」( 効果中/効果2ターン )を付与し、さらに「<skill=110200574>天雷・無窮自在</skill>」が発動する<br>( 技Rank1で発動 )<br><br>※「アビリティ効果により発動する技・術」「特殊状態の効果により発動する技・術」「技・術の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「カウンター効果による反撃技・術」は含まない<br><br>[ターン終了時]<br>自身のBPを回復する( +2 )<br>自身のODゲージを上昇させる( 効果特大 )",
+            "name": "Overlord of the Academy",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+10).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110200573>Divine Punishment</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a very high chance to:<br>Activate <skill=110200574>Heavenly Thunder</skill>.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)) and <skill=110200574>Heavenly Thunder</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated by Abilities, Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Recovers own BP (+2).<br>Increases own OD gauge (very large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041285,
@@ -28576,7 +28576,7 @@
         },
         {
             "id": 702103295,
-            "name": "学園の支配者・効果①",
+            "name": "Overlord of the Academy: Effect 1",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28588,7 +28588,7 @@
         },
         {
             "id": 702103296,
-            "name": "学園の支配者・効果③",
+            "name": "Overlord of the Academy: Effect 3",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28601,7 +28601,7 @@
         },
         {
             "id": 702103297,
-            "name": "ターン開始時 BP回復",
+            "name": "Turn Start: Recover BP",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28613,7 +28613,7 @@
         },
         {
             "id": 702103298,
-            "name": "熱属性攻撃時BP回復(+1)",
+            "name": "Recover BP (+1) on Heat Atk",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28625,7 +28625,7 @@
         },
         {
             "id": 702103299,
-            "name": "OD攻撃時 追加攻撃",
+            "name": "Follow-Up on OD Attack",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28638,7 +28638,7 @@
         },
         {
             "id": 702103300,
-            "name": "後方支援",
+            "name": "Rear Support",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28651,8 +28651,8 @@
         },
         {
             "id": 702103301,
-            "name": "三角形を求め奮起する者",
-            "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果特大 )<br><br>[バトル開始時]<br>自身に「<special_effect=800000642>後方支援</special_effect>」( 効果バトル中永続 )を付与する<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110600463>ガトリングカッター</skill>」が2回発動する<br>( 技Rank1で発動 )<br>※「特殊状態の効果により発動する技・術」「技・術の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+            "name": "Triangle-Seeking Go-Getter",
+            "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>[Start of battle]<br>Grants oneself <special_effect=800000642>Rear Support</special_effect> (Effect: permanent in battle).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110600463>Gatling Cutter</skill> will be activated 2 times.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040448,
@@ -28665,8 +28665,8 @@
         },
         {
             "id": 702103303,
-            "name": "進撃の心得",
-            "flavor_text": "[打属性を含む攻撃時]<br>自身のBPを回復する( +1 )<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」( 効果特大/効果2ターン )を付与する",
+            "name": "Advancing Knowledge",
+            "flavor_text": "[When attacking with blunt attacks]<br>Recovers own BP (+1).<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/2 turn(s)).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044763,
@@ -28678,7 +28678,7 @@
         },
         {
             "id": 702103304,
-            "name": "ターン開始時 攻撃強化",
+            "name": "Turn Start: Attack Boost",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28690,7 +28690,7 @@
         },
         {
             "id": 702103305,
-            "name": "ターン開始時 エンハンスソーサリー",
+            "name": "Turn Start: Enhance Sorcery",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28702,7 +28702,7 @@
         },
         {
             "id": 702103306,
-            "name": "天下無双(5回)",
+            "name": "Unparalleled (5x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28724,7 +28724,7 @@
         },
         {
             "id": 702103307,
-            "name": "イケイケタイム(2回)",
+            "name": "Go-Go Time (2x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28740,7 +28740,7 @@
         },
         {
             "id": 702103308,
-            "name": "OD攻撃時 追加攻撃",
+            "name": "Follow-Up on OD Attack",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28752,7 +28752,7 @@
         },
         {
             "id": 702103309,
-            "name": "デュアルキャスト(キロノヴァ+)",
+            "name": "Dual Cast (Kilonova+)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28764,7 +28764,7 @@
         },
         {
             "id": 702103310,
-            "name": "灼熱の暴君・効果②",
+            "name": "Scorching Tyrant: Effect 2",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28776,7 +28776,7 @@
         },
         {
             "id": 702103311,
-            "name": "デュアルキャスト(キロノヴァ+)",
+            "name": "Dual Cast (Kilonova+)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28788,8 +28788,8 @@
         },
         {
             "id": 702103314,
-            "name": "盛り上げ上手",
-            "flavor_text": "[バトル開始時]<br>味方生存者全体のODゲージを満タンにする<br><br>[ターン開始時]<br>ODゲージが満タンの場合、自身に「<special_effect=800000182>先攻態勢</special_effect>」( 効果1ターン )を付与する<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110100563>ヘヴィサウンド</skill>」が発動する<br>( 技Rank1で発動 )<br>※「アビリティ効果により発動する技・術」「特殊状態の効果により発動する技・術」「技・術の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「カウンター効果による反撃技・術」は含まない<br><br>[本アビリティ効果によるヘヴィサウンドを命中させた時]<br>「<skill=110100563>ヘヴィサウンド</skill>」が発動する( 確率特大 )<br>( 技Rank1で発動 )<br><br>[ターン終了時]<br>自身のODゲージを上昇させる( 効果特大 )",
+            "name": "Hype Up the Crowd",
+            "flavor_text": "[Start of battle]<br>Fills up all surviving allies' OD gauges.<br><br>[Start of turn]<br>When OD gauge is full, grants oneself <special_effect=800000182>Fast Stance</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110100563>Heavy Sound</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities, Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, and Skill/Spell Counterattacks are not included.<br><br>[When landing an attack with Heavy Sound activated by this Ability]<br>skill=110100563>Heavy Sound</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br><br>[End of turn]<br>Increases own OD gauge (very large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042257,
@@ -28804,7 +28804,7 @@
         },
         {
             "id": 702103315,
-            "name": "盛り上げ上手・効果②",
+            "name": "Hype Up the Crowd: Effect 2",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28816,7 +28816,7 @@
         },
         {
             "id": 702103316,
-            "name": "盛り上げ上手・効果③",
+            "name": "Hype Up the Crowd: Effect 3",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28828,7 +28828,7 @@
         },
         {
             "id": 702103317,
-            "name": "ライブパワー・効果①",
+            "name": "Live Power: Effect 1",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28847,7 +28847,7 @@
         },
         {
             "id": 702103318,
-            "name": "ライブパワー・効果②",
+            "name": "Live Power: Effect 2",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28859,8 +28859,8 @@
         },
         {
             "id": 702103319,
-            "name": "植物愛好家",
-            "flavor_text": "攻撃を受けた時、被ダメージを軽減する( 効果極大 )<br><br>[バトル開始時] <br>自身のBPを回復する( +5 )<br><br>[Weak攻撃(※)を命中させた時]<br>「<skill=110500595>かみのじょうろ</skill>」が発動する<br>一定の確率( 確率特大 )で、「<skill=110500588>しゅくせい</skill>」が発動する<br>( それぞれ技Rank1で発動 )<br>※「アビリティ効果により発動する技・術」「特殊状態の効果により発動する技・術」「技・術の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「カウンター効果による反撃技・術」は含まない",
+            "name": "Botany Enthusiast",
+            "flavor_text": "When attacked, damage taken will be reduced (extreme effect).<br><br>[Start of battle]<br>Recovers own BP (+5).<br><br>[When landing a Weak attack*]<br><skill=110500595>Creator's Watering Can</skill> will be activated.<br>(Activates using skill Rank 1).<br>Has a very high chance to:<br>Activate <skill=110500588>Purge</skill>.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities, Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040768,
@@ -28874,7 +28874,7 @@
         },
         {
             "id": 702103320,
-            "name": "植物愛好家・効果①",
+            "name": "Botany Enthusiast: Effect 1",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28886,7 +28886,7 @@
         },
         {
             "id": 702103324,
-            "name": "学園の支配者・効果②",
+            "name": "Overlord of the Academy: Effect 2",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28898,8 +28898,8 @@
         },
         {
             "id": 702103325,
-            "name": "イケイケなコギャル",
-            "flavor_text": "[バトル開始時]<br>自身に「<special_effect=800000649>イケイケタイム(2回)</special_effect>」( 効果ターン数制限なし )を付与する<br>自身に「<special_effect=800000670>コギャルなパシュート</special_effect>」( 効果バトル中永続 )を付与する<br>自身以外の味方生存者全体に「<special_effect=800000648>天下無双(4回)</special_effect>」( 効果ターン数制限なし )を付与する<br><br>[ターン開始時]<br>自身のBPを回復する( +2 )<br>自身に「<special_effect=800000075>行動順補正上昇</special_effect>」( 効果極大/効果2ターン )を付与する<br>味方生存者全体に「<special_effect=800000001>攻撃強化</special_effect>」( 効果特大/効果1ターン )を付与する<br><br>[ターン終了時]<br>自身のODゲージを上昇させる( 効果特大 )",
+            "name": "Go-Go Gyaru",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000649>Go-Go Time (2x)</special_effect> (no turn limit).<br>Grants oneself <special_effect=800000670>Gyaru Pursuit</special_effect> (Effect: permanent in battle).<br>Grants all other surviving allies <special_effect=800000648>Unparalleled (4x)</special_effect> (no turn limit).<br><br>[Start of turn]<br>Recovers own BP (+2).<br>Grants oneself <special_effect=800000075>Action Order Up</special_effect> (extreme effect/2 turn(s)).<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (very large effect/1 turn(s)).<br><br>[End of turn]<br>Increases own OD gauge (very large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044798,
@@ -28914,7 +28914,7 @@
         },
         {
             "id": 702103326,
-            "name": "イケイケタイム(2回)",
+            "name": "Go-Go Time (2x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28930,7 +28930,7 @@
         },
         {
             "id": 702103327,
-            "name": "天下無双(4回)",
+            "name": "Unparalleled (4x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28952,7 +28952,7 @@
         },
         {
             "id": 702103328,
-            "name": "イケイケなコギャル・効果",
+            "name": "Go-Go Gyaru: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28966,7 +28966,7 @@
         },
         {
             "id": 702103329,
-            "name": "コギャルなパシュート",
+            "name": "Gyaru Pursuit",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28979,7 +28979,7 @@
         },
         {
             "id": 702103344,
-            "name": "ターン開始時 攻撃弱化",
+            "name": "Turn Start: Attack Down",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -28991,7 +28991,7 @@
         },
         {
             "id": 702103345,
-            "name": "精霊を求める者・効果",
+            "name": "Seeker of Spirits: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29006,7 +29006,7 @@
         },
         {
             "id": 702103352,
-            "name": "頂きに立つ者・効果②",
+            "name": "The One Atop: Effect 2",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29021,8 +29021,8 @@
         },
         {
             "id": 702103359,
-            "name": "ネコを求める者",
-            "flavor_text": "[ターン開始時]<br>味方生存者全体に「<special_effect=800000015>防御強化</special_effect>」( 効果中/効果1ターン )を付与する<br><br>[攻撃命中時]<br>自身のBPを回復する( +1 )<br><br>[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=125500489>リリーフゾーン</skill>」が発動する<br>( 術Rank1で発動 )<br>※「アビリティ効果により発動する技・術」「特殊状態の効果により発動する技・術」「技・術の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「カウンター効果による反撃技・術」は含まない",
+            "name": "Seeker of Cats",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/1 turn(s)).<br><br>[When landing an attack]<br>Recovers own BP (+1).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=125500489>Relief Zone</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated by Abilities, Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044858,
@@ -29034,7 +29034,7 @@
         },
         {
             "id": 702103360,
-            "name": "ネコを求める者・効果①",
+            "name": "Seeker of Cats: Effect 1",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29046,7 +29046,7 @@
         },
         {
             "id": 702103362,
-            "name": "ピンチヒッター(1回)",
+            "name": "Pinch Hitter (1x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29058,8 +29058,8 @@
         },
         {
             "id": 702103363,
-            "name": "野球部のエース",
-            "flavor_text": "[バトル開始時]<br>自身のBPを回復する( +2 )<br><br>[ターン開始時]<br>自身に「<special_effect=800000657>球打ちの心得(5回)</special_effect>」( 効果1ターン )を付与する<br>自身以外の味方生存者全体に「<special_effect=800000658>球打ちの心得(2回)</special_effect>」( 効果1ターン )を付与する",
+            "name": "Baseball Team's Ace",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>[Start of turn]<br>Grants oneself <special_effect=800000657>Batting Knowledge (5x)</special_effect> (1 turn(s)).<br>Grants all other surviving allies <special_effect=800000658>Batting Knowledge (2x)</special_effect> (1 turn(s)).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040322,
@@ -29071,7 +29071,7 @@
         },
         {
             "id": 702103364,
-            "name": "野球部のエース・効果",
+            "name": "Baseball Team's Ace: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29084,7 +29084,7 @@
         },
         {
             "id": 702103365,
-            "name": "球打ちの心得(5回)",
+            "name": "Batting Knowledge (5x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29100,7 +29100,7 @@
         },
         {
             "id": 702103366,
-            "name": "球打ちの心得(2回)",
+            "name": "Batting Knowledge (2x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29116,8 +29116,8 @@
         },
         {
             "id": 702103367,
-            "name": "姫打者",
-            "flavor_text": "[タイプが「攻撃」である技・術(※)を命中させた時]<br>「<skill=110400369>風切りノック</skill>」が発動する<br><br>さらに、<br>＜バトル開始から数えて偶数ターン目の場合＞<br>「<skill=110100374>グランドソード</skill>」が発動する<br><br>＜バトル開始から数えて3の倍数のターン目の場合＞<br>「<skill=110400376>山割り乱打+</skill>」が発動する<br><br>＜バトル開始から数えて4の倍数のターン目の場合＞<br>「<skill=110400373>プリンセスホームラン</skill>」が発動する<br><br>( それぞれ技Rank1で発動 )<br>※「アビリティ効果により発動する技・術」「特殊状態の効果により発動する技・術」「技・術の効果により発動する技・術」「溜め技・術」「溜め状態を付与する技・術」「カウンター効果による反撃技・術」は含まない",
+            "name": "Lady Batter",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110400369>Windcutter Fungo</skill> will be activated.<br><br><On even turns counting from the start of battle><br><skill=110100374>Grand Sword</skill> will be activated.<br>(Activates using skill Rank 1).<br><br><On every 3 turns counting from the start of battle><br><skill=110400376>Mountain Splitter+</skill> will be activated.<br>(Activates using skill Rank 1).<br><br><On every 4 turns counting from the start of battle><br><skill=110400373>Lady Home Run</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities, Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044869,
@@ -29131,7 +29131,7 @@
         },
         {
             "id": 702103368,
-            "name": "姫打者・効果①",
+            "name": "Lady Batter: Effect 1",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29143,7 +29143,7 @@
         },
         {
             "id": 702103369,
-            "name": "姫打者・効果②",
+            "name": "Lady Batter: Effect 2",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29155,7 +29155,7 @@
         },
         {
             "id": 702103370,
-            "name": "姫打者・効果③",
+            "name": "Lady Batter: Effect 3",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29167,7 +29167,7 @@
         },
         {
             "id": 702103371,
-            "name": "姫打者・効果④",
+            "name": "Lady Batter: Effect 4",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29179,7 +29179,7 @@
         },
         {
             "id": 702103377,
-            "name": "盛り上げ上手・効果①",
+            "name": "Hype Up the Crowd: Effect 1",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29191,7 +29191,7 @@
         },
         {
             "id": 702103406,
-            "name": "植物愛好家・効果②",
+            "name": "Botany Enthusiast: Effect 2",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29203,8 +29203,8 @@
         },
         {
             "id": 702103407,
-            "name": "きまぐれ園芸家",
-            "flavor_text": "熱属性を含む攻撃命中時、味方生存者全体に「<special_effect=800000001>攻撃強化</special_effect>」( 効果大/効果3ターン )を付与する<br>冷属性を含む攻撃命中時、味方生存者全体に「<special_effect=800000015>防御強化</special_effect>」( 効果小/効果3ターン )を付与する<br>雷属性を含む攻撃命中時、対象に「<special_effect=800000035>防御弱化</special_effect>」( 効果中/効果3ターン )を付与する<br>陽属性を含む攻撃命中時、自身のBPをランダムな値( +2 ~ +5 )回復する",
+            "name": "Capricious Gardener",
+            "flavor_text": "When landing a heat attack, grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/3 turn(s)).<br>When landing a cold attack, grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/3 turn(s)).<br>When landing a lightning attack, grants the target <special_effect=800000035>Defense Down</special_effect> (medium effect/3 turn(s)).<br>When landing a sun attack, recovers a random amount of own BP (+2 to +5).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044957,
@@ -29218,7 +29218,7 @@
         },
         {
             "id": 702103408,
-            "name": "ターン終了時BP回復(+3)",
+            "name": "End of Turn: Recover BP (+3)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29230,7 +29230,7 @@
         },
         {
             "id": 702103421,
-            "name": "ターン開始時 エンハンスソーサリー",
+            "name": "Turn Start: Enhance Sorcery",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -29242,7 +29242,7 @@
         },
         {
             "id": 702103447,
-            "name": "三角形を求め奮起する者・効果",
+            "name": "Triangle-Seeking Go-Getter: Effect",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -48356,8 +48356,8 @@
         },
         {
             "id": 708100553,
-            "name": "防御システム(陽)",
-            "flavor_text": "[バトル開始時]<br>自身に「<special_effect=800000023>陽属性防御強化</special_effect>」を付与する( 効果特大/効果バトル中永続 )",
+            "name": "Defense System (Sun)",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=800000023>Sun Defense Boost</special_effect> (very large effect/Effect: permanent in battle).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808041106
@@ -48368,8 +48368,8 @@
         },
         {
             "id": 708100558,
-            "name": "追撃システムⅣ",
-            "flavor_text": "[オーバーパワーレーザー発動時]<br>「<skill=906152408>オーバーパワーレーザー</skill>」が4回発動する<br>※「アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない",
+            "name": "Follow-Up System Ⅳ",
+            "flavor_text": "[When activating Overpower Laser]<br><skill=906152408>Overpower Laser</skill> will be activated 4 times.<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808041110
@@ -48734,8 +48734,8 @@
         },
         {
             "id": 708200573,
-            "name": "修羅の反逆",
-            "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、「<skill=905996508>ぶちかまし+</skill>」でカウンター攻撃する",
+            "name": "Ashura's Counter",
+            "flavor_text": "When being directly attacked, counterattacks with <skill=905996508>Knockout+</skill> (high chance).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808041131
@@ -50966,8 +50966,8 @@
         },
         {
             "id": 708300549,
-            "name": "激昂の意志",
-            "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000594>激昂の覇気(3回)</special_effect>」を付与する( 効果1ターン )",
+            "name": "Will of Fury",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000594>Supremacy of Fury (3x)</special_effect> (1 turn(s)).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808041097
@@ -50978,8 +50978,8 @@
         },
         {
             "id": 708300552,
-            "name": "緊急強化システム",
-            "flavor_text": "バトル開始から数えて5ターン目以降のターン開始時<br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果大 )と「<special_effect=800000096>ディフェンスアップ</special_effect>」( 効果小 )を付与する",
+            "name": "Emergency Reinforcement System",
+            "flavor_text": "[On/After Turn 5 counting from the start of battle]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (large effect) and <special_effect=800000096>Defense Up</special_effect> (small effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808041105,
@@ -50991,8 +50991,8 @@
         },
         {
             "id": 708300555,
-            "name": "テンポヒートⅡ",
-            "flavor_text": "バトル開始から数えて2ターン目以降のターン開始時、自身に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果小 )",
+            "name": "Tempo Heat Ⅱ",
+            "flavor_text": "[On/After Turn 2 counting from the start of battle]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (small effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 809041011
@@ -51003,8 +51003,8 @@
         },
         {
             "id": 708300556,
-            "name": "能力浄化(知力)",
-            "flavor_text": "[ターン開始時]<br>敵生存者全体の知力の能力アップ状態を解除する",
+            "name": "Attribute Cleanse (INT)",
+            "flavor_text": "[Start of turn]<br>Removes all surviving enemies' buffs to INT.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808041108
@@ -51015,7 +51015,7 @@
         },
         {
             "id": 708300559,
-            "name": "追加(オーバーパワーレーザー)",
+            "name": "Follow-Up (Overpower Laser)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -51030,8 +51030,8 @@
         },
         {
             "id": 708300566,
-            "name": "テンポヒートⅢ",
-            "flavor_text": "バトル開始から数えて2ターン目以降のターン開始時、自身に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果中 )",
+            "name": "Tempo Heat Ⅲ",
+            "flavor_text": "[On/After Turn 2 counting from the start of battle]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (medium effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808040539
@@ -51042,8 +51042,8 @@
         },
         {
             "id": 708300567,
-            "name": "猛る殺気",
-            "flavor_text": "[バトル開始から数えて19ターン目以降のターン開始時]<br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」を付与する( 効果極大 )<br>敵生存者全体に「<special_effect=800000136>ディフェンスダウン</special_effect>」を付与する( 効果大 )",
+            "name": "Raging Killing Intent",
+            "flavor_text": "[On/After Turn 19 counting from the start of battle]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (extreme effect).<br>Grants all surviving enemies <special_effect=800000136>Defense Drop</special_effect> (large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808040796,
@@ -51055,8 +51055,8 @@
         },
         {
             "id": 708300576,
-            "name": "強者の神速Ⅱ",
-            "flavor_text": "[ターン開始時]<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」( 効果極大/効果1ターン )、「<special_effect=800000075>行動順補正上昇</special_effect>」( 効果小/効果1ターン )を付与する",
+            "name": "Swiftness of the Mighty Ⅱ",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (extreme effect/1 turn(s)) and <special_effect=800000075>Action Order Up</special_effect> (small effect/1 turn(s)).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808040759,
@@ -52164,7 +52164,7 @@
         },
         {
             "id": 708400540,
-            "name": "Flash of All Creation",
+            "name": "End of Turn: BP Cost Increase",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -52176,8 +52176,8 @@
         },
         {
             "id": 708400554,
-            "name": "弱体浄化(腕力・体力・器用さ・素早さ・知力)",
-            "flavor_text": "[ターン終了時]<br>自身の腕力、体力、器用さ、素早さ、知力の能力ダウン状態を解除する",
+            "name": "Cleanse Weakness (STR/END/DEX/AGI/INT)",
+            "flavor_text": "[End of turn]<br>Removes own debuffs to STR/END/DEX/AGI/INT.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808040451,
@@ -52203,8 +52203,8 @@
         },
         {
             "id": 708400565,
-            "name": "弱体浄化(精神)",
-            "flavor_text": "バトル開始から数えて3の倍数のターン終了時、自身の精神の能力ダウン状態を解除する",
+            "name": "Cleanse Weakness (WIL)",
+            "flavor_text": "At the end of every 3 turns counting from the start of battle, removes own debuffs to WIL.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808051123
@@ -53568,7 +53568,7 @@
         },
         {
             "id": 708600550,
-            "name": "激昂の覇気(3回)",
+            "name": "Supremacy of Fury (3x)",
             "flavor_text": "",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -53581,8 +53581,8 @@
         },
         {
             "id": 708600551,
-            "name": "リミテッドエンハンスⅣ(熱・冷・陰)",
-            "flavor_text": "[攻撃を受けた時]<br>自身に「<special_effect=800000209>エレメントエンハンス(熱)</special_effect>」「<special_effect=800000168>エレメントエンハンス(冷)</special_effect>」「<special_effect=800000139>エレメントエンハンス(陰)</special_effect>」を付与する( 効果大 )<br>( 上限回数:3回 ※攻撃が命中した時のみ発動 )",
+            "name": "Limited Enhance Ⅳ (Heat/Cold/Shadow)",
+            "flavor_text": "[When being attacked]<br>Grants oneself <special_effect=800000209>Elemental Enhance (Heat)</special_effect>, <special_effect=800000168>Elemental Enhance (Cold)</special_effect>, and <special_effect=800000139>Elemental Enhance (Shadow)</special_effect> (large effect) (Max times: 3 times per battle).<br>*Only activates when hit by an attack.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808041100,
@@ -53595,8 +53595,8 @@
         },
         {
             "id": 708600557,
-            "name": "リミテッドヒートⅢ",
-            "flavor_text": "[攻撃を受けた時]<br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果中 )を付与する( 上限回数:バトル中3回 )",
+            "name": "Limited Heat Ⅲ",
+            "flavor_text": "[When being attacked]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (medium effect) (Max times: 3 times per battle).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808041109
@@ -53607,8 +53607,8 @@
         },
         {
             "id": 708600563,
-            "name": "炎の闘気",
-            "flavor_text": "[熱属性を含む攻撃命中時]<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」を付与する( 効果中/効果1ターン )<br>自身の腕力・知力を上昇させる( 効果中 )",
+            "name": "Flaming Fighting Spirit",
+            "flavor_text": "[When landing a heat attack]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/1 turn(s)).<br>Increases own STR/INT (medium effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808041119,
@@ -53621,8 +53621,8 @@
         },
         {
             "id": 708600564,
-            "name": "業火強装",
-            "flavor_text": "直接攻撃を受けた時<br>自身に「<special_effect=800000005>熱属性攻撃強化</special_effect>」を付与する( 効果小/効果2ターン )<br>※攻撃が命中した時のみ発動<br><br>間接攻撃を受けた時<br>自身に「<special_effect=800000002>斬属性攻撃強化</special_effect>」「<special_effect=800000003>打属性攻撃強化</special_effect>」を付与する( 効果小/効果2ターン )<br>※攻撃が命中した時のみ発動<br><br>熱属性を含む攻撃を受けた時<br>自身に「<special_effect=800000019>熱属性防御強化</special_effect>」を付与する( 効果大/効果1ターン )<br>※攻撃が命中した時のみ発動",
+            "name": "Hellfire Strengthening",
+            "flavor_text": "When being directly attacked, grants oneself <special_effect=800000005>Heat Attack Boost</special_effect> (small effect/2 turn(s)).<br>*Only activates when hit by an attack.<br><br>When being indirectly attacked, grants oneself <special_effect=800000002>Slash Attack Boost</special_effect> and <special_effect=800000003>Blunt Attack Boost</special_effect> (small effect/2 turn(s)).<br>*Only activates when hit by an attack.<br><br>[When hit by an attack which has heat damage]<br>Grants oneself <special_effect=800000019>Heat Defense Boost</special_effect> (large effect/1 turn(s)).<br>*Only activates when hit by an attack.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808041120,
@@ -53636,8 +53636,8 @@
         },
         {
             "id": 708600574,
-            "name": "修羅の逆鱗",
-            "flavor_text": "直接攻撃を受けた時<br>自身に「<special_effect=800000095>ヒートアップ</special_effect>」( 効果大 )、「<special_effect=800000096>ディフェンスアップ</special_effect>」( 効果中 )を付与する<br>※攻撃が命中した時のみ発動",
+            "name": "Ashura's Wrath",
+            "flavor_text": "When being directly attacked, grants oneself <special_effect=800000095>Heat Up</special_effect> (large effect) and <special_effect=800000096>Defense Up</special_effect> (medium effect).<br>*Only activates when hit by an attack.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808041132,
@@ -53649,8 +53649,8 @@
         },
         {
             "id": 708600575,
-            "name": "修羅の攻防",
-            "flavor_text": "[斬・突・雷・陽・陰属性を含む間接攻撃を受けた時]<br>自身に「<special_effect=800000001>攻撃強化</special_effect>」( 効果特大/効果2ターン )、「<special_effect=800000015>防御強化</special_effect>」( 効果大/効果2ターン )を付与する<br>※攻撃が命中した時のみ発動",
+            "name": "Ashura's Off & Def",
+            "flavor_text": "[When hit by an indirect attack which has slash/pierce/lightning/sun/shadow damage]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/2 turn(s)) and <special_effect=800000015>Defense Boost</special_effect> (large effect/2 turn(s)).<br>*Only activates when hit by an attack.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808041134,
@@ -56308,9 +56308,9 @@
         },
         {
             "id": 711100507,
-            "name": "メルローズ+",
-            "flavor_text": "キャラクターがメルローズの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "メルローズ+ 99%",
+            "name": "Myron+",
+            "flavor_text": "Myron's attack damage increases by 99%.",
+            "simple_flavor_text": "Myron +99%",
             "special_effect_ids": [
                 811040623
             ],
@@ -56524,9 +56524,9 @@
         },
         {
             "id": 711100528,
-            "name": "シルベン+",
-            "flavor_text": "キャラクターがシルベンの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "シルベン+ 99%",
+            "name": "Sylvan+",
+            "flavor_text": "Sylvan's attack damage increases by 99%.",
+            "simple_flavor_text": "Sylvan +99%",
             "special_effect_ids": [
                 811040644
             ],
@@ -56536,9 +56536,9 @@
         },
         {
             "id": 711100529,
-            "name": "ブラウ+",
-            "flavor_text": "キャラクターがブラウの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ブラウ+ 99%",
+            "name": "Brau+",
+            "flavor_text": "Brau's attack damage increases by 99%.",
+            "simple_flavor_text": "Brau +99%",
             "special_effect_ids": [
                 811040645
             ],
@@ -57016,9 +57016,9 @@
         },
         {
             "id": 711100592,
-            "name": "ﾌﾘｰﾌｧｲﾀｰ(女)+",
-            "flavor_text": "キャラクターがﾌﾘｰﾌｧｲﾀｰ(女)の場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ﾌﾘｰﾌｧｲﾀｰ(女)+ 99%",
+            "name": "Mercenary (F)+",
+            "flavor_text": "Mercenary (F)'s attack damage increases by 99%.",
+            "simple_flavor_text": "Mercenary (F) +99%",
             "special_effect_ids": [
                 811040708
             ],
@@ -57040,9 +57040,9 @@
         },
         {
             "id": 711100596,
-            "name": "ｲﾝﾍﾟﾘｱﾙｶﾞｰﾄﾞ(女)+",
-            "flavor_text": "キャラクターがｲﾝﾍﾟﾘｱﾙｶﾞｰﾄﾞ(女)の場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ｲﾝﾍﾟﾘｱﾙｶﾞｰﾄﾞ(女)+ 99%",
+            "name": "Imperial Guard (F)+",
+            "flavor_text": "Imperial Guard (F)'s attack damage increases by 99%.",
+            "simple_flavor_text": "Imperial Guard (F) +99%",
             "special_effect_ids": [
                 811040712
             ],
@@ -57556,9 +57556,9 @@
         },
         {
             "id": 711100651,
-            "name": "カタリナ+",
-            "flavor_text": "キャラクターがカタリナの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "カタリナ+ 99%",
+            "name": "Katarina+",
+            "flavor_text": "Katarina's attack damage increases by 99%.",
+            "simple_flavor_text": "Katarina +99%",
             "special_effect_ids": [
                 811040767
             ],
@@ -57724,9 +57724,9 @@
         },
         {
             "id": 711100666,
-            "name": "ﾊﾞｲﾒｲﾆｬﾝ+",
-            "flavor_text": "キャラクターがﾊﾞｲﾒｲﾆｬﾝの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ﾊﾞｲﾒｲﾆｬﾝ+ 99%",
+            "name": "Bai Meiniang+",
+            "flavor_text": "Bai Meiniang's attack damage increases by 99%.",
+            "simple_flavor_text": "Bai Meiniang +99%",
             "special_effect_ids": [
                 811040782
             ],
@@ -57748,9 +57748,9 @@
         },
         {
             "id": 711100668,
-            "name": "ようせい+",
-            "flavor_text": "キャラクターがようせいの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ようせい+ 99%",
+            "name": "Faerie+",
+            "flavor_text": "Faerie's attack damage increases by 99%.",
+            "simple_flavor_text": "Faerie +99%",
             "special_effect_ids": [
                 811040784
             ],
@@ -57808,9 +57808,9 @@
         },
         {
             "id": 711100674,
-            "name": "マクシムス+",
-            "flavor_text": "キャラクターがマクシムスの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "マクシムス+ 99%",
+            "name": "Maximus+",
+            "flavor_text": "Maximus's attack damage increases by 99%.",
+            "simple_flavor_text": "Maximus +99%",
             "special_effect_ids": [
                 811040790
             ],
@@ -58036,9 +58036,9 @@
         },
         {
             "id": 711100711,
-            "name": "ドーラ+",
-            "flavor_text": "キャラクターがドーラの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ドーラ+ 99%",
+            "name": "Dorra+",
+            "flavor_text": "Dorra's attack damage increases by 99%.",
+            "simple_flavor_text": "Dorra +99%",
             "special_effect_ids": [
                 811040827
             ],
@@ -58252,9 +58252,9 @@
         },
         {
             "id": 711100735,
-            "name": "レン+",
-            "flavor_text": "キャラクターがレンの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "レン+ 99%",
+            "name": "Ren+",
+            "flavor_text": "Ren's attack damage increases by 99%.",
+            "simple_flavor_text": "Ren +99%",
             "special_effect_ids": [
                 811040851
             ],
@@ -58300,9 +58300,9 @@
         },
         {
             "id": 711100739,
-            "name": "コットン+",
-            "flavor_text": "キャラクターがコットンの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "コットン+ 99%",
+            "name": "Cotton+",
+            "flavor_text": "Cotton's attack damage increases by 99%.",
+            "simple_flavor_text": "Cotton +99%",
             "special_effect_ids": [
                 811040855
             ],
@@ -58324,9 +58324,9 @@
         },
         {
             "id": 711100741,
-            "name": "アニー+",
-            "flavor_text": "キャラクターがアニーの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "アニー+ 99%",
+            "name": "Annie+",
+            "flavor_text": "Annie's attack damage increases by 99%.",
+            "simple_flavor_text": "Annie +99%",
             "special_effect_ids": [
                 811040857
             ],
@@ -58408,9 +58408,9 @@
         },
         {
             "id": 711100750,
-            "name": "ゾズマ+",
-            "flavor_text": "キャラクターがゾズマの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ゾズマ+ 99%",
+            "name": "Zozma+",
+            "flavor_text": "Zozma's attack damage increases by 99%.",
+            "simple_flavor_text": "Zozma +99%",
             "special_effect_ids": [
                 811040866
             ],
@@ -58420,9 +58420,9 @@
         },
         {
             "id": 711100751,
-            "name": "イルドゥン+",
-            "flavor_text": "キャラクターがイルドゥンの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "イルドゥン+ 99%",
+            "name": "Ildon+",
+            "flavor_text": "Ildon's attack damage increases by 99%.",
+            "simple_flavor_text": "Ildon +99%",
             "special_effect_ids": [
                 811040867
             ],
@@ -58492,9 +58492,9 @@
         },
         {
             "id": 711100757,
-            "name": "ヌサカーン+",
-            "flavor_text": "キャラクターがヌサカーンの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ヌサカーン+ 99%",
+            "name": "Nusakan+",
+            "flavor_text": "Nusakan's attack damage increases by 99%.",
+            "simple_flavor_text": "Nusakan +99%",
             "special_effect_ids": [
                 811040873
             ],
@@ -58516,9 +58516,9 @@
         },
         {
             "id": 711100759,
-            "name": "メサルティム+",
-            "flavor_text": "キャラクターがメサルティムの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "メサルティム+ 99%",
+            "name": "Mesarthim+",
+            "flavor_text": "Mesarthim's attack damage increases by 99%.",
+            "simple_flavor_text": "Mesarthim +99%",
             "special_effect_ids": [
                 811040875
             ],
@@ -58528,9 +58528,9 @@
         },
         {
             "id": 711100760,
-            "name": "済王+",
-            "flavor_text": "キャラクターが済王の場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "済王+ 99%",
+            "name": "King Sei+",
+            "flavor_text": "King Sei's attack damage increases by 99%.",
+            "simple_flavor_text": "King Sei +99%",
             "special_effect_ids": [
                 811040876
             ],
@@ -58564,9 +58564,9 @@
         },
         {
             "id": 711100764,
-            "name": "赤カブ+",
-            "flavor_text": "キャラクターが赤カブの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "赤カブ+ 99%",
+            "name": "Red Turnip+",
+            "flavor_text": "Red Turnip's attack damage increases by 99%.",
+            "simple_flavor_text": "Red Turnip +99%",
             "special_effect_ids": [
                 811040880
             ],
@@ -58624,9 +58624,9 @@
         },
         {
             "id": 711100769,
-            "name": "ﾎｰｸ(SF1)+",
-            "flavor_text": "キャラクターがﾎｰｸ(SF1)の場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ﾎｰｸ(SF1)+ 99%",
+            "name": "Hawk+",
+            "flavor_text": "Hawk's attack damage increases by 99%.",
+            "simple_flavor_text": "Hawk +99%",
             "special_effect_ids": [
                 811040885
             ],
@@ -58648,9 +58648,9 @@
         },
         {
             "id": 711100771,
-            "name": "ﾚｵﾅﾙﾄﾞ(SF1)+",
-            "flavor_text": "キャラクターがﾚｵﾅﾙﾄﾞ(SF1)の場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ﾚｵﾅﾙﾄﾞ(SF1)+ 99%",
+            "name": "Leonard (SF1)+",
+            "flavor_text": "Leonard (SF1)'s attack damage increases by 99%.",
+            "simple_flavor_text": "Leonard (SF1) +99%",
             "special_effect_ids": [
                 811040887
             ],
@@ -58684,9 +58684,9 @@
         },
         {
             "id": 711100779,
-            "name": "ｼﾝﾃﾞｨ･ｷｬﾝﾍﾞﾙ+",
-            "flavor_text": "キャラクターがｼﾝﾃﾞｨ･ｷｬﾝﾍﾞﾙの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ｼﾝﾃﾞｨ･ｷｬﾝﾍﾞﾙ+ 99%",
+            "name": "Cindy Campbell+",
+            "flavor_text": "Cindy Campbell's attack damage increases by 99%.",
+            "simple_flavor_text": "Cindy Campbell +99%",
             "special_effect_ids": [
                 811040895
             ],
@@ -58852,9 +58852,9 @@
         },
         {
             "id": 711100801,
-            "name": "ヨハン+",
-            "flavor_text": "キャラクターがヨハンの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ヨハン+ 99%",
+            "name": "Johan+",
+            "flavor_text": "Johan's attack damage increases by 99%.",
+            "simple_flavor_text": "Johan +99%",
             "special_effect_ids": [
                 811040917
             ],
@@ -58864,9 +58864,9 @@
         },
         {
             "id": 711100802,
-            "name": "ｳﾞｧﾝｱｰﾌﾞﾙ+",
-            "flavor_text": "キャラクターがｳﾞｧﾝｱｰﾌﾞﾙの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ｳﾞｧﾝｱｰﾌﾞﾙ+ 99%",
+            "name": "Ventarbre+",
+            "flavor_text": "Ventarbre's attack damage increases by 99%.",
+            "simple_flavor_text": "Ventarbre +99%",
             "special_effect_ids": [
                 811040918
             ],
@@ -59032,9 +59032,9 @@
         },
         {
             "id": 711100821,
-            "name": "ペッグ+",
-            "flavor_text": "キャラクターがペッグの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ペッグ+ 99%",
+            "name": "Peg+",
+            "flavor_text": "Peg's attack damage increases by 99%.",
+            "simple_flavor_text": "Peg +99%",
             "special_effect_ids": [
                 811040937
             ],
@@ -59152,9 +59152,9 @@
         },
         {
             "id": 711100844,
-            "name": "ミシェル+",
-            "flavor_text": "キャラクターがミシェルの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "ミシェル+ 99%",
+            "name": "Michelle+",
+            "flavor_text": "Michelle's attack damage increases by 99%.",
+            "simple_flavor_text": "Michelle +99%",
             "special_effect_ids": [
                 811040960
             ],
@@ -59224,9 +59224,9 @@
         },
         {
             "id": 711100858,
-            "name": "シリウス+",
-            "flavor_text": "キャラクターがシリウスの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "シリウス+ 99%",
+            "name": "Sirius+",
+            "flavor_text": "Sirius's attack damage increases by 99%.",
+            "simple_flavor_text": "Sirius +99%",
             "special_effect_ids": [
                 811040974
             ],
@@ -59392,9 +59392,9 @@
         },
         {
             "id": 711100913,
-            "name": "アントニウス+",
-            "flavor_text": "キャラクターがアントニウスの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "アントニウス+ 99%",
+            "name": "Antonius+",
+            "flavor_text": "Antonius's attack damage increases by 99%.",
+            "simple_flavor_text": "Antonius +99%",
             "special_effect_ids": [
                 811041029
             ],
@@ -59860,9 +59860,9 @@
         },
         {
             "id": 711101006,
-            "name": "メリッサ+",
-            "flavor_text": "キャラクターがメリッサの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "メリッサ+ 99%",
+            "name": "Melissa+",
+            "flavor_text": "Melissa's attack damage increases by 99%.",
+            "simple_flavor_text": "Melissa +99%",
             "special_effect_ids": [
                 811041122
             ],
@@ -61335,9 +61335,9 @@
         },
         {
             "id": 711101259,
-            "name": "Kitty Clawer+",
-            "flavor_text": "Kitty Clawer's attack damage increases by 99%.",
-            "simple_flavor_text": "Kitty Clawer +99%",
+            "name": "Pinkpunch+",
+            "flavor_text": "Pinkpunch's attack damage increases by 99%.",
+            "simple_flavor_text": "Pinkpunch +99%",
             "special_effect_ids": [
                 811041289
             ],
@@ -61446,9 +61446,9 @@
         },
         {
             "id": 711101337,
-            "name": "シグフレイ+",
-            "flavor_text": "キャラクターがシグフレイの場合<br>敵に与えるダメージが99%上昇する",
-            "simple_flavor_text": "シグフレイ+ 99%",
+            "name": "Sigfrei+",
+            "flavor_text": "Sigfrei's attack damage increases by 99%.",
+            "simple_flavor_text": "Sigfrei +99%",
             "special_effect_ids": [
                 811041366
             ],
@@ -70910,7 +70910,7 @@
         {
             "id": 750101034,
             "name": "Reduce Damage Taken (large)",
-            "flavor_text": "Grants \"Reduce Damage Taken (large)\".",
+            "flavor_text": "Grants Reduce Damage Taken (large).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 850040909
@@ -70947,7 +70947,7 @@
         {
             "id": 750101471,
             "name": "Reduce Damage Taken (large)+Action Order Down (v. large)",
-            "flavor_text": "Grants \"Reduce Damage Taken (large)\".<br>Decreases action order value (very large effect).",
+            "flavor_text": "Grants Reduce Damage Taken (large).<br>Decreases action order value (very large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 850040909,
@@ -70960,7 +70960,7 @@
         {
             "id": 750101474,
             "name": "Reduce Damage Taken (medium)",
-            "flavor_text": "Grants \"Reduce Damage Taken (medium)\".",
+            "flavor_text": "Grants Reduce Damage Taken (medium).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 850040913
@@ -71061,8 +71061,8 @@
         },
         {
             "id": 750103113,
-            "name": "イーグルヘッド",
-            "flavor_text": "[ターン終了時] <br>自身以外の味方生存者全体のHPを回復する( 効果極小 )<br>自身以外の味方生存者全体のBPを回復する( +1 )<br>自身以外の味方生存者全体のODゲージを上昇させる( 効果小 )",
+            "name": "Eagle's Head",
+            "flavor_text": "[End of turn]<br>Recovers all other surviving allies' HP (very small effect).<br>Recovers all other surviving allies' BP (+1).<br>Increases all other surviving allies' OD gauges (small effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802014620,
@@ -71076,7 +71076,7 @@
         {
             "id": 750103114,
             "name": "Over Defend",
-            "flavor_text": "Grants \"Reduce Damage Taken (medium)\".<br>Grants <special_effect=800000341>\"End of Turn: OD Gauge Up (sm.)\"</special_effect>.",
+            "flavor_text": "Grants Reduce Damage Taken (medium).<br>Grants <special_effect=800000341>\"End of Turn: OD Gauge Up (sm.)\"</special_effect>.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044318,
@@ -81563,6 +81563,194 @@
             "special_effect_ids": [
                 802044095,
                 1802041191
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100749,
+            "name": "Lifesaving Water",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br>Fills up own OD gauge.<br><br>[When being attacked]<br>Nullifies attacks which have cold damage. Also counterattacks with <skill=1125200059>Water Dragon's Boon</skill> when being directly attacked.<br>(Counterattacks will not activate when parry is used in the same turn).<br>(Activates using spell Rank 1).<br><br>[End of turn]<br>Recovers own BP (+2).<br>Increases own OD gauge (very large effect).<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=1125200058>Water Column</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040520,
+                802041344,
+                1802041193,
+                802041315,
+                802042395,
+                802044255
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100750,
+            "name": "Khamsin Inheritor",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>[Start of turn]<br>Grants all enemies <special_effect=800000553>Weak Point (Lightning/Defense Down)</special_effect> (1 turn(s)).<br>Grants all surviving allies <special_effect=800000554>Lightning Charge (3x)</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110100540>Spin Lightning Slash</skill> will be activated 2 times.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br>Grants all surviving allies <special_effect=800000554>Lightning Charge (3x)</special_effect> (1 turn(s)).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040322,
+                1802041194,
+                1802041195,
+                1802041196,
+                1802041197
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100751,
+            "name": "Lightning Charge (3x) on OD Attack",
+            "flavor_text": "[After activating an OD attack*]<br>Grants all surviving allies <special_effect=800000554>Lightning Charge (3x)</special_effect> (1 turn(s)).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041198
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100752,
+            "name": "Renewed Power",
+            "flavor_text": "Reduces damage taken for all allies (very large effect).<br><br>[Start of battle]<br>Grants oneself <special_effect=800000097>Damage Block</special_effect> (1 turn(s)).<br><br>[On/After Turn 2 counting from the start of battle]<br>Grants oneself <special_effect=800000183>Delay Stance</special_effect> (Effect: permanent in battle) (Max times: 1 time per battle).<br><br>[When an ally is being attacked]<br>Takes an ally's place in being attacked, and reduces the damage (high chance).<br><br>[When being attacked]<br>Increases all surviving allies' END/INT/WIL (small effect).<br><br>[When being directly attacked]<br>Grants oneself <special_effect=1800000064>Fierce Wind Retaliation</special_effect> (1 turn(s)).<br><br>[When being indirectly attacked]<br>Grants oneself <special_effect=800000556>Lightning Wind Retaliation</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043476,
+                802040966,
+                802044308,
+                802041000,
+                1802041199,
+                1802041200,
+                1802041201
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100753,
+            "name": "Renewed Power: Effect 2",
+            "flavor_text": "[When being attacked]<br>Increases all surviving allies' END/INT/WIL (small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802014217,
+                802014218,
+                802014219
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100754,
+            "name": "Renewed Power: Effect 3",
+            "flavor_text": "[When being directly attacked]<br>Grants oneself <special_effect=1800000064>Fierce Wind Retaliation</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041202
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100755,
+            "name": "Renewed Power: Effect 4",
+            "flavor_text": "[When being indirectly attacked]<br>Grants oneself <special_effect=800000556>Lightning Wind Retaliation</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041203
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100756,
+            "name": "Fierce Wind Retaliation",
+            "flavor_text": "After activating an attack*, <skill=125400241>Slash Gust</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041204
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100757,
+            "name": "Undying Flame",
+            "flavor_text": "[Start of battle]<br>Grants all surviving allies <special_effect=800000095>Heat Up</special_effect> (super extreme effect).<br>Grants all surviving allies <special_effect=800000561>Indomitable Will</special_effect> (Effect: permanent in battle).<br><br>[When being attacked]<br>Nullifies attacks which have heat damage. Also counterattacks with <skill=1125100049>Back Detonation</skill> when being directly attacked.<br>(Counterattacks will not activate when parry is used in the same turn).<br>(Activates using spell Rank 1).<br><br>[End of turn]<br>Recovers all surviving allies' HP (very small effect).<br>When knocked unconscious, recovers own HP (very large effect).<br>(Will not activate when knocked unconscious by poison damage).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044452,
+                802041858,
+                802044243,
+                802044244,
+                1802041205,
+                802042355,
+                802044245
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100758,
+            "name": "Sword of Justice",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>[Start of turn]<br>Grants all enemies <special_effect=800000558>Weak Point (Sun/Defense Down)</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110700518>Light Pierce Sword</skill> will be activated.<br>(Activates using skill Rank 1).<br><br><On odd turns counting from the start of battle><br><skill=1110700041>Raster Ray</skill> will be activated.<br>(Activates using skill Rank 1).<br><br><On even turns counting from the start of battle><br><skill=110700520>Great Cross</skill> will be activated.<br>(Activates using skill Rank 1).<br><br><On every 3 turns counting from the start of battle><br><skill=110700519>Triple Afterglow</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[When landing an attack]<br>Recovers own BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040520,
+                802044231,
+                802044232,
+                1802041206,
+                802044233,
+                802044431,
+                802041462
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100759,
+            "name": "Sword of Justice: Effect 2",
+            "flavor_text": "",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041207
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100760,
+            "name": "Boss's Shout",
+            "flavor_text": "[Start of battle]<br>Grants all surviving allies <special_effect=800000596>Weapon Enhance (Spear)</special_effect> (super extreme effect).<br>Grants all surviving allies <special_effect=800000597>Scrum Lancer</special_effect> (Effect: permanent in battle).<br><br>[When recovery actions are made]<br>Recovers target's BP (+5).<br>*Recovery actions: Actions made by recovery type skills/spells.<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=110800544>Star Blessing</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044448,
+                802044449,
+                802044306,
+                1802041208
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100761,
+            "name": "Boss's Shout: Effect 2",
+            "flavor_text": "[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=110800544>Star Blessing</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044253
             ],
             "icon": 4010,
             "rarity": 0,

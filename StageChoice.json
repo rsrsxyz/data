@@ -3635,6 +3635,120 @@
             "next_stage_choice_node_id": 0
         },
         {
+            "id": 20230001,
+            "stage_choice_group_id": 20230001,
+            "after_text": "The area lit up. You are able to proceed now.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the lantern.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200052,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20231001,
+            "stage_choice_group_id": 20231001,
+            "after_text": "Hooked the rope. You can now climb down.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the rope.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200051,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20243001,
+            "stage_choice_group_id": 20243001,
+            "after_text": "Proceed ahead.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Hand over Passage Parchment.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200053,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20252001,
+            "stage_choice_group_id": 20252001,
+            "after_text": "Offered a stone.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a blue stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200054,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20252002,
+            "stage_choice_group_id": 20252001,
+            "after_text": "Offered a stone.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a green stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200055,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20252003,
+            "stage_choice_group_id": 20252001,
+            "after_text": "Offered a stone.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Offer a red stone.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200056,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
             "id": 30008001,
             "stage_choice_group_id": 30008001,
             "after_text": "The area has become brighter.",

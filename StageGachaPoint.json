@@ -90,6 +90,15 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 39990040
+        },
+        {
+            "id": 10009,
+            "name": "[Bonds Records] Exploration Point",
+            "flavor_text": "Item required for Open Chests in Bonds Records.",
+            "icon": 10010,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 39990045
         }
     ]
 }

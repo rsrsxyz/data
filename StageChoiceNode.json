@@ -959,6 +959,54 @@
             "override_node_asset_id": 0
         },
         {
+            "id": 20230005,
+            "text": "It's too dark to see. It's dangerous to proceed without a light.",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 20230001,
+            "next_stage_symbol_node_id": 22101415,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
+            "id": 20231006,
+            "text": "Something's at the foot of the cliff. How can you get down?",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 20231001,
+            "next_stage_symbol_node_id": 22101415,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
+            "id": 20243005,
+            "text": "Requires a Passage Parchment to pass.",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 20243001,
+            "next_stage_symbol_node_id": 22101415,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
+            "id": 20252004,
+            "text": "There are three slots where objects might fit.",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 20252001,
+            "next_stage_symbol_node_id": 22101415,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
             "id": 30008009,
             "text": "It's too dark to see. If only you had a light.",
             "after_text": "",

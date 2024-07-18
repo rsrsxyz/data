@@ -527,6 +527,27 @@
             "is_message_invisible": 1
         },
         {
+            "id": 900059,
+            "name": "Combat Power Support Chest [Ltd. Time]",
+            "description": "Open from Items>Treasure Box. You may get any of the items from Possible Rewards. (Until [1722819599] <tz>)",
+            "rarity": 5,
+            "max_quantity": 99999,
+            "expired_at": 1722819599,
+            "icon": 900059,
+            "sort_order": 24031905,
+            "drop_group_ids": [
+                21013973,
+                21013974,
+                21013975,
+                21013976,
+                21013977,
+                21013979,
+                21013980,
+                21013981
+            ],
+            "is_message_invisible": 0
+        },
+        {
             "id": 1000900001,
             "name": "Holy Night Gift [Ltd. Time]",
             "description": "Open from Items>Treasure Box. You will get the items from Rewards. (Until [1699577999] <tz>)",

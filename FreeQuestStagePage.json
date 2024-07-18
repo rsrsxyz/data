@@ -214,6 +214,13 @@
             "free_quest_stage_page_type": 1
         },
         {
+            "id": 1100028,
+            "area_id": 10010,
+            "order": 10,
+            "icon": 10062,
+            "free_quest_stage_page_type": 1
+        },
+        {
             "id": 1200001,
             "area_id": 10001,
             "order": 100,
@@ -522,6 +529,41 @@
             "free_quest_stage_page_type": 1
         },
         {
+            "id": 1200049,
+            "area_id": 10010,
+            "order": 100,
+            "icon": 0,
+            "free_quest_stage_page_type": 2
+        },
+        {
+            "id": 1200050,
+            "area_id": 10010,
+            "order": 101,
+            "icon": 0,
+            "free_quest_stage_page_type": 3
+        },
+        {
+            "id": 1200051,
+            "area_id": 10010,
+            "order": 102,
+            "icon": 0,
+            "free_quest_stage_page_type": 2
+        },
+        {
+            "id": 1200052,
+            "area_id": 10010,
+            "order": 103,
+            "icon": 0,
+            "free_quest_stage_page_type": 3
+        },
+        {
+            "id": 1200053,
+            "area_id": 10010,
+            "order": 104,
+            "icon": 0,
+            "free_quest_stage_page_type": 1
+        },
+        {
             "id": 1300001,
             "area_id": 10001,
             "order": 104,
@@ -657,6 +699,20 @@
         {
             "id": 1300021,
             "area_id": 10009,
+            "order": 1001,
+            "icon": 0,
+            "free_quest_stage_page_type": 1
+        },
+        {
+            "id": 1300022,
+            "area_id": 10010,
+            "order": 1000,
+            "icon": 0,
+            "free_quest_stage_page_type": 1
+        },
+        {
+            "id": 1300023,
+            "area_id": 10010,
             "order": 1001,
             "icon": 0,
             "free_quest_stage_page_type": 1

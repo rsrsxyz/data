@@ -2772,6 +2772,28 @@
             "selling_price": 0
         },
         {
+            "id": 800343,
+            "name": "Romancing Festival Medal 181",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800407,
+            "max_quantity": 99999999,
+            "expired_at": 1723769999,
+            "sort_order": 24071880,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 800344,
+            "name": "Romancing Festival Medal 182",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800408,
+            "max_quantity": 99999999,
+            "expired_at": 1723769999,
+            "sort_order": 24071870,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -9614,6 +9636,17 @@
             "selling_price": 0
         },
         {
+            "id": 1100966,
+            "name": "Reforged Bonds Coin (Red)",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100966,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24071840,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 1200001,
             "name": "Yellowstone Tribute [Fighter Records]",
             "flavor_text": "Item used in Fighter Records.",
@@ -10139,6 +10172,72 @@
             "expired_at": 1721350799,
             "sort_order": 24070420,
             "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1200051,
+            "name": "Rope [Bonds Records]",
+            "flavor_text": "Item used in Bonds Records.",
+            "icon": 1200051,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24071810,
+            "stage_gacha_point_id": 10009,
+            "selling_price": 0
+        },
+        {
+            "id": 1200052,
+            "name": "Lantern [Bonds Records]",
+            "flavor_text": "Item used in Bonds Records.",
+            "icon": 1200052,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24071815,
+            "stage_gacha_point_id": 10009,
+            "selling_price": 0
+        },
+        {
+            "id": 1200053,
+            "name": "Passage Parchment [Bonds Records]",
+            "flavor_text": "Item used in Bonds Records.",
+            "icon": 1200053,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24071820,
+            "stage_gacha_point_id": 10009,
+            "selling_price": 0
+        },
+        {
+            "id": 1200054,
+            "name": "Bluestone Tribute [Bonds Records]",
+            "flavor_text": "Item used in Bonds Records.",
+            "icon": 1200054,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24071825,
+            "stage_gacha_point_id": 10009,
+            "selling_price": 0
+        },
+        {
+            "id": 1200055,
+            "name": "Greenstone Tribute [Bonds Records]",
+            "flavor_text": "Item used in Bonds Records.",
+            "icon": 1200055,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24071830,
+            "stage_gacha_point_id": 10009,
+            "selling_price": 0
+        },
+        {
+            "id": 1200056,
+            "name": "Redstone Tribute [Bonds Records]",
+            "flavor_text": "Item used in Bonds Records.",
+            "icon": 1200056,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24071835,
+            "stage_gacha_point_id": 10009,
             "selling_price": 0
         },
         {
@@ -11546,6 +11645,17 @@
             "max_quantity": 99999999,
             "expired_at": 1721264399,
             "sort_order": 24060699,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1001100260,
+            "name": "Reforged Bonds Exclusive SS Style Exchange Ticket [Ltd. Time]",
+            "flavor_text": "Can be exchanged for a Style at the Reforged Bonds Exclusive SS Style Exchange. (Until [1724979599] <tz>)",
+            "icon": 1001100260,
+            "max_quantity": 99999999,
+            "expired_at": 1724979599,
+            "sort_order": 24071899,
             "stage_gacha_point_id": 0,
             "selling_price": 0
         }

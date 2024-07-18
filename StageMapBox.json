@@ -296,6 +296,42 @@
             "reward_type": 37,
             "reward_id": 10008,
             "reward_quantity": 1000
+        },
+        {
+            "id": 10008,
+            "name": "Stage",
+            "flavor_text": "A stage in Bonds Records. Details will be revealed once the stage is unlocked.",
+            "icon": 1000,
+            "stage_map_ids": [
+                10200,
+                10201,
+                10202,
+                10203,
+                10204,
+                10205,
+                10206,
+                10207,
+                10208,
+                10209,
+                10210,
+                10211,
+                10212,
+                10213,
+                10214,
+                10215,
+                10216,
+                10217,
+                10218,
+                10219,
+                10220,
+                10221,
+                10222,
+                10223,
+                10224
+            ],
+            "reward_type": 37,
+            "reward_id": 10009,
+            "reward_quantity": 1000
         }
     ]
 }
