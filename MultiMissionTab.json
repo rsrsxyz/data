@@ -206,6 +206,36 @@
             "lock_text": ""
         },
         {
+            "id": 25,
+            "multi_mission_group_id": 13,
+            "title": "Round 2 Challenge! [Ultra Hard] ???",
+            "summary": "<size=+3>Complete Deathmatch with the Mighty: ???</size><br>Co-op Mission: [Ultra Hard]　　　　Solo Mission: [Normal]",
+            "description": "Complete Deathmatch with the Mighty: ??? on specific difficulties<br>・Co-op Mission: [Ultra Hard]<br>・Solo Mission: [Normal]",
+            "area_id": 1666,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1721955600,
+            "end_at": 1724029199,
+            "priority": 9996,
+            "lock_text": ""
+        },
+        {
+            "id": 26,
+            "multi_mission_group_id": 13,
+            "title": "Round 2 Challenge! [Challenge] ???",
+            "summary": "<size=+3>Complete Deathmatch with the Mighty: ???</size><br>Co-op Mission: [Challenge]　　　　Solo Mission: [Normal]",
+            "description": "Complete Deathmatch with the Mighty: ??? on specific difficulties<br>・Co-op Mission: [Challenge]<br>・Solo Mission: [Normal]",
+            "area_id": 1666,
+            "gacha_id": 0,
+            "shop_id": 0,
+            "panel_shop_id": 0,
+            "start_at": 1721955600,
+            "end_at": 1724029199,
+            "priority": 9997,
+            "lock_text": ""
+        },
+        {
             "id": 1000000001,
             "multi_mission_group_id": 1000000001,
             "title": "Fight Together! Fateful Showdown Co-op Missions",

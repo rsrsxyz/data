@@ -2794,6 +2794,28 @@
             "selling_price": 0
         },
         {
+            "id": 800346,
+            "name": "Romancing Festival Medal 183",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800410,
+            "max_quantity": 99999999,
+            "expired_at": 1724374799,
+            "sort_order": 24072570,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 800350,
+            "name": "SaGa Soul Medal 24",
+            "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+            "icon": 800601,
+            "max_quantity": 99999999,
+            "expired_at": 1724374799,
+            "sort_order": 24072580,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -9647,6 +9669,39 @@
             "selling_price": 0
         },
         {
+            "id": 1100967,
+            "name": "SaGa THE STAGE Reforged Bonds BOX Surprises Ticket [Ltd. Time]",
+            "flavor_text": "Collect 10 tickets to pull 1 SaGa THE STAGE Reforged Bonds BOX. (Until [1724374799] <tz>)",
+            "icon": 1100967,
+            "max_quantity": 99999999,
+            "expired_at": 1724374799,
+            "sort_order": 24072515,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1100969,
+            "name": "Reforged Bonds Coin (Blue)",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100969,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24072540,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1100970,
+            "name": "Let's Go, Frontline! Super Support Coin [Ltd. Time]",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for SS weapons and other items. (Until [1724633999] <tz>)",
+            "icon": 1100970,
+            "max_quantity": 99999999,
+            "expired_at": 1724633999,
+            "sort_order": 24072545,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 1200001,
             "name": "Yellowstone Tribute [Fighter Records]",
             "flavor_text": "Item used in Fighter Records.",
@@ -10172,6 +10227,17 @@
             "expired_at": 1721350799,
             "sort_order": 24070420,
             "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1200050,
+            "name": "Sign of Battle",
+            "flavor_text": "Obtained from quests in Bonds Records, except for some quests. Can be used in How Far Can You Go? Step-By-Step Score Challenge. (Until [1723424399] <tz>)",
+            "icon": 1200050,
+            "max_quantity": 99999999,
+            "expired_at": 1723424399,
+            "sort_order": 24072505,
+            "stage_gacha_point_id": 10009,
             "selling_price": 0
         },
         {

@@ -26261,7 +26261,7 @@
         },
         {
             "id": 702103090,
-            "name": "Offensive Break Protection Ⅴ (END/WIL)",
+            "name": "Offensive Break Protection Ⅴ",
             "flavor_text": "When attacked, damage taken will be reduced (extreme effect).<br><br>[Start of turn]<br>Grants oneself <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).<br>Increases own END/WIL (large effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
@@ -26367,7 +26367,7 @@
         {
             "id": 702103099,
             "name": "Power to Rule the Seas",
-            "flavor_text": "[Start of battle]<br>Recovers own BP (+5).<br>Fills up own OD gauge.<br>Grants oneself <special_effect=800000614>Ocean's Pursuit</special_effect> (Effect: permanent in battle).<br><br>[After activating Tentacle Slam]<br>Restores the use limit of Piercing Bubbles by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+5).<br>Fills up own OD gauge.<br>Grants oneself <special_effect=800000614>Ocean's Pursuit</special_effect> (Effect: permanent in battle).<br><br>[After activating Tentacle Slam]<br>Restores the use limit of <skill=1110800060>Piercing Bubbles</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044214,
@@ -26540,7 +26540,7 @@
         {
             "id": 702103117,
             "name": "Hero's Resolution",
-            "flavor_text": "[Start of turn]<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).<br>Puts all other surviving allies into a <special_effect=800000074>stealth</special_effect> stance (small effect/2 turn(s)).<br><br>[When landing an attack]<br>Recovers own BP (+1).<br><br>[After activating an OD attack*]<br><In the case of a skill attack><br>Puts oneself into a <special_effect=800000060>counter</special_effect> stance (2 turn(s)) and grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br><br>Counterattack: <skill=110800543>Javelin+</skill><br>(Activates using skill Rank 1).<br><br><In the case of a spell attack><br>Puts oneself into a <special_effect=800000060>counter</special_effect> stance (2 turn(s)) and grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br><br>Counterattack: <skill=125100503>Rising Flame</skill><br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated by Abilities, Skills/Spells activated on Special Stances, and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[Start of turn]<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).<br>Puts all other surviving allies into a <special_effect=800000074>stealth</special_effect> stance (small effect/2 turn(s)).<br><br>[When landing an attack]<br>Recovers own BP (+1).<br><br>[After activating an OD attack*]<br><In the case of a skill attack><br>Puts oneself into a <special_effect=800000060>counter</special_effect> stance (2 turn(s)) and grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br><br>Counterattack: <skill=110800543>Javelin+</skill><br>(Activates using skill Rank 1).<br><br><In the case of a spell attack><br>Puts oneself into a <special_effect=800000060>counter</special_effect> stance (2 turn(s)) and grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br><br>Counterattack: <skill=125100503>Rising Flame</skill><br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802043635,
@@ -26595,7 +26595,7 @@
         {
             "id": 702103121,
             "name": "Ready to Give It All",
-            "flavor_text": "[Start of battle]<br>Fills up all surviving allies' OD gauges.<br>Grants all surviving allies <special_effect=800000571>Merciful Heart (1x)</special_effect> and <special_effect=800000572>Power to Connect (1x)</special_effect> (2 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110200557>Beak Sword</skill> will be activated.<br>(Activates using skill Rank 1).<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).<br><br>[After activating an OD attack*]<br><skill=110200558>Gloom Dancing Blade</skill> will be activated.<br>(Activates using skill Rank 1).<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (very large effect/2 turn(s)).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br><br>*Skills/Spells activated by Abilities, Skill/Spell Counterattacks, and Skills/Spells activated by skill/spell effects are not included.",
+            "flavor_text": "[Start of battle]<br>Fills up all surviving allies' OD gauges.<br>Grants all surviving allies <special_effect=800000571>Merciful Heart (1x)</special_effect> and <special_effect=800000572>Power to Connect (1x)</special_effect> (2 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110200557>Life Drain Sword</skill> will be activated.<br>(Activates using skill Rank 1).<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/2 turn(s)).<br><br>[After activating an OD attack*]<br><skill=110200558>Gloom Dancing Blade</skill> will be activated.<br>(Activates using skill Rank 1).<br>Grants all surviving allies <special_effect=800000001>Attack Boost</special_effect> (very large effect/2 turn(s)).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802042257,
@@ -26627,7 +26627,7 @@
         {
             "id": 702103123,
             "name": "Soul Hunter",
-            "flavor_text": "[Start of battle]<br>Recovers own BP (+4).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=125600564>Steal Circle</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated by skill/spell effects, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[When landing Steal Circle]<br>Grants all enemies <special_effect=800000035>Defense Down</special_effect> (small effect/3 turn(s)).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/3 turn(s)).",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+4).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=125600564>Steal Circle</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[When landing Steal Circle]<br>Grants all enemies <special_effect=800000035>Defense Down</special_effect> (small effect/3 turn(s)).<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/3 turn(s)).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041534,
@@ -26743,7 +26743,7 @@
         {
             "id": 702103131,
             "name": "Fist of the Mighty",
-            "flavor_text": "[When attacking]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)).<br>Increases own STR/END/AGI/WIL (medium effect).<br><br>[On OD attacks]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/2 turn(s)).<br>Increases own STR/END/AGI/WIL (large effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500557>Full-Power Destructive Fist</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=110500559>Scuffle+</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated by Abilities, Skill/Spell Counterattacks, and Skills/Spells activated by skill/spell effects are not included.",
+            "flavor_text": "[When attacking]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)).<br>Increases own STR/END/AGI/WIL (medium effect).<br><br>[On OD attacks]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/2 turn(s)).<br>Increases own STR/END/AGI/WIL (large effect).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500557>Full-Power Destructive Fist</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=110500559>Scuffle+</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044352,
@@ -26808,7 +26808,7 @@
         {
             "id": 702103136,
             "name": "Gauntlet's Curse",
-            "flavor_text": "Attacks' damage increases (extreme effect).<br>When attacked, damage taken will be reduced (very large effect).<br><br>[Start of battle]<br>Recovers own BP (+3).<br>Grants all surviving allies <special_effect=800000580>Elemental Atk Blessings (Blunt/Attack Boost)</special_effect> (Effect: permanent in battle).<br>Grants all enemies <special_effect=800000579>Weak Point (Blunt/Defense Down)</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500564>Dual Gunner+</skill> will be activated.<br>(Activates using skill Rank 1).<br><skill=110500565>Guanyin+</skill> will be activated.<br>(Activates using skill Rank 1).<br><skill=110500566>Hummingbird+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.<br><br>[Start of battle]<br>Loses 2 LP as recoil damage.",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br>When attacked, damage taken will be reduced (very large effect).<br><br>[Start of battle]<br>Recovers own BP (+3).<br>Grants all surviving allies <special_effect=800000580>Elemental Atk Blessings (Blunt/Attack Boost)</special_effect> (Effect: permanent in battle).<br>Grants all enemies <special_effect=800000579>Weak Point (Blunt/Defense Down)</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500564>Dual Gunner+</skill> will be activated.<br>(Activates using skill Rank 1).<br><skill=110500565>Guanyin+</skill> will be activated.<br>(Activates using skill Rank 1).<br><skill=110500566>Hummingbird+</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[Start of battle]<br>Loses 2 LP as recoil damage.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040741,
@@ -27004,7 +27004,7 @@
         {
             "id": 702103153,
             "name": "Puppet Master's Tuning",
-            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>[After activating String Domination]<br>Grants the target <special_effect=800000599>End of Turn: Recover BP (+10)</special_effect> (1 turn(s)).<br>Grants the target <special_effect=800000001>Attack Boost</special_effect> (very large effect/4 turn(s)).<br>Grants the target <special_effect=800000116>Weak Attack Boost</special_effect> (extreme effect/4 turn(s)).<br>Increases target's STR/DEX/AGI/INT (extreme effect).<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (very large effect/2 turn(s)).<br>Grants oneself <special_effect=800000026>Guard Up (large)</special_effect> (2 turn(s)).<br>Increases own END/WIL/LOV/CHA (extreme effect).<br>Grants oneself <special_effect=800000450>\"End of Turn: OD Gauge Up (full)\"</special_effect> (1 turn(s)).",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>[After activating String Domination]<br>Grants the target <special_effect=800000599>\"End of Turn: Recover BP (+10)\"</special_effect> (1 turn(s)).<br>Grants the target <special_effect=800000001>Attack Boost</special_effect> (very large effect/4 turn(s)).<br>Grants the target <special_effect=800000116>Weak Attack Boost</special_effect> (extreme effect/4 turn(s)).<br>Increases target's STR/DEX/AGI/INT (extreme effect).<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (very large effect/2 turn(s)).<br>Grants oneself <special_effect=800000026>Guard Up (large)</special_effect> (2 turn(s)).<br>Increases own END/WIL/LOV/CHA (extreme effect).<br>Grants oneself <special_effect=800000450>\"End of Turn: OD Gauge Up (full)\"</special_effect> (1 turn(s)).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040322,
@@ -27605,7 +27605,7 @@
         {
             "id": 702103202,
             "name": "Entrusted to the Machine",
-            "flavor_text": "Reduces damage taken for all allies (medium effect).<br><br>[Start of battle]<br>Grants all surviving allies <special_effect=800000618>サティスファイドパワー</special_effect> (Effect: permanent in battle).<br><br>[End of turn]<br>Recovers all surviving allies' HP (very small effect).<br>Removes all surviving allies' debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+            "flavor_text": "Reduces damage taken for all allies (medium effect).<br><br>[Start of battle]<br>Grants all surviving allies <special_effect=800000618>Satisfaction Power</special_effect> (Effect: permanent in battle).<br><br>[End of turn]<br>Recovers all surviving allies' HP (very small effect).<br>Removes all surviving allies' debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041541,
@@ -53506,7 +53506,7 @@
         {
             "id": 708600532,
             "name": "Reverse Assimilation: Skill Ⅰ",
-            "flavor_text": "When hit by a skill attack, reduces all surviving enemies STR/END/DEX/AGI (small effect) and increases own STR/END/DEX/AGI (small effect).<br>*Only activates when hit by an attack.",
+            "flavor_text": "When hit by a skill attack, reduces all surviving enemies' STR/END/DEX/AGI (small effect) and increases own STR/END/DEX/AGI (small effect).<br>*Only activates when hit by an attack.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808011061,
@@ -53525,7 +53525,7 @@
         {
             "id": 708600533,
             "name": "Reverse Assimilation: Spell Ⅰ",
-            "flavor_text": "When being attacked by a spell attack, reduces all surviving enemies INT/WIL/LOV/CHA (small effect) and increases own INT/WIL/LOV/CHA (small effect).<br>*Only activates when hit by an attack.",
+            "flavor_text": "When being attacked by a spell attack, reduces all surviving enemies' INT/WIL/LOV/CHA (small effect) and increases own INT/WIL/LOV/CHA (small effect).<br>*Only activates when hit by an attack.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808011069,
@@ -81751,6 +81751,67 @@
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802044253
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100762,
+            "name": "Heroine of Crazy Love",
+            "flavor_text": "[Start of battle]<br>Fills up own OD gauge.<br>Recovers own BP (+3).<br><br>[Start of turn]<br>When OD gauge is full, grants oneself <special_effect=800000001>Attack Boost</special_effect> (extreme effect/3 turn(s)).<br>When OD gauge is not full, grants oneself <special_effect=800000450>\"End of Turn: OD Gauge Up (full)\"</special_effect> (3 turn(s)) (very high chance).<br><br>[After activating an OD attack*]<br><skill=125200570>Umbra Levin+</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[When landing an attack with Umbra Levin+ activated by this Ability]<br><skill=125600567>Gravity Orb</skill> will be activated.<br>(Activates using spell Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041344,
+                802040520,
+                802044392,
+                802044393,
+                1802041209
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100763,
+            "name": "Heroine of Crazy Love: Effect 3",
+            "flavor_text": "[After activating an OD attack*]<br><skill=125200570>Umbra Levin+</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[When landing an attack with Umbra Levin+ activated by this Ability]<br><skill=125600567>Gravity Orb</skill> will be activated.<br>(Activates using spell Rank 1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041210,
+                802044397
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100764,
+            "name": "Flash of Inspiration Ⅰ (INT/AGI)",
+            "flavor_text": "[When landing an attack]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/2 turn(s)).<br>Increases own INT/AGI (small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040750,
+                802040742,
+                802042162,
+                1802041211,
+                802014383
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100765,
+            "name": "Governor of Justice",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br>When attacked, damage taken will be reduced (very large effect).<br><br>[Start of turn]<br>Recovers own BP (+2).<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).<br>Puts all other surviving allies into a <special_effect=800000074>stealth</special_effect> stance (small effect/2 turn(s)).<br><br>[When being attacked]<br>When in <special_effect=800000079>Energy Charge</special_effect> Stance, activates the following:<br>・Increases all surviving allies' END/WIL (medium effect).<br>・Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/3 turn(s)).<br>・Grants oneself <special_effect=800000015>Defense Boost</special_effect> (large effect/1 turn(s)).<br><br>[After activating Cast Focusing Strike]<br>Grants oneself <special_effect=800000636>Last Attack Stance (2x)</special_effect> (no turn limit).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040741,
+                802040448,
+                802041830,
+                802043635,
+                802044496
             ],
             "icon": 4010,
             "rarity": 0,

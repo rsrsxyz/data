@@ -1397,6 +1397,28 @@
             "quest_bg_id": 0
         },
         {
+            "id": 10031001,
+            "name": "",
+            "stage_id": 19910031,
+            "floor": 1,
+            "bg_id": 0,
+            "battle_bg_id": 700000051,
+            "bgm_id": 130116,
+            "node_asset_theme": 1,
+            "quest_bg_id": 700000051
+        },
+        {
+            "id": 10032001,
+            "name": "",
+            "stage_id": 19910032,
+            "floor": 1,
+            "bg_id": 0,
+            "battle_bg_id": 700000020,
+            "bgm_id": 120338,
+            "node_asset_theme": 2,
+            "quest_bg_id": 700000199
+        },
+        {
             "id": 20026001,
             "name": "Hot Sand Sea: South",
             "stage_id": 19920026,

@@ -21751,6 +21751,19 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7549,
+            "ribbon": "Reforged Bonds BOX Surprises Ticket Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013962
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7551,
             "ribbon": "",
             "campaign_type": 5,
@@ -21759,6 +21772,45 @@
             "reward_id": 0,
             "drop_group_ids": [
                 21013966
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7553,
+            "ribbon": "Sign of Battle Drops!",
+            "campaign_type": 9,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013967
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7558,
+            "ribbon": "Let's Go, Frontline! Super Support Coin Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013969
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7559,
+            "ribbon": "Reforged Bonds Coin (Blue) Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013970
             ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0

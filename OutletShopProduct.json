@@ -23428,6 +23428,126 @@
             "is_bulk_exchange": 1
         },
         {
+            "id": 101043,
+            "name": "Promotion Certificate II",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 1,
+            "outlet_shop_tab_id": 1002,
+            "outlet_shop_product_group_id": 10024,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 12500,
+            "priority": 10210019,
+            "rewards": [
+                {
+                    "type": 33,
+                    "id": 961002,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 0,
+            "only_not_owned_possible_count": 0,
+            "outlet_shop_product_stack_id": 33,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101044,
+            "name": "Promotion Certificate II",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 1,
+            "outlet_shop_tab_id": 1002,
+            "outlet_shop_product_group_id": 10024,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 25000,
+            "priority": 10210017,
+            "rewards": [
+                {
+                    "type": 33,
+                    "id": 961002,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 0,
+            "only_not_owned_possible_count": 0,
+            "outlet_shop_product_stack_id": 33,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101045,
+            "name": "Promotion Certificate II",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 1,
+            "outlet_shop_tab_id": 1002,
+            "outlet_shop_product_group_id": 10024,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 37500,
+            "priority": 10210016,
+            "rewards": [
+                {
+                    "type": 33,
+                    "id": 961002,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 0,
+            "only_not_owned_possible_count": 0,
+            "outlet_shop_product_stack_id": 33,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101046,
+            "name": "Red Carapace Armor",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3002,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 30232063,
+            "rewards": [
+                {
+                    "type": 16,
+                    "id": 202501600,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101047,
+            "name": "Storyteller Outfit",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3002,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 30231048,
+            "rewards": [
+                {
+                    "type": 16,
+                    "id": 203502100,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
             "id": 101048,
             "name": "[Competition Records] Exploration Point (Gold Chest Gtd.)",
             "description": "",
@@ -23563,6 +23683,54 @@
                 {
                     "type": 18,
                     "id": 409523000,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101059,
+            "name": "Ring of Azure Guard",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3004,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 30430185,
+            "rewards": [
+                {
+                    "type": 18,
+                    "id": 409523100,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101060,
+            "name": "(Water/Earth) Governor's Rod",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1500,
+            "priority": 30130055,
+            "rewards": [
+                {
+                    "type": 15,
+                    "id": 162500400,
                     "quantity": 1
                 }
             ],
@@ -25555,6 +25723,102 @@
                 {
                     "type": 14,
                     "id": 213502,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 1000100093,
+            "name": "Abyssal Naga Trophy",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3004,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 6000,
+            "priority": 30439010,
+            "rewards": [
+                {
+                    "type": 18,
+                    "id": 1409502800,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 1000100094,
+            "name": "Dragonlord Trophy",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3004,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 6000,
+            "priority": 30439015,
+            "rewards": [
+                {
+                    "type": 18,
+                    "id": 1409502700,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 1000100095,
+            "name": "Rolling Knight Trophy",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3004,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 6000,
+            "priority": 30439020,
+            "rewards": [
+                {
+                    "type": 18,
+                    "id": 1409502600,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 1000100096,
+            "name": "Alv Trophy",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3004,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 6000,
+            "priority": 30439025,
+            "rewards": [
+                {
+                    "type": 18,
+                    "id": 1409502500,
                     "quantity": 1
                 }
             ],

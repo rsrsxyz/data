@@ -39419,6 +39419,94 @@
             "excluded_quest_group_ids": []
         },
         {
+            "id": 7687,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10010
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7549
+            ],
+            "start_at": 1721955600,
+            "end_at": 1723165199,
+            "priority": 800001,
+            "flavor_text": "SaGa THE STAGE Reforged Bonds BOX Surprises Ticket Drops in Bonds Records",
+            "detail": "・SaGa THE STAGE Reforged Bonds BOX Surprises Ticket drops in Bonds Records",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7707,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10010
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7553
+            ],
+            "start_at": 1722214800,
+            "end_at": 1723424399,
+            "priority": 800003,
+            "flavor_text": "Limited-Supply Sign of Battle Drops in Bonds Records",
+            "detail": "・Limited-supply Sign of Battle drops in Bonds Records",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7719,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10010
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7558
+            ],
+            "start_at": 1722214800,
+            "end_at": 1723424399,
+            "priority": 800004,
+            "flavor_text": "Let's Go, Frontline! Super Support Coin Drops in Bonds Records",
+            "detail": "・Let's Go, Frontline! Super Support Coin drops in Bonds Records",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7720,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10010
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7559
+            ],
+            "start_at": 1721955600,
+            "end_at": 1723165199,
+            "priority": 800002,
+            "flavor_text": "Reforged Bonds Coin (Blue) Drops in Bonds Records",
+            "detail": "・Reforged Bonds Coin (Blue) drops in Bonds Records",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
             "id": 7722,
             "displays_campaign": 1,
             "quest_category": 0,
@@ -92781,6 +92869,37 @@
             "priority": 0,
             "flavor_text": "Daily Limited Supply Drops Campaign in Bonds Records",
             "detail": "・Daily limited-supply [SSS] Celestial Crystal drops in Bonds Records<br>・Daily limited-supply Promotion Scroll drops in Bonds Records<br>・Daily limited-supply Special Expedition Ticket (Collection) drops in Bonds Records",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 1000002687,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10001,
+                10002,
+                10003,
+                10004,
+                10005,
+                10006,
+                10007,
+                10008,
+                10009,
+                10010
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7414
+            ],
+            "start_at": 1721955600,
+            "end_at": 1722560399,
+            "priority": 300010,
+            "flavor_text": "2x Romancing Medal Drops Campaign",
+            "detail": "・2x Romancing Medal drops in Free Quests",
             "featured_start_at": 0,
             "featured_end_at": 0,
             "excluded_quest_group_ids": []

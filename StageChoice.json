@@ -2702,6 +2702,63 @@
             "next_stage_choice_node_id": 0
         },
         {
+            "id": 10031001,
+            "stage_choice_group_id": 10031001,
+            "after_text": "",
+            "message_type": 0,
+            "title": "",
+            "button_text": "Offer Signs of Battle.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200050,
+                    "price": 500
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10031002,
+            "stage_choice_group_id": 10031002,
+            "after_text": "",
+            "message_type": 0,
+            "title": "",
+            "button_text": "Offer Signs of Battle.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200050,
+                    "price": 1500
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 10031003,
+            "stage_choice_group_id": 10031003,
+            "after_text": "",
+            "message_type": 0,
+            "title": "",
+            "button_text": "Offer Signs of Battle.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200050,
+                    "price": 3000
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
             "id": 20078001,
             "stage_choice_group_id": 20078001,
             "after_text": "A new path has opened.",

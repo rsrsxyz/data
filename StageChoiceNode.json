@@ -611,6 +611,42 @@
             "override_node_asset_id": 0
         },
         {
+            "id": 10031002,
+            "text": "Collect 500 Signs of Battle to unlock the next Score Battle Quest!",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 10031001,
+            "next_stage_symbol_node_id": 21103101,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
+            "id": 10031003,
+            "text": "Collect 1,500 Signs of Battle to unlock the next Score Battle Quest!",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 10031002,
+            "next_stage_symbol_node_id": 21103101,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
+            "id": 10031004,
+            "text": "Collect 3,000 Signs of Battle to unlock the next Score Battle Quest!",
+            "after_text": "",
+            "after_message_type": 0,
+            "after_title": "",
+            "is_all": 1,
+            "stage_choice_group_id": 10031003,
+            "next_stage_symbol_node_id": 21103101,
+            "next_stage_choice_node_id": 0,
+            "override_node_asset_id": 0
+        },
+        {
             "id": 20078010,
             "text": "Offer a stone.",
             "after_text": "",
