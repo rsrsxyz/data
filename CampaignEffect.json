@@ -21751,6 +21751,30 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7547,
+            "ribbon": "Dreamy Bubbles Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013951
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7548,
+            "ribbon": "",
+            "campaign_type": 10,
+            "rate": 1.5,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7549,
             "ribbon": "Reforged Bonds BOX Surprises Ticket Drops!",
             "campaign_type": 5,
@@ -21790,6 +21814,19 @@
             "daily_clear_limit": 0
         },
         {
+            "id": 7557,
+            "ribbon": "Reforged Bonds Coin (Green) Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013968
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
             "id": 7558,
             "ribbon": "Let's Go, Frontline! Super Support Coin Drops!",
             "campaign_type": 5,
@@ -21824,6 +21861,32 @@
             "reward_id": 0,
             "drop_group_ids": [
                 21013972
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7562,
+            "ribbon": "EXP Stamp Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013983
+            ],
+            "stage_gacha_boxes": [],
+            "daily_clear_limit": 0
+        },
+        {
+            "id": 7571,
+            "ribbon": "[Bonds Records] EXP Stamp Drops!",
+            "campaign_type": 5,
+            "rate": 0.0,
+            "reward_type": 0,
+            "reward_id": 0,
+            "drop_group_ids": [
+                21013988
             ],
             "stage_gacha_boxes": [],
             "daily_clear_limit": 0

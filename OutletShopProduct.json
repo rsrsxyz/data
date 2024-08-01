@@ -23596,6 +23596,30 @@
             "is_bulk_exchange": 1
         },
         {
+            "id": 101050,
+            "name": "Jester Dress",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3002,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 30230065,
+            "rewards": [
+                {
+                    "type": 16,
+                    "id": 204502000,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
             "id": 101051,
             "name": "Promotion Certificate III",
             "description": "",
@@ -23616,6 +23640,30 @@
             ],
             "is_only_not_owned": 0,
             "only_not_owned_possible_count": 0,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101052,
+            "name": "Over Acceleration",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 5,
+            "outlet_shop_tab_id": 5001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 50010440,
+            "rewards": [
+                {
+                    "type": 19,
+                    "id": 1058,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
             "outlet_shop_product_stack_id": 0,
             "is_bulk_exchange": 1
         },
@@ -23683,6 +23731,54 @@
                 {
                     "type": 18,
                     "id": 409523000,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101057,
+            "name": "Eagle Wings",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 5,
+            "outlet_shop_tab_id": 5001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 50010445,
+            "rewards": [
+                {
+                    "type": 19,
+                    "id": 1059,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101058,
+            "name": "Violet Dress",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3002,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1000,
+            "priority": 30230070,
+            "rewards": [
+                {
+                    "type": 16,
+                    "id": 204502100,
                     "quantity": 1
                 }
             ],

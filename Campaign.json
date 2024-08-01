@@ -39419,6 +39419,60 @@
             "excluded_quest_group_ids": []
         },
         {
+            "id": 7685,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10010
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7547
+            ],
+            "start_at": 1722560400,
+            "end_at": 1723769999,
+            "priority": 800006,
+            "flavor_text": "Dreamy Bubbles Drops in Bonds Records",
+            "detail": "・Dreamy Bubbles drops in Bonds Records",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7686,
+            "displays_campaign": 0,
+            "quest_category": 0,
+            "area_ids": [],
+            "stage_ids": [],
+            "quest_ids": [
+                1130001,
+                1130002,
+                1130003,
+                1130004,
+                1130005,
+                1130006,
+                1130007,
+                1130008,
+                1130009,
+                1130010,
+                1130011
+            ],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7548
+            ],
+            "start_at": 1722560400,
+            "end_at": 1893373199,
+            "priority": 0,
+            "flavor_text": "",
+            "detail": "",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
             "id": 7687,
             "displays_campaign": 1,
             "quest_category": 0,
@@ -39458,6 +39512,28 @@
             "priority": 800003,
             "flavor_text": "Limited-Supply Sign of Battle Drops in Bonds Records",
             "detail": "・Limited-supply Sign of Battle drops in Bonds Records",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7717,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10010
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7557
+            ],
+            "start_at": 1722560400,
+            "end_at": 1723769999,
+            "priority": 800005,
+            "flavor_text": "Reforged Bonds Coin (Green) Drops in Bonds Records",
+            "detail": "・Reforged Bonds Coin (Green) drops in Bonds Records",
             "featured_start_at": 0,
             "featured_end_at": 0,
             "excluded_quest_group_ids": []
@@ -39533,6 +39609,29 @@
             "priority": 300045,
             "flavor_text": "Combat Power Support Chest Drop Campaign",
             "detail": "・Combat Power Support Chest has a chance to drop in Free Quests",
+            "featured_start_at": 0,
+            "featured_end_at": 0,
+            "excluded_quest_group_ids": []
+        },
+        {
+            "id": 7723,
+            "displays_campaign": 1,
+            "quest_category": 0,
+            "area_ids": [
+                10010
+            ],
+            "stage_ids": [],
+            "quest_ids": [],
+            "expedition_ids": [],
+            "campaign_effect_ids": [
+                7571,
+                7562
+            ],
+            "start_at": 1722560400,
+            "end_at": 1723165199,
+            "priority": 300011,
+            "flavor_text": "EXP Stamp Drops Campaign",
+            "detail": "・[Bonds Records] EXP Stamp (Stage Lv) drops in Bonds Records<br>・EXP Stamp (Stage Lv) drops in Bonds Records",
             "featured_start_at": 0,
             "featured_end_at": 0,
             "excluded_quest_group_ids": []

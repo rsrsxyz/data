@@ -1397,6 +1397,83 @@
             "quest_bg_id": 0
         },
         {
+            "id": 10030001,
+            "name": "Innate Stars",
+            "stage_id": 19910030,
+            "floor": 1,
+            "bg_id": 0,
+            "battle_bg_id": 700000114,
+            "bgm_id": 120107,
+            "node_asset_theme": 1,
+            "quest_bg_id": 0
+        },
+        {
+            "id": 10030002,
+            "name": "Confrontation",
+            "stage_id": 19910030,
+            "floor": 2,
+            "bg_id": 0,
+            "battle_bg_id": 700000117,
+            "bgm_id": 120107,
+            "node_asset_theme": 1,
+            "quest_bg_id": 0
+        },
+        {
+            "id": 10030003,
+            "name": "Strife",
+            "stage_id": 19910030,
+            "floor": 3,
+            "bg_id": 0,
+            "battle_bg_id": 700000117,
+            "bgm_id": 120107,
+            "node_asset_theme": 1,
+            "quest_bg_id": 0
+        },
+        {
+            "id": 10030004,
+            "name": "Illusion",
+            "stage_id": 19910030,
+            "floor": 4,
+            "bg_id": 0,
+            "battle_bg_id": 700000116,
+            "bgm_id": 130463,
+            "node_asset_theme": 1,
+            "quest_bg_id": 0
+        },
+        {
+            "id": 10030005,
+            "name": "Metamorphosis",
+            "stage_id": 19910030,
+            "floor": 5,
+            "bg_id": 0,
+            "battle_bg_id": 700000118,
+            "bgm_id": 130463,
+            "node_asset_theme": 1,
+            "quest_bg_id": 0
+        },
+        {
+            "id": 10030006,
+            "name": "Oppression",
+            "stage_id": 19910030,
+            "floor": 6,
+            "bg_id": 0,
+            "battle_bg_id": 700000118,
+            "bgm_id": 130463,
+            "node_asset_theme": 1,
+            "quest_bg_id": 0
+        },
+        {
+            "id": 10030007,
+            "name": "Final Battle",
+            "stage_id": 19910030,
+            "floor": 7,
+            "bg_id": 0,
+            "battle_bg_id": 700000119,
+            "bgm_id": 130463,
+            "node_asset_theme": 1,
+            "quest_bg_id": 0
+        },
+        {
             "id": 10031001,
             "name": "",
             "stage_id": 19910031,
@@ -1417,6 +1494,17 @@
             "bgm_id": 120338,
             "node_asset_theme": 2,
             "quest_bg_id": 700000199
+        },
+        {
+            "id": 10033001,
+            "name": "",
+            "stage_id": 19910033,
+            "floor": 1,
+            "bg_id": 100052,
+            "battle_bg_id": 0,
+            "bgm_id": 130127,
+            "node_asset_theme": 2,
+            "quest_bg_id": 0
         },
         {
             "id": 20026001,

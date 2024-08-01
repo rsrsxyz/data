@@ -24599,7 +24599,7 @@
         {
             "id": 702102948,
             "name": "Limited Voltage",
-            "flavor_text": "Weak attacks' damage increases (super extreme effect).<br>Weak attacks' damage increases (super extreme effect).<br><br>[End of turn]<br>Activates the following (Max times: 3 times per battle):<br>・Recovers own BP (+5).<br>・Grants oneself <special_effect=800000169>Heat Down</special_effect> (small effect).",
+            "flavor_text": "Attacks' damage increases (super extreme effect).<br>Weak attacks' damage increases (super extreme effect).<br><br>[End of turn]<br>Activates the following (Max times: 3 times per battle):<br>・Recovers own BP (+5).<br>・Grants oneself <special_effect=800000169>Heat Down</special_effect> (small effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802041182,
@@ -27443,7 +27443,7 @@
         {
             "id": 702103191,
             "name": "Feast of Fear",
-            "flavor_text": "[Start of battle]<br>Recovers own BP (+1).<br>Grants all enemies <special_effect=800000601>Sacrificial Fear</special_effect> (Effect: permanent in battle).<br><br>[When landing an attack]<br>Grants the target <special_effect=800000602>Sacrificial Fear (1x)</special_effect> (3 turn(s)).<br>Recovers own BP (+1).<br><br>[When landing an attack with Suppression Hit]<br>Grants the target <special_effect=800000629>Sacrificial Fear (2x)</special_effect> (3 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500572>Hell Scratch</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by Abilities and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+1).<br>Grants all enemies <special_effect=800000601>Sacrificial Fear</special_effect> (Effect: permanent in battle).<br><br>[When landing an attack]<br>Grants the target <special_effect=800000602>Sacrificial Fear (1x)</special_effect> (3 turn(s)).<br>Recovers own BP (+1).<br><br>[When landing an attack with Suppression Hit]<br>Grants the target <special_effect=800000629>Sacrificial Fear (2x)</special_effect> (3 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500572>Hell Scratch</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040323,
@@ -50901,7 +50901,7 @@
         {
             "id": 708300541,
             "name": "Harlequin's Charm",
-            "flavor_text": "On certain turns counting from the start of round (Turn 5/every 1 turn after Turn 5)]<br>Grants all surviving enemies <special_effect=800000136>Defense Drop</special_effect> (large effect).<br>Reduces all surviving enemies' END/WIL (extreme effect) and increases own INT (extreme effect).",
+            "flavor_text": "[On certain turns counting from the start of round (Turn 5/every 1 turn after Turn 5)]<br>Grants all surviving enemies <special_effect=800000136>Defense Drop</special_effect> (large effect).<br>Reduces all surviving enemies' END/WIL (extreme effect) and increases own INT (extreme effect).",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808041091,
@@ -81812,6 +81812,177 @@
                 802041830,
                 802043635,
                 802044496
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100766,
+            "name": "Harlequin of Destruction",
+            "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000075>Action Order Up</special_effect> (extreme effect/1 turn(s)).<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).<br>Puts all other surviving allies into a <special_effect=800000074>stealth</special_effect> stance (small effect/2 turn(s)).<br><br>[When being attacked]<br>Grants oneself <special_effect=800000552>Harlequin of Revenge (1x)</special_effect> (5 turn(s)) (very high chance).<br><br>[When being directly attacked]<br>Reduces damage taken and counterattacks with <skill=125600537>Trick Boxes</skill>.<br>(Activates using spell Rank 1).<br><br>[End of turn]<br>When knocked unconscious, recovers own HP (very large effect).<br>(Will not activate when knocked unconscious by poison damage).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044280,
+                802043635,
+                802044193,
+                1802041212,
+                802044238
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100767,
+            "name": "Harlequin of Destruction: Effect 2",
+            "flavor_text": "[When being attacked]<br>Grants oneself <special_effect=800000552>Harlequin of Revenge (1x)</special_effect> (5 turn(s)) (very high chance).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044191
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100768,
+            "name": "Tricky Circus",
+            "flavor_text": "[When attacking]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br><br>[When being attacked]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802042217,
+                802042220
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100769,
+            "name": "Curtain Rise",
+            "flavor_text": "[Start of battle]<br>Recovers all surviving allies' BP (+1).<br>Fills up all surviving allies' OD gauges.<br>Grants all surviving allies <special_effect=800000158>Over Enhance</special_effect> (super extreme effect).<br><br>[Start of round]<br>Grants all surviving allies <special_effect=800000538>Tricky Circus</special_effect> (10 turn(s)).<br>Grants oneself <special_effect=800000182>Fast Stance</special_effect> (1 turn(s)).<br><br>[On OD attacks]<br>Recovers all surviving allies' BP (+3).<br><br>[End of turn]<br>Increases all surviving allies' OD gauges (small effect).<br>Grants oneself <special_effect=800000381>First Attack Stance (1x)</special_effect> (no turn limit) (very high chance).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041213,
+                802042257,
+                802042258,
+                802044128,
+                802044130,
+                802044132,
+                1802041213
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100770,
+            "name": "Archfiend's Vessel",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br>Grants all surviving allies <special_effect=1800000065>Price of Honor</special_effect> (Effect: permanent in battle).<br>All other surviving allies take recoil damage (10% of their Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.<br><br>[When landing an attack]<br>Recovers all surviving allies' BP (+1).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=125600556>Dark Sword</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040520,
+                1802041214,
+                1802041215,
+                802014316,
+                1802041216,
+                1802041217
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100771,
+            "name": "Recover All Allies' BP on Attack",
+            "flavor_text": "[When landing an attack]<br>Recovers all surviving allies' BP (+1).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041218
+            ],
+            "icon": 4007,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100772,
+            "name": "Sweet Darkness",
+            "flavor_text": "Attacks' damage increases (extreme effect).<br>When landing a Weak attack, damage increases further (super extreme effect).<br>When landing an OD attack, damage increases further (super extreme effect).<br>When landing a spell attack, damage increases further (super extreme effect).<br><br>[Start of battle]<br>Recovers own BP (+1).<br>Grants oneself <special_effect=800000097>Damage Block</special_effect> (3 turn(s)).<br><br>[When landing a heat Weak attack*]<br><skill=125100498>Dark Burn</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[When landing a cold Weak attack*]<br><skill=125200355>Spectacle Portal</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[When landing a shadow Weak attack*]<br><skill=125100500>Dominant Blaze+</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040741,
+                802042732,
+                802042138,
+                802044617,
+                801041598,
+                802040323,
+                802044439
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100773,
+            "name": "Veiled in Darkness",
+            "flavor_text": "[When landing an OD attack*/Weak attack*]<br><skill=125200356>Checkmate</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating a heat OD attack*]<br><skill=125100501>Split Blaze</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating a cold OD attack*]<br><skill=125100502>Odd Circle</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating a shadow OD attack*]<br><skill=125100516>Twilight Fall</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Recovers own BP (+3).<br>Increases own OD gauge (very large effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041219,
+                802043884,
+                802042395
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100774,
+            "name": "Veiled in Darkness: Effect",
+            "flavor_text": "[When landing an OD attack*/Weak attack*]<br><skill=125200356>Checkmate</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating a heat OD attack*]<br><skill=125100501>Split Blaze</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating a cold OD attack*]<br><skill=125100502>Odd Circle</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating a shadow OD attack*]<br><skill=125100516>Twilight Fall</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041220,
+                802044444,
+                802044445,
+                802044446
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100775,
+            "name": "Determined to Reunite",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br>Grants all surviving allies <special_effect=800000576>Momentum: Skill (1x)</special_effect> (no turn limit).<br>Grants all surviving allies <special_effect=800000577>Momentum: Spell (1x)</special_effect> (no turn limit).<br><br>[When landing a skill attack*]<br>Increases all surviving allies' STR/END/DEX (medium effect).<br>Grants all surviving allies <special_effect=800000080>\"End of Turn: Recover HP\"</special_effect> (very small effect/1 turn(s)).<br><skill=110100549>Nocturnal Chase</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[When landing a spell attack*]<br>Increases all surviving allies' AGI/INT/WIL (medium effect).<br>Grants all surviving allies <special_effect=800000624>\"End of Turn: OD Gauge Up (v. small)\"</special_effect> (1 turn(s)).<br><skill=125100504>Flamma Nix</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040520,
+                802044343,
+                802044344,
+                1802041221
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100776,
+            "name": "Determined to Reunite: Effect",
+            "flavor_text": "[When landing a skill attack*]<br>Increases all surviving allies' STR/END/DEX (medium effect).<br>Grants all surviving allies <special_effect=800000080>\"End of Turn: Recover HP\"</special_effect> (very small effect/1 turn(s)).<br><skill=110100549>Nocturnal Chase</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[When landing a spell attack*]<br>Increases all surviving allies' AGI/INT/WIL (medium effect).<br>Grants all surviving allies <special_effect=800000624>\"End of Turn: OD Gauge Up (v. small)\"</special_effect> (1 turn(s)).<br><skill=125100504>Flamma Nix</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041222,
+                1802041223,
+                1802041224,
+                1802041225,
+                802044348,
+                1802041226,
+                1802041227,
+                1802041228,
+                1802041229,
+                802044493
             ],
             "icon": 4010,
             "rarity": 0,

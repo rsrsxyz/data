@@ -6609,6 +6609,42 @@
             "priority": 554,
             "featured_start_at": 0,
             "featured_end_at": 0
+        },
+        {
+            "id": 1000000779,
+            "event_ability_category_id": 1000000530,
+            "name": "SaGa THE STAGE Reforged Bonds Round 3 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Dreamy Bubbles/Reforged Bonds Coin (Green) drops in Bonds Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 555,
+            "featured_start_at": 0,
+            "featured_end_at": 0
+        },
+        {
+            "id": 1000000780,
+            "event_ability_category_id": 1000000531,
+            "name": "SaGa THE STAGE Reforged Bonds Round 3 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains and 3x skill/spell rank up amount in Free Quests<br>・Bonus Dreamy Bubbles/Reforged Bonds Coin (Green) drops in Bonds Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 556,
+            "featured_start_at": 0,
+            "featured_end_at": 0
+        },
+        {
+            "id": 1000000781,
+            "event_ability_category_id": 1000000532,
+            "name": "SaGa THE STAGE Reforged Bonds Round 3 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains and 3x skill/spell rank up amount in Free Quests<br>・Bonus Dreamy Bubbles/Reforged Bonds Coin (Green) drops in Bonds Records<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 557,
+            "featured_start_at": 0,
+            "featured_end_at": 0
         }
     ]
 }

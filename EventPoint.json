@@ -2772,6 +2772,17 @@
             "selling_price": 0
         },
         {
+            "id": 800340,
+            "name": "Romancing Festival Medal 184",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800404,
+            "max_quantity": 99999999,
+            "expired_at": 1724979599,
+            "sort_order": 24080170,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 800343,
             "name": "Romancing Festival Medal 181",
             "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -2801,6 +2812,17 @@
             "max_quantity": 99999999,
             "expired_at": 1724374799,
             "sort_order": 24072570,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 800348,
+            "name": "Romancing Festival Medal 185",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800412,
+            "max_quantity": 99999999,
+            "expired_at": 1724979599,
+            "sort_order": 24080180,
             "stage_gacha_point_id": 0,
             "selling_price": 0
         },
@@ -9658,6 +9680,17 @@
             "selling_price": 0
         },
         {
+            "id": 1100965,
+            "name": "Dreamy Bubbles",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100965,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24080110,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 1100966,
             "name": "Reforged Bonds Coin (Red)",
             "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -9676,6 +9709,17 @@
             "max_quantity": 99999999,
             "expired_at": 1724374799,
             "sort_order": 24072515,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 1100968,
+            "name": "Reforged Bonds Coin (Green)",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100968,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24080105,
             "stage_gacha_point_id": 0,
             "selling_price": 0
         },

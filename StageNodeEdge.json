@@ -4246,6 +4246,28 @@
             "joint_asset_id": 10001
         },
         {
+            "id": 100300101,
+            "stage_floor_id": 10030001,
+            "from_node_id": 10030002,
+            "from_edge_joint_id": 0,
+            "to_node_id": 10030003,
+            "joint_x": 0,
+            "joint_y": 0,
+            "edge_asset_id": 10001,
+            "joint_asset_id": 10001
+        },
+        {
+            "id": 100300102,
+            "stage_floor_id": 10030001,
+            "from_node_id": 10030003,
+            "from_edge_joint_id": 0,
+            "to_node_id": 10030001,
+            "joint_x": 0,
+            "joint_y": 0,
+            "edge_asset_id": 10001,
+            "joint_asset_id": 10001
+        },
+        {
             "id": 200260101,
             "stage_floor_id": 20026001,
             "from_node_id": 20026001,
