@@ -2838,6 +2838,28 @@
             "selling_price": 0
         },
         {
+            "id": 800351,
+            "name": "Romancing Festival Medal 186",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800414,
+            "max_quantity": 99999999,
+            "expired_at": 1725584399,
+            "sort_order": 24080880,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
+            "id": 800352,
+            "name": "Romancing Festival Medal 187",
+            "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+            "icon": 800415,
+            "max_quantity": 99999999,
+            "expired_at": 1725584399,
+            "sort_order": 24080875,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 860001,
             "name": "White Crystal",
             "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -9746,6 +9768,17 @@
             "selling_price": 0
         },
         {
+            "id": 1100971,
+            "name": "Eerie Sheet Music",
+            "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+            "icon": 1100971,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24080850,
+            "stage_gacha_point_id": 0,
+            "selling_price": 0
+        },
+        {
             "id": 1200001,
             "name": "Yellowstone Tribute [Fighter Records]",
             "flavor_text": "Item used in Fighter Records.",
@@ -10348,6 +10381,72 @@
             "expired_at": 0,
             "sort_order": 24071835,
             "stage_gacha_point_id": 10009,
+            "selling_price": 0
+        },
+        {
+            "id": 1200059,
+            "name": "Old Key [Dawn Records]",
+            "flavor_text": "Item used in Dawn Records.",
+            "icon": 1200042,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24080870,
+            "stage_gacha_point_id": 10010,
+            "selling_price": 0
+        },
+        {
+            "id": 1200062,
+            "name": "Pickaxe [Dawn Records]",
+            "flavor_text": "Item used in Dawn Records.",
+            "icon": 1200030,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24080860,
+            "stage_gacha_point_id": 10010,
+            "selling_price": 0
+        },
+        {
+            "id": 1200063,
+            "name": "Fresh Fish [Dawn Records]",
+            "flavor_text": "Item used in Dawn Records.",
+            "icon": 1200063,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24080855,
+            "stage_gacha_point_id": 10010,
+            "selling_price": 0
+        },
+        {
+            "id": 1200064,
+            "name": "Proof of Beast Extermination I [Dawn Records]",
+            "flavor_text": "Item used in Dawn Records.",
+            "icon": 1200064,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24080853,
+            "stage_gacha_point_id": 10010,
+            "selling_price": 0
+        },
+        {
+            "id": 1200065,
+            "name": "Proof of Beast Extermination II [Dawn Records]",
+            "flavor_text": "Item used in Dawn Records.",
+            "icon": 1200064,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24080852,
+            "stage_gacha_point_id": 10010,
+            "selling_price": 0
+        },
+        {
+            "id": 1200066,
+            "name": "Proof of Beast Extermination III [Dawn Records]",
+            "flavor_text": "Item used in Dawn Records.",
+            "icon": 1200064,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 24080851,
+            "stage_gacha_point_id": 10010,
             "selling_price": 0
         },
         {

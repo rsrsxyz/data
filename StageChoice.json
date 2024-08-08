@@ -2759,6 +2759,19 @@
             "next_stage_choice_node_id": 0
         },
         {
+            "id": 10034001,
+            "stage_choice_group_id": 10034001,
+            "after_text": "Consonant sounds echo throughout. A beautiful reverb.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Try to play it.",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
             "id": 20078001,
             "stage_choice_group_id": 20078001,
             "after_text": "A new path has opened.",
@@ -3802,6 +3815,172 @@
             ],
             "displays_reward": 0,
             "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20255001,
+            "stage_choice_group_id": 20255001,
+            "after_text": "The door opened! You are able to proceed now.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the key.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200059,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20259001,
+            "stage_choice_group_id": 20259001,
+            "after_text": "The moment you drank it, bitterness, sweetness, and spiciness all hit you at once! You passed out...",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Drink it.",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20260001,
+            "stage_choice_group_id": 20260001,
+            "after_text": "",
+            "message_type": 0,
+            "title": "",
+            "button_text": "Jump into the river!",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20263001,
+            "stage_choice_group_id": 20264001,
+            "after_text": "There's a hole under the rock! Where does it lead to?",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Use the pickaxe.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200062,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20265001,
+            "stage_choice_group_id": 20265001,
+            "after_text": "It seems to want to take you somewhere.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Give it fish.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200063,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20265002,
+            "stage_choice_group_id": 20265001,
+            "after_text": "It seems to want to take you somewhere.",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Stare at it.",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20267001,
+            "stage_choice_group_id": 20267001,
+            "after_text": "Thank you for exterminating them!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Hand over Proof of Extermination I.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200064,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20267002,
+            "stage_choice_group_id": 20267001,
+            "after_text": "Thank you for exterminating them!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Hand over Proof of Extermination II.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200065,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20267003,
+            "stage_choice_group_id": 20267001,
+            "after_text": "Thank you for exterminating them!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Hand over Proof of Extermination III.",
+            "required_items": [
+                {
+                    "currency": 4,
+                    "id": 1200066,
+                    "price": 1
+                }
+            ],
+            "displays_reward": 0,
+            "reward_set_id": 0,
+            "next_stage_symbol_node_id": 0,
+            "next_stage_choice_node_id": 0
+        },
+        {
+            "id": 20271001,
+            "stage_choice_group_id": 20271001,
+            "after_text": "...Fresh fish!",
+            "message_type": 1,
+            "title": "",
+            "button_text": "Go fishing.",
+            "required_items": [],
+            "displays_reward": 0,
+            "reward_set_id": 100221,
             "next_stage_symbol_node_id": 0,
             "next_stage_choice_node_id": 0
         },

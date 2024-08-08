@@ -99,6 +99,15 @@
             "max_quantity": 99999999,
             "expired_at": 0,
             "sort_order": 39990045
+        },
+        {
+            "id": 10010,
+            "name": "[Dawn Records] Exploration Point",
+            "flavor_text": "Item required for Open Chests in Dawn Records.",
+            "icon": 10011,
+            "max_quantity": 99999999,
+            "expired_at": 0,
+            "sort_order": 39990050
         }
     ]
 }

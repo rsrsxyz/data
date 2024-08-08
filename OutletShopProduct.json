@@ -23836,6 +23836,102 @@
             "is_bulk_exchange": 1
         },
         {
+            "id": 101061,
+            "name": "[Dawn Records] Exploration Point (Gold Chest Gtd.)",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 1,
+            "outlet_shop_tab_id": 1004,
+            "outlet_shop_product_group_id": 10045,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 40000,
+            "priority": 10465025,
+            "rewards": [
+                {
+                    "type": 40,
+                    "id": 1300006,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 0,
+            "only_not_owned_possible_count": 0,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101062,
+            "name": "[Dawn Records] Exploration Point",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 1,
+            "outlet_shop_tab_id": 1004,
+            "outlet_shop_product_group_id": 10045,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 750,
+            "priority": 10460070,
+            "rewards": [
+                {
+                    "type": 37,
+                    "id": 10010,
+                    "quantity": 1000
+                }
+            ],
+            "is_only_not_owned": 0,
+            "only_not_owned_possible_count": 0,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101063,
+            "name": "SS Peg Style",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 2,
+            "outlet_shop_tab_id": 2001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 2000,
+            "priority": 20130435,
+            "rewards": [
+                {
+                    "type": 14,
+                    "id": 323702,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
+            "id": 101064,
+            "name": "Flame Thorn",
+            "description": "",
+            "icon": 0,
+            "outlet_shop_category": 3,
+            "outlet_shop_tab_id": 3001,
+            "outlet_shop_product_group_id": 0,
+            "currency": 4,
+            "currency_item_id": 860015,
+            "price": 1500,
+            "priority": 30139050,
+            "rewards": [
+                {
+                    "type": 15,
+                    "id": 101511400,
+                    "quantity": 1
+                }
+            ],
+            "is_only_not_owned": 1,
+            "only_not_owned_possible_count": 1,
+            "outlet_shop_product_stack_id": 0,
+            "is_bulk_exchange": 1
+        },
+        {
             "id": 1001020,
             "name": "Saintly Veil",
             "description": "",

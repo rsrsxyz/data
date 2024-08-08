@@ -2526,6 +2526,86 @@
             "help_id": 0,
             "start_at": 1722560400,
             "end_at": 1723165199
+        },
+        {
+            "id": 1000234,
+            "name": "Eerie Shadows & Echoing Dissonance",
+            "priority": 1000234,
+            "is_notify": 1,
+            "is_all": 0,
+            "area_ids": [],
+            "stage_ids": [
+                19910034
+            ],
+            "event_mission_tab_id": 449,
+            "currency": 4,
+            "currency_id": 1100971,
+            "shop_id": 4900692,
+            "panel_shop_id": 0,
+            "event_box_gacha_id": 0,
+            "help_id": 1018,
+            "start_at": 1723165200,
+            "end_at": 1724374799
+        },
+        {
+            "id": 1000235,
+            "name": "Eerie Shadows & Echoing Dissonance Exchange",
+            "priority": 1000235,
+            "is_notify": 0,
+            "is_all": 0,
+            "area_ids": [],
+            "stage_ids": [
+                19910034
+            ],
+            "event_mission_tab_id": 0,
+            "currency": 4,
+            "currency_id": 1100971,
+            "shop_id": 4900692,
+            "panel_shop_id": 0,
+            "event_box_gacha_id": 0,
+            "help_id": 1018,
+            "start_at": 1724374800,
+            "end_at": 1725584399
+        },
+        {
+            "id": 1000246,
+            "name": "Eerie Shadows & Echoing Dissonance (Dawn Records)",
+            "priority": 1000246,
+            "is_notify": 0,
+            "is_all": 0,
+            "area_ids": [],
+            "stage_ids": [
+                19920255,
+                19920256,
+                19920257,
+                19920258,
+                19920259,
+                19920260,
+                19920261,
+                19920262,
+                19920263,
+                19920264,
+                19920265,
+                19920266,
+                19920267,
+                19920268,
+                19920269,
+                19920270,
+                19920271,
+                19920272,
+                19920273,
+                19920274,
+                19930025
+            ],
+            "event_mission_tab_id": 449,
+            "currency": 4,
+            "currency_id": 1100971,
+            "shop_id": 4900692,
+            "panel_shop_id": 0,
+            "event_box_gacha_id": 0,
+            "help_id": 0,
+            "start_at": 1723165200,
+            "end_at": 1723769999
         }
     ]
 }

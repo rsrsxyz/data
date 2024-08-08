@@ -6645,6 +6645,42 @@
             "priority": 557,
             "featured_start_at": 0,
             "featured_end_at": 0
+        },
+        {
+            "id": 1000000782,
+            "event_ability_category_id": 1000000533,
+            "name": "Morning Shines! Hot Summer Party Round 1 I",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・3x attribute gains in Free Quests<br>・Bonus Eerie Sheet Music drops in Dawn Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 558,
+            "featured_start_at": 0,
+            "featured_end_at": 0
+        },
+        {
+            "id": 1000000783,
+            "event_ability_category_id": 1000000534,
+            "name": "Morning Shines! Hot Summer Party Round 1 II",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains and 3x skill/spell rank up amount in Free Quests<br>・Bonus Eerie Sheet Music drops in Dawn Records",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 559,
+            "featured_start_at": 0,
+            "featured_end_at": 0
+        },
+        {
+            "id": 1000000784,
+            "event_ability_category_id": 1000000535,
+            "name": "Morning Shines! Hot Summer Party Round 1 III",
+            "prefix": "[Ltd. Time] ",
+            "flavor_text": "・5x attribute gains and 3x skill/spell rank up amount in Free Quests<br>・Bonus Eerie Sheet Music drops in Dawn Records<br>・2x Stage Lv EXP gains in Free Quests",
+            "icon": 4010,
+            "applies_to_all_styles": 0,
+            "priority": 560,
+            "featured_start_at": 0,
+            "featured_end_at": 0
         }
     ]
 }

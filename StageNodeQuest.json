@@ -7855,6 +7855,522 @@
             "initial_grindable": 0
         },
         {
+            "id": 1134001,
+            "name": "Floor 1 Entrance-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200143101,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1134002,
+            "name": "Floor 1 Entrance-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200143051,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1134003,
+            "name": "Floor 1 Entrance-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200143011,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1134005,
+            "name": "Outer Bailey-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200143061,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1134006,
+            "name": "Outer Bailey-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200143071,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 6,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1134007,
+            "name": "Floor 3 Lich's Corridor-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200143101,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 7,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1134008,
+            "name": "Floor 3 Lich's Corridor-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200143081,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 8,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1134009,
+            "name": "Floor 3 Lich's Corridor-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200143115,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 9,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1134010,
+            "name": "Floor 2 Crystal Chamber-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200143101,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 10,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1134011,
+            "name": "Floor 2 Crystal Chamber-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200143041,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 11,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1134012,
+            "name": "Floor 4 Study-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200143101,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 12,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 1134015,
+            "name": "Floor 4 Study-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 200143091,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 15,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
             "id": 2000001,
             "name": "Chronicler of Heroes",
             "growth_count": 1,
@@ -64963,6 +65479,5056 @@
             "initial_grindable": 0
         },
         {
+            "id": 12110101,
+            "name": "Illuminated Ruins-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20406104,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061061,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110102,
+            "name": "Illuminated Ruins-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20704103,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061041,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110103,
+            "name": "Illuminated Ruins-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061051,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110104,
+            "name": "Illuminated Ruins-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20708901,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061041,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110105,
+            "name": "Illuminated Ruins-5",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20406004,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061061,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110106,
+            "name": "Illuminated Ruins-6",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061051,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 7,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110107,
+            "name": "Illuminated Ruins-6 (Challenge)",
+            "growth_count": 2,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061221,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 6,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110108,
+            "name": "Illuminated Ruins-7",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20704103,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061041,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 8,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110201,
+            "name": "Flock Habitat-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20708701,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061121,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110202,
+            "name": "Flock Habitat-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061431,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110203,
+            "name": "Flock Habitat-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20708801,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061111,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110204,
+            "name": "Flock Habitat-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061121,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110205,
+            "name": "Flock Habitat-5",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20701204,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061111,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110206,
+            "name": "Flock Habitat-6",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20708701,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061121,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 6,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110207,
+            "name": "Flock Habitat-7",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061431,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 8,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110208,
+            "name": "Flock Habitat-7 (Challenge)",
+            "growth_count": 2,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061251,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 7,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110301,
+            "name": "Magnificent Mansion-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21204803,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061091,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110302,
+            "name": "Magnificent Mansion-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20508401,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061071,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110303,
+            "name": "Magnificent Mansion-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20502405,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061081,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110304,
+            "name": "Magnificent Mansion-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061091,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110305,
+            "name": "Magnificent Mansion-4 (Challenge)",
+            "growth_count": 2,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061231,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110306,
+            "name": "Magnificent Mansion-5",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20502405,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061081,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 6,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110401,
+            "name": "Desert Defense Battle-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061371,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110402,
+            "name": "Desert Defense Battle-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061351,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110403,
+            "name": "Desert Defense Battle-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061361,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110404,
+            "name": "Desert Defense Battle-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061371,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110405,
+            "name": "Desert Defense Battle-5",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061361,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110406,
+            "name": "Desert Defense Battle-6",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061351,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 6,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110407,
+            "name": "Desert Defense Battle-7",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061371,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 7,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110408,
+            "name": "Desert Defense Battle-8",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061201,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 8,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110501,
+            "name": "Plot in the Dark-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21506501,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061171,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110502,
+            "name": "Plot in the Dark-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21503404,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061161,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110503,
+            "name": "Plot in the Dark-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20110604,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061341,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110504,
+            "name": "Plot in the Dark-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061321,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110505,
+            "name": "Plot in the Dark-5",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061331,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110506,
+            "name": "Plot in the Dark-6",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061411,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 7,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110507,
+            "name": "Plot in the Dark-6 (Challenge)",
+            "growth_count": 2,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061191,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 6,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110601,
+            "name": "Journey of the Stream-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20701204,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061111,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110602,
+            "name": "Journey of the Stream-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20708901,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061101,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110603,
+            "name": "Journey of the Stream-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20701103,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061111,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110604,
+            "name": "Journey of the Stream-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061121,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110605,
+            "name": "Journey of the Stream-4 (Challenge)",
+            "growth_count": 2,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061261,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110701,
+            "name": "Fierce Siege-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21202304,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061151,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110702,
+            "name": "Fierce Siege-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21503404,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061131,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110703,
+            "name": "Fierce Siege-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061141,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110704,
+            "name": "Fierce Siege-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21204507,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061141,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110705,
+            "name": "Fierce Siege-5",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061151,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110706,
+            "name": "Fierce Siege-6",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21503404,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061131,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 6,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110707,
+            "name": "Fierce Siege-7",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21202304,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061151,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 7,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110708,
+            "name": "Fierce Siege-8",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061141,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 9,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110709,
+            "name": "Fierce Siege-8 (Challenge)",
+            "growth_count": 2,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061241,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 8,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110801,
+            "name": "City of Rampaging Corpses-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061031,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110802,
+            "name": "City of Rampaging Corpses-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061031,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110803,
+            "name": "City of Rampaging Corpses-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061441,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110804,
+            "name": "City of Rampaging Corpses-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20605708,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061011,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110805,
+            "name": "City of Rampaging Corpses-5",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21204604,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061441,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110806,
+            "name": "City of Rampaging Corpses-6",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21204604,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061031,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 6,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110807,
+            "name": "City of Rampaging Corpses-7",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20607401,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061011,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 7,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110808,
+            "name": "City of Rampaging Corpses-8",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21204803,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061441,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 8,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110809,
+            "name": "City of Rampaging Corpses-9",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061421,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 10,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110810,
+            "name": "City of Rampaging Corpses-9 (Challenge)",
+            "growth_count": 2,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061211,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 9,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110901,
+            "name": "Ruins of Hidden Treasure-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20504803,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061071,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110902,
+            "name": "Ruins of Hidden Treasure-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20502405,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061081,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110903,
+            "name": "Ruins of Hidden Treasure-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061071,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110904,
+            "name": "Ruins of Hidden Treasure-3 (Challenge)",
+            "growth_count": 2,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061271,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110905,
+            "name": "Ruins of Hidden Treasure-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000049,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061311,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110906,
+            "name": "Ruins of Hidden Treasure-5",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061081,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 6,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12110907,
+            "name": "Ruins of Hidden Treasure-6",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061091,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 7,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111001,
+            "name": "Hidden Path-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21204803,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061031,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111002,
+            "name": "Hidden Path-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20607401,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061011,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111003,
+            "name": "Hidden Path-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061021,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111004,
+            "name": "Hidden Path-3 (Challenge)",
+            "growth_count": 2,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061281,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111005,
+            "name": "Hidden Path-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061011,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111006,
+            "name": "Hidden Path-5",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000050,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061311,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 6,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111101,
+            "name": "Peaceful Forest-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21503203,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061131,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111102,
+            "name": "Peaceful Forest-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21202304,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061151,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111103,
+            "name": "Peaceful Forest-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21204507,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061141,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111104,
+            "name": "Peaceful Forest-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061131,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111105,
+            "name": "Peaceful Forest-4 (Challenge)",
+            "growth_count": 2,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061291,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111106,
+            "name": "Peaceful Forest-5",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061131,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 6,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111107,
+            "name": "Peaceful Forest-6",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061141,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 7,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111108,
+            "name": "Peaceful Forest-7",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061151,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 8,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111109,
+            "name": "Peaceful Forest-8",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061151,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 9,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111201,
+            "name": "Burglars' Hideout-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21503303,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061171,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111202,
+            "name": "Burglars' Hideout-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21502505,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061181,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111203,
+            "name": "Burglars' Hideout-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21506501,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061181,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111204,
+            "name": "Burglars' Hideout-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061161,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111205,
+            "name": "Burglars' Hideout-4 (Challenge)",
+            "growth_count": 2,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061301,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111206,
+            "name": "Burglars' Hideout-5",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061341,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 6,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111207,
+            "name": "Burglars' Hideout-6",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061321,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 7,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111208,
+            "name": "Burglars' Hideout-7",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061331,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 8,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111301,
+            "name": "Village Haunted by Monsters-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061311,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111302,
+            "name": "Village Haunted by Monsters-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20607401,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061011,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111303,
+            "name": "Village Haunted by Monsters-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20605308,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061021,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111401,
+            "name": "Scenic Plateau-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20508401,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061071,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111402,
+            "name": "Scenic Plateau-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 21204604,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061091,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111403,
+            "name": "Scenic Plateau-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061081,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111501,
+            "name": "Cave of Challenge-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061121,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111502,
+            "name": "Cave of Challenge-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061111,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111503,
+            "name": "Cave of Challenge-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061101,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111601,
+            "name": "Lush Green Meadow-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20105521,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061391,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111602,
+            "name": "Lush Green Meadow-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20105521,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061401,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111603,
+            "name": "Lush Green Meadow-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061381,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111604,
+            "name": "Lush Green Meadow-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000051,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061311,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111701,
+            "name": "Beautiful Lake-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20607401,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061431,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111702,
+            "name": "Beautiful Lake-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20708601,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061111,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111703,
+            "name": "Beautiful Lake-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061121,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111801,
+            "name": "Thieves' Hideout-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20105521,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061401,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111802,
+            "name": "Thieves' Hideout-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20105521,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061391,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111803,
+            "name": "Thieves' Hideout-3",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20105521,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061381,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111804,
+            "name": "Thieves' Hideout-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061381,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12111901,
+            "name": "Treasure Room-1",
+            "growth_count": 1,
+            "stamina": 0,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_reward_set_id": 0,
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "battle_id": 210027011,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 0,
+            "is_event_ability_target": 0,
+            "is_adventurer_rank_drop_enabled": 0,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12112001,
+            "name": "Blistering Wasteland-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20402603,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061061,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12112002,
+            "name": "Blistering Wasteland-2",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061051,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 2,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12112003,
+            "name": "Blistering Wasteland-3",
+            "growth_count": 1,
+            "stamina": 0,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 2,
+            "typical_rewards": [],
+            "first_reward_set_id": 0,
+            "drop_group_ids": [],
+            "enemy_drop_ids": [],
+            "battle_id": 210060066,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 3,
+            "is_campaign_target": 0,
+            "is_event_ability_target": 0,
+            "is_adventurer_rank_drop_enabled": 0,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12112004,
+            "name": "Blistering Wasteland-4",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061041,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 4,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12112005,
+            "name": "Blistering Wasteland-5",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 20402603,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061051,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 5,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 12112006,
+            "name": "Blistering Wasteland-6",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061061,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 6,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
             "id": 13000101,
             "name": "Ruins: Hidden Hall-1",
             "growth_count": 1,
@@ -65806,6 +71372,49 @@
             ],
             "enemy_drop_ids": [],
             "battle_id": 210019221,
+            "max_turn": 0,
+            "is_guaranteed_growth": 0,
+            "twitter_button_id": 0,
+            "max_grind_count": 0,
+            "before_scenarios": [],
+            "after_scenarios": [],
+            "clear_limit": 0,
+            "sort_order": 1,
+            "is_campaign_target": 1,
+            "is_event_ability_target": 1,
+            "is_adventurer_rank_drop_enabled": 1,
+            "continuous_quest_id": 0,
+            "displays_enemy_information": 1,
+            "typical_formation_id": 0,
+            "initial_grindable": 0
+        },
+        {
+            "id": 13110101,
+            "name": "Where Time Stands Still-1",
+            "growth_count": 1,
+            "stamina": 5,
+            "quest_ticket_id": 0,
+            "quest_ticket_quantity": 0,
+            "typical_enemy_ids": [],
+            "node_enemy_id": 0,
+            "typical_rewards_category": 1,
+            "typical_rewards": [
+                {
+                    "type": 37,
+                    "id": 10010
+                },
+                {
+                    "type": 7,
+                    "id": 860015
+                }
+            ],
+            "first_reward_set_id": 3000052,
+            "drop_group_ids": [
+                500110001,
+                500000002
+            ],
+            "enemy_drop_ids": [],
+            "battle_id": 210061431,
             "max_turn": 0,
             "is_guaranteed_growth": 0,
             "twitter_button_id": 0,

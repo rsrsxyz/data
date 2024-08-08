@@ -7395,6 +7395,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 320113,
+            "name": "SS Gustave Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'm Starting to Have Fun] Gustave.",
+            "icon": 320113,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 320201,
             "name": "SS Wil Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Tycoon in His Youth] Wil. ",
@@ -7451,6 +7459,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 320212,
+            "name": "SS Wil Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Only My Body Has Aged] Wil.",
+            "icon": 320212,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 320301,
             "name": "A Rich Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of A [I'm \"Rich\" in Name Only] Rich. ",
@@ -7487,6 +7503,14 @@
             "name": "SS Rich Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Can't Let You Go Outside] Rich.",
             "icon": 320305,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 320306,
+            "name": "SS Rich Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Out of My Way] Rich.",
+            "icon": 320306,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -7535,6 +7559,14 @@
             "name": "SS Ginny Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Buying Souvenirs Is Fun] Ginny.",
             "icon": 320408,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 320409,
+            "name": "SS Ginny Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Fulfilling My Dreams] Ginny.",
+            "icon": 320409,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -7683,6 +7715,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 321607,
+            "name": "SS Johan Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Three for Starters] Johan.",
+            "icon": 321607,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 321702,
             "name": "SS Ventarbre Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Master Cielmer's Teachings] Ventarbre.",
@@ -7767,6 +7807,14 @@
             "name": "SS Cordelia Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Welcome to My Mansion] Cordelia.",
             "icon": 322109,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
+            "id": 322111,
+            "name": "SS Cordelia Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Anima in a Strange Land] Cordelia.",
+            "icon": 322111,
             "selling_price": 100,
             "exchange_cost": 250
         },
@@ -7947,6 +7995,14 @@
             "exchange_cost": 250
         },
         {
+            "id": 323405,
+            "name": "SS Gustaf Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [If I Could Dual Wield] Gustaf.",
+            "icon": 323405,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 323501,
             "name": "SS Fake Gustave Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Gather Under My Banner!] Fake Gustave.",
@@ -7995,12 +8051,28 @@
             "exchange_cost": 250
         },
         {
+            "id": 323605,
+            "name": "SS Misty Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Resonating with Ancient Anima] Misty.",
+            "icon": 323605,
+            "selling_price": 100,
+            "exchange_cost": 250
+        },
+        {
             "id": 323701,
             "name": "S Peg Piece",
             "flavor_text": "Can be used to either exchange for or raise the level cap of S [Full-Speed Dash] Peg.",
             "icon": 323701,
             "selling_price": 60,
             "exchange_cost": 150
+        },
+        {
+            "id": 323702,
+            "name": "SS Peg Piece",
+            "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Peg's Woods] Peg.",
+            "icon": 323702,
+            "selling_price": 100,
+            "exchange_cost": 250
         },
         {
             "id": 410101,

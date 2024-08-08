@@ -2021,6 +2021,216 @@
                     "quantity": 500
                 }
             ]
+        },
+        {
+            "id": 101,
+            "level": 101,
+            "exp": 97000,
+            "start_at": 1723165200,
+            "drop_group_ids": [
+                21013948,
+                21013831
+            ],
+            "additional_stamina": 1110,
+            "additional_auto_rematch_count": 555,
+            "damage_up_rate": 420,
+            "level_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 90
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "level": 102,
+            "exp": 97000,
+            "start_at": 1723165200,
+            "drop_group_ids": [
+                21013948,
+                21013831
+            ],
+            "additional_stamina": 1120,
+            "additional_auto_rematch_count": 560,
+            "damage_up_rate": 420,
+            "level_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 90
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "level": 103,
+            "exp": 97000,
+            "start_at": 1723165200,
+            "drop_group_ids": [
+                21013948,
+                21013831
+            ],
+            "additional_stamina": 1130,
+            "additional_auto_rematch_count": 565,
+            "damage_up_rate": 420,
+            "level_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 90
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "level": 104,
+            "exp": 97000,
+            "start_at": 1723165200,
+            "drop_group_ids": [
+                21013948,
+                21013831
+            ],
+            "additional_stamina": 1140,
+            "additional_auto_rematch_count": 570,
+            "damage_up_rate": 420,
+            "level_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 90
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "level": 105,
+            "exp": 97000,
+            "start_at": 1723165200,
+            "drop_group_ids": [
+                21013948,
+                21013831
+            ],
+            "additional_stamina": 1150,
+            "additional_auto_rematch_count": 575,
+            "damage_up_rate": 440,
+            "level_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 90
+                }
+            ]
+        },
+        {
+            "id": 106,
+            "level": 106,
+            "exp": 97000,
+            "start_at": 1723165200,
+            "drop_group_ids": [
+                21013948,
+                21013831
+            ],
+            "additional_stamina": 1160,
+            "additional_auto_rematch_count": 580,
+            "damage_up_rate": 440,
+            "level_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 90
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "level": 107,
+            "exp": 97000,
+            "start_at": 1723165200,
+            "drop_group_ids": [
+                21013948,
+                21013831
+            ],
+            "additional_stamina": 1170,
+            "additional_auto_rematch_count": 585,
+            "damage_up_rate": 440,
+            "level_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 90
+                }
+            ]
+        },
+        {
+            "id": 108,
+            "level": 108,
+            "exp": 97000,
+            "start_at": 1723165200,
+            "drop_group_ids": [
+                21013948,
+                21013831
+            ],
+            "additional_stamina": 1180,
+            "additional_auto_rematch_count": 590,
+            "damage_up_rate": 440,
+            "level_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 90
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "level": 109,
+            "exp": 97000,
+            "start_at": 1723165200,
+            "drop_group_ids": [
+                21013948,
+                21013831
+            ],
+            "additional_stamina": 1190,
+            "additional_auto_rematch_count": 595,
+            "damage_up_rate": 440,
+            "level_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 90
+                }
+            ]
+        },
+        {
+            "id": 110,
+            "level": 110,
+            "exp": 97000,
+            "start_at": 1723165200,
+            "drop_group_ids": [
+                21013971,
+                21013831
+            ],
+            "additional_stamina": 1200,
+            "additional_auto_rematch_count": 600,
+            "damage_up_rate": 460,
+            "level_rewards": [
+                {
+                    "type": 7,
+                    "id": 1100933,
+                    "quantity": 90
+                },
+                {
+                    "type": 7,
+                    "id": 860015,
+                    "quantity": 5000
+                },
+                {
+                    "type": 1,
+                    "id": 100002,
+                    "quantity": 500
+                }
+            ]
         }
     ]
 }

@@ -289,6 +289,34 @@
             "name": "Wooden Chest",
             "stage_gacha_box_type": 1,
             "rate": 3500
+        },
+        {
+            "id": 10045,
+            "stage_gacha_id": 10011,
+            "name": "Gold Chest",
+            "stage_gacha_box_type": 4,
+            "rate": 1500
+        },
+        {
+            "id": 10046,
+            "stage_gacha_id": 10011,
+            "name": "Silver Chest",
+            "stage_gacha_box_type": 3,
+            "rate": 2000
+        },
+        {
+            "id": 10047,
+            "stage_gacha_id": 10011,
+            "name": "Bronze Chest",
+            "stage_gacha_box_type": 2,
+            "rate": 3000
+        },
+        {
+            "id": 10048,
+            "stage_gacha_id": 10011,
+            "name": "Wooden Chest",
+            "stage_gacha_box_type": 1,
+            "rate": 3500
         }
     ]
 }

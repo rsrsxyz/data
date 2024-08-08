@@ -1875,6 +1875,14 @@
             "priority": 10456
         },
         {
+            "id": 449,
+            "name": "Eerie Shadows & Echoing Dissonance",
+            "start_at": 1723165200,
+            "end_at": 1724374799,
+            "is_daily": 0,
+            "priority": 10460
+        },
+        {
             "id": 450,
             "name": "SaGa THE STAGE Reforged Bonds Round 2",
             "start_at": 1721955600,
@@ -2841,6 +2849,14 @@
             "end_at": 1716339599,
             "is_daily": 1,
             "priority": 10446
+        },
+        {
+            "id": 1000000123,
+            "name": "Remembrance Battle",
+            "start_at": 1723165200,
+            "end_at": 1724374799,
+            "is_daily": 1,
+            "priority": 10459
         }
     ]
 }

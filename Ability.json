@@ -27415,7 +27415,7 @@
         {
             "id": 702103187,
             "name": "A New Journey",
-            "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>[Start of battle]<br>Recovers own BP (+2).<br><br>[Start of turn]<br>Recovers own BP (+3).<br>Increases all surviving allies' STR/WIL (large effect).<br>Grants all surviving allies <special_effect=800000619>Recover BP (+1) When Attacked (3x)</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110200567>Rampage Slash</skill> will be activated.<br>(Activates using skill Rank 1).<br><skill=110200566>Granz Strike</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>[Start of battle]<br>Recovers own BP (+2).<br><br>[Start of turn]<br>Recovers own BP (+3).<br>Increases all surviving allies' STR/WIL (large effect).<br>Grants all surviving allies <special_effect=800000619>\"Recover BP (+1) When Attacked (3x)\"</special_effect> (1 turn(s)).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110200567>Rampage Slash</skill> will be activated.<br>(Activates using skill Rank 1).<br><skill=110200566>Granz Strike</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 802040448,
@@ -53622,7 +53622,7 @@
         {
             "id": 708600564,
             "name": "Hellfire Strengthening",
-            "flavor_text": "When being directly attacked, grants oneself <special_effect=800000005>Heat Attack Boost</special_effect> (small effect/2 turn(s)).<br>*Only activates when hit by an attack.<br><br>When being indirectly attacked, grants oneself <special_effect=800000002>Slash Attack Boost</special_effect> and <special_effect=800000003>Blunt Attack Boost</special_effect> (small effect/2 turn(s)).<br>*Only activates when hit by an attack.<br><br>[When hit by an attack which has heat damage]<br>Grants oneself <special_effect=800000019>Heat Defense Boost</special_effect> (large effect/1 turn(s)).<br>*Only activates when hit by an attack.",
+            "flavor_text": "When being directly attacked, grants oneself <special_effect=800000005>Heat Attack Boost</special_effect> (small effect/2 turn(s)).<br>*Only activates when hit by an attack.<br><br>When being indirectly attacked, grants oneself <special_effect=800000002>Slash Attack Boost</special_effect> and <special_effect=800000003>Blunt Attack Boost</special_effect> (small effect/2 turn(s)).<br>*Only activates when hit by an attack.<br><br>When hit by an attack which has heat damage, grants oneself <special_effect=800000019>Heat Defense Boost</special_effect> (large effect/1 turn(s)).<br>*Only activates when hit by an attack.",
             "simple_flavor_text": "",
             "special_effect_ids": [
                 808041120,
@@ -81983,6 +81983,323 @@
                 1802041228,
                 1802041229,
                 802044493
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100777,
+            "name": "Heart of Steel",
+            "flavor_text": "Activates the following for all allies:<br>・Attacks' damage increases (super extreme effect).<br>・When attacked, damage taken will be reduced (very large effect).<br>・When hit by an attack which has heat damage, damage taken will be reduced (very large effect).<br>・When hit by an attack which has cold damage, damage taken will be reduced (very large effect).<br>・When hit by an attack which has lightning damage, damage taken will be reduced (very large effect).<br>・When hit by an attack which has sun damage, damage taken will be reduced (very large effect).<br>・When hit by an attack which has shadow damage, damage taken will be reduced (very large effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044770,
+                802043476,
+                802044457,
+                802044458,
+                802044459,
+                802044460,
+                802044461
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100778,
+            "name": "End of Turn: OD Gauge Up (v. small)",
+            "flavor_text": "At end of turn, increases own OD gauge (very small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                801042368
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100779,
+            "name": "Chance for Counter",
+            "flavor_text": "[When being attacked]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/2 turn(s)).<br>Increases own END/WIL/LOV/CHA (large effect).<br>Increases own OD gauge (very small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041230,
+                1802041231,
+                1802041232,
+                1802041233,
+                1802041234,
+                1802041235
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100780,
+            "name": "End of Turn: OD Gauge Up (sm.)",
+            "flavor_text": "At end of turn, increases own OD gauge (small effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041101
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100781,
+            "name": "Reliable Sentry",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=1800000066>Chance for Counter</special_effect> (Effect: permanent in battle).<br>Grants all other surviving allies <special_effect=800000623>Crystal Protection (1x)</special_effect> (no turn limit).<br><br>[When all allies are still surviving]<br>Increases attack damage for all allies (very large effect).<br>Reduces damage taken for all allies (large effect).<br><br>[When 1 or more allies are unconscious/LP is 0]<br>Increases attack damage for all allies (extreme effect).<br>Reduces damage taken for all allies (very large effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041236,
+                802044606,
+                802042172,
+                802043621,
+                802044611,
+                802044612
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100782,
+            "name": "Lurking in the Shadows",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+5).<br>Grants oneself <special_effect=800000611>Damage Block (15 times)</special_effect> (no turn limit).<br>Grants oneself <special_effect=800000417>Conceal</special_effect> (Effect: permanent in battle).<br><br>[End of turn]<br>If no damage is taken by oneself during the turn, activates the following:<br>・Recovers own BP (+12).<br>・Fills up own OD gauge.<br>・Restores the use limit of <skill=1110100092>Purple Shadow Strikes</skill> by 1 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044214,
+                802044510,
+                1802040745,
+                802044511
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100783,
+            "name": "Veteran Strategist",
+            "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br>Grants all surviving allies <special_effect=800000420>Elemental Atk Blessings (Heat/Defense Boost)</special_effect> (Effect: permanent in battle).<br>Grants all surviving allies <special_effect=800000615>Elemental Atk Blessings (Heat/END/WIL)</special_effect> (Effect: permanent in battle).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=125100508>Flame Hell</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Recovers own HP (very small effect)<br>Recovers own BP (+2).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040322,
+                802043514,
+                1802041237,
+                802044543,
+                802041224,
+                802041315
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100784,
+            "name": "Elemental Atk Blessings (Heat/END/WIL)",
+            "flavor_text": "When attacking with heat attacks, increases own END/WIL (large effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802014541,
+                802014542
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100785,
+            "name": "Anima Seeker",
+            "flavor_text": "Attacks' damage increases (super extreme effect).<br>When attacked, damage taken will be reduced (large effect).<br><br>[Start of battle]<br>Recovers own BP (+1).<br>Grants all surviving allies <special_effect=800000605>Sinister Aura (2x)</special_effect> (no turn limit).<br><br>[Start of turn]<br>Recovers own BP (+3).<br>Increases own INT (very large effect).<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (extreme effect) (Max times: 5 times per battle).<br>Grants all surviving allies <special_effect=1800000067>Sinister Aura (1x)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802041182,
+                802040619,
+                802040323,
+                802044546,
+                802044733,
+                802044645,
+                802044488,
+                1802041238
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100786,
+            "name": "Turn Start: Sinister Aura (1x)",
+            "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=1800000067>Sinister Aura (1x)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041251
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100787,
+            "name": "As Desires Dictate",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110500577>Nocturne+</skill> will be activated 2 times.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=110500578>Asteroid Noir</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.<br><br>[End of turn]<br>Increases own OD gauge (very large effect).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041239,
+                802042395
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100788,
+            "name": "As Desires Dictate: Effect",
+            "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110500577>Nocturne+</skill> will be activated 2 times.<br>(Activates using skill Rank 1).<br><br>[After activating an OD attack*]<br><skill=110500578>Asteroid Noir</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044491,
+                802044491,
+                802044492
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100789,
+            "name": "Toward a Dream",
+            "flavor_text": "[Start of battle]<br>Grants all surviving allies <special_effect=800000201>Elemental Enhance (Blunt)</special_effect> (super extreme effect).<br><br>[Start of turn]<br>Recovers own BP (+2).<br>Grants all surviving allies <special_effect=1800000068>Digger's Encouragement (1x)</special_effect> (1 turn(s)).<br><br>[When recovery actions are made]<br>Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (large effect/2 turn(s)).<br>Grants the target <special_effect=800000137>Nullify Damage (Indirect)</special_effect> (1 turn(s)).<br>*Recovery actions: Actions made by recovery type skills/spells.<br><br>[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=1125300012>Earth Heal+</skill> by 2 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802044350,
+                1802041240,
+                802044416,
+                1802041243
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100790,
+            "name": "Toward a Dream: Effect 1",
+            "flavor_text": "[Start of turn]<br>Recovers own BP (+2).<br>Grants all surviving allies <special_effect=1800000068>Digger's Encouragement (1x)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802040754,
+                1802041241
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100791,
+            "name": "Digger's Encouragement (1x)",
+            "flavor_text": "When landing a blunt attack, activates the following (Max times: 1):<br>・Recovers own BP (+1).<br>・Recovers own HP (very small effect).<br>・Grants all surviving allies <special_effect=800000015>Defense Boost</special_effect> (small effect/1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041242,
+                802014414,
+                802044415
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100792,
+            "name": "Toward a Dream: Effect 3",
+            "flavor_text": "[At the end of every 5 turns counting from the start of battle]<br>Restores the use limit of <skill=1125300012>Earth Heal+</skill> by 2 (Number of uses will not exceed the use limit at start of battle).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041244
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100793,
+            "name": "A Wish to Fulfill",
+            "flavor_text": "Reduces damage taken for all allies (very large effect).<br><br>[Start of turn]<br>Grants all enemies <special_effect=1800000069>Weak Marker (Slash/Defense Down)</special_effect> (1 turn(s)) and <special_effect=1800000070>Weak Marker (Heat/Defense Down)</special_effect> (1 turn(s)).<br>Grants all surviving allies <special_effect=800000620>Slash Fighting Spirit (2x)</special_effect> (1 turn(s)) and <special_effect=800000633>Heat Fighting Spirit (2x)</special_effect> (1 turn(s)).<br><br>[After activating Defensive Flame Slash]<br><skill=110100557>Dual Flame Slash</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>[After activating Flame Slashing Wave]<br><skill=125100520>Dual Flame Spin</skill> will be activated.<br>(Activates using spell Rank 1).<br><br>[After activating Swordflame Combination*]<br><skill=110100557>Dual Flame Slash</skill> will be activated.<br>(Activates using skill/spell Rank 1).<br><skill=125100520>Dual Flame Spin</skill> will be activated.<br>(Activates using skill/spell Rank 1).<br>*Skills/Spells activated on Special Stances, Skills/Spells activated by skill/spell effects, Energy Charge Skills/Spells, Skills/Spells that grant Energy Charge Stances, Skills/Spells activated by Abilities, and Skill/Spell Counterattacks are not included.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802043476,
+                1802041245,
+                802044574
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100794,
+            "name": "A Wish to Fulfill: Effect 1",
+            "flavor_text": "[Start of turn]<br>Grants all enemies <special_effect=1800000069>Weak Marker (Slash/Defense Down)</special_effect> (1 turn(s)) and <special_effect=1800000070>Weak Marker (Heat/Defense Down)</special_effect> (1 turn(s)).<br>Grants all surviving allies <special_effect=800000620>Slash Fighting Spirit (2x)</special_effect> (1 turn(s)) and <special_effect=800000633>Heat Fighting Spirit (2x)</special_effect> (1 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041246,
+                1802041247,
+                802044573,
+                802044652
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100795,
+            "name": "Weak Marker (Slash/Defense Down)",
+            "flavor_text": "When hit by an attack which has slash damage*, grants oneself <special_effect=800000210>Slash Defense Down</special_effect> (small effect/2 turn(s)).<br>*Only activates when hit by an attack.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041248
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100796,
+            "name": "Weak Marker (Heat/Defense Down)",
+            "flavor_text": "When hit by an attack which has heat damage*, grants oneself <special_effect=800000167>Heat Defense Down</special_effect> (small effect/2 turn(s)).<br>*Only activates when hit by an attack.",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041249
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100797,
+            "name": "Commencement of Advance",
+            "flavor_text": "[Start of battle]<br>Grants oneself <special_effect=1800000046>Assault Decree</special_effect> (no turn limit).<br>Grants all surviving allies <special_effect=800000236>Max BP Increase</special_effect> (Increase: 10/5 turn(s)).<br>Recovers all surviving allies' BP (+5).<br><br>[Start of round]<br>Grants all surviving allies <special_effect=800000026>Guard Up (large)</special_effect> (5 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                1802041250,
+                801042103,
+                802044529,
+                802044532
+            ],
+            "icon": 4010,
+            "rarity": 0,
+            "sort_order": 0
+        },
+        {
+            "id": 1702100798,
+            "name": "Sinister Aura (1x)",
+            "flavor_text": "When attacked, activates the following (Max times: 1):<br>・Reduces all enemies' STR/INT (medium effect).<br>・Increases own STR/INT (medium effect).<br>・Grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/2 turn(s)).",
+            "simple_flavor_text": "",
+            "special_effect_ids": [
+                802014484,
+                802014485,
+                802014646,
+                802014647,
+                802044486
             ],
             "icon": 4010,
             "rarity": 0,
